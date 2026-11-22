@@ -1,0 +1,7 @@
+# Review 01: General reviewer
+
+FATAL: Fit with Water Research. The paper offers an evaluation and a simple rule, with no geochemical or process insight (see journal_level_profile.md).
+MAJOR: Only location and aquifer code are predictors, so the 'static map' is a weak version of what agencies use. Single data source, single contaminant (nitrate failed). References: 10, none opened in full.
+MODERATE: Selection bias of USGS wells is only discussed. Table 2 mixes units (states vs blocks).
+MINOR: Figure axes used code names.
+ACTIONS TAKEN: figure labels made readable; limitations expanded. NOT FIXED: fit, covariates, reference depth (need new work or a different venue).

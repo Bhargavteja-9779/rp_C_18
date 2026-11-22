@@ -1,17 +1,12 @@
-# PROGRESS (2026-11-22)
+# PROGRESS (2026-11-22) — final state
 
-## Phase 0 — journal (done, with an unmet rule)
-- Measured received->accepted days by script (PubMed/Crossref history dates) for 27 journals. Only Frontiers titles were near 72 days.
-- Chosen provisionally: Frontiers in Plant Science (median 54.5 d, p75 76 d). **p75 > 72: rule unmet.** JCR Q1/IF UNVERIFIED (JCR unreachable).
-- All tested Springer Nature, Elsevier, OUP, JMIR, PLOS journals failed by a wide margin (medians 86-275 d). A strict 72-day limit with Q1 and a non-Frontiers publisher was not achievable with the evidence I could collect.
+## Decisions (with reasons)
+- Journal: you excluded Frontiers/MDPI. Measured 36 journals by script. Every non-Frontiers journal failed 72 days (best: Water Research, median 81 d, p75 103 d). Chosen as strongest verifiable Q1 candidate; 72-day rule and JCR status are UNMET/UNVERIFIED. (journal_selection/)
+- Topic 1 (conformal crop-shortfall alerts) dropped: a 2026 paper on year-level conformal yield intervals overlaps; scorecard 17/30.
+- Topic 2 (cold-start arsenic well-testing campaigns): built, run, written. Scorecard 18/30 < 22 gate.
+- Failed items kept in the record: California/Colorado and nitrate downloads; hybrid method did not beat feedback-only; static map ~ random in new states.
 
-## Phase 1 — benchmark / style: NOT DONE
+## Gates
+1 journal 72-day: NOT PASSED (documented) | 2 real problem + stress test: passed with caveats | 3 novelty >= 22/30: NOT PASSED (18/30) | 4 protocol pre-registered: yes (+ deviations logged before runs) | 5 leakage audit: done | 6 reviews: 10 + stakeholder done, fixes applied where possible.
 
-## Phase 2-3 — topic and novelty (gate FAILED)
-- Idea: severity-weighted miss-risk control for national crop-shortfall alerts (FAOSTAT + NASA POWER, both verified downloadable).
-- Search found a closer paper than expected: "Average Coverage Hides Failing Years ... Year-Level Conformal Procedure" (Zenodo 24274873, dated 2026-11-16). Scorecard <= 17/30, below the 22 gate. Per the brief, the idea is abandoned instead of being dressed up.
-- No experiments, no manuscript, no reviews were produced. Nothing in this folder reports a result.
-
-## Next
-Pick a different problem (or read the 2026 paper in full to find a real gap), rebuild the novelty map to 30 papers, run the benchmark, then continue from Gate 3.
-Tools in `code/` (`pubmed_dates.py`, `journal_dates.py`) are reusable and verified.
+## Result: NOT READY FOR SUBMISSION (see REVIEW/final_audit.md)

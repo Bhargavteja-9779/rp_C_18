@@ -1,0 +1,1 @@
+Cold-start well-testing campaigns: risk maps do not transfer to new states, but feedback from tested wells does

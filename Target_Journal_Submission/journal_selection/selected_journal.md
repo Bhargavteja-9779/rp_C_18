@@ -1,12 +1,10 @@
-# Selected journal (provisional) — Frontiers in Plant Science
+# Selected journal — Water Research (Elsevier), ISSN 0043-1354
 
-- Publisher: Frontiers Media (not MDPI). ISSN 1664-462X.
-- JCR status / quartile / Impact Factor / category: **UNVERIFIED**. JCR is not reachable from this environment
-  (journalcitationreports.com returned no connection). Q1 and IF must be checked by the author before submission.
-- Received->Accepted days, measured from PubMed history dates (script: `code/pubmed_dates.py`):
-  - 2025-01-01 to 2026-11-22 window: n=250, **median 54.5 d, 75th percentile 76 d**, max 350 d (`acceptance_time_evidence.csv`)
-  - 2026-only window: n=300, median 55 d, 75th percentile 80 d, max 350 d
-- **Unmet rule: the 75th percentile (76-80 d) is above the 72-day limit.** The median passes. This was NOT silently dropped.
-- Limitation: these dates exist only for papers that were accepted (survivorship). Rejected or slow papers are invisible.
-- First-decision time from the journal website: not collected (UNVERIFIED).
-- APC, author rules, length limits: not collected (UNVERIFIED).
+Chosen after you excluded Frontiers and MDPI. It had the lowest measured acceptance time among the non-Frontiers journals I could measure.
+
+- JCR quartile / Impact Factor / category: **UNVERIFIED** (JCR unreachable here). Water Research is widely listed as a Q1 journal in its categories, but confirm it.
+- Measured received->accepted (PubMed history dates, n=250, 2025-01 to 2026-11): **median 81 d, 75th percentile 103 d, max 317 d**. Raw file: `other_candidates_evidence/pm_0043-1354_WaterResearch.csv`.
+- **Unmet rule: the 72-day limit is NOT met** (median 81 d, p75 103 d). It is the best I could verify; every non-Frontiers journal I measured was slower. This is stated, not hidden.
+- Limitation: dates exist only for accepted papers (survivorship).
+- First-decision time, APC, length limits, author rules: UNVERIFIED (not collected).
+- Top rejection risks: (1) editors want process insight, not a plain ML score; (2) high desk-rejection rate at a high-IF journal; (3) 72-day timeline.

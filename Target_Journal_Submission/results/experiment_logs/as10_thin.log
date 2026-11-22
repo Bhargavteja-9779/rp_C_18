@@ -1,0 +1,3 @@
+wells 42255 eligible 34 tune ['AR', 'AZ', 'FL', 'KS', 'MA', 'MO', 'ND', 'NV'] eval 26
+tuned {'n_estimators': 200, 'learning_rate': 0.06, 'num_leaves': 63, 'min_child_samples': 20, 'subsample': 1.0, 'subsample_freq': 1, 'colsample_bytree': 1.0, 'reg_lambda': 10.0} (20, 5)
+done 472 s

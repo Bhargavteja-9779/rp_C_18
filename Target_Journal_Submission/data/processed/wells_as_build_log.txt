@@ -1,0 +1,5 @@
+raw rows 480794
+well/water/arsenic rows 113280
+wells 53294; dup coordinates across ids 2939
+unsafe>10: 5314 (9.971%); >5: 9209 (17.280%); states 47
+depth available: 0.0%; aquifer available: 42.1%

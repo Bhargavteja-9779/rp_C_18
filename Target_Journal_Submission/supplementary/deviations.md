@@ -1,0 +1,13 @@
+# Deviations from protocol.md (all made 2026-11-22 BEFORE any model was trained or evaluated)
+1. Download: California (06) and Colorado (08) failed to download (API timeouts on very large states); excluded. 49 of 51 requests succeeded; 47 states have wells after filtering.
+2. Features: sampling depth is missing for 100% of wells in this API output, so it is dropped. Features are latitude, longitude and USGS aquifer code (42% present; "unknown" otherwise).
+3. Evaluation units: the protocol's KMeans blocks are not fixed across partitions, which breaks paired tests. PRIMARY evaluation is now leave-one-state-out (state = fixed, independent unit; a state agency runs a campaign in its own state; cold-start setting) with a 25 km buffer; states need >=100 wells and >=15 unsafe wells. SECONDARY: a single KMeans partition (60 blocks, seed 0) as within-region robustness. Everything else (methods, metrics, budgets, tests) is unchanged.
+4. Tuning: 8 states drawn at random (seed 0) are used ONLY for tuning (LightGBM random search, 20 trials; kernel bandwidth and shrinkage grids) and never as evaluation units. Their wells may be used as training data for other states.
+5. Random-order baseline M0 is the analytic expectation (budget fraction x number of unsafe wells), not simulated.
+6. Seeds: 5 LightGBM seeds (0-4), averaged per state before testing.
+7. (added after the main runs) Nitrate (second contaminant) could not be downloaded: the API timed out for 47 of 49 states. It is NOT in the paper. Generality evidence is therefore limited to arsenic (>10 and >5 ug/L), two split designs, and a thinned-data check.
+8. (added after the main runs) Extra robustness run not in the original protocol, added in response to a review concern about clustered sampling: wells thinned to one per 1 km cell (`as10_thin`). It was run once; no variants were tried and discarded.
+9. The As>5 run draws its own 8 tuning states (39 eligible states, not 37), because eligibility depends on the label.
+10. Random-vs-blocked comparison (RQ1) uses 3 seeds, not 5, and the pooled random 5-fold is not buffered.
+11. (added after the main runs, in response to a review on baseline fairness) The online-refit baseline M7 used a fixed weight of 20 on tested wells that was not tuned. A check with weights 1, 20 and 100 (3 seeds, same states) was run once and is reported regardless of outcome (`results/m7_weight_check.csv`). The best of the three is an upper bound for M7, chosen after seeing results, so it is reported as such and not used as the main M7 number.
+12. (added after the main runs) Negative control (labels shuffled within state) and per-method timing were added (`results/extra_checks.json`). Both run once.
