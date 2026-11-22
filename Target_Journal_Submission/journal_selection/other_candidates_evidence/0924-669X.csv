@@ -1,0 +1,401 @@
+journal,title,doi,received,accepted,days
+Applied Intelligence,Graph structure prompt learning: A novel methodology to improve performance of graph neural networks,10.1007/s10489-025-06952-x,2023-12-23,2025-10-10,657
+Applied Intelligence,Machine learning-based 2D and 3D traffic noise modelling in campus environments: a framework for vertical façade exposure assessment,10.1007/s10489-026-07221-1,2025-07-31,2026-03-21,233
+Applied Intelligence,Simplicity meets power: robust traffic flow prediction with ST-ConvLSTMNet model,10.1007/s10489-025-07062-4,2023-09-05,2025-12-15,832
+Applied Intelligence,A consensus model in multi-attribute large-scale group decision-making based on the relative projection of preference relations with self-confidence,10.1007/s10489-026-07347-2,2025-10-04,2026-06-24,263
+Applied Intelligence,Towards sustainable artificial intelligence: a comprehensive review and comparative analysis of deep learning models’ carbon footprint,10.1007/s10489-026-07208-y,2025-06-11,2026-03-15,277
+Applied Intelligence,Personalized dialogue generation through knowledge expansion and in-context learning,10.1007/s10489-025-07030-y,2025-01-17,2025-11-22,309
+Applied Intelligence,Fraud detection on dynamic graphs via temporal path aggregation,10.1007/s10489-026-07355-2,2025-08-06,2026-06-23,321
+Applied Intelligence,A bias extraction and penalty method for robust visual question answering,10.1007/s10489-025-06962-9,2024-08-16,2025-10-15,425
+Applied Intelligence,From data to actionable knowledge: AI-AR integration framework for industrial knowledge management,10.1007/s10489-026-07184-3,2025-07-25,2026-02-25,215
+Applied Intelligence,Collaborative deep learning framework based on adaptive feature fusion for malignancy prediction of lung nodules,10.1007/s10489-025-07073-1,2024-11-11,2025-12-22,406
+Applied Intelligence,MS-DCSNet: Global-local feature interaction and multi-scale dynamic channel shuffle attention for medical image segmentation,10.1007/s10489-025-06987-0,2025-07-01,2025-10-27,118
+Applied Intelligence,MFA-Net: Morphological Fusion Attention Network for Image Dehazing,10.1007/s10489-025-06877-5,2023-10-24,2025-08-27,673
+Applied Intelligence,STDGFN: A spatio-temporal dual-graph fusion network for traffic flow prediction,10.1007/s10489-026-07170-9,2025-11-11,2026-02-21,102
+Applied Intelligence,EFNet: enhanced activation and fine-grained information auxiliary network for salient object detection,10.1007/s10489-026-07103-6,2024-06-14,2026-01-07,572
+Applied Intelligence,Enhancing histopathological image classification through multi-view momentum encoding learning,10.1007/s10489-025-06931-2,2025-02-18,2025-09-28,222
+Applied Intelligence,Generating survey databases with Wasserstein Generative Adversarial Networks,10.1007/s10489-025-06871-x,2025-05-23,2025-08-23,92
+Applied Intelligence,KRMNet: learning core representations for partial discharge pattern recognition via masked autoencoders and mixed position coding,10.1007/s10489-025-06899-z,2024-10-25,2025-09-06,316
+Applied Intelligence,Scheduling all-scale multi-point manufacturing problems with a single neural model,10.1007/s10489-026-07091-7,2025-02-07,2026-01-02,329
+Applied Intelligence,To fuse or not to fuse: enhancing military operation object detection with multimodal late fusion and color space optimization,10.1007/s10489-026-07142-z,2025-05-26,2026-02-03,253
+Applied Intelligence,Multiview feature fusion-based graph representation model for drug-drug interaction prediction,10.1007/s10489-026-07397-6,2026-01-05,2026-07-28,204
+Applied Intelligence,CASET: a cascaded attention-based framework for semantic explainability of toxicity in large language models,10.1007/s10489-026-07102-7,2025-08-13,2026-01-05,145
+Applied Intelligence,Probabilistic linguistic interval functional evaluation mechanism under high-frequency aperiodic reviews: A hotel screening application,10.1007/s10489-026-07205-1,2025-01-26,2026-03-16,414
+Applied Intelligence,Corner Sparse R-CNN for Pedestrian Detection in Dense Scenes,10.1007/s10489-025-06984-3,2025-05-18,2025-10-27,162
+Applied Intelligence,Multi-model adversarial and collaborative forecasting network for quality prediction modeling of high dimensional imbalanced sequences in process industry,10.1007/s10489-026-07212-2,2024-12-31,2026-03-21,445
+Applied Intelligence,A joint sparse self-representation learning method for multiview clustering,10.1007/s10489-025-06937-w,2025-03-14,2025-10-06,206
+Applied Intelligence,VoicePathNet: classifier fusion with CNN-driven multiclass voice disorder diagnosis with enhanced preprocessing,10.1007/s10489-026-07264-4,2025-02-04,2026-04-21,441
+Applied Intelligence,From static to dynamic: a hybrid directed graph neural network approach for entity recognition in information propagation networks,10.1007/s10489-026-07216-y,2025-07-26,2026-03-21,238
+Applied Intelligence,KA-AttLSTMnet: a Kolmogorov-Arnold attentional architecture for egocentric navigation prediction from hippocampal CA1 spikes,10.1007/s10489-025-07070-4,2025-04-05,2025-12-17,256
+Applied Intelligence,Generative augmentation and early time-series prediction of gas concentrations: a Beta-Conditional Variational Autoencoder–Gated Recurrent Unit approach,10.1007/s10489-026-07196-z,2025-09-28,2026-03-06,159
+Applied Intelligence,AlignNet: spatiotemporal alignment and multi-scale feature fusion for enhanced LiDAR semantic segmentation,10.1007/s10489-025-07021-z,2024-10-29,2025-11-16,383
+Applied Intelligence,A multi-agent system for outbound container storage location assignment problem based on hierarchical reinforcement learning,10.1007/s10489-025-06880-w,2024-09-13,2025-08-29,350
+Applied Intelligence,Few-shot object detection via dynamic feature enhancement and attention template matching,10.1007/s10489-025-06997-y,2024-08-31,2025-11-12,438
+Applied Intelligence,Semi-supervised outlier detection for partially labeled numerical data using generalized multigranulation fuzzy neighborhood rough set,10.1007/s10489-026-07203-3,2025-01-16,2026-03-13,421
+Applied Intelligence,Event-driven hypergraph convolutional networks for financial news-based stock selection,10.1007/s10489-026-07407-7,2025-05-14,2026-08-04,447
+Applied Intelligence,Detection of ethereum smart contract vulnerabilities using weighted control flow graphs,10.1007/s10489-025-06915-2,2024-10-09,2025-09-11,337
+Applied Intelligence,A reinforcement learning decision-making method with multi-granularity semantic prompts from large language models,10.1007/s10489-026-07270-6,2025-12-16,2026-04-27,132
+Applied Intelligence,"A competitive benchmarking among geometric deep learning, generative adversarial network, and point transformer for 3-D skull part segmentation",10.1007/s10489-025-06864-w,2025-03-27,2025-08-19,145
+Applied Intelligence,PACAN-CGH: a physics-aware complex-valued attention network for real-time and high-quality computer-generated hologram,10.1007/s10489-026-07136-x,2025-07-14,2026-01-27,197
+Applied Intelligence,An adaptive dynamic multi-objective evolutionary algorithm using two-stage correlation-based decision variable analysis,10.1007/s10489-025-07069-x,2025-04-06,2025-12-16,254
+Applied Intelligence,TS-TFMAE: time series self-supervised learning with time–frequency masked autoencoders,10.1007/s10489-026-07145-w,2025-01-21,2026-02-04,379
+Applied Intelligence,Dynamic analysis of the Qing dynasty’s imperial examination system based on natural language processing,10.1007/s10489-025-06867-7,2024-05-30,2025-08-23,450
+Applied Intelligence,BFNet: A real-time edge-deployable dual-stream boundary-aware network for defect detection of aquatic photovoltaic systems,10.1007/s10489-026-07228-8,2025-10-18,2026-03-21,154
+Applied Intelligence,SCWE+: A multi-class imbalanced drifting data stream classification algorithm based on sample difficulty weighting and dynamic ensemble selection,10.1007/s10489-026-07129-w,2025-02-10,2026-01-23,347
+Applied Intelligence,A dynamic traffic flow prediction method based on spatio-temporal graph transformer,10.1007/s10489-025-06895-3,2024-11-25,2025-09-01,280
+Applied Intelligence,Matrix-based multi-granularity multi-source fuzzy information fusion for three-dimensional dynamic data,10.1007/s10489-026-07098-0,2025-01-21,2026-01-05,349
+Applied Intelligence,Automated explainable machine learning for squeeze-casting: automatic relationship analysis,10.1007/s10489-026-07088-2,2025-05-30,2025-12-30,214
+Applied Intelligence,A neural network with reject option approach for equalization and error detection,10.1007/s10489-025-06998-x,2024-09-30,2025-11-12,408
+Applied Intelligence,A hybrid granular model with decomposition-integration strategy toward long-term prediction of time series,10.1007/s10489-026-07312-z,2025-04-28,2026-05-16,383
+Applied Intelligence,LogSoft: A stable and calibrated drop-in alternative to Softmax,10.1007/s10489-026-07331-w,2025-10-21,2026-06-01,223
+Applied Intelligence,Multi-region satellite-derived bathymetry and cross-regional generalization assessment based on CNN–Transformer,10.1007/s10489-026-07308-9,2025-08-31,2026-05-16,258
+Applied Intelligence,Patient-level information extraction by consistent integration of textual and tabular evidence with Bayesian networks,10.1007/s10489-026-07322-x,2025-11-25,2026-05-30,186
+Applied Intelligence,Knowledge graph-extended retrieval augmented generation for question answering,10.1007/s10489-025-06885-5,2025-04-14,2025-08-29,137
+Applied Intelligence,MSLP-Gruformer: a hybrid model based on iTransformer for day-ahead photovoltaic power forecasting,10.1007/s10489-025-07055-3,2025-05-28,2025-12-03,189
+Applied Intelligence,A cascaded residual vision transformer with wavelet transform and application in behavior recognition,10.1007/s10489-025-07002-2,2025-05-01,2025-11-12,195
+Applied Intelligence,HyperKGLinker: A method for solving link prediction in hyper-relational knowledge graphs,10.1007/s10489-026-07104-5,2024-07-18,2026-01-07,538
+Applied Intelligence,Using transformers to learn system models,10.1007/s10489-025-07066-0,2025-01-18,2025-12-16,332
+Applied Intelligence,Choose your explanation: a comparison of SHAP and Grad-CAM in human activity recognition,10.1007/s10489-025-06968-3,2025-04-11,2025-10-17,189
+Applied Intelligence,Sharpness-aware minimization with dual adaptive momentum for training deep neural networks,10.1007/s10489-026-07341-8,2026-02-18,2026-06-13,115
+Applied Intelligence,Probing subjective judgment variance in LLM evaluators: A framework for robust IR evaluation,10.1007/s10489-026-07244-8,2025-09-07,2026-04-15,220
+Applied Intelligence,Identification and empirical investigation of factors influencing cost estimation in Agile development,10.1007/s10489-026-07259-1,2025-11-15,2026-04-22,158
+Applied Intelligence,Elite quantum ant colony algorithm based on double chain encoding for static optimization problems,10.1007/s10489-025-06958-5,2025-04-16,2025-10-10,177
+Applied Intelligence,Exploiting distribution-based confidence integration in graph neural network recommenders,10.1007/s10489-026-07187-0,2025-11-09,2026-02-25,108
+Applied Intelligence,Audio–visual segmentation via hierarchical side tuning with state space model,10.1007/s10489-026-07249-3,2025-09-16,2026-04-18,214
+Applied Intelligence,Hybrid stock price forecasting model using LSTM of attention mechanism combining noise removal and neighborhood rough set,10.1007/s10489-025-07048-2,2024-02-07,2025-12-03,665
+Applied Intelligence,Random neighborhood ensemble-based one-class classification algorithm for anomaly detection,10.1007/s10489-025-07038-4,2025-05-25,2025-11-29,188
+Applied Intelligence,A thresholdless wildfire pixel detection employing color contrast features,10.1007/s10489-025-07004-0,2024-01-03,2025-11-12,679
+Applied Intelligence,Hybrid multi-output regression with residual correction for smart agriculture: a scalable and interpretable approach,10.1007/s10489-025-06876-6,2025-06-19,2025-08-25,67
+Applied Intelligence,MG-DCL: a multi–granularity dual contrastive learning framework for industrial intelligent diagnosis,10.1007/s10489-026-07350-7,2025-11-24,2026-06-23,211
+Applied Intelligence,A review of recent advances in Gaussian splatting,10.1007/s10489-026-07227-9,2025-08-29,2026-03-17,200
+Applied Intelligence,Column coordinate based dynamic gain aging-aware quantized iterative learning control,10.1007/s10489-025-07003-1,2025-07-03,2025-11-12,132
+Applied Intelligence,TRTP: a three-stage robust task planning framework for open worlds via visual-language models and digital twin simulation,10.1007/s10489-026-07143-y,2025-07-17,2026-02-03,201
+Applied Intelligence,A sustainable and resource-efficient AIGC art design framework using an enhanced GAN for performance-optimized computing systems,10.1007/s10489-026-07280-4,2026-03-05,2026-05-02,58
+Applied Intelligence,CARM-Diff: a cross-attention guided diffusion model for game trajectory prediction,10.1007/s10489-025-07019-7,2025-08-06,2025-11-16,102
+Applied Intelligence,Three-stage medical few-shot classification based on adaptive regularization with HMCE loss,10.1007/s10489-026-07125-0,2025-04-23,2026-01-19,271
+Applied Intelligence,Explainable classifier with adaptive optimisation for medical data,10.1007/s10489-025-07081-1,2025-01-27,2025-12-30,337
+Applied Intelligence,Enhancing knowledge retention for continual learning with domain-specific adapters and features gating,10.1007/s10489-025-06941-0,2024-11-26,2025-10-04,312
+Applied Intelligence,Dataset ownership verification with invisible backdoors,10.1007/s10489-025-06994-1,2025-01-03,2025-11-05,306
+Applied Intelligence,Multi-granularity alignment proxy hashing for cross-modal retrieval,10.1007/s10489-026-07243-9,2025-05-27,2026-04-03,311
+Applied Intelligence,Granular-ball representation-based two-stage deep learning model for text classification,10.1007/s10489-025-07010-2,2025-01-22,2025-11-16,298
+Applied Intelligence,Local differential privacy protection for trajectory data based on three-way decisions,10.1007/s10489-025-06926-z,2025-01-20,2025-09-23,246
+Applied Intelligence,Personalized federated learning with exact stochastic gradient descent,10.1007/s10489-025-06989-y,2025-02-11,2025-11-06,268
+Applied Intelligence,A novel binary data classifier based on a modified Lengyel-Epstein equation,10.1007/s10489-026-07164-7,2025-12-25,2026-02-15,52
+Applied Intelligence,Balancing act: engagement detection in online learning through master-assistant models with an enhanced hierarchical attention mechanism,10.1007/s10489-025-06893-5,2024-07-05,2025-09-02,424
+Applied Intelligence,SSS-TT: Self-supervised sequential spatio-temporal transformers with adaptive multimodal fusion for automated neonatal pain assessment,10.1007/s10489-026-07233-x,2025-12-24,2026-03-27,93
+Applied Intelligence,An analytical comparison of machine learning- based techniques for test case generation across diverse reaction wheel systems,10.1007/s10489-025-06944-x,2025-01-01,2025-10-04,276
+Applied Intelligence,Attribute reduction based on multi-neighborhood triple consistency measure,10.1007/s10489-026-07289-9,2025-05-16,2026-05-20,369
+Applied Intelligence,Robust low-rank representation with structured similarity learning for multi-label classification,10.1007/s10489-025-06879-3,2025-05-31,2025-08-27,88
+Applied Intelligence,Multi-level supervised and fine-grained feature enhancement for person search,10.1007/s10489-025-06996-z,2025-06-17,2025-11-05,141
+Applied Intelligence,Structure-consistency super-resolution based on gradient collaborative guidance for laparoscopic images,10.1007/s10489-026-07346-3,2025-11-20,2026-06-25,217
+Applied Intelligence,Leverage visual attention and multimodal scene graph for visual navigation,10.1007/s10489-026-07222-0,2025-08-06,2026-03-19,225
+Applied Intelligence,A graph neural network–based cellular localization method for urban GNSS–denied environments,10.1007/s10489-026-07246-6,2025-11-15,2026-04-14,150
+Applied Intelligence,Forged anomaly detection using advanced deep learning,10.1007/s10489-026-07114-3,2024-10-20,2026-01-16,453
+Applied Intelligence,IRM-UNet: backbone-agnostic implicit refinement for enhanced pancreatic CT segmentation,10.1007/s10489-026-07162-9,2025-07-22,2026-02-15,208
+Applied Intelligence,"UniVoice: a unified framework for text-to-speech, singing voice synthesis, and opera singing synthesis",10.1007/s10489-026-07137-w,2024-10-07,2026-02-02,483
+Applied Intelligence,"Next generation AI in medical imaging: a systematic review of transformers, mamba, fuzzy approaches, and multimodal fusion",10.1007/s10489-026-07382-z,2025-09-19,2026-07-03,287
+Applied Intelligence,CMA-ES hyperparameter optimization of the densenet model for biometric retina identification,10.1007/s10489-025-07014-y,2024-11-12,2025-11-16,369
+Applied Intelligence,TransMambaCC: Integrating Transformer and Pyramid Mamba Network for RGB-T Crowd Counting,10.1007/s10489-025-06912-5,2024-10-09,2025-09-11,337
+Applied Intelligence,LHPS-Net: Lipschitz hierarchical pyramid for medical image registration with spatial recurrent encoders,10.1007/s10489-026-07344-5,2025-10-25,2026-06-13,231
+Applied Intelligence,Visual residual aggregation network for visual-language prompt tuning,10.1007/s10489-025-06866-8,2024-11-13,2025-08-20,280
+Applied Intelligence,ST-DFF: A spatio-temporal dual-graph framework for robust microservice KPIs forecasting under distribution shifts,10.1007/s10489-026-07384-x,2025-11-27,2026-07-09,224
+Applied Intelligence,Large-area damage inpainting of ancient paintings based on spatial Fourier convolution,10.1007/s10489-025-07006-y,2024-12-28,2025-11-12,319
+Applied Intelligence,FCFCNN: frequency coupled fusion convolutional neural network for hyperspectral and LiDAR data classification,10.1007/s10489-026-07126-z,2025-06-30,2026-01-19,203
+Applied Intelligence,An explainable deep learning method based on spectral co-clustering for ozone time series forecasting,10.1007/s10489-026-07278-y,2025-10-31,2026-05-02,183
+Applied Intelligence,PromptGNN: a prompt-enhanced graph neural network for continual learning on temporal graphs,10.1007/s10489-025-06888-2,2025-05-18,2025-08-30,104
+Applied Intelligence,TrafficMCA: an effective LLM-empowered framework for traffic flow prediction via mutual cross-attention,10.1007/s10489-026-07251-9,2025-07-28,2026-04-18,264
+Applied Intelligence,ConTemPreT: Contextual temporal pre-trained transformer-based forecasting,10.1007/s10489-026-07423-7,2025-11-21,2026-08-09,261
+Applied Intelligence,DA-NGF: A Domain-Adaptive Neurogenerative Framework for Few-Shot Railway Fastener Defect Synthesis and Transferable Representation Learning,10.1007/s10489-025-07054-4,2025-09-01,2025-12-01,91
+Applied Intelligence,Industrial anomaly detection via curriculum-based deep learning,10.1007/s10489-025-07032-w,2025-02-15,2025-11-22,280
+Applied Intelligence,Advanced prognostics techniques for machinery under time-varying operating conditions: a review,10.1007/s10489-025-06894-4,2024-09-20,2025-09-04,349
+Applied Intelligence,Multi-operator differential evolution with a novel local search framework based on reinforcement learning for engineering optimization problems,10.1007/s10489-026-07318-7,2025-09-12,2026-05-25,255
+Applied Intelligence,Feature selection based on fuzzy rough fitting model with nominal distribution metric,10.1007/s10489-025-06936-x,2025-03-03,2025-10-07,218
+Applied Intelligence,A visual design-based intervention model for reducing mind wandering in online learning,10.1007/s10489-025-06943-y,2025-04-14,2025-10-04,173
+Applied Intelligence,Multi-focal semantic consistency assignment for category-sensitive information access,10.1007/s10489-025-06930-3,2024-07-17,2025-09-28,438
+Applied Intelligence,MADETFE : Mask aware dual expert with transformers and FFC based high-fidelity image inpainting,10.1007/s10489-026-07200-6,2025-07-09,2026-03-13,247
+Applied Intelligence,Non-destructive evaluation of material hardness using micromagnetic sensors and complex neural networks,10.1007/s10489-026-07089-1,2025-09-09,2026-01-01,114
+Applied Intelligence,Event-triggered fixed-time adaptive control for constrained nonlinear systems with input dead-zone and saturation,10.1007/s10489-026-07085-5,2025-09-23,2025-12-31,99
+Applied Intelligence,Online recommendation in non-stationary environments based on knowledge graph enhancement and time-varying reward mechanism,10.1007/s10489-025-07083-z,2025-09-25,2025-12-27,93
+Applied Intelligence,"Three-way conflict analysis: Relative alliance, neutrality, and conflict reducts in a three-valued decision situation table",10.1007/s10489-025-07052-6,2025-02-03,2025-12-03,303
+Applied Intelligence,MDT: A multiscale differencing transformer with sequence feature relationship mining for robust action recognition,10.1007/s10489-025-06861-z,2025-03-20,2025-08-15,148
+Applied Intelligence,Fine-grained visual classification network based on dual-branch feature extraction and multi-feature fusion,10.1007/s10489-025-06897-1,2025-04-28,2025-09-03,128
+Applied Intelligence,BeautyMark: A diffusion model for aesthetic QR code generation with robust watermark authentication,10.1007/s10489-026-07204-2,2025-10-09,2026-03-15,157
+Applied Intelligence,Multimodal prompt learning with selective feature fusion: towards robust cross-modal alignment,10.1007/s10489-025-06919-y,2025-03-28,2025-09-16,172
+Applied Intelligence,Cultural relic image restoration using two-stage transformer-CNN framework,10.1007/s10489-025-07058-0,2025-07-26,2025-12-08,135
+Applied Intelligence,Energy service selection method based on deep reinforcement learning and blockchain smart contract,10.1007/s10489-025-07022-y,2024-12-31,2025-11-16,320
+Applied Intelligence,Fuzzy reinforced hyperbox neural network: analysis and design,10.1007/s10489-025-06869-5,2024-12-27,2025-08-23,239
+Applied Intelligence,Stream-DINO: exploring DETR-based online object detection with streaming perception,10.1007/s10489-026-07139-8,2024-11-18,2026-02-02,441
+Applied Intelligence,Attribute reduction learning based on double-quantitative similarity granulations and fusion measures in interval-set decision systems,10.1007/s10489-026-07198-x,2024-12-29,2026-03-09,435
+Applied Intelligence,Enhancing vitiligo stage diagnosis through a reliable multimodal model with uncertainty calibration,10.1007/s10489-025-06839-x,2024-11-01,2025-08-07,279
+Applied Intelligence,Optimizing time slot allocation in complex multi-dock truck loading and unloading operations using evolutionary algorithms,10.1007/s10489-026-07334-7,2025-05-26,2026-06-09,379
+Applied Intelligence,Improving Non-IID federated survival analysis with data augmentation and gradient boosted trees,10.1007/s10489-026-07147-8,2025-03-25,2026-02-04,316
+Applied Intelligence,Comparative performance analysis of quantum machine learning architectures for credit card fraud detection,10.1007/s10489-026-07110-7,2024-12-28,2026-01-13,381
+Applied Intelligence,Implicit association relationships perception network representation learning based on adversarial training variational graph autoencoder,10.1007/s10489-026-07370-3,2025-03-06,2026-07-01,482
+Applied Intelligence,Adaptive disentangled learning recommendation via similarity popularity,10.1007/s10489-025-07050-8,2025-02-04,2025-12-02,301
+Applied Intelligence,DyStaFusion: Dynamic State-Space fusion network for multimodal tourist emotion dynamics prediction in social media,10.1007/s10489-025-06990-5,2025-09-11,2025-11-06,56
+Applied Intelligence,MMI-FM: Multimodal Interaction and Fusion Mechanism for Video Anomaly Detection,10.1007/s10489-025-06975-4,2025-02-13,2025-10-23,252
+Applied Intelligence,Multi-task reinforcement learning via mixture-of-patterns meta-learning,10.1007/s10489-025-06951-y,2025-05-05,2025-10-10,158
+Applied Intelligence,DRCM: A Dense Residual Connection Mechanism for Remote Sensing Image Enhancement,10.1007/s10489-026-07168-3,2025-09-22,2026-02-14,145
+Applied Intelligence,Semantic-assisted report generation with memory enhanced transformer using context-aware visual extractor,10.1007/s10489-025-07031-x,2025-01-23,2025-11-22,303
+Applied Intelligence,Efficient mining of compact high average utility patterns using the tightest weak lower bound,10.1007/s10489-026-07130-3,2025-04-02,2026-01-23,296
+Applied Intelligence,Partial multi–label learning with local reconstruction and indirect guidance,10.1007/s10489-026-07250-w,2025-09-05,2026-04-18,225
+Applied Intelligence,MIT-CA: Multi-modal interaction transformer with cross-attention for malware classification,10.1007/s10489-026-07178-1,2024-10-17,2026-02-23,494
+Applied Intelligence,"Carbon emission, footprint and pricing prediction using machine learning: A survey",10.1007/s10489-025-07037-5,2025-10-31,2025-11-24,24
+Applied Intelligence,SIAGXC: a prediction-augmented graph model on extreme multi-label classification,10.1007/s10489-026-07400-0,2025-11-28,2026-07-28,242
+Applied Intelligence,Evolutionary multitasking by dynamic adaptive knowledge transfer for high-dimensional feature selection,10.1007/s10489-026-07257-3,2024-10-27,2026-04-17,537
+Applied Intelligence,Cross-staining pathological diagnosis based on spatially enriched multiple instance learning with clinical embedding,10.1007/s10489-026-07109-0,2024-10-23,2026-01-09,443
+Applied Intelligence,Learning promotion policies with attention-based deep Q-networks,10.1007/s10489-025-06914-3,2025-07-15,2025-09-11,58
+Applied Intelligence,Complex mixer for MedMNIST classification decathlon,10.1007/s10489-025-06967-4,2025-02-25,2025-10-17,234
+Applied Intelligence,NBICUT: an unsupervised throat image translation method based on hierarchical feature fusion and feature focusing,10.1007/s10489-026-07305-y,2025-09-25,2026-05-16,233
+Applied Intelligence,Attribute reduction algorithm based on variable precision neighborhood rough set with bivariate and inclusion degree,10.1007/s10489-026-07106-3,2025-04-07,2026-01-08,276
+Applied Intelligence,Similarity-based multi-view positive and unlabeled learning,10.1007/s10489-026-07380-1,2024-10-10,2026-07-01,629
+Applied Intelligence,A scale-adaptive spatio-temporal modeling approach for multivariate time-series anomaly detection,10.1007/s10489-026-07120-5,2025-07-11,2026-01-19,192
+Applied Intelligence,Multi-view partial multi-label feature selection based on label disambiguation and shared subspace,10.1007/s10489-026-07206-0,2025-10-19,2026-03-17,149
+Applied Intelligence,A deep metric framework for reliable semi-supervised learning on evolving data streams,10.1007/s10489-025-07072-2,2024-08-26,2025-12-20,481
+Applied Intelligence,Lane mark segmentation from sparse event image via lightweight large kernel network,10.1007/s10489-025-07047-3,2024-09-13,2025-11-29,442
+Applied Intelligence,Metaheuristic approaches for maximum general budgeted dominating set problem,10.1007/s10489-026-07199-w,2025-01-28,2026-03-14,410
+Applied Intelligence,A graph convolutional network for time series classification using recurrence plots,10.1007/s10489-025-06841-3,2024-09-11,2025-08-06,329
+Applied Intelligence,A contrastive graph-transformer network model for multimodal sentiment analysis,10.1007/s10489-026-07235-9,2025-11-17,2026-03-31,134
+Applied Intelligence,Adaptive triple collaborative learning for contrastive community discovery in heterogeneous graphs with fuzzy boundaries,10.1007/s10489-026-07112-5,2025-05-19,2026-01-13,239
+Applied Intelligence,AMCNN: attention-based multi-column neural network for multivariate multi-step time series prediction,10.1007/s10489-025-07057-1,2024-12-24,2025-12-04,345
+Applied Intelligence,BinEncoder: Binary code similarity detection across compilation configurations via microcode,10.1007/s10489-026-07390-z,2026-01-14,2026-07-19,186
+Applied Intelligence,Three-way density peak clustering in incomplete information systems,10.1007/s10489-025-06911-6,2025-01-22,2025-09-10,231
+Applied Intelligence,DRSFormer: A transformer with ring-star topology for multivariate time series forecasting,10.1007/s10489-026-07234-w,2025-12-19,2026-03-31,102
+Applied Intelligence,Overcoming modality laziness in multi-modal multi-instance learning for immune repertoire classification,10.1007/s10489-026-07295-x,2025-12-02,2026-05-16,165
+Applied Intelligence,A novel industrial equipment fault diagnosis method combining unseen class recognition and few-shot augmentation,10.1007/s10489-026-07379-8,2024-11-13,2026-07-01,595
+Applied Intelligence,CMCTS: A Constrained Monte Carlo Tree Search framework for mathematical reasoning in large language model,10.1007/s10489-025-07044-6,2025-06-21,2025-11-29,161
+Applied Intelligence,A triple-head network with loss-aware label assignment for object detection,10.1007/s10489-026-07329-4,2022-08-29,2026-05-30,1370
+Applied Intelligence,Popularity debiasing of multi-behavior recommendation via causal inference and data augmentation,10.1007/s10489-025-07053-5,2025-07-20,2025-12-03,136
+Applied Intelligence,Knowledge graph enhancement exercise recommendation algorithm based on multi-task learning,10.1007/s10489-025-07059-z,2024-11-16,2025-12-11,390
+Applied Intelligence,A hybrid CNN-transformer network with difference enhancement and frequency fusion for remote sensing image change detection,10.1007/s10489-025-07034-8,2025-07-11,2025-11-25,137
+Applied Intelligence,A hybrid decision tree-Markowitz framework for intelligent trading portfolio optimization,10.1007/s10489-026-07133-0,2025-08-13,2026-01-27,167
+Applied Intelligence,PC-UNet: a pure convolutional UNet with channel shuffle average for medical image segmentation,10.1007/s10489-025-06887-3,2024-12-06,2025-08-31,268
+Applied Intelligence,Spectrum-guided denoising and two-stage fusion for multimodal recommendation,10.1007/s10489-026-07160-x,2025-09-12,2026-02-14,155
+Applied Intelligence,Group consensus decision method for probabilistic language complex project scheme based on cloud model and Q-learning algorithm,10.1007/s10489-026-07117-0,2025-07-21,2026-01-17,180
+Applied Intelligence,Hoist fault diagnosis method integrating time series signal denoising model,10.1007/s10489-026-07290-2,2024-11-17,2026-05-20,549
+Applied Intelligence,Supporting and explaining stock investment decisions through Shapley Additive Explanations on LSTM and MLP-based agent models with user experience on one-decade backtesting,10.1007/s10489-026-07415-7,2026-03-27,2026-08-09,135
+Applied Intelligence,MSCFormer: a multiscale convolutional transformer for multivariate time series classification,10.1007/s10489-026-07158-5,2024-12-18,2026-02-14,423
+Applied Intelligence,Swift-SegEdgeNet: an edge guided multi-task learning network for road extraction from remote sensing images,10.1007/s10489-025-06870-y,2025-05-16,2025-08-23,99
+Applied Intelligence,Region feature enhancement and multi-view diffusion graph convolutional network for traffic accident risk prediction,10.1007/s10489-026-07140-1,2025-01-10,2026-02-02,388
+Applied Intelligence,GSV-Pose: Pose estimation based on geometric similarity voting,10.1007/s10489-025-06853-z,2024-09-14,2025-08-13,333
+Applied Intelligence,"A taxonomy-driven review of surrogate-assisted evolutionary algorithms: architectural paradigms, infill strategies, optimizers, and emerging trends",10.1007/s10489-026-07422-8,2025-12-12,2026-08-09,240
+Applied Intelligence,VAHMSE: an efficient anomaly detection model based on variational autoencoder and heterogeneous multi-stacking ensemble learning,10.1007/s10489-025-06845-z,2025-02-03,2025-08-07,185
+Applied Intelligence,Kernel Transposed Projection Envelope Linear Discriminant Analysis Mode,10.1007/s10489-026-07225-x,2025-11-16,2026-03-19,123
+Applied Intelligence,"Trustworthy intelligent decision support: implementing transparency, full interpretability, and explainability through class-association rule induction",10.1007/s10489-026-07399-4,2025-12-12,2026-07-28,228
+Applied Intelligence,Deep learning models for digital medical imaging: a survey,10.1007/s10489-026-07211-3,2025-06-15,2026-03-15,273
+Applied Intelligence,Combined probability tests for multivariate skew normality,10.1007/s10489-025-06872-w,2025-02-13,2025-08-25,193
+Applied Intelligence,Explainable academic advising via category-routed knowledge graph retrieval and generation,10.1007/s10489-026-07300-3,2025-10-31,2026-05-16,197
+Applied Intelligence,Discovering top-k periodic and high-utility patterns,10.1007/s10489-025-06995-0,2025-05-25,2025-11-05,164
+Applied Intelligence,Cross-scale fusion method for multimodal marine meteorological data,10.1007/s10489-026-07319-6,2025-09-29,2026-06-01,245
+Applied Intelligence,A generalized nonconvex algorithm framework for low-rank and sparse matrix decomposition,10.1007/s10489-025-06971-8,2024-11-19,2025-10-22,337
+Applied Intelligence,LLM-based agent systems: a systematic literature review and position on hybrid architectures and evaluation frameworks,10.1007/s10489-026-07340-9,2026-01-23,2026-06-20,148
+Applied Intelligence,A time series long-short term codec for compression and representation,10.1007/s10489-025-06842-2,2024-12-27,2025-08-07,223
+Applied Intelligence,Attributes reduction for incomplete data by bidirectional fuzzy similarity discriminability,10.1007/s10489-025-07025-9,2024-12-05,2025-11-20,350
+Applied Intelligence,Fast multi-view clustering with geometric structures,10.1007/s10489-026-07169-2,2024-11-07,2026-02-21,471
+Applied Intelligence,Transformer++: a long sequence modeling method based on direction-aware dual attention and multi-head sampling,10.1007/s10489-025-06965-6,2024-12-29,2025-10-17,292
+Applied Intelligence,DAMT-Former: Dynamic Attention and Multi-scale Temporal Former for Facial Expression Recognition,10.1007/s10489-026-07195-0,2025-08-18,2026-03-06,200
+Applied Intelligence,Tuning the hyperparameter in ADAM optimizer,10.1007/s10489-026-07177-2,2025-10-26,2026-02-21,118
+Applied Intelligence,A matroid-induced dependence space-based approach to attribute reduction in decision systems,10.1007/s10489-026-07132-1,2025-07-18,2026-01-23,189
+Applied Intelligence,GMKAT: Geospatial Multipath Kolmogorov-Arnold Transformer for flood susceptibility mapping,10.1007/s10489-025-06939-8,2025-04-17,2025-10-07,173
+Applied Intelligence,Attentive Q-matrix learning for knowledge tracing,10.1007/s10489-025-07064-2,2024-03-02,2025-12-15,653
+Applied Intelligence,Novel L-fuzzy rough approximation operators induced by overlap and grouping functions on complete lattices and its application to three-way decisions,10.1007/s10489-025-06991-4,2023-11-04,2025-11-05,732
+Applied Intelligence,Few-shot fault diagnosis of rolling bearing under variable conditions based on deep meta-transfer learning,10.1007/s10489-025-06920-5,2024-01-18,2025-09-16,607
+Applied Intelligence,FinBERT-BiLSTM: a deep learning model for predicting volatile cryptocurrency market prices using market sentiment dynamics,10.1007/s10489-026-07086-4,2024-11-04,2025-12-30,421
+Applied Intelligence,Event-centric semantic alignment of vulnerabilities with adversarial attack techniques,10.1007/s10489-026-07410-y,2026-03-17,2026-07-30,135
+Applied Intelligence,STVAD: A Spatio-temporal Coupled Based Transformer for Unsupervised Video Anomaly Detection,10.1007/s10489-025-07065-1,2024-05-07,2025-12-15,587
+Applied Intelligence,A dual-pathway transformer utilizing dynamic weighting strategy for time series forecasting,10.1007/s10489-025-07033-9,2025-03-16,2025-11-21,250
+Applied Intelligence,DWMGrad: an innovative neural network optimization approach using dynamic window data for adaptive updating of momentum and learning rate,10.1007/s10489-025-06868-6,2024-10-14,2025-08-23,313
+Applied Intelligence,Spatiotemporal decoupling-gated transformer: modeling high-dimensional coupling for traffic flow prediction,10.1007/s10489-025-07056-2,2025-08-28,2025-12-04,98
+Applied Intelligence,Stochastic gradient accelerated by negative momentum for training deep neural networks,10.1007/s10489-025-06900-9,2024-09-10,2025-09-07,362
+Applied Intelligence,GAN-CLC-DGSR: Generative adversarial network framework with contrastive learning classifier for simultaneous time series data generation and state recognition,10.1007/s10489-025-06856-w,2024-11-27,2025-08-13,259
+Applied Intelligence,A line shape descriptor for LiDAR loop-closure detection,10.1007/s10489-025-07075-z,2025-05-11,2025-12-20,223
+Applied Intelligence,Semantic segmentation in power grid scenarios using scale-transforming transformer,10.1007/s10489-025-06883-7,2024-09-22,2025-08-29,341
+Applied Intelligence,DG-Morph: dense convolutional and gated feature extraction network for multimodal 3D prostate MRI registration,10.1007/s10489-025-07078-w,2025-05-30,2025-12-20,204
+Applied Intelligence,HIDyG: heterogeneous information perception in dynamic graphs via contrastive learning,10.1007/s10489-025-06935-y,2025-02-24,2025-10-07,225
+Applied Intelligence,Multimodal contextual transformer augmented fusion for emotion recognition,10.1007/s10489-025-07027-7,2025-08-05,2025-11-20,107
+Applied Intelligence,Extending neighborhood aggregation: fine-grained node representation learning for text-attributed graphs under community structures,10.1007/s10489-026-07118-z,2025-09-06,2026-01-14,130
+Applied Intelligence,Unsupervised anomaly detection in industrial images via multi-scale attention fusion and strong-weak defect collaborative synthesis,10.1007/s10489-026-07183-4,2025-10-14,2026-02-23,132
+Applied Intelligence,Advancing semi-supervised phishing website detection in noisy conditions via optimal transport,10.1007/s10489-026-07207-z,2025-02-20,2026-03-14,387
+Applied Intelligence,A brain information decomposition mechanism inspired evolutionary algorithm for large-scale multi-objective optimization,10.1007/s10489-025-07001-3,2025-04-02,2025-11-12,224
+Applied Intelligence,Efficient relational context perception for knowledge graph completion,10.1007/s10489-025-06902-7,2025-01-04,2025-09-07,246
+Applied Intelligence,Enhancing computational efficiency in digital twins: a survey of techniques and challenges for fast inference,10.1007/s10489-025-06916-1,2024-05-29,2025-09-16,475
+Applied Intelligence,Conditional guided diffusion model in latent space for social recommendation,10.1007/s10489-026-07094-4,2025-08-08,2026-01-03,148
+Applied Intelligence,WalFusion: A fast and efficient LiDAR-camera fusion 3D object detection framework,10.1007/s10489-026-07151-y,2025-03-27,2026-02-04,314
+Applied Intelligence,DEA statistical analysis and Shannon entropy-driven interval multiplicative probabilistic linguistic group decision-making,10.1007/s10489-025-06977-2,2025-01-08,2025-10-22,287
+Applied Intelligence,Revisiting multi-view semi-supervised classification: a reinforcement learning perspective,10.1007/s10489-025-06929-w,2025-05-01,2025-09-28,150
+Applied Intelligence,Two top-k HUIM algorithms based on the particle filter theory,10.1007/s10489-025-06969-2,2025-01-17,2025-10-22,278
+Applied Intelligence,Spatio-temporal unsupervised individual clustering for operating room videos,10.1007/s10489-025-06917-0,2024-10-14,2025-09-16,337
+Applied Intelligence,Adaptive deep shared latent representation enables novel multi-omics cancer subtype classification,10.1007/s10489-025-06848-w,2024-11-19,2025-08-08,262
+Applied Intelligence,An accelerator and feature selection using fuzzy information granularity to partially labeled data,10.1007/s10489-026-07260-8,2025-10-26,2026-04-21,177
+Applied Intelligence,Three-way experience replay for the prediction under concept drift,10.1007/s10489-025-07024-w,2024-08-24,2025-11-20,453
+Applied Intelligence,An adaptive rule-correcting fuzzy neural network for partial multi-label learning,10.1007/s10489-026-07391-y,2025-12-31,2026-07-19,200
+Applied Intelligence,Global-relationship-aware multi-view clustering via random walk with restart,10.1007/s10489-026-07253-7,2025-07-13,2026-04-17,278
+Applied Intelligence,A multimodal fusion and symmetric dual-encoder based generation method for KB-VQA,10.1007/s10489-025-06992-3,2024-07-17,2025-11-05,476
+Applied Intelligence,A granularity-consistent feature selection method based on relative fuzzy combination mutual information,10.1007/s10489-026-07291-1,2026-01-17,2026-05-16,119
+Applied Intelligence,Deep learning-based classification and FPGA implementation of a new 4-D hyperchaotic pan system with curve equilibrium point,10.1007/s10489-026-07239-5,2025-04-02,2026-04-03,366
+Applied Intelligence,A review of predictive healthcare treatment based on text mining,10.1007/s10489-025-06849-9,2025-01-18,2025-08-08,202
+Applied Intelligence,GenDetect-GAN: generative adversarial network model for machine-generated text detection,10.1007/s10489-025-06898-0,2024-03-20,2025-09-04,533
+Applied Intelligence,An improved graph attention network combined with reinforcement learning for capacitated vehicle routing problem,10.1007/s10489-025-06932-1,2025-06-02,2025-09-28,118
+Applied Intelligence,ED-SCMA: encoder-decoder with skip-connection and multi-scale attention module for low-dose CT denoising,10.1007/s10489-026-07192-3,2025-09-25,2026-03-05,161
+Applied Intelligence,DDSPNet: A Two-stage defect detection and severity prediction model for industrial products,10.1007/s10489-025-06924-1,2025-01-02,2025-09-20,261
+Applied Intelligence,Landslide identification method based on enhanced DeepLabv3+ architecture: joint optimization of bottleneck attention and dual-module graph convolution,10.1007/s10489-026-07432-6,2025-10-30,2026-08-14,288
+Applied Intelligence,DSNMF: Deep symmetric non-negative matrix factorization representation algorithm for clustering,10.1007/s10489-025-07018-8,2025-07-19,2025-11-17,121
+Applied Intelligence,Feature selection based on information entropy with variable precision fuzzy mixed granularity,10.1007/s10489-025-06890-8,2025-02-13,2025-09-03,202
+Applied Intelligence,Estimating bus boarding stops under missing key fields in smart card transaction data,10.1007/s10489-025-06862-y,2024-11-30,2025-08-13,256
+Applied Intelligence,Hypergraph random field model for multiple object tracking in dense scenarios,10.1007/s10489-025-07063-3,2023-06-09,2025-12-15,920
+Applied Intelligence,Manifold transfer and ensemble filter strategy for axial piston pump fault diagnosis under varied pressure pulsation,10.1007/s10489-025-06922-3,2024-09-18,2025-09-16,363
+Applied Intelligence,DABC-Net: a hierarchical deformation feature aggregation network with boundary-aware supervision for cardiac structure segmentation,10.1007/s10489-025-06973-6,2025-06-21,2025-10-22,123
+Applied Intelligence,A joint question-answering model based on split-hop information propagation and heterogeneous representation alignment,10.1007/s10489-025-07039-3,2024-01-02,2025-11-29,697
+Applied Intelligence,Attribute reduction based on generalized weighted neighborhood rough sets in generalized interval set information systems,10.1007/s10489-025-07043-7,2025-05-22,2025-11-29,191
+Applied Intelligence,Knowledge-inspired and Feature-adaptive Dual-collaborative Classification Method for Children’s Supernumerary Teeth,10.1007/s10489-026-07352-5,2025-11-05,2026-06-23,230
+Applied Intelligence,MQSF-AC: Multi-Q with selective forgetting actor-critic for robot path planning,10.1007/s10489-026-07090-8,2024-10-14,2026-01-01,444
+Applied Intelligence,FMD-TransUNet: abdominal multi-organ segmentation based on frequency domain multi-axis representation learning and dual attention mechanisms,10.1007/s10489-026-07240-y,2025-04-30,2026-04-03,338
+Applied Intelligence,Instance-aware context with mutually guided vision-language attention for referring image segmentation,10.1007/s10489-025-06851-1,2024-08-28,2025-08-13,350
+Applied Intelligence,Collaborative penetration testing suite for emerging generative AI algorithms,10.1007/s10489-025-06908-1,2024-09-19,2025-09-09,355
+Applied Intelligence,Hybrid convNeXt-ViT architecture with focal self-attention for emergency vehicle classification in urban traffic,10.1007/s10489-026-07281-3,2025-05-16,2026-05-04,353
+Applied Intelligence,A quick reduct method using covering operator in incomplete neighborhood rough sets,10.1007/s10489-026-07343-6,2025-11-10,2026-06-13,215
+Applied Intelligence,Mapping creditworthiness for Chinese small and medium-sized enterprises: integrating knowledge graphs and graph neural networks,10.1007/s10489-025-07013-z,2025-06-25,2025-11-17,145
+Applied Intelligence,Enhancing feature quality for small object detection in lightweight models via self-distillation and optimized SAHI,10.1007/s10489-025-07023-x,2025-02-15,2025-11-17,275
+Applied Intelligence,EMERALD-O: efficient multi-agent reinforcement learning framework for optimised deep learning hyperparameter tuning and selection,10.1007/s10489-025-06878-4,2024-12-19,2025-08-27,251
+Applied Intelligence,EMD-based combined attention mechanism RNN for multivariate time series forecasting,10.1007/s10489-026-07287-x,2024-07-25,2026-05-06,650
+Applied Intelligence,Autonomous markerless augmented reality for perforator visualization in DIEP surgery,10.1007/s10489-026-07303-0,2025-11-10,2026-05-16,187
+Applied Intelligence,Multi-view outlier detection via tensor decomposition and information decoupling,10.1007/s10489-026-07375-y,2024-12-12,2026-07-01,566
+Applied Intelligence,"Harnessing Artificial Intelligence (AI) for a greener future: a review of AI advancements in green chemistry, chemical processes and sustainable materials",10.1007/s10489-026-07326-7,2025-07-02,2026-05-30,332
+Applied Intelligence,Deep learning techniques for point cloud tasks: a review,10.1007/s10489-025-06854-y,2024-09-29,2025-08-13,318
+Applied Intelligence,Large-scale traceable and robust watermarking for diffusion models with precise affine coupling flow encoding,10.1007/s10489-026-07217-x,2025-07-28,2026-03-21,236
+Applied Intelligence,Deep Rayleigh quotient iteration for solving eigenvalue problems of linear differential operators,10.1007/s10489-026-07127-y,2025-10-09,2026-01-19,102
+Applied Intelligence,Improve domain generalization through curve enhancement and style structure decoupling for medical image segmentation,10.1007/s10489-026-07263-5,2025-09-25,2026-04-21,208
+Applied Intelligence,Multimodal hand feature recognition base on modality-related feature interaction,10.1007/s10489-026-07128-x,2024-04-17,2026-01-23,646
+Applied Intelligence,Mamba-UNet for reference-based super-resolution reconstruction,10.1007/s10489-026-07292-0,2025-12-20,2026-05-16,147
+Applied Intelligence,Active control points-based 6DoF pose tracking for industrial metal objects,10.1007/s10489-026-07403-x,2025-11-09,2026-07-28,261
+Applied Intelligence,Efficient learning for active wrist compensation strategy of ledge-climbing robot,10.1007/s10489-026-07245-7,2025-12-17,2026-04-14,118
+Applied Intelligence,Tracking a fixed-wing unmanned aerial vehicle: an experimental evaluation,10.1007/s10489-026-07148-7,2025-01-29,2026-01-30,366
+Applied Intelligence,Recognizing unknowns: a survey on visual open-set recognition,10.1007/s10489-025-06956-7,2024-12-12,2025-10-10,302
+Applied Intelligence,FC-DRL-based framework considering wheel-rail excitation: a speed-interval-oriented active control scheme for high-speed railway pantographs,10.1007/s10489-025-06960-x,2025-02-07,2025-10-12,247
+Applied Intelligence,A review of IRS-assisted communication for medical robotics: enabling intelligent wireless control in 6G healthcare systems,10.1007/s10489-026-07353-4,2025-11-05,2026-06-23,230
+Applied Intelligence,SevenNet: rethinking convolutional neural networks with a formula-based architecture,10.1007/s10489-026-07084-6,2025-03-07,2025-12-30,298
+Applied Intelligence,Blossom: Boosting sparse attribute learning with optimized vector quantization for graph representation learning,10.1007/s10489-025-06955-8,2025-05-13,2025-10-10,150
+Applied Intelligence,Infrared small target detection using multi-scale attention and dilated separable convolution,10.1007/s10489-026-07181-6,2025-06-10,2026-02-25,260
+Applied Intelligence,Analyzing the performance of large language models on statement-level code summarization,10.1007/s10489-026-07214-0,2024-12-12,2026-03-21,464
+Applied Intelligence,Socially aware navigation for mobile robots: a survey on deep reinforcement learning approaches,10.1007/s10489-025-06982-5,2025-02-21,2025-10-27,248
+Applied Intelligence,MotrajGAT: a graph attention network for trajectory prediction based on road network motifs,10.1007/s10489-026-07294-y,2025-12-04,2026-05-16,163
+Applied Intelligence,EDGAN: a novel GAN framework incorporating a diversity discriminator for robust data generation,10.1007/s10489-026-07360-5,2024-07-16,2026-06-23,707
+Applied Intelligence,A group decision-making model based on public big data and minority opinions for sudden events,10.1007/s10489-025-07061-5,2025-02-02,2025-12-11,312
+Applied Intelligence,Multivariate time series anomaly detection using diffusion models based on fusion and inference,10.1007/s10489-026-07357-0,2025-05-20,2026-06-23,399
+Applied Intelligence,Fairness consensus adjustment and bifocal expert weight integration in multi-attribute group decision-making with parallel expert evaluation systems,10.1007/s10489-025-06942-z,2025-03-12,2025-10-04,206
+Applied Intelligence,Learning temporal and correlated features from multivariate time series for auxiliary diagnosis of lumbar disc herniation,10.1007/s10489-026-07173-6,2025-06-18,2026-02-22,249
+Applied Intelligence,DBMIF: a deep balanced multimodal iterative fusion framework for air- and bone-conduction speech enhancement,10.1007/s10489-026-07150-z,2025-11-09,2026-02-06,89
+Applied Intelligence,Leveraging systems and control theory for social robotics: a model-based behavioral control approach to human-robot interaction,10.1007/s10489-026-07100-9,2025-03-10,2026-01-06,302
+Applied Intelligence,A generalized CNN decision boundary theory based on non-Euclidean space,10.1007/s10489-025-06882-8,2024-12-01,2025-08-29,271
+Applied Intelligence,A survey of transformers based on their input modalities,10.1007/s10489-026-07378-9,2025-12-27,2026-07-01,186
+Applied Intelligence,Constrained multi-objective optimization based on deep Q-Network and time series prediction,10.1007/s10489-026-07274-2,2025-03-12,2026-05-02,416
+Applied Intelligence,A lightweight digital twin of cold metal transfer welding based on twin data and improved C-DCGAN algorithm,10.1007/s10489-025-07042-8,2025-02-21,2025-11-29,281
+Applied Intelligence,HAKformer: an efficient transformer with hybrid temporal-channel attention and Kolmogorov-Arnold networks for time series forecasting,10.1007/s10489-026-07209-x,2025-08-29,2026-03-15,198
+Applied Intelligence,A time-series progressive generative adversarial network for improving imbalanced fetal heart rate signal classification,10.1007/s10489-025-07008-w,2024-08-21,2025-11-16,452
+Applied Intelligence,Integrating cross-graph consensus constraints for label disambiguation in multi-view partial multi-label learning,10.1007/s10489-025-06889-1,2024-12-11,2025-09-04,267
+Applied Intelligence,Adaptive assessment of operating performance for multiprocess industrial process based on hierarchical and multiblock self-maintenance model,10.1007/s10489-026-07172-7,2025-04-02,2026-02-22,326
+Applied Intelligence,STA-HRNN-BiGRU: a spatiotemporal sequence multivariate forecasting model integrating spatiotemporal information,10.1007/s10489-026-07325-8,2025-10-21,2026-05-30,221
+Applied Intelligence,PerQoDA: strength of association between data and labels as a measure of dataset quality in network traffic classification,10.1007/s10489-025-06925-0,2024-03-13,2025-09-11,547
+Applied Intelligence,Outlier detection for Riemannian manifold-valued functional data with applications to long-haul flight trajectories,10.1007/s10489-026-07107-2,2025-07-01,2026-01-06,189
+Applied Intelligence,Feature importance methods for linear regression model,10.1007/s10489-026-07342-7,2026-01-09,2026-06-13,155
+Applied Intelligence,GANMem-Siamese: GAN-enhanced deep feature generation for robust object tracking with memory fusion,10.1007/s10489-025-06948-7,2025-04-28,2025-10-09,164
+Applied Intelligence,MGIT: Multi-Granularity implicit temporal framework for knowledge graph question answering,10.1007/s10489-026-07404-w,2025-07-17,2026-07-25,373
+Applied Intelligence,Constructing binary relations in interval-valued information tables using optimized methods,10.1007/s10489-026-07185-2,2025-08-04,2026-02-25,205
+Applied Intelligence,Evaluating the adversarial robustness of detection transformers,10.1007/s10489-026-07220-2,2025-02-13,2026-03-21,401
+Applied Intelligence,Occlusion handling algorithms in visual object tracking: a survey,10.1007/s10489-026-07345-4,2025-12-20,2026-06-25,187
+Applied Intelligence,Constructing a knowledge base from remote sensing indicators for deforestation assessment,10.1007/s10489-025-06896-2,2025-02-18,2025-09-02,196
+Applied Intelligence,Multimodal fusion network with multi-scale structure and metabolic focus for enhancing Alzheimer’s disease prediction,10.1007/s10489-026-07105-4,2025-01-22,2026-01-06,349
+Applied Intelligence,Graph diffusion arithmetic feature interaction transformer with temporal information for bitcoin anti-money laundering,10.1007/s10489-026-07232-y,2025-10-24,2026-03-23,150
+Applied Intelligence,SFJD-Net: spatial-frequency domain joint feature enhancement with differential learning for brain stroke segmentation,10.1007/s10489-026-07121-4,2025-08-12,2026-01-19,160
+Applied Intelligence,Robust optimization of aircraft maintenance routing based on the adaptive reinforcement learning algorithm,10.1007/s10489-025-06844-0,2025-02-06,2025-08-06,181
+Applied Intelligence,Auto-Correct OCR: a novel method for enhancing character recognition accuracy through error correction,10.1007/s10489-026-07247-5,2025-09-05,2026-04-11,218
+Applied Intelligence,SDLK-Net: Enhanced squeezed directional large kernel multi-scale multi-modal fusion network for salient object detection,10.1007/s10489-025-07060-6,2025-02-01,2025-12-11,313
+Applied Intelligence,Improve robustness of few-shot cross-domain graph anomaly detection via scenario statistics pseudo-labeling,10.1007/s10489-026-07320-z,2026-01-11,2026-05-30,139
+Applied Intelligence,Dependency-driven spectral embedding based multi-view clustering,10.1007/s10489-025-07026-8,2025-01-06,2025-11-20,318
+Applied Intelligence,Domain generalization for face anti-spoofing with CBAM and adaptive gradient alignment,10.1007/s10489-026-07324-9,2025-11-22,2026-05-30,189
+Applied Intelligence,Isolated Q-learning for offline reinforcement learning,10.1007/s10489-026-07157-6,2024-09-06,2026-02-14,526
+Applied Intelligence,SENT-DTI: Semantic-enhanced drug-target interaction prediction with negative training strategy,10.1007/s10489-026-07361-4,2024-11-09,2026-06-28,596
+Applied Intelligence,Multiscale contrast-limited image enhancement for palmprint recognition with VisionInceptNet,10.1007/s10489-026-07119-y,2025-06-27,2026-01-17,204
+Applied Intelligence,Micro-dynamics prediction of well water level based on GRU and attention mechanism,10.1007/s10489-025-06855-x,2024-10-21,2025-08-13,296
+Applied Intelligence,Diffattack-X: An effective transferable adversarial attack based on diffusion models,10.1007/s10489-025-06957-6,2024-12-22,2025-10-10,292
+Applied Intelligence,AFFNet: Adaptive feature fusion network for defect detection of industrial product surface,10.1007/s10489-026-07099-z,2025-02-20,2026-01-06,320
+Applied Intelligence,3DA-net: a dual-attention-based network integrating global and local context for enhanced 3D object detection,10.1007/s10489-026-07190-5,2025-09-02,2026-02-28,179
+Applied Intelligence,A personalized recommendation framework through exploiting jump-enhanced random walk based multiple heterogeneous graph neural networks,10.1007/s10489-025-06938-9,2025-06-06,2025-10-07,123
+Applied Intelligence,TopoRN: A topology-aware reconstruction network for infrared image super-resolution,10.1007/s10489-025-06999-w,2024-11-13,2025-11-12,364
+Applied Intelligence,Benefit-cost frontier-aware semantic reasoning for zero-shot object navigation,10.1007/s10489-026-07144-x,2025-08-28,2026-02-03,159
+Applied Intelligence,Multimodal biometric recognition with cancelable template protection using deep learning and an optimized bloom filter,10.1007/s10489-025-07029-5,2025-07-11,2025-11-21,133
+Applied Intelligence,MgRCL: a multi-granular representation contrastive learning approach for hierarchical multi-label classification,10.1007/s10489-025-06863-x,2025-02-21,2025-08-19,179
+Applied Intelligence,Nonconvex low-rank tensor approximation with denoising model for multi-view subspace clustering,10.1007/s10489-025-06905-4,2024-07-21,2025-09-06,412
+Applied Intelligence,Research on full lifecycle health management of permanent magnet synchronous electric drum driven by digital twin with dynamic update,10.1007/s10489-025-06910-7,2025-01-05,2025-09-09,247
+Applied Intelligence,Global exponential synchronization of BAM neural networks with proportional delays and uncertain parameters for image encryption,10.1007/s10489-026-07288-w,2025-10-20,2026-05-14,206
+Applied Intelligence,Learning to schedule dynamic job-shop problems by graph attention network with reinforcement learning,10.1007/s10489-025-06949-6,2023-11-02,2025-10-10,708
+Applied Intelligence,A novel digital watermarking algorithm utilizing discrete memristor chaos and enhanced by hopfield neural networks,10.1007/s10489-026-07159-4,2025-01-17,2026-02-15,394
+Applied Intelligence,Enhancing hyperspectral image prediction with contrastive learning in low-label regimes,10.1007/s10489-025-07071-3,2024-10-11,2025-12-19,434
+Applied Intelligence,Multi-attribute prediction decision-making method based on rough fuzzy sets of causal analysis,10.1007/s10489-025-07049-1,2024-08-15,2025-12-03,475
+Applied Intelligence,Parameter adaptive competitive differential evolution with local search,10.1007/s10489-026-07141-0,2025-04-06,2026-02-02,302
+Applied Intelligence,An end-to-end distributed deep learning system for real-time passenger flow measurement in transport interchanges,10.1007/s10489-025-06954-9,2025-05-16,2025-10-10,147
+Applied Intelligence,Unsupervised multidimensional sample dynamic optimization for cross-modal hashing,10.1007/s10489-026-07161-w,2025-09-22,2026-02-14,145
+Applied Intelligence,MDEBert-DTA: drug-target affinity prediction using multimodal contrastive learning and dynamic graph aggregation,10.1007/s10489-026-07096-2,2024-10-10,2026-01-04,451
+Applied Intelligence,Multi-HypPre: a multi-source data fusion framework for drug-induced hypertension prediction,10.1007/s10489-026-07321-y,2025-11-25,2026-05-30,186
+Applied Intelligence,Detection method for improving shape perception of small object defects on metal surfaces,10.1007/s10489-025-06873-9,2025-02-17,2025-08-25,189
+Applied Intelligence,"Video violence detection using pre-trained VGG19 combined with manual logic, LSTM layers and Bi-LSTM layers",10.1007/s10489-026-07122-3,2025-09-14,2026-01-19,127
+Applied Intelligence,Blunder prediction in chess,10.1007/s10489-026-07131-2,2025-07-04,2026-01-27,207
+Applied Intelligence,Rethinking urban region representation: adaptive soft-thresholding and attentive graph learning for robust data fusion,10.1007/s10489-026-07238-6,2024-01-19,2026-04-03,805
+Applied Intelligence,Offline-to-online reinforcement learning with policy ensemble and policy-extended value,10.1007/s10489-025-06972-7,2025-02-27,2025-10-22,237
+Applied Intelligence,An Intelligent predictive maintenance framework for fault prediction in industrial internet of things environments,10.1007/s10489-026-07402-y,2025-01-02,2026-07-28,572
+Applied Intelligence,Integrating textual data and knowledge graphs for intelligent fault diagnosis in railway operational equipment,10.1007/s10489-025-07011-1,2025-03-02,2025-11-17,260
+Applied Intelligence,"Improving text classification on small-sized, imbalanced datasets with selective few-random-shot augmentation",10.1007/s10489-026-07299-7,2025-11-04,2026-05-16,193
+Applied Intelligence,Generating Transferrable Adversarial Examples via Local Mixing and Spatially Regularized Logit Optimization for Remote Sensing Object Recognition,10.1007/s10489-026-07188-z,2025-10-22,2026-02-25,126
+Applied Intelligence,Towards identification and explainable localization of slopes in autonomous excavation: a feature fused CAM approach,10.1007/s10489-025-06881-9,2024-11-23,2025-08-29,279
+Applied Intelligence,A few-shot sample method for source camera identification based on residual information distillation,10.1007/s10489-026-07351-6,2026-01-12,2026-06-23,162
+Applied Intelligence,A reinforcement learning hyper-heuristic for opposition-enhanced shuffled multi-strategy evolutionary algorithms with adaptive population sizing,10.1007/s10489-026-07279-x,2026-02-06,2026-05-02,85
+Applied Intelligence,Self supervised intrusion detection algorithm based on dynamic spatiotemporal graph,10.1007/s10489-026-07371-2,2025-11-03,2026-07-01,240
+Applied Intelligence,"AI-driven carbon capture, utilization, and storage (CCUS) for decarbonizing energy systems",10.1007/s10489-026-07298-8,2025-11-17,2026-05-16,180
+Applied Intelligence,MG-Hybrid: mask-guided hybrid state space models with semantic alignment for radiology report generation,10.1007/s10489-026-07395-8,2026-02-15,2026-07-28,163
+Applied Intelligence,PAPET: piece attention and position-aware embedding with Top-k network for multi-domain spoken language understanding,10.1007/s10489-025-07046-4,2023-08-08,2025-11-29,844
+Applied Intelligence,Multiple feature fusion using supervised multiset canonical correlations with power-symmetric successive overrelaxation,10.1007/s10489-026-07313-y,2025-04-16,2026-05-16,395
+Applied Intelligence,Robust graph-regularized discriminative nonnegative matrix factorization for image clustering,10.1007/s10489-026-07349-0,2026-01-18,2026-06-23,156
+Applied Intelligence,DMSA: a dual-mask spatiatemporal autoencoder for multivariate time series anomaly detection,10.1007/s10489-026-07310-1,2025-07-20,2026-05-16,300
+Applied Intelligence,Visual pattern mining with similarity metrics for model-free trading in the Korean futures market,10.1007/s10489-026-07254-6,2025-07-04,2026-04-17,287
+Applied Intelligence,Scene-aware contrastive regression for multi-person action quality assessment,10.1007/s10489-025-06901-8,2024-12-22,2025-09-06,258
+Applied Intelligence,Type dynamics theory-driven personality detection with LLM-enhanced social profiling,10.1007/s10489-026-07093-5,2025-07-23,2026-01-03,164
+Applied Intelligence,A multi-view information transfer driven surrogate-assisted multi-objective evolutionary rough fuzzy clustering algorithm,10.1007/s10489-026-07231-z,2025-09-20,2026-03-23,184
+Applied Intelligence,Unsupervised anomaly detection method for rotating machinery based on discrete latent space modeling,10.1007/s10489-026-07296-w,2025-11-27,2026-05-16,170
+Applied Intelligence,Enhancing counterfactual explanations with causal inference: integrating DirectLiNGAM and variational autoencoders for constraint-aware generation,10.1007/s10489-025-06945-w,2025-03-08,2025-10-04,210
+Applied Intelligence,Preprocessing method for shield operational parameters adaptable to geological survey data characteristic for predicting disc cutter wear,10.1007/s10489-025-06846-y,2025-02-23,2025-08-06,164
+Applied Intelligence,Spatial-spectral Pufferfish algorithm: A dynamic approach to unsupervised hyperspectral band selection,10.1007/s10489-026-07210-4,2025-04-25,2026-03-15,324
+Applied Intelligence,Semantic interaction-enhanced encoding network for math word problem solving,10.1007/s10489-025-06850-2,2024-08-27,2025-08-13,351
+Applied Intelligence,Communication scheduling via proposed multi-agent reinforcement learning with centralized learning and distributed execution,10.1007/s10489-026-07202-4,2025-10-13,2026-03-07,145
+Applied Intelligence,UCRT: a two-stage noisy label learning framework with uniform consistency selection and robust training,10.1007/s10489-025-07051-7,2025-08-07,2025-12-01,116
+Applied Intelligence,Robust R-peak detection in ECG signals using mamba-enhanced 1D diffusion model,10.1007/s10489-026-07297-9,2025-11-26,2026-05-16,171
+Applied Intelligence,Colorectal polyp segmentation using an adolescent identity search algorithm with gradient Q-learning and asynchronous N-step updates,10.1007/s10489-026-07262-6,2025-10-03,2026-04-21,200
+Applied Intelligence,"A systematic review of semantic segmentation methods for histopathology images: a focused survey on breast, colon, and prostate cancers",10.1007/s10489-025-06906-3,2025-01-03,2025-09-06,246
+Applied Intelligence,Multi-view clustering via anchor graph matrix tri-factorization,10.1007/s10489-026-07309-8,2025-07-31,2026-05-16,289
+Applied Intelligence,An adaptive population-based iterated greedy optimization algorithm for cascaded distributed and hybrid flowshop joint scheduling,10.1007/s10489-026-07411-x,2025-12-16,2026-07-30,226
+Applied Intelligence,PESatNet: Mitigating embedding saturation in knowledge graph recommendation via parameter-embedding synergistic enhancement,10.1007/s10489-026-07316-9,2025-12-09,2026-05-25,167
+Applied Intelligence,Real-time rehabilitation assessment and corrective guidance driven by dual regulation pose analysis,10.1007/s10489-026-07193-2,2025-09-30,2026-03-03,154
+Applied Intelligence,Incomplete multi-view clustering based on discriminative anchor-feature mining-assisted adaptive sample completion,10.1007/s10489-026-07330-x,2025-07-15,2026-06-01,321
+Applied Intelligence,Enhanced inverted transformer: advancing variate token encoding and blending for time series forecasting,10.1007/s10489-025-06886-4,2024-11-29,2025-08-31,275
+Applied Intelligence,A manufacturing knowledge graph completion method based on a lightweight dual encoding model,10.1007/s10489-025-06909-0,2024-11-28,2025-09-09,285
+Applied Intelligence,KG-guided proactive questioning for LLMs in multi-turn interactive medical reasoning,10.1007/s10489-026-07186-1,2025-09-19,2026-02-25,159
+Applied Intelligence,Reference image guided industrial defect generation with specified region and strength,10.1007/s10489-026-07332-9,2025-11-07,2026-06-01,206
+Applied Intelligence,FREQuency ATTribution: benchmarking frequency-based occlusion for time series data,10.1007/s10489-026-07116-1,2025-06-25,2026-01-17,206
+Applied Intelligence,Multilingual sentiment analysis for cross-border e-commerce reviews based on DeepSeek model: the M3SA-Adapter approach,10.1007/s10489-026-07197-y,2026-01-04,2026-03-06,61
+Applied Intelligence,KDC-NER: A knowledge-guided data augmentation and large model fine-tuning framework for nested named entity recognition in traditional Chinese medicine electronic medical records,10.1007/s10489-026-07095-3,2025-07-25,2026-01-04,163
+Applied Intelligence,Enhancing adversarial robustness in power quality classification systems: an attention-based defense framework,10.1007/s10489-025-06865-9,2025-03-27,2025-08-19,145
+Applied Intelligence,CovMADT: efficient offline multi-agent reinforcement learning via convex Markov games,10.1007/s10489-026-07241-x,2025-08-06,2026-04-03,240
+Applied Intelligence,Social conflict network-driven Wasserstein distributionally robust minimum cost consensus model under uncertain cost with risk aversion,10.1007/s10489-026-07155-8,2024-07-15,2026-02-14,579
+Applied Intelligence,A multi-modal speech emotion recognition method based on graph neural networks,10.1007/s10489-025-06953-w,2024-06-22,2025-10-10,475
+Applied Intelligence,SEMFNet: Multi-path dynamic fusion text detection model combined with scale estimation module,10.1007/s10489-025-06933-0,2024-09-25,2025-09-28,368
+Applied Intelligence,A 3D efficient and essentialized swin transformer network for alzheimer’s disease diagnosis,10.1007/s10489-025-06884-6,2025-02-25,2025-08-29,185
+Applied Intelligence,SiamDMCF: a dynamic multi-order context fusion siamese network for robust visual tracking,10.1007/s10489-025-07077-x,2025-07-31,2025-12-20,142
+Applied Intelligence,An improved multi-agent combat algorithm for large-scale swarms based on DDPG,10.1007/s10489-026-07269-z,2025-03-28,2026-04-29,397
+Applied Intelligence,Physics-informed autoencoder for feature extraction from multidimensional sensor measurement data,10.1007/s10489-025-06892-6,2024-05-27,2025-09-01,462
+Applied Intelligence,Bipartite graph regularized robust low-rank matrix factorization for fast semi-supervised image clustering,10.1007/s10489-025-07040-w,2024-12-30,2025-11-29,334
+Applied Intelligence,ESG disclosure in supply chain finance risk: A research based on interpretable machine learning models,10.1007/s10489-025-06974-5,2024-10-19,2025-10-24,370
+Applied Intelligence,CPG-GCN: consensus-prototype guided graph convolutional network,10.1007/s10489-026-07272-4,2025-12-09,2026-04-26,138
+Applied Intelligence,A legal text semantic generation framework based on multimodal feature fusion and dynamic weight optimization,10.1007/s10489-026-07167-4,2025-08-13,2026-02-18,189
+Applied Intelligence,Optimized traffic signal control system incorporating mixed traffic flow and adverse weather,10.1007/s10489-025-07000-4,2025-03-20,2025-11-12,237
+Applied Intelligence,Advanced ensemble learning method for electrical impedance tomography image reconstruction,10.1007/s10489-026-07194-1,2025-08-15,2026-03-05,202
+Applied Intelligence,Using composite attribute similarity multi-graph convolutional network for recommendation,10.1007/s10489-025-06840-4,2024-05-11,2025-08-06,452
+Applied Intelligence,Sparse Multi–label feature selection via label rotation learning,10.1007/s10489-026-07367-y,2025-06-19,2026-07-01,377

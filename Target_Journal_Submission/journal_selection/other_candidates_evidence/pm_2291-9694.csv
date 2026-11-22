@@ -1,0 +1,101 @@
+journal,title,doi,received,accepted,days
+JMIR medical informatics,Impact of Ambient Scribes on Primary Care Communication Pathways: Qualitative Observation and Interview Study.,10.2196/104647,2026-06-15,2026-10-15,122
+JMIR medical informatics,Health Care Access Barriers Among Reproductive-Age Women in East Africa: Development and Validation of Machine Learning Prediction Models Using DHS Da,10.2196/85695,2025-10-11,2026-07-07,269
+JMIR medical informatics,A Risk Warning Model for Anemia Based on Facial Visible Light Reflectance Spectroscopy: Cross-Sectional Study.,10.2196/64204,2024-07-12,2025-01-05,177
+JMIR medical informatics,"Public Reporting Systems in Health Care and the Underconceptualized Technical Substrate, a Core Information Systems Dimension: Scoping Review.",10.2196/84820,2025-09-25,2026-07-22,300
+JMIR medical informatics,Dynamic Lactate-to-Albumin Ratio Trajectories and Outcomes in Sepsis-Associated Acute Kidney Injury: Evidence From MIMIC-IV and a Multicenter Chinese ,10.2196/92838,2026-02-04,2026-07-09,155
+JMIR medical informatics,Aligning Health Informatics Workforce Roles With Saudi Arabia's Health Sector Transformation Program: Multiphase Qualitative Study.,10.2196/99777,2026-04-29,2026-11-04,189
+JMIR medical informatics,Artificial Intelligence (AI) and Emergency Medicine: Balancing Opportunities and Challenges.,10.2196/70903,2025-01-05,2025-03-21,75
+JMIR medical informatics,An Artificial Intelligence-Based Framework for Predicting Emergency Department Overcrowding: Development and Evaluation Study.,10.2196/73960,2025-03-14,2025-08-04,143
+JMIR medical informatics,Correction: Comprehensive Pediatric Health Risk Stratification Using an AI-Driven Framework in Children Aged 2 to 8 Years: Design and Validation Study,10.2196/92491,2026-01-30,2026-02-05,6
+JMIR medical informatics,Development and Content Validation of a Self-Assessment Checklist for Electronic Medical Record Use Certification in Korea: Convergent Mixed Methods S,10.2196/95500,2026-03-17,2026-09-23,190
+JMIR medical informatics,Prediction of Early Hospital Admission (≤24 Hours) After Stroke Using Machine Learning and Deep Learning: Multicenter Study From China.,10.2196/90852,2026-01-08,2026-05-09,121
+JMIR medical informatics,Prediction of Atrial Fibrillation Occurrence With Handheld Mobile Electrocardiogram: Deep Learning Model Development Using Real-World Data.,10.2196/87142,2025-11-05,2026-07-15,252
+JMIR medical informatics,Relevance of the uMap Collaborative Platform as Support for Choropleth Mapping of a Traffic-Light Statistical Signal Atlas of All-Cause Mortality Duri,10.2196/82855,2025-08-22,2026-06-22,304
+JMIR medical informatics,Impact of Diagnostic Stewardship on Urine Culture Ordering in Saudi Arabia: Prospective Pre- and Postintervention Study.,10.2196/68044,2024-10-30,2025-05-26,208
+JMIR medical informatics,Exploring Self-Management-Based Mobile Health User Typologies and Associations Between User Types and Satisfaction With Key Mobile Health Functions: C,10.2196/64860,2024-07-29,2026-01-12,532
+JMIR medical informatics,Real-Time Symptom Ratings Using Ecological Momentary Assessment Versus Traditional Questionnaires in Patients With Chronic Obstructive Pulmonary Disea,10.2196/79001,2025-06-14,2026-02-05,236
+JMIR medical informatics,"Selecting, Scaling, and Measuring the Value of Ambient AI in a Nonacademic Health System: Multiphase Pilot Study.",10.2196/87450,2025-11-09,2026-05-15,187
+JMIR medical informatics,Machine Learning-Based Prediction of Culture-Confirmed Neonatal Sepsis in a Tertiary Neonatal Intensive Care Unit: Retrospective Cohort Study.,10.2196/88732,2025-12-01,2026-08-13,255
+JMIR medical informatics,Development and Validation of a Machine Learning Algorithm for Predicting Diabetes Retinopathy in Patients With Type 2 Diabetes: Algorithm Development,10.2196/58107,2024-03-06,2024-12-03,272
+JMIR medical informatics,Human-Machine Agreement in Medical Ethics: Patient Autonomy Case-Based Evaluation of Large Language Models.,10.2196/77061,2025-05-06,2025-10-06,153
+JMIR medical informatics,Adverse Pregnancy Outcomes in Women With Immune Abnormalities: Machine Learning Model Development and Validation Using First-Trimester Sonographic Fea,10.2196/84087,2025-09-14,2026-03-31,198
+JMIR medical informatics,Cross-Domain Chest Radiograph Report Generation Under Dataset Shift: Bidirectional Audit Study.,10.2196/95888,2026-03-22,2026-09-15,177
+JMIR medical informatics,Development and Evaluation of a Metadata-Driven Rule Repository and Daily Screening System for Diagnosis Coding Compliance Under the Korean New Diagno,10.2196/108989,2026-08-07,2026-10-20,74
+JMIR medical informatics,Correction: Enhanced Prediction of Atrial Fibrillation in Patients With Ischemic Stroke Through Electronic Medical Records and Text Mining: Algorithm ,10.2196/107705,2026-07-22,2026-08-03,12
+JMIR medical informatics,Convolutional Neural Network Models for Visual Classification of Pressure Ulcer Stages: Cross-Sectional Study.,10.2196/62774,2024-06-03,2025-01-11,222
+JMIR medical informatics,Developing a Thai User Interface Terminology for Systematized Nomenclature of Medicine Clinical Terms Implementation in Primary Care: Cross-Sectional ,10.2196/80039,2025-07-03,2026-01-08,189
+JMIR medical informatics,Developing a Suicide Risk Prediction Algorithm Using Electronic Health Record Data in Mental Health Care: Real-World Case Study.,10.2196/74240,2025-03-20,2025-11-18,243
+JMIR medical informatics,Interoperability Between Health Information Systems: Dead End in Large-Scale Sharing of Health Data?,10.2196/105089,2026-06-23,2026-10-19,118
+JMIR medical informatics,Topic-Aware Summarization of Lived Health Care Experiences: Large Language Model Evaluation Study.,10.2196/85960,2025-10-15,2026-05-17,214
+JMIR medical informatics,Generative Models and Sentence Transformers for the Recognition and Normalization of Continuous and Discontinuous Phenotype Mentions: Model Developmen,10.2196/68558,2024-11-10,2025-08-15,278
+JMIR medical informatics,A Secure User Interface for Preclinical Evaluation of AI in Patient Portal Message Management: Tutorial.,10.2196/83216,2025-09-02,2026-06-30,301
+JMIR medical informatics,Blockchain-Based Dynamic and Revocable Consent for Secondary Health Data Use: Systematic Review.,10.2196/88536,2025-11-26,2026-04-28,153
+JMIR medical informatics,Intelligent Prediction Platform for Sepsis Risk Based on Real-Time Dynamic Temporal Features: Design Study.,10.2196/74940,2025-03-25,2025-05-17,53
+JMIR medical informatics,Advancing Alzheimer Disease Prediction With Large Language Model-Based Linguistic Feature Analysis: Development and Validation Study.,10.2196/86965,2025-11-02,2026-04-21,170
+JMIR medical informatics,Quantifying the Impact of Anonymization-Induced Clinical Data Quality Loss: Methodological Quantitative Case Study Using Primary Diagnosis Codes and H,10.2196/97661,2026-04-08,2026-07-08,91
+JMIR medical informatics,Named Entity Recognition for Chinese Cancer Electronic Health Records-Development and Evaluation of a Domain-Specific BERT Model: Quantitative Study.,10.2196/76912,2025-05-04,2025-10-13,162
+JMIR medical informatics,Methodological Development and Assessing Prescribing Determinants Through Cumulative Drug Exposure in Hospitalized Patients: Proof-of-Concept Retrospe,10.2196/76961,2025-05-05,2025-11-30,209
+JMIR medical informatics,Decision Support Framework for Quality Assurance and Enhancement of Therapeutic Artificial Intelligence Systems: Mixed Methods Pilot Study.,10.2196/87887,2025-11-16,2026-06-15,211
+JMIR medical informatics,Service Users' Perspectives on an Integrated Electronic Care Record in Mental Health Care: Qualitative Vignette and Interview Study.,10.2196/64162,2024-07-11,2025-03-11,243
+JMIR medical informatics,"Safety, Accuracy, Empathy, Information Quality, and Readability of Chronic Obstructive Pulmonary Disease Health Advice Generated by 6 Large Language M",10.2196/104836,2026-06-18,2026-10-20,124
+JMIR medical informatics,Effectiveness of the Facility for Elderly Surveillance System (FESSy) in Two Public Health Center Jurisdictions in Japan: Prospective Observational St,10.2196/58509,2024-03-18,2024-11-15,242
+JMIR medical informatics,A Machine Learning Model for Predicting Sarcopenia Among Middle-Aged Adults: Development and External Validation.,10.2196/75760,2025-04-10,2025-08-11,123
+JMIR medical informatics,Large Language Models for Endodontic Symptom Assessment and Treatment Planning Using Image-Free Clinical Records: Comparative Evaluation Study.,10.2196/86145,2025-10-19,2026-06-16,240
+JMIR medical informatics,A Sentence Classification-Based Medical Status Extraction Pipeline for Electronic Health Records: Institutional Case Study.,10.2196/77409,2025-05-13,2025-12-27,228
+JMIR medical informatics,Standardizing Disaster Health Data Visualization Using Fast Healthcare Interoperability Resources in Indonesia: Dashboard Development and Technical Ev,10.2196/98818,2026-04-19,2026-09-15,149
+JMIR medical informatics,A Bilayer Feature Fusion Framework for Pan-Cancer Survival Prediction Based on Multihead Attention and Adaptive Differential Privacy: Model Developmen,10.2196/83743,2025-09-08,2026-02-09,154
+JMIR medical informatics,Predicting Lymph Node Metastasis in Rectal Cancer: Development and Validation of a Machine Learning Model Using Clinical Data.,10.2196/73765,2025-03-11,2025-07-30,141
+JMIR medical informatics,An Intelligent Trial Eligibility Screening Tool Using Natural Language Processing With a Block-Based Visual Programming Interface: Development and Usa,10.2196/80072,2025-07-04,2025-11-27,146
+JMIR medical informatics,Enhancing the Predictions of Cytomegalovirus Infection in Severe Ulcerative Colitis Using a Deep Learning Ensemble Model: Development and Validation S,10.2196/64987,2024-08-01,2025-03-11,222
+JMIR medical informatics,Predicting Metabolic Dysfunction-Associated Fatty Liver Disease Phenotypes Among Adults: 2-Stage Contrastive Learning Method.,10.2196/75747,2025-04-09,2025-10-23,197
+JMIR medical informatics,Causal Discovery in Observational Medical Research: Scoping Review.,10.2196/82499,2025-08-15,2026-02-19,188
+JMIR medical informatics,Attitudes Toward Common Data Models Among Chinese Biomedical Professionals: Cross-Sectional Survey.,10.2196/77603,2025-05-19,2025-10-06,140
+JMIR medical informatics,Patient Attitudes Toward Ambient Voice Technology: Preimplementation Patient Survey in an Academic Medical Center.,10.2196/77901,2025-05-23,2025-10-09,139
+JMIR medical informatics,Natural Language Processing and ,10.2196/67837,2024-10-22,2025-05-07,197
+JMIR medical informatics,Interpretable Artificial Intelligence Analysis of Functional Magnetic Resonance Imaging for Migraine Classification: Quantitative Study.,10.2196/72155,2025-02-04,2025-07-30,176
+JMIR medical informatics,"Modeling Diabetes Risk and Progression With Public Health Data: Ontology-Guided, Simulation-Capable Digital Twin Study.",10.2196/87374,2025-11-14,2026-03-06,112
+JMIR medical informatics,Leveraging Naturalistic Driving Digital Biomarkers for Early Mild Cognitive Impairment Detection: Deep Learning Strategies.,10.2196/83622,2025-09-05,2026-01-01,118
+JMIR medical informatics,Comparative Analysis of Generative Artificial Intelligence Systems in Solving Clinical Pharmacy Problems: Mixed Methods Study.,10.2196/76128,2025-04-16,2025-06-17,62
+JMIR medical informatics,Impact of Age on Hospital Outcomes Following Minimally Invasive Posterior Lumbar Interbody Fusion: Retrospective Analysis of the Nationwide Inpatient ,10.2196/76424,2025-04-23,2025-11-30,221
+JMIR medical informatics,From Context to Care: Rethinking Stigma Detection in Clinical Language Models.,10.2196/82484,2025-08-15,2025-08-28,13
+JMIR medical informatics,Interpretable Machine Learning Model for Pulmonary Hypertension Risk Prediction: Retrospective Cohort Study.,10.2196/74117,2025-03-18,2025-08-15,150
+JMIR medical informatics,Machine Learning-Based Multidimensional Oximetry for Obstructive Sleep Apnea Screening: Development and External Validation.,10.2196/80384,2025-07-09,2026-03-06,240
+JMIR medical informatics,"Machine Learning Prediction Model for Dyslipidemia and Its Association With Atherothrombotic Events in 3 Independent Cohorts From South Korea, Japan, ",10.2196/81130,2025-07-23,2026-04-13,264
+JMIR medical informatics,Iterative Large Language Model-Guided Sampling and Expert-Annotated Benchmark Corpus for Harmful Suicide Content Detection: Development and Validation,10.2196/73725,2025-03-12,2025-11-16,249
+JMIR medical informatics,AI Scribe Safety: Measuring What Happens After Signing.,10.2196/103162,2026-05-31,2026-07-17,47
+JMIR medical informatics,Gaps and Pathways to Success in Global Health Informatics Academic Collaborations: Reflecting on Current Practices.,10.2196/67326,2024-10-08,2025-10-23,380
+JMIR medical informatics,Improving Large Language Models' Summarization Accuracy by Adding Highlights to Discharge Notes: Comparative Evaluation.,10.2196/66476,2024-09-15,2025-06-16,274
+JMIR medical informatics,Evaluating Multiple Input Strategies of Large Language Models for Gallbladder Polyps on Ultrasound: Comparative Study.,10.2196/71178,2025-01-11,2025-11-30,323
+JMIR medical informatics,Deep Learning for Content-Based Medical Image Retrieval in Picture Archiving and Communication Systems for Brain Tumor Detection: Algorithm Developmen,10.2196/78300,2025-05-30,2026-02-02,248
+JMIR medical informatics,A Machine Learning Framework for Predicting Functional Status and Estimating Health Care Costs in Pulmonary Arterial Hypertension: Retrospective Cohor,10.2196/97372,2026-04-06,2026-07-01,86
+JMIR medical informatics,Longitudinal Digital Phenotyping of Traditional Chinese Medicine Constitution From Routine Health Examination Records: Retrospective Clinical Informat,10.2196/100063,2026-05-02,2026-08-25,115
+JMIR medical informatics,Evaluation of ChatGPT-4 as an Online Outpatient Assistant in Puerperal Mastitis Management: Content Analysis of an Observational Study.,10.2196/68980,2024-11-19,2025-05-23,185
+JMIR medical informatics,Prediction Models for In-Hospital Delirium Using Routinely Collected Electronic Health Record Data: Systematic Review.,10.2196/91618,2026-01-17,2026-08-14,209
+JMIR medical informatics,Bayesian Analysis of AI-Driven Cost Savings in UK and Australian Health Care Systems: Cross-Sector Implementation Study.,10.2196/89113,2025-12-06,2026-07-13,219
+JMIR medical informatics,Clinical Performance and Communication Skills of ChatGPT Versus Physicians in Emergency Medicine: Simulated Patient Study.,10.2196/68409,2024-11-06,2025-05-23,198
+JMIR medical informatics,A Multiassessment and Multiprofessional Agents Approach for Medical Chatbot Risk Estimation: Development and Evaluation Study.,10.2196/80416,2025-07-15,2026-04-30,289
+JMIR medical informatics,The Impact of Electronic Health Records on Family Physicians During Simulated Virtual Encounters: Exploratory Mixed Methods Study.,10.2196/84916,2025-10-03,2026-04-21,200
+JMIR medical informatics,The Transformative Potential of Large Language Models in Mining Electronic Health Records Data: Content Analysis.,10.2196/58457,2024-03-16,2024-10-21,219
+JMIR medical informatics,Evaluation of Large Language Models for Radiologists' Support in Multidisciplinary Breast Cancer Teams: Comparative Study.,10.2196/68182,2024-11-16,2025-12-02,381
+JMIR medical informatics,Imputation and Missing Indicators for Handling Missing Longitudinal Data: Data Simulation Analysis Based on Electronic Health Record Data.,10.2196/64354,2024-07-15,2025-02-08,208
+JMIR medical informatics,Benchmarking the Confidence of Large Language Models in Answering Clinical Questions: Cross-Sectional Evaluation Study.,10.2196/66917,2024-09-26,2025-01-31,127
+JMIR medical informatics,Machine Learning for Intraoperative Bleeding Prediction in Patients Undergoing Surgery: Scoping Review.,10.2196/80930,2025-07-18,2026-01-08,174
+JMIR medical informatics,Stress Hyperglycemia Ratio and the Risk of Sepsis in Patients With Heart Failure: Retrospective Cohort Study From Medical Information Mart for Intensi,10.2196/81229,2025-08-06,2026-02-28,206
+JMIR medical informatics,Model for Predicting Serious Hematological Adverse Events in Individuals With Ovarian Cancer Receiving Poly (Adenosine Diphosphate Ribose) Polymerase ,10.2196/72994,2025-02-23,2025-09-15,204
+JMIR medical informatics,Automated Lewis Score Estimation for Small Bowel Crohn Disease Using Capsule Endoscopy: Retrospective Cohort Study.,10.2196/92416,2026-01-31,2026-09-09,221
+JMIR medical informatics,Cross-Silo Federated Learning for Predicting Successful Mechanical Ventilation Weaning Across 5 Intensive Care Unit Databases: Retrospective Database ,10.2196/79713,2025-07-02,2026-06-02,335
+JMIR medical informatics,Machine Learning-Based Risk Prediction of In-Hospital Mortality in Patients With Non-ST-Elevation Acute Coronary Syndrome at Various Stages of the Dia,10.2196/89242,2025-12-09,2026-06-16,189
+JMIR medical informatics,Computational Insights Into Smart Bioelectronics in Digital Health Care (2020-2024): Topic Modeling Study.,10.2196/83092,2025-08-28,2026-04-20,235
+JMIR medical informatics,Identifying and Optimizing Factors Influencing the Implementation of a Fast Healthcare Interoperability Resources Accelerator: Qualitative Study Using,10.2196/66421,2024-09-12,2025-03-17,186
+JMIR medical informatics,AI-Powered Resting 12-Lead Electrocardiogram Algorithm for Predicting Low Peak Oxygen Consumption: Development and Validation Study.,10.2196/81105,2025-07-22,2026-04-20,272
+JMIR medical informatics,Participatory Design of AI-Based Clinical Decision Support Systems: Scoping Review.,10.2196/88368,2025-11-24,2026-08-19,268
+JMIR medical informatics,Multioutput Machine Learning Model for Predicting Postoperative Outcomes After Liposuction: Algorithm Development and Validation Study in a Multicente,10.2196/82145,2025-08-10,2026-08-18,373
+JMIR medical informatics,Aligning the Electronic Health Record With Age-Friendly Care in Hospitals: Qualitative Multisite Study.,10.2196/106475,2026-07-07,2026-10-28,113
+JMIR medical informatics,Enhancing Early Prediction of Gestational Diabetes Mellitus Through Data Augmentation and Feature Guidance: Model Development and Validation Study.,10.2196/85335,2025-10-06,2026-04-16,192
+JMIR medical informatics,Machine Learning Algorithms to Predict Venous Thromboembolism in Patients With Sepsis in the Intensive Care Unit: Multicenter Retrospective Study.,10.2196/80969,2025-07-20,2025-12-29,162
+JMIR medical informatics,Blockchain Smart Contracts for Automating Clinical Trials: Systematic Review and Proposed System Architecture.,10.2196/76980,2025-05-05,2026-02-17,288
+JMIR medical informatics,Quantifying and Visualizing Emergency Physician Workflow: Observational Time-Motion Study.,10.2196/85983,2025-10-23,2026-05-17,206
+JMIR medical informatics,Clinical Context Variables Collectively Rival Model Choice in Embedding-Based Retrieval: Multi-Corpus Benchmark Study.,10.2196/94241,2026-02-26,2026-04-26,59
+JMIR medical informatics,Machine Learning Prediction of Progression to Dialysis in Patients With Polycystic Kidney Disease: Population-Based Retrospective Cohort Study.,10.2196/80343,2025-07-09,2026-02-17,223
+JMIR medical informatics,Digital Health-Enabled Prehospital Notification for Acute Stroke Using the Brain Saver Mobile App in Emergency Medical Transport in South Korea: Pilot,10.2196/92992,2026-02-06,2026-07-07,151

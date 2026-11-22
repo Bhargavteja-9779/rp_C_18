@@ -1,0 +1,251 @@
+journal,title,doi,received,accepted,days
+Journal of biomedical informatics,Modeling repeated measurements data using the multilevel Bayesian network: A case of child morbidity.,10.1016/j.jbi.2024.104760,2024-04-24,2024-12-06,226
+Journal of biomedical informatics,Efficient strabismus diagnosis from small samples: Harnessing spatial features for improved accuracy.,10.1016/j.jbi.2024.104759,2024-09-12,2024-12-04,83
+Journal of biomedical informatics,An optimized code-free AI approach for efficient and accurate literature screening in bone organoid research.,10.1016/j.jbi.2025.104911,2025-06-09,2025-09-08,91
+Journal of biomedical informatics,Secondary use of radiological imaging data: Vanderbilt's ImageVU approach.,10.1016/j.jbi.2025.104905,2025-04-18,2025-09-03,138
+Journal of biomedical informatics,Challenges of health data standard adoption and usage: a systematic review.,10.1016/j.jbi.2026.105022,2025-08-28,2026-03-17,201
+Journal of biomedical informatics,ieGENES: A machine learning method for selecting differentially expressed genes in cancer studies.,10.1016/j.jbi.2025.104803,2024-10-17,2025-02-14,120
+Journal of biomedical informatics,Interpretable deep neural networks for advancing early neonatal birth weight prediction using multimodal maternal factors.,10.1016/j.jbi.2025.104838,2024-10-31,2025-04-23,174
+Journal of biomedical informatics,Selecting a smartwatch for trials involving older adults with neurodegenerative diseases: A researcher's framework to avoid hidden pitfalls.,10.1016/j.jbi.2025.104781,2024-07-31,2025-01-18,171
+Journal of biomedical informatics,Reproducible synthetic clinical letters for seizure frequency information extraction.,10.1016/j.jbi.2026.105105,2026-03-17,2026-09-21,188
+Journal of biomedical informatics,Measuring disease burden with individual cumulative incidence in patients with cirrhosis.,10.1016/j.jbi.2025.104883,2025-02-14,2025-07-21,157
+Journal of biomedical informatics,Conceptual framework for prediction models of patient deterioration based on nursing documentation patterns: reproducibility and generalizability with,10.1016/j.jbi.2025.104887,2025-02-28,2025-07-26,148
+Journal of biomedical informatics,Improving large language models for adverse drug reactions named entity recognition via error correction prompt engineering.,10.1016/j.jbi.2025.104893,2025-02-11,2025-08-09,179
+Journal of biomedical informatics,Clinical pathway-aware large language models for reliable and transparent medical dialogue.,10.1016/j.jbi.2025.104942,2025-06-30,2025-10-17,109
+Journal of biomedical informatics,Fusion framework: Conditional-aware one-stage nested event extraction model.,10.1016/j.jbi.2025.104972,2025-08-03,2025-12-19,138
+Journal of biomedical informatics,"Ontology enrichment using a large language model: Applying lexical, semantic, and knowledge network-based similarity for concept placement.",10.1016/j.jbi.2025.104865,2024-05-07,2025-06-16,405
+Journal of biomedical informatics,Predicting time-to-event clinical outcomes with multivariate repeated measurements of patient-level covariates: A systematic review.,10.1016/j.jbi.2026.105087,2026-01-19,2026-07-29,191
+Journal of biomedical informatics,A comprehensive survey of AI agents in healthcare.,10.1016/j.jbi.2026.105045,2025-12-13,2026-04-10,118
+Journal of biomedical informatics,Leveraging heterogeneous tabular of EHRs with prompt learning for clinical prediction.,10.1016/j.jbi.2025.104868,2025-02-09,2025-06-22,133
+Journal of biomedical informatics,Lessons from the TREC Plain Language Adaptation of Biomedical Abstracts (PLABA) track.,10.1016/j.jbi.2026.104983,2025-07-18,2026-01-09,175
+Journal of biomedical informatics,Sparse autoencoders reveal interpretable cell-type programs in single-cell foundation model representations.,10.1016/j.jbi.2026.105056,2026-02-17,2026-05-11,83
+Journal of biomedical informatics,Enhancing clinical data warehousing with provenance data to support longitudinal analyses and large file management: The gitOmmix approach for genomic,10.1016/j.jbi.2025.104788,2024-09-02,2025-02-04,155
+Journal of biomedical informatics,Quantifying the effect of Behaviour Self-Regulation on well-being through causal analysis: A methodological framework for longitudinal health data.,10.1016/j.jbi.2026.104984,2025-07-01,2026-01-09,192
+Journal of biomedical informatics,CausalGenDiff: Generative causal diffusion bridges scRNA-seq and spatial transcriptomics.,10.1016/j.jbi.2025.104966,2025-08-29,2025-12-01,94
+Journal of biomedical informatics,Rethinking fairness in unsupervised healthcare AI: A methodological scoping review.,10.1016/j.jbi.2026.105040,2025-12-14,2026-04-06,113
+Journal of biomedical informatics,Overcoming data challenges through enriched validation and targeted sampling to measure whole-person health in electronic health records.,10.1016/j.jbi.2025.104904,2025-02-21,2025-08-27,187
+Journal of biomedical informatics,Unsupervised learning in heterogeneous tabular data: Application to a respiratory disease cohort.,10.1016/j.jbi.2026.105119,2026-05-22,2026-11-02,164
+Journal of biomedical informatics,Knowledge-Guided and Reinforced Selective State Space Model for radiology report generation.,10.1016/j.jbi.2026.105011,2025-10-10,2026-03-07,148
+Journal of biomedical informatics,Quality-aware multi-source data fusion and enhancement for Medical Concept Normalization using Large Language Models.,10.1016/j.jbi.2026.105093,2026-01-27,2026-08-13,198
+Journal of biomedical informatics,Unifying temporal knowledge Graph and LLMs for Biomedical Hypothesis generation via temporal soft Prompting.,10.1016/j.jbi.2026.105103,2026-04-13,2026-09-14,154
+Journal of biomedical informatics,GutGPT: A multidimensional knowledge-enhanced large language model for gastrointestinal medicine.,10.1016/j.jbi.2025.104885,2025-03-16,2025-07-24,130
+Journal of biomedical informatics,Clustering-based federated causal discovery for multicenter clinical data analysis.,10.1016/j.jbi.2026.105066,2025-06-17,2026-06-03,351
+Journal of biomedical informatics,Advancing causal inference in medicine using biobank data.,10.1016/j.jbi.2025.104903,2025-05-04,2025-08-26,114
+Journal of biomedical informatics,Uncovering hidden subtypes in dementia: An unsupervised machine learning approach to dementia diagnosis and personalization of care.,10.1016/j.jbi.2025.104799,2024-10-15,2025-02-01,109
+Journal of biomedical informatics,Optimising clinical information extraction: a comparative study of retrieval-augmented generation techniques in clinical notes.,10.1016/j.jbi.2026.105053,2025-10-28,2026-05-05,189
+Journal of biomedical informatics,Enhancing adverse drug event extraction and summarization for cancer drugs through large language models.,10.1016/j.jbi.2026.105009,2025-08-23,2026-03-05,194
+Journal of biomedical informatics,A pipeline for harmonising NHS Scotland laboratory data to enable national-level analyses.,10.1016/j.jbi.2024.104771,2024-04-04,2024-12-30,270
+Journal of biomedical informatics,Pseudo-labeling and knowledge-guided contrastive learning for radiology report generation.,10.1016/j.jbi.2025.104941,2025-05-13,2025-10-16,156
+Journal of biomedical informatics,Drug repositioning with metapath guidance and adaptive negative sampling enhancement.,10.1016/j.jbi.2025.104916,2025-06-24,2025-09-19,87
+Journal of biomedical informatics,Towards a Biological Evaluation Framework for Oversampling (BEFO) gene expression data.,10.1016/j.jbi.2025.104932,2025-02-17,2025-10-08,233
+Journal of biomedical informatics,A comparative study of recent large language models on generating hospital discharge summaries for lung cancer patients.,10.1016/j.jbi.2025.104867,2024-11-19,2025-06-17,210
+Journal of biomedical informatics,KATMed: a knowledge-augmented transformer model for contraindication-aware medication recommendation in comorbidities.,10.1016/j.jbi.2026.104991,2025-10-18,2026-01-20,94
+Journal of biomedical informatics,HTF-DTI: Hypergraph-Based high-low order topological fusion for drug-target interaction prediction.,10.1016/j.jbi.2026.105117,2026-07-31,2026-10-22,83
+Journal of biomedical informatics,Measuring and visualizing healthcare process variability.,10.1016/j.jbi.2025.104918,2025-03-18,2025-09-22,188
+Journal of biomedical informatics,COVID-19 prediction with doubly multi-task Gaussian Process.,10.1016/j.jbi.2025.104872,2025-03-28,2025-06-29,93
+Journal of biomedical informatics,ASP-HR: An Adaptive Spatial Perception and Hierarchical Reasoning mechanism for document-level biomedical relation extraction.,10.1016/j.jbi.2026.105070,2026-01-15,2026-06-17,153
+Journal of biomedical informatics,BiomedRAG: A retrieval augmented large language model for biomedicine.,10.1016/j.jbi.2024.104769,2024-07-23,2024-12-26,156
+Journal of biomedical informatics,Unveiling novel bladder cancer associations from multicentred primary and secondary care electronic health records by machine learning: a case-control,10.1016/j.jbi.2025.104959,2025-03-10,2025-11-14,249
+Journal of biomedical informatics,Uncovering digital overdiagnosis - Quantification and mitigation using clinical trajectories: Heparin-induced thrombocytopenia use case.,10.1016/j.jbi.2025.104876,2024-11-30,2025-07-07,219
+Journal of biomedical informatics,Multimodal large language models and mechanistic modeling for glucose forecasting in type 1 diabetes patients.,10.1016/j.jbi.2025.104945,2025-04-15,2025-10-19,187
+Journal of biomedical informatics,Attention-based synthetic data generation for calibration-enhanced survival analysis: A case study for chronic kidney disease using electronic health ,10.1016/j.jbi.2025.104928,2025-05-30,2025-10-08,131
+Journal of biomedical informatics,Community medical centers struggle to produce well-calibrated clinical prediction models: Data augmentation can help.,10.1016/j.jbi.2026.105012,2025-09-09,2026-03-09,181
+Journal of biomedical informatics,Graph-spa: A Spatiotemporal Graph Neural Network based framework for ARDS prediction and interpretability.,10.1016/j.jbi.2025.104969,2025-07-17,2025-12-09,145
+Journal of biomedical informatics,UCVA ontology: Standardizing local context factors to support the analysis of unwarranted clinical variation.,10.1016/j.jbi.2026.105002,2025-07-03,2026-02-23,235
+Journal of biomedical informatics,BioACE: An automated framework for biomedical answer and citation evaluations.,10.1016/j.jbi.2026.105113,2026-03-31,2026-10-12,195
+Journal of biomedical informatics,MEDAL: Sequential adapter learning for privacy-preserving multicenter clinical language models.,10.1016/j.jbi.2026.105101,2026-06-16,2026-09-07,83
+Journal of biomedical informatics,Prediction of Single-Cell perturbation response based on Direction-Constrained diffusion Schrödinger Bridge.,10.1016/j.jbi.2025.104915,2025-06-28,2025-09-19,83
+Journal of biomedical informatics,Accounting for population structure in deep learning models for genomic analysis.,10.1016/j.jbi.2025.104873,2025-04-03,2025-06-30,88
+Journal of biomedical informatics,Domain adaptation of stable diffusion for ultrasound inpainting: a synthetic data approach for enhanced thyroid nodule segmentation.,10.1016/j.jbi.2025.104963,2025-05-31,2025-11-24,177
+Journal of biomedical informatics,Scalable discovery and validation of order-specific electronic health record event trajectories for interpretable adverse-outcome risk estimation.,10.1016/j.jbi.2026.105008,2025-09-30,2026-03-02,153
+Journal of biomedical informatics,Patient deep spatio-temporal encoding and medication substructure mapping for safe medication recommendation.,10.1016/j.jbi.2025.104785,2024-11-19,2025-01-29,71
+Journal of biomedical informatics,Variational temporal deconfounder network for individualized treatment effect estimation with longitudinal observational data.,10.1016/j.jbi.2025.104880,2025-01-16,2025-07-14,179
+Journal of biomedical informatics,"Multi-domain ECG feature extraction enable accurate automated recognition of bipolar disorder, depression and schizophrenia.",10.1016/j.jbi.2026.105026,2025-09-30,2026-03-20,171
+Journal of biomedical informatics,Bioinformatic challenges in metagenomic next generation sequencing data analysis while unravelling a case of uncommon campylobacteriosis.,10.1016/j.jbi.2025.104841,2025-03-16,2025-04-26,41
+Journal of biomedical informatics,Modeling temporal self and interactive evolution for biomedical hypothesis generation.,10.1016/j.jbi.2025.104970,2025-08-12,2025-12-10,120
+Journal of biomedical informatics,RoBIn: A Transformer-based model for risk of bias inference with machine reading comprehension.,10.1016/j.jbi.2025.104819,2024-11-01,2025-03-25,144
+Journal of biomedical informatics,KGiA: Drug repurposing through disease-aware knowledge graph augmentation.,10.1016/j.jbi.2025.104857,2024-12-10,2025-05-21,162
+Journal of biomedical informatics,Composite pathway-guided Cox modeling for interpretable survival prediction in breast cancer.,10.1016/j.jbi.2026.105021,2025-11-19,2026-03-16,117
+Journal of biomedical informatics,AI-driven approach for creating and evaluating a synthetic dataset for Medication Errors.,10.1016/j.jbi.2025.104889,2024-11-13,2025-07-28,257
+Journal of biomedical informatics,Mitigating hallucinations in synthesized clinical texts to improve multimodal deep learning for dermatology.,10.1016/j.jbi.2026.105055,2026-02-18,2026-05-10,81
+Journal of biomedical informatics,Clinical document metadata extraction: A scoping review.,10.1016/j.jbi.2026.105050,2025-12-27,2026-04-19,113
+Journal of biomedical informatics,ADENER: A syntax-augmented grid-tagging model for Adverse Drug Event extraction in social media.,10.1016/j.jbi.2025.104944,2025-05-23,2025-10-18,148
+Journal of biomedical informatics,PAC-Net: A physics-guided multimodal hybrid network for antibody-antigen interaction prediction.,10.1016/j.jbi.2026.105097,2026-05-09,2026-08-24,107
+Journal of biomedical informatics,Towards end-to-end LLM-based censoring-aware survival analysis.,10.1016/j.jbi.2026.105120,2026-05-31,2026-11-04,157
+Journal of biomedical informatics,PlainQAFact: Retrieval-augmented factual consistency evaluation metric for biomedical plain language summarization.,10.1016/j.jbi.2026.105019,2025-09-07,2026-03-13,187
+Journal of biomedical informatics,Examining implementation outcomes in health information exchange systems: A scoping review.,10.1016/j.jbi.2025.104782,2024-10-05,2025-01-18,105
+Journal of biomedical informatics,Predicting non-coding RNA function using Artificial Intelligence.,10.1016/j.jbi.2026.105000,2025-06-27,2026-02-11,229
+Journal of biomedical informatics,AI-assisted protocol information extraction for improved accuracy and efficiency in clinical trial workflows.,10.1016/j.jbi.2026.105036,2026-01-17,2026-03-30,72
+Journal of biomedical informatics,Lattice-based privacy-preserving multimodal retrieval for healthcare.,10.1016/j.jbi.2026.104990,2025-05-29,2026-01-19,235
+Journal of biomedical informatics,Benchmarking domain-specific pretrained language models to identify the best model for methodological rigor in clinical studies.,10.1016/j.jbi.2025.104825,2024-12-01,2025-04-03,123
+Journal of biomedical informatics,SigPhi-Med: A lightweight vision-language assistant for biomedicine.,10.1016/j.jbi.2025.104849,2024-09-28,2025-05-13,227
+Journal of biomedical informatics,Transfer learning for a tabular-to-image approach: A case study for cardiovascular disease prediction.,10.1016/j.jbi.2025.104821,2024-11-28,2025-03-27,119
+Journal of biomedical informatics,Improving entity recognition using ensembles of deep learning and fine-tuned large language models: A case study on adverse event extraction from VAER,10.1016/j.jbi.2025.104789,2024-06-26,2025-02-05,224
+Journal of biomedical informatics,Definitions to data flow: Operationalizing MIABIS in HL7 FHIR.,10.1016/j.jbi.2025.104919,2025-05-27,2025-09-22,118
+Journal of biomedical informatics,MMTF-DTI: Drug-target interaction prediction via multimodal feature extraction and dynamic fusion.,10.1016/j.jbi.2026.105069,2025-09-26,2026-06-16,263
+Journal of biomedical informatics,Interpretable Graph Convolutional Networks for cardiovascular disease risk prediction in patients with Type 2 Diabetes Mellitus.,10.1016/j.jbi.2026.105015,2025-09-23,2026-03-11,169
+Journal of biomedical informatics,A reinforcement learning approach to synthetic data generation.,10.1016/j.jbi.2026.105096,2026-01-26,2026-08-20,206
+Journal of biomedical informatics,Bidirectional data harmonization across the multiple chronic disease disparities research consortium: A pipeline description of opportunities and chal,10.1016/j.jbi.2026.105004,2025-06-26,2026-02-25,244
+Journal of biomedical informatics,Navigating regulatory challenges across the life cycle of a SaMD.,10.1016/j.jbi.2025.104856,2025-03-10,2025-05-20,71
+Journal of biomedical informatics,Temporally consistent survival prediction for non-uniform longitudinal data.,10.1016/j.jbi.2026.104996,2025-09-09,2026-02-04,148
+Journal of biomedical informatics,Graph-augmented LLMs for social media-based clinical trial recruitment.,10.1016/j.jbi.2026.105104,2026-02-04,2026-09-16,224
+Journal of biomedical informatics,Biomedical text normalization through generative modeling.,10.1016/j.jbi.2025.104850,2025-01-17,2025-05-13,116
+Journal of biomedical informatics,MedicalGLM: A Pediatric Medical Question Answering Model with a quality evaluation mechanism.,10.1016/j.jbi.2025.104793,2024-10-29,2025-02-13,107
+Journal of biomedical informatics,AFTS: A patient-agnostic encoder-decoder architecture with directional attention for blood glucose forecasting.,10.1016/j.jbi.2026.104998,2025-11-20,2026-02-10,82
+Journal of biomedical informatics,Adaptive-AutoMO: A domain adaptive automated multiobjective neural network for reliable lesion malignancy prediction via digital breast tomosynthesis.,10.1016/j.jbi.2025.104869,2024-10-15,2025-06-22,250
+Journal of biomedical informatics,A non-interactive Online Medical Pre-Diagnosis system on encrypted vertically partitioned data.,10.1016/j.jbi.2025.104940,2025-05-28,2025-10-13,138
+Journal of biomedical informatics,Strategies for detecting and mitigating dataset shift in machine learning for health predictions: A systematic review.,10.1016/j.jbi.2025.104902,2024-11-03,2025-08-25,295
+Journal of biomedical informatics,Integrated analysis for electronic health records with structured and sporadic missingness.,10.1016/j.jbi.2025.104933,2025-04-20,2025-10-08,171
+Journal of biomedical informatics,Selection-based prompting with synthesized candidates unlocks high-performance clinical abbreviation disambiguation via open-source LLMs.,10.1016/j.jbi.2026.105085,2026-02-05,2026-07-24,169
+Journal of biomedical informatics,A comprehensive evaluation framework for synthetic medical tabular data generation.,10.1016/j.jbi.2025.104939,2025-05-22,2025-10-12,143
+Journal of biomedical informatics,Implementation of a Digital Maturity Framework for Biobanking.,10.1016/j.jbi.2025.104842,2024-10-30,2025-04-27,179
+Journal of biomedical informatics,DMDGRN: A data augmentation-based multilayer directed graph convolutional network for gene regulatory network inference.,10.1016/j.jbi.2026.104985,2025-09-13,2026-01-13,122
+Journal of biomedical informatics,A multi-modal survival prediction framework with group-based batch training and structural consistency alignment.,10.1016/j.jbi.2026.105044,2025-12-21,2026-04-09,109
+Journal of biomedical informatics,ARCH: Large-scale knowledge graph via aggregated narrative codified health records analysis.,10.1016/j.jbi.2024.104761,2024-03-05,2024-12-08,278
+Journal of biomedical informatics,A multifaceted approach to drug-drug interaction extraction with fusion strategies.,10.1016/j.jbi.2025.104874,2025-01-26,2025-07-07,162
+Journal of biomedical informatics,"A study of large language models for patient information extraction: Model architecture, fine-tuning strategy, and multi-task instruction tuning.",10.1016/j.jbi.2026.105034,2025-10-28,2026-03-24,147
+Journal of biomedical informatics,CGX: OCR-enhanced knowledge graph retrieval for explainable heart failure analysis.,10.1016/j.jbi.2026.105089,2026-01-29,2026-08-03,186
+Journal of biomedical informatics,Towards Reliable Clinical Data: A Collaborative Data Governance Architecture with Lifecycle Integration.,10.1016/j.jbi.2026.105046,2025-08-26,2026-04-10,227
+Journal of biomedical informatics,Early detection of subjective cognitive decline from self-reported symptoms: An interpretable attention-cost fusion approach.,10.1016/j.jbi.2024.104770,2024-08-23,2024-12-28,127
+Journal of biomedical informatics,IHGCN-PLA: An interpretable heterogeneous graph convolutional network for protein-ligand binding affinity prediction with multimodal interaction fusio,10.1016/j.jbi.2026.105061,2025-11-13,2026-05-27,195
+Journal of biomedical informatics,A graph neural network explainability strategy driven by key subgraph connectivity.,10.1016/j.jbi.2025.104813,2024-12-29,2025-03-13,74
+Journal of biomedical informatics,MPCM-RRG: Multi-modal Prompt Collaboration Mechanism for Radiology Report Generation.,10.1016/j.jbi.2025.104912,2025-04-09,2025-09-11,155
+Journal of biomedical informatics,Deduplicating the FDA adverse event reporting system with a novel application of network-based grouping.,10.1016/j.jbi.2025.104824,2024-11-08,2025-03-31,143
+Journal of biomedical informatics,Multi-agent norm perception and induction in distributed healthcare.,10.1016/j.jbi.2025.104835,2024-12-23,2025-04-21,119
+Journal of biomedical informatics,Resource-efficient instruction tuning of large language models for biomedical named entity recognition.,10.1016/j.jbi.2025.104896,2025-02-24,2025-08-13,170
+Journal of biomedical informatics,Leveraging natural language processing to elucidate real-world clinical decision-making paradigms: A proof of concept study.,10.1016/j.jbi.2025.104829,2024-11-26,2025-04-12,137
+Journal of biomedical informatics,Natural language generation in healthcare: A review of methods and applications.,10.1016/j.jbi.2026.104997,2025-10-21,2026-02-09,111
+Journal of biomedical informatics,Predicting healthy weight status from physical activity and dietary intake: A time-aware data mining pipeline.,10.1016/j.jbi.2026.105083,2026-01-26,2026-07-11,166
+Journal of biomedical informatics,TopicForest: embedding-driven hierarchical clustering and labeling for biomedical literature.,10.1016/j.jbi.2025.104958,2025-08-04,2025-11-14,102
+Journal of biomedical informatics,Perplexity and proximity: Large language model perplexity complements semantic distance metrics for the detection of incoherent speech.,10.1016/j.jbi.2025.104899,2025-03-10,2025-08-18,161
+Journal of biomedical informatics,Deep learning applications in cancer treatment Prediction: Comprehensive research foundation for systematic review and Meta-Analysis.,10.1016/j.jbi.2026.105068,2025-08-07,2026-06-10,307
+Journal of biomedical informatics,Knowledge graphs for polypharmacy: A systematic review and critical appraisal of reporting quality.,10.1016/j.jbi.2026.105127,2026-06-26,2026-11-11,138
+Journal of biomedical informatics,A heterogeneous graph neural network for candidate gene prediction in endometriosis.,10.1016/j.jbi.2026.105028,2025-12-10,2026-03-20,100
+Journal of biomedical informatics,Valley-Forecast: Forecasting Coccidioidomycosis incidence via enhanced LSTM models trained on comprehensive meteorological data.,10.1016/j.jbi.2025.104774,2024-09-21,2025-01-09,110
+Journal of biomedical informatics,Adaptive debiasing learning for drug repositioning.,10.1016/j.jbi.2025.104843,2025-01-10,2025-05-01,111
+Journal of biomedical informatics,Ontology-driven identification of inconsistencies in clinical data: A case study in lung cancer phenotyping.,10.1016/j.jbi.2025.104808,2024-09-26,2025-03-04,159
+Journal of biomedical informatics,Exploring the role of reinforcement learning in vision-language models for cardiovascular disease decision support.,10.1016/j.jbi.2026.105031,2025-12-02,2026-03-21,109
+Journal of biomedical informatics,MedKA: A knowledge graph-augmented approach to improve factuality in medical Large Language Models.,10.1016/j.jbi.2025.104871,2025-02-02,2025-06-23,141
+Journal of biomedical informatics,Development of death-risk score based on epidemiology of six mental disorders and application to mortality reduction via modifiable health behaviors.,10.1016/j.jbi.2026.105018,2025-09-16,2026-03-13,178
+Journal of biomedical informatics,Accelerating probabilistic privacy-preserving medical record linkage: A three-party MPC approach.,10.1016/j.jbi.2025.104920,2025-04-29,2025-09-22,146
+Journal of biomedical informatics,Learning to take it personally: Precision drug repurposing through patient-specific loss on knowledge graphs using Biobank data.,10.1016/j.jbi.2026.105039,2025-09-19,2026-04-06,199
+Journal of biomedical informatics,FG-DDI: Functional group-aware graph neural networks for drug-drug interaction prediction.,10.1016/j.jbi.2026.104981,2025-10-06,2026-01-02,88
+Journal of biomedical informatics,"Defining phenotypes of disease severity for long-term cardiovascular, renal, metabolic, and mental health conditions in primary care electronic health",10.1016/j.jbi.2025.104831,2024-09-02,2025-04-13,223
+Journal of biomedical informatics,BiFDR: Brain-Inspired Federated Diffusion Transformer with Reinforcement for privacy-preserving molecular generation.,10.1016/j.jbi.2025.104910,2025-04-18,2025-09-07,142
+Journal of biomedical informatics,LeakageHunter-SCFM: Evidence-bounded dataset-lineage auditing for single-cell foundation model benchmarks.,10.1016/j.jbi.2026.105128,2026-07-19,2026-11-12,116
+Journal of biomedical informatics,Real-time hallucination detection and intervention in medical LLMs via calibrated hidden-state probes.,10.1016/j.jbi.2026.105081,2026-02-22,2026-07-08,136
+Journal of biomedical informatics,Integrating Mendelian randomization and literature-mined evidence for breast cancer risk factors.,10.1016/j.jbi.2025.104810,2024-12-18,2025-03-07,79
+Journal of biomedical informatics,Visual-linguistic Diagnostic Semantic Enhancement for medical report generation.,10.1016/j.jbi.2024.104764,2024-07-26,2024-12-24,151
+Journal of biomedical informatics,Heterogeneous domain adaptation survival analysis with partially observed outcomes via dictionary learning and distribution alignment.,10.1016/j.jbi.2026.105057,2026-02-12,2026-05-14,91
+Journal of biomedical informatics,Integrating retrospective quality assessment with real-time guideline application to support the episodic application of clinical guidelines over sign,10.1016/j.jbi.2025.104975,2025-07-24,2025-12-25,154
+Journal of biomedical informatics,DeepSTFSynergy: A multi-scale structural information fusion method for personalized drug combination prediction.,10.1016/j.jbi.2026.105033,2025-12-22,2026-03-23,91
+Journal of biomedical informatics,A multimodal machine learning algorithm improved diagnostic accuracy for otitis media in a school aged Aboriginal population.,10.1016/j.jbi.2025.104801,2024-09-18,2025-01-24,128
+Journal of biomedical informatics,Performance of large language models in data extraction for evidence synthesis: A systematic review.,10.1016/j.jbi.2026.105086,2026-04-13,2026-07-24,102
+Journal of biomedical informatics,Automated standardization of legacy biomedical metadata using an ontology-constrained LLM agent.,10.1016/j.jbi.2026.105116,2026-09-15,2026-10-22,37
+Journal of biomedical informatics,ARKE: An ontology-driven framework for automated mapping of local radiology procedure terms to the LOINC-RadLex playbook using large language model.,10.1016/j.jbi.2026.105071,2026-02-02,2026-06-17,135
+Journal of biomedical informatics,FedIMPUTE: Privacy-preserving missing value imputation for multi-site heterogeneous electronic health records.,10.1016/j.jbi.2025.104780,2024-08-14,2025-01-18,157
+Journal of biomedical informatics,Caption-augmented reasoning model with Hierarchical rank LoRA finetuing for medical visual question Answering.,10.1016/j.jbi.2025.104964,2025-04-30,2025-11-24,208
+Journal of biomedical informatics,Multi-channel causal variational autoencoder for multimodal biomedical causal disentanglement.,10.1016/j.jbi.2026.104995,2025-08-14,2026-01-28,167
+Journal of biomedical informatics,Federated causal discovery with missing data in a multicentric study on endometrial cancer.,10.1016/j.jbi.2025.104877,2024-10-14,2025-07-07,266
+Journal of biomedical informatics,Missing-modality enabled multi-modal fusion architecture for medical data.,10.1016/j.jbi.2025.104796,2024-10-26,2025-02-01,98
+Journal of biomedical informatics,Precision Drug Repurposing (PDR): Patient-level modeling and prediction combining foundational knowledge graph with biobank data.,10.1016/j.jbi.2025.104786,2024-07-28,2025-01-31,187
+Journal of biomedical informatics,Multi-feature machine learning for enhanced drug-drug interaction prediction.,10.1016/j.jbi.2025.104923,2025-07-09,2025-09-26,79
+Journal of biomedical informatics,"Scaling up biomedical vision-language models: Fine-tuning, instruction tuning, and multi-modal learning.",10.1016/j.jbi.2025.104946,2025-04-30,2025-10-19,172
+Journal of biomedical informatics,SemNovel - A new approach to detecting semantic novelty of biomedical publications using embeddings of large language models.,10.1016/j.jbi.2025.104952,2025-02-17,2025-11-07,263
+Journal of biomedical informatics,A contrastive decision transformer with TLA,10.1016/j.jbi.2026.105114,2026-07-28,2026-10-20,84
+Journal of biomedical informatics,Learning dynamic binary treatment policies under treatment selection bias: A Conservative Q-Learning approach with representation balancing.,10.1016/j.jbi.2026.104994,2025-09-24,2026-01-28,126
+Journal of biomedical informatics,Modelling diversity in hospital strategies in city-scale ambulance dispatching with coupled game-theoretic model and discrete-event simulation.,10.1016/j.jbi.2025.104777,2024-06-21,2025-01-12,205
+Journal of biomedical informatics,ICPPNet: A semantic segmentation network model based on inter-class positional prior for scoliosis reconstruction in ultrasound images.,10.1016/j.jbi.2025.104827,2024-09-09,2025-04-07,210
+Journal of biomedical informatics,Unsupervised discovery of clinical disease signatures using probabilistic independence.,10.1016/j.jbi.2025.104837,2024-11-25,2025-04-22,148
+Journal of biomedical informatics,DOME: Directional medical embedding vectors from Electronic Health Records.,10.1016/j.jbi.2024.104768,2024-05-07,2024-12-26,233
+Journal of biomedical informatics,DynaMamba: Multi-scale dynamic interacting Mamba network for irregular clinical time series classification.,10.1016/j.jbi.2026.105027,2025-11-27,2026-03-20,113
+Journal of biomedical informatics,A pipeline towards missing IS-A relationship discovery in the Gene Ontology.,10.1016/j.jbi.2026.105035,2025-09-26,2026-03-28,183
+Journal of biomedical informatics,LFVDNet: Low-frequency variable-driven network for medical time series.,10.1016/j.jbi.2025.104913,2025-05-14,2025-09-15,124
+Journal of biomedical informatics,PregAN-NET: Addressing Class Imbalance with GANs in Interpretable Computational Framework for Predicting Safety Profile of Drugs Considering Adverse R,10.1016/j.jbi.2025.104832,2024-12-11,2025-04-15,125
+Journal of biomedical informatics,"Direct Effects Multiplicative Inference (DEMI): causal prediction from pairwise clinical relationships, applied to antidepressant response.",10.1016/j.jbi.2026.105111,2026-04-01,2026-10-12,194
+Journal of biomedical informatics,Machine learning applications related to suicide in military and Veterans: A scoping literature review.,10.1016/j.jbi.2025.104848,2024-10-20,2025-05-12,204
+Journal of biomedical informatics,PCGMMF: a prediction method for breast cancer prognostic recurrence and metastasis risk based on enhanced multimodal feature fusion.,10.1016/j.jbi.2025.104907,2025-03-26,2025-09-03,161
+Journal of biomedical informatics,Analysis of longitudinal social media for monitoring symptoms during a pandemic.,10.1016/j.jbi.2025.104778,2024-07-13,2025-01-15,186
+Journal of biomedical informatics,CTKGR: temporal knowledge graph enhanced prediction of in-hospital events for pneumonia patients using electronic health records.,10.1016/j.jbi.2026.105007,2025-08-07,2026-03-02,207
+Journal of biomedical informatics,Beyond manual transcripts: Exploring the potential of automatic speech recognition errors in improving Alzheimer's disease detection.,10.1016/j.jbi.2025.104968,2025-07-10,2025-12-06,149
+Journal of biomedical informatics,Interpretable statistical modeling of patient flow in emergency departments.,10.1016/j.jbi.2025.104937,2025-05-26,2025-10-11,138
+Journal of biomedical informatics,Comparing clinical decision support systems for improving follow-up of abnormal cervical cancer screening test results.,10.1016/j.jbi.2025.104908,2025-02-10,2025-09-03,205
+Journal of biomedical informatics,A validation-driven training controller for cross-lingual biomedical NER via reinforcement learning-based adaptive loss weighting.,10.1016/j.jbi.2026.105073,2026-03-03,2026-06-22,111
+Journal of biomedical informatics,PLAGCA: Predicting protein-ligand binding affinity with the graph cross-attention mechanism.,10.1016/j.jbi.2025.104816,2024-12-24,2025-03-14,80
+Journal of biomedical informatics,Cross-scale semantic fusion integration of dual pathway models in drug repositioning.,10.1016/j.jbi.2025.104914,2025-07-03,2025-09-19,78
+Journal of biomedical informatics,Enhancing generalization of medical image segmentation via game theory-based domain selection.,10.1016/j.jbi.2025.104802,2024-08-28,2025-02-03,159
+Journal of biomedical informatics,Causal intervention validation of gene regulatory signals in scGPT.,10.1016/j.jbi.2026.105080,2026-05-10,2026-07-02,53
+Journal of biomedical informatics,Developing and prospectively validating a reproducible graph representation specification for clinical guideline algorithms: The measurement foundatio,10.1016/j.jbi.2026.105129,2026-07-18,2026-11-16,121
+Journal of biomedical informatics,GraphFusion: Integrative prediction of drug synergy using multi-scale graph representations and cell line contexts.,10.1016/j.jbi.2025.104921,2025-06-02,2025-09-25,115
+Journal of biomedical informatics,HGSAF: Heterogeneous graph structural alignment and distillation model with attentive fusion for microbe-drug association prediction.,10.1016/j.jbi.2026.105124,2026-07-08,2026-11-05,120
+Journal of biomedical informatics,Medication information extraction using local large language models.,10.1016/j.jbi.2025.104898,2025-04-15,2025-08-18,125
+Journal of biomedical informatics,A transformer-based framework for temporal health event prediction with graph-enhanced representations.,10.1016/j.jbi.2025.104826,2024-12-17,2025-04-03,107
+Journal of biomedical informatics,Knowledge augmented causal discovery through large language models and Knowledge Graphs: Application in chronic low back pain.,10.1016/j.jbi.2026.105102,2026-06-24,2026-09-07,75
+Journal of biomedical informatics,Multi-view based heterogeneous graph contrastive learning for drug-target interaction prediction.,10.1016/j.jbi.2025.104852,2024-12-18,2025-05-15,148
+Journal of biomedical informatics,Similarity-Adaptive interaction routing for Drug-Target affinity prediction.,10.1016/j.jbi.2026.105100,2026-06-12,2026-09-01,81
+Journal of biomedical informatics,Deep learning in surgical process modeling: A systematic review of workflow recognition.,10.1016/j.jbi.2025.104779,2024-11-04,2025-01-17,74
+Journal of biomedical informatics,Unveiling pathology-related predictive uncertainty of glomerular lesion recognition using prototype learning.,10.1016/j.jbi.2024.104745,2024-07-06,2024-11-02,119
+Journal of biomedical informatics,GRU-TV: Time- and Velocity-aware Gated Recurrent Unit for patient representation.,10.1016/j.jbi.2025.104855,2025-01-20,2025-05-19,119
+Journal of biomedical informatics,"SynthMedic: Utilizing large language models for synthetic discharge summary generation, correction and validation.",10.1016/j.jbi.2025.104906,2025-01-05,2025-09-03,241
+Journal of biomedical informatics,CECRel: A joint entity and relation extraction model for Chinese electronic medical records of coronary angiography via contrastive learning.,10.1016/j.jbi.2025.104792,2024-09-29,2025-02-13,137
+Journal of biomedical informatics,Toward automated cognitive assessment in Parkinson's disease using pretrained language models.,10.1016/j.jbi.2026.105126,2026-07-17,2026-11-10,116
+Journal of biomedical informatics,Augmenting electronic health records for adverse event detection.,10.1016/j.jbi.2026.105112,2026-02-10,2026-10-12,244
+Journal of biomedical informatics,GatorCLR: Personalized predictions of patient outcomes on electronic health records using self-supervised contrastive graph representation.,10.1016/j.jbi.2025.104851,2025-01-04,2025-05-14,130
+Journal of biomedical informatics,A novel machine learning-based workflow to capture intra-patient heterogeneity through transcriptional multi-label characterization and clinically rel,10.1016/j.jbi.2025.104817,2024-11-06,2025-03-14,128
+Journal of biomedical informatics,Augmented intelligence for multimodal virtual biopsy in breast cancer using generative artificial intelligence.,10.1016/j.jbi.2025.104971,2025-05-27,2025-12-19,206
+Journal of biomedical informatics,Leveraging undecided cases in chart-reviewed phenotypes to enhance EHR-based association studies.,10.1016/j.jbi.2025.104839,2024-08-30,2025-04-23,236
+Journal of biomedical informatics,Study on multimodal spatially-constrained contrastive learning for knee osteoarthritis severity grading.,10.1016/j.jbi.2025.104962,2025-07-30,2025-11-24,117
+Journal of biomedical informatics,De-identification of health data for open sharing: A scoping review.,10.1016/j.jbi.2026.105118,2026-06-02,2026-10-26,146
+Journal of biomedical informatics,A declarative approach for interactive process discovery in the clinical domain.,10.1016/j.jbi.2025.104862,2025-03-14,2025-06-02,80
+Journal of biomedical informatics,Soft label-guided transformer for radiology report generation.,10.1016/j.jbi.2025.104924,2025-02-18,2025-10-03,227
+Journal of biomedical informatics,"Evaluating the Bias, type I error and statistical power of the prior Knowledge-Guided integrated likelihood estimation (PIE) for bias reduction in EHR",10.1016/j.jbi.2025.104787,2024-05-08,2025-01-31,268
+Journal of biomedical informatics,CMIGAT: Joint learning via Cyclic Modality-Interaction Graph attention for multi-omics integration.,10.1016/j.jbi.2026.105098,2026-03-20,2026-08-25,158
+Journal of biomedical informatics,MDeID: A dataset for multilingual medical de-identification.,10.1016/j.jbi.2026.105106,2026-01-15,2026-09-29,257
+Journal of biomedical informatics,"A comprehensive survey on medical concept normalization: Datasets, techniques, applications, and future directions.",10.1016/j.jbi.2026.105005,2025-10-19,2026-02-25,129
+Journal of biomedical informatics,Impacts of sample weighting on transferability of risk prediction models across EHR-Linked biobanks with different recruitment strategies.,10.1016/j.jbi.2025.104853,2025-01-24,2025-05-18,114
+Journal of biomedical informatics,BiGranMolNet: A deep learning method for predicting blood-brain barrier permeability based on Bi-Granularity Molecular Graphs.,10.1016/j.jbi.2026.105079,2026-03-03,2026-07-01,120
+Journal of biomedical informatics,"A scoping review of natural language processing in addressing medically inaccurate information: Errors, misinformation, and hallucination.",10.1016/j.jbi.2025.104866,2025-01-30,2025-06-17,138
+Journal of biomedical informatics,Multimodal fusion architectures for Alzheimer's disease diagnosis: An experimental study.,10.1016/j.jbi.2025.104834,2024-12-24,2025-04-20,117
+Journal of biomedical informatics,DeepEN: A deep reinforcement learning framework for personalized enteral nutrition in critical care.,10.1016/j.jbi.2026.105067,2025-11-17,2026-06-08,203
+Journal of biomedical informatics,Imputation of missing aggregate EHR audit log data across individual and multiple organizations.,10.1016/j.jbi.2025.104805,2024-11-07,2025-02-17,102
+Journal of biomedical informatics,An open-set semi-supervised multi-task learning framework for context classification in biomedical texts.,10.1016/j.jbi.2025.104886,2024-12-17,2025-07-26,221
+Journal of biomedical informatics,CBFI: A multi-layer gene network key node identification algorithm integrating structural-biological features and dynamic regulatory weights.,10.1016/j.jbi.2026.105051,2025-11-06,2026-04-21,166
+Journal of biomedical informatics,Review of tools to support Target Trial Emulation.,10.1016/j.jbi.2025.104897,2025-03-18,2025-08-13,148
+Journal of biomedical informatics,Self-prompting small language models for privacy-sensitive clinical information extraction.,10.1016/j.jbi.2026.105121,2026-06-10,2026-11-04,147
+Journal of biomedical informatics,Multisite evaluation of automated electronic case report form data entry from electronic health records.,10.1016/j.jbi.2026.105060,2025-12-23,2026-05-27,155
+Journal of biomedical informatics,Taming vision transformers for clinical laryngoscopy assessment.,10.1016/j.jbi.2024.104766,2024-08-25,2024-12-26,123
+Journal of biomedical informatics,Extraction of distant recurrence sites for breast cancer patients from free-text clinical notes using large language models.,10.1016/j.jbi.2026.105032,2025-10-22,2026-03-22,151
+Journal of biomedical informatics,Adaptable graph neural networks design to support generalizability for clinical event prediction.,10.1016/j.jbi.2025.104794,2024-11-15,2025-02-05,82
+Journal of biomedical informatics,Joint modeling of mixed outcomes using a rank-based sparse neural network.,10.1016/j.jbi.2025.104870,2025-03-16,2025-06-23,99
+Journal of biomedical informatics,A Language-Guided Progressive Fusion Network with semantic density alignment for Medical Visual Question Answering.,10.1016/j.jbi.2025.104811,2024-11-05,2025-03-09,124
+Journal of biomedical informatics,GIN-CRC-Pareto: A graph-based pareto-optimized multi-task learning framework to identify miRNA-target interactions in colorectal cancer.,10.1016/j.jbi.2026.105099,2026-04-18,2026-08-31,135
+Journal of biomedical informatics,A joint learning framework for analyzing data from national geriatric centralized networks: A new toolbox deciphering real-world complexity.,10.1016/j.jbi.2025.104954,2025-07-31,2025-11-10,102
+Journal of biomedical informatics,Diagnostic performance of AI-based EEG interpretation versus human clinical experts for epilepsy detection: systematic review and meta-analysis.,10.1016/j.jbi.2026.105041,2025-11-07,2026-04-06,150
+Journal of biomedical informatics,LongCAF: A longitudinal context-constructive agentic framework for LLM-supported hypertension self-management.,10.1016/j.jbi.2026.105108,2026-07-14,2026-10-03,81
+Journal of biomedical informatics,Heat and hearts: An exposure-anchored computational phenotyping framework for assessing cardiovascular vulnerability during extreme heat.,10.1016/j.jbi.2026.105029,2025-09-29,2026-03-20,172
+Journal of biomedical informatics,MedVidDeID: Protecting privacy in clinical encounter video recordings.,10.1016/j.jbi.2025.104901,2025-01-21,2025-08-21,212
+Journal of biomedical informatics,Do it faster with PICOS: Generative AI-Assisted systematic review screening.,10.1016/j.jbi.2025.104860,2025-01-13,2025-05-27,134
+Journal of biomedical informatics,Exploring multimodal large language models on transthoracic Echocardiogram (TTE) tasks for cardiovascular decision support.,10.1016/j.jbi.2025.104930,2025-05-15,2025-10-08,146
+Journal of biomedical informatics,Federated Bayesian network learning from multi-site data.,10.1016/j.jbi.2025.104784,2024-03-26,2025-01-27,307
+Journal of biomedical informatics,PEER: Towards reliable and efficient inference via Patience-Based Early Exiting with Rejection.,10.1016/j.jbi.2026.104988,2025-08-23,2026-01-17,147
+Journal of biomedical informatics,Multi-level dynamic fusion and temporal role-aware network for diagnosis prediction.,10.1016/j.jbi.2026.104999,2025-10-13,2026-02-10,120
+Journal of biomedical informatics,Tailoring task arithmetic to address bias in models trained on multi-institutional datasets.,10.1016/j.jbi.2025.104858,2024-10-22,2025-05-23,213
+Journal of biomedical informatics,A comprehensive validation study on the influencing factors of cough-based COVID-19 detection through multi-center data with abundant metadata.,10.1016/j.jbi.2025.104798,2024-10-15,2025-02-05,113
+Journal of biomedical informatics,Context-Aware adaptive normalization LSTM (CAAN-LSTM) for immunotherapy decision support in cancer clinical data analysis.,10.1016/j.jbi.2026.105006,2025-07-12,2026-02-26,229
+Journal of biomedical informatics,Biomedical knowledge graph verification with multitask learning architectures.,10.1016/j.jbi.2025.104894,2025-02-07,2025-08-11,185
+Journal of biomedical informatics,Turning Dialogues Into Event Data: Lessons From GPT-Based Recognition of Nursing Actions.,10.1016/j.jbi.2025.104957,2025-08-01,2025-11-13,104
+Journal of biomedical informatics,Synthetic-to-real attentive deep learning for Alzheimer's assessment: A domain-agnostic framework for ROCF scoring.,10.1016/j.jbi.2025.104929,2025-05-17,2025-10-08,144
+Journal of biomedical informatics,Tentative renderings: Describing local data infrastructures that support the implementation and evaluation of national evaluation Initiatives.,10.1016/j.jbi.2025.104814,2024-10-28,2025-03-13,136
+Journal of biomedical informatics,Scalable and efficient on-chain data management in blockchain for large biomedical data.,10.1016/j.jbi.2025.104818,2024-12-12,2025-03-19,97
+Journal of biomedical informatics,CLEAR: A vision to support clinical evidence lifecycle with continuous learning.,10.1016/j.jbi.2025.104884,2025-04-22,2025-07-24,93
+Journal of biomedical informatics,Robust end-to-end stratification of amyotrophic lateral sclerosis patients via recurrent variational autoencoder and consensus clustering.,10.1016/j.jbi.2026.105059,2026-03-10,2026-05-27,78
+Journal of biomedical informatics,Repeatable process for extracting health data from HL7 CDA documents.,10.1016/j.jbi.2024.104765,2024-03-25,2024-12-24,274
+Journal of biomedical informatics,Novel machine learning model for predicting cancer drugs' susceptibilities and discovering novel treatments.,10.1016/j.jbi.2024.104762,2024-09-22,2024-12-11,80
+Journal of biomedical informatics,Automated identification of incidentalomas requiring follow-up: A multi-anatomy evaluation of LLM-based and supervised approaches.,10.1016/j.jbi.2026.105048,2025-12-14,2026-04-19,126
+Journal of biomedical informatics,A computational framework for predicting drug-target interactions by fusing gene ontology information with cross attention.,10.1016/j.jbi.2025.104976,2025-10-16,2025-12-31,76
+Journal of biomedical informatics,From image to report: automating lung cancer screening interpretation and reporting with vision-language models.,10.1016/j.jbi.2025.104931,2025-04-30,2025-10-08,161
+Journal of biomedical informatics,Digital twins in increasing diversity in clinical trials: A systematic review.,10.1016/j.jbi.2025.104879,2025-04-21,2025-07-12,82
+Journal of biomedical informatics,A data-driven method for research trend analysis in a scientific discipline: Application to the journal of biomedical informatics.,10.1016/j.jbi.2026.105013,2025-07-14,2026-03-11,240
+Journal of biomedical informatics,"Advancing healthcare analytics: a thematic review of machine learning, health informatics, and real-world data applications.",10.1016/j.jbi.2025.104934,2025-06-17,2025-10-08,113
+Journal of biomedical informatics,Mamba-enhanced disease semantic knowledge graph for interpretable automatic ICD coding.,10.1016/j.jbi.2025.104973,2025-07-10,2025-12-20,163
+Journal of biomedical informatics,Multimodal large language models for medical image diagnosis: Challenges and opportunities.,10.1016/j.jbi.2025.104895,2025-03-10,2025-08-13,156

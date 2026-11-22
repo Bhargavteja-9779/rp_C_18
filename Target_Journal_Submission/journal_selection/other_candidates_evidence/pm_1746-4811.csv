@@ -1,0 +1,101 @@
+journal,title,doi,received,accepted,days
+Plant methods,A micropropagation-based in vitro protocol for rapid screening of grapevine susceptibility to Xylella fastidiosa subsp. fastidiosa.,10.1186/s13007-026-01583-w,2026-05-13,2026-07-29,77
+Plant methods,Machine learning-based classification of roses using 18 SNP markers for optimized genebank management.,10.1186/s13007-025-01496-0,2025-09-04,2025-12-25,112
+Plant methods,A lightweight convolutional neural network for tea leaf disease and pest recognition.,10.1186/s13007-025-01452-y,2025-07-03,2025-09-22,81
+Plant methods,Estimation of chlorophyll content in rice canopy leaves using 3D radiative transfer modeling and unmanned aerial hyperspectral images.,10.1186/s13007-025-01346-z,2024-11-12,2025-02-12,92
+Plant methods,Development of a multi-targeted real-time PCR assay for the detection of the grapevine pathogen Xylophilus ampelinus.,10.1186/s13007-025-01422-4,2025-02-28,2025-07-12,134
+Plant methods,2NPLGBM: a genomic model that merges the strengths of classical and machine learning methods in genomic prediction.,10.1186/s13007-026-01545-2,2025-11-12,2026-04-24,163
+Plant methods,CMSAF-Net: integrative network design with enhanced decoder for precision segmentation of pear leaf diseases.,10.1186/s13007-025-01392-7,2024-12-09,2025-05-14,156
+Plant methods,A method for phenotyping lettuce volume and structure from 3D images.,10.1186/s13007-025-01347-y,2024-11-10,2025-02-13,95
+Plant methods,DM_CorrMatch: a semi-supervised semantic segmentation framework for rapeseed flower coverage estimation using UAV imagery.,10.1186/s13007-025-01373-w,2025-02-08,2025-04-04,55
+Plant methods,Establishment of a low-temperature immersion method for extracting high-activity and high-purity mitochondria from Syntrichia caninervis Mitt.,10.1186/s13007-025-01419-z,2025-03-27,2025-07-07,102
+Plant methods,Ionic liquid-assisted seed genomic DNA extraction for advanced sequencing applications.,10.1186/s13007-025-01417-1,2025-05-22,2025-07-04,43
+Plant methods,Paft-wpest: wolfberry pests fine-grained classification method based on generative self-supervised learning.,10.1186/s13007-026-01506-9,2025-12-05,2026-01-24,50
+Plant methods,Go Big or go home: a new gene ontology subset that improves plant gene function prediction.,10.1186/s13007-026-01523-8,2025-01-26,2026-03-07,405
+Plant methods,YOLOv11-AIU: a lightweight detection model for the grading detection of early blight disease in tomatoes.,10.1186/s13007-025-01435-z,2025-06-06,2025-08-17,72
+Plant methods,An optimized protocol for plant extracellular vesicles isolation from Ophiopogon japonicus root: a comparative evaluation based on miRNA cargo.,10.1186/s13007-025-01481-7,2025-09-15,2025-11-28,74
+Plant methods,Integrating microbiome and machine learning for precision diagnosis of rice bakanae disease.,10.1186/s13007-025-01486-2,2025-09-29,2025-12-10,72
+Plant methods,Lightweight highland barley detection based on improved YOLOv5.,10.1186/s13007-025-01353-0,2024-09-30,2025-02-27,150
+Plant methods,RP-DETR: end-to-end rice pests detection using a transformer.,10.1186/s13007-025-01381-w,2025-02-08,2025-04-25,76
+Plant methods,Deep-learning-ready RGB-depth images of seedling development.,10.1186/s13007-025-01334-3,2024-08-22,2025-01-26,157
+Plant methods,A Bayesian framework to model variance of grain yield response to plant density.,10.1186/s13007-025-01355-y,2024-11-20,2025-03-02,102
+Plant methods,Predicting rice drought-responsive genes via distance-based prototypical graph neural network with path aggregation mechanism.,10.1186/s13007-026-01503-y,2025-04-28,2026-01-13,260
+Plant methods,Genotype-independent de novo regeneration protocol in Cannabis sativa L. through direct organogenesis from cotyledonary nodes.,10.1186/s13007-025-01468-4,2025-07-28,2025-10-29,93
+Plant methods,A systematic comparison of transformers and ConvNets for root segmentation across nine datasets.,10.1186/s13007-026-01533-6,2026-02-27,2026-03-31,32
+Plant methods,A cotton organ segmentation method with phenotypic measurements from a point cloud using a transformer.,10.1186/s13007-025-01357-w,2024-01-13,2025-03-04,416
+Plant methods,PFLO: a high-throughput pose estimation model for field maize based on YOLO architecture.,10.1186/s13007-025-01369-6,2024-12-23,2025-04-02,100
+Plant methods,"Coleaf, an image recognition-driven approach facilitates the genome-wide association study with tea leaf morphology.",10.1186/s13007-026-01518-5,2025-12-09,2026-02-26,79
+Plant methods,Deep learning-based identification of visually similar foliar diseases in field-grown barley.,10.1186/s13007-026-01532-7,2026-02-11,2026-03-30,47
+Plant methods,"Understanding seed germination responses to low-dose X-rays: the role of seed quality, variety, and density.",10.1186/s13007-025-01457-7,2025-05-20,2025-09-29,132
+Plant methods,Herbify: an ensemble deep learning framework integrating convolutional neural networks and vision transformers for precise herb identification.,10.1186/s13007-025-01421-5,2025-04-16,2025-07-10,85
+Plant methods,Optimized protocol for high-throughput vernalization with speed breeding in winter wheat.,10.1186/s13007-025-01473-7,2025-08-08,2025-11-16,100
+Plant methods,Improving 3D reconstruction quality for root phenotyping: assessing the impact of camera calibration and imaging parameters.,10.1186/s13007-026-01529-2,2025-03-09,2026-03-14,370
+Plant methods,GAS-YOLO: a robust soybean seedling detection model trained on single-scene UAV data for complex field environments.,10.1186/s13007-026-01540-7,2025-08-14,2026-04-07,236
+Plant methods,A lightweight segmentation model toward timely processing for identification of pine wood nematode affected trees with UAV.,10.1186/s13007-025-01385-6,2025-02-18,2025-05-09,80
+Plant methods,Controlling heterologous protein synthesis through a plant RNA ThermoSwitch.,10.1186/s13007-026-01517-6,2025-12-05,2026-02-23,80
+Plant methods,The genetic puzzle of multicopy genes: challenges and troubleshooting.,10.1186/s13007-025-01329-0,2024-05-07,2025-01-17,255
+Plant methods,A simple and high-throughput single pollen genotyping pipeline to study meiosis in apple (Malus x domestica).,10.1186/s13007-026-01502-z,2025-09-02,2026-01-09,129
+Plant methods,An automated in-field transport and imaging chamber system for high-throughput phenotyping of potted soybean.,10.1186/s13007-025-01424-2,2025-06-02,2025-07-14,42
+Plant methods,Vapor pressure deficit control and mechanical vibration techniques to induce self-pollination in strawberry flowers.,10.1186/s13007-025-01343-2,2024-08-01,2025-02-09,192
+Plant methods,An optimized DNA extraction protocol for reliable PCR-based detection and characterization of grapevine flavescence dorée phytoplasma.,10.1186/s13007-025-01460-y,2025-07-14,2025-10-06,84
+Plant methods,Coformer: a deep learning-based framework for cross-environment and multi-year cotton phenotype prediction and interpretation.,10.1186/s13007-026-01528-3,2025-09-09,2026-03-14,186
+Plant methods,Projecting 2D top-view of PSII efficiency onto 3D plant models to quantify PSII efficiency across canopy layers.,10.1186/s13007-026-01536-3,2025-08-08,2026-04-06,241
+Plant methods,Enhancing hybridization potential through standardizing emasculation techniques and molecular marker integration in finger millet (Eleusine coracana L,10.1186/s13007-026-01522-9,2025-09-25,2026-03-01,157
+Plant methods,LongPolyASE: an end-to-end framework for allele-specific gene and isoform analysis in polyploids using long-read RNA-seq.,10.1186/s13007-026-01569-8,2026-04-16,2026-06-27,72
+Plant methods,Truncated CMV2b,10.1186/s13007-025-01446-w,2025-08-04,2025-09-14,41
+Plant methods,Detection of TuMV by a toehold switch sensor coupled with NASBA amplification in Pseudostellaria heterophylla.,10.1186/s13007-025-01394-5,2024-09-15,2025-05-16,243
+Plant methods,A three-dimensional reconstruction method for seedlings based on improved DIFIX3D.,10.1186/s13007-026-01541-6,2026-02-06,2026-04-20,73
+Plant methods,ADAM: advanced design and AI-driven modeling for plant tissue culture media optimization.,10.1186/s13007-026-01534-5,2026-02-05,2026-03-31,54
+Plant methods,DWTFormer: a frequency-spatial features fusion model for tomato leaf disease identification.,10.1186/s13007-025-01349-w,2024-12-27,2025-02-14,49
+Plant methods,"OpenPheno: an open-access, user-friendly, and smartphone-based software platform for instant plant phenotyping.",10.1186/s13007-025-01395-4,2025-03-02,2025-05-20,79
+Plant methods,Non-destructive monitoring of root biomass in hydroponically grown leafy vegetables: comparison between machine learning-based RGB and hyperspectral i,10.1186/s13007-026-01515-8,2025-12-29,2026-02-20,53
+Plant methods,Dual discriminator GAN-based synthetic crop disease image generation for precise crop disease identification.,10.1186/s13007-025-01361-0,2025-01-02,2025-03-09,66
+Plant methods,Hybrid metaheuristic optimization of a DeepFusionNet for plant leaf disease diagnosis and recommendation.,10.1186/s13007-026-01535-4,2026-02-19,2026-04-06,46
+Plant methods,Achieving micrometer-scale 4D X-ray tomography of living leaf tissue in the laboratory.,10.1186/s13007-026-01565-y,2026-01-07,2026-06-23,167
+Plant methods,"Rapid quantification of whole seed fatty acid amount, composition, and shape phenotypes from diverse oilseed species with large differences in seed si",10.1186/s13007-025-01388-3,2025-04-01,2025-05-09,38
+Plant methods,SeedSeg: image-based transgenic seed counting for segregation analysis of T-DNA loci.,10.1186/s13007-025-01406-4,2025-03-07,2025-06-16,101
+Plant methods,Deep soil layers show the most pronounced genetic variation in wheat root length.,10.1186/s13007-026-01554-1,2025-12-03,2026-06-05,184
+Plant methods,Automated stomatal traits measurement in melon (Cucumis melo L.) based on vision transformers with dynamically composable multi-head attention.,10.1186/s13007-026-01558-x,2025-12-05,2026-06-09,186
+Plant methods,A compact deep learning approach integrating depthwise convolutions and spatial attention for plant disease classification.,10.1186/s13007-025-01325-4,2024-11-05,2025-01-04,60
+Plant methods,Cross-species optimization of nuclei isolation in ten plant species.,10.1186/s13007-025-01491-5,2025-09-17,2025-12-17,91
+Plant methods,Attomolar electrochemical direct and sandwich immunoassays for the ultrasensitive detection of tomato brown rugose fruit virus.,10.1186/s13007-025-01407-3,2025-03-17,2025-06-17,92
+Plant methods,An intelligent method for detection of small target fungal wheat spores based on an improved YOLOv5 with microscopic images.,10.1186/s13007-025-01436-y,2025-05-06,2025-08-17,103
+Plant methods,A simple hand-sectioning approach for cellular-resolution imaging of anatomy and gene expression in small developing organs and boundary regions in Ar,10.1186/s13007-026-01567-w,2026-05-21,2026-06-24,34
+Plant methods,Maui: modular analytics of UAS imagery for specialty crop research.,10.1186/s13007-025-01376-7,2025-01-13,2025-04-10,87
+Plant methods,LDSL framework: a lightweight dual-stream learning framework for wheat disease detection.,10.1186/s13007-025-01455-9,2025-07-15,2025-09-24,71
+Plant methods,"Widely-based full-genome analyses enable development of universal and strain-specific PCR toolkit for wheat dwarf virus detection, revealing new alter",10.1186/s13007-025-01420-6,2025-05-23,2025-07-09,47
+Plant methods,Efficient induction of tetraploids via adventitious bud regeneration and subsequent phenotypic variation in Acacia melanoxylon.,10.1186/s13007-025-01426-0,2025-06-07,2025-07-24,47
+Plant methods,Utilizing X-ray radiography for non-destructive assessment of paddy rice grain quality traits.,10.1186/s13007-025-01405-5,2025-01-20,2025-06-16,147
+Plant methods,Apnet: Lightweight network for apricot tree disease and pest detection in real-world complex backgrounds.,10.1186/s13007-025-01324-5,2024-11-21,2025-01-04,44
+Plant methods,Multimodal learning on RGB-D image for precise litchi phenotyping and weight estimation.,10.1186/s13007-025-01472-8,2025-08-25,2025-11-10,77
+Plant methods,FE-SEM visualization of cortical microtubules in plant cells using freeze-fracture techniques.,10.1186/s13007-026-01510-z,2025-12-24,2026-02-14,52
+Plant methods,In vitro micropropagation protocols for two endangered Dianthus species - via in vitro culture for conservation and recultivation purposes.,10.1186/s13007-025-01335-2,2025-01-04,2025-01-27,23
+Plant methods,MtCro: multi-task deep learning framework improves multi-trait genomic prediction of crops.,10.1186/s13007-024-01321-0,2024-05-07,2024-12-26,233
+Plant methods,Deep aerenchyma: a transformer-based pipeline for scalable phenotyping of rice root aerenchyma lacunae across environments.,10.1186/s13007-026-01546-1,2026-02-11,2026-05-04,82
+Plant methods,GAN-based image prediction of maize growth across varieties and developmental stages.,10.1186/s13007-025-01430-4,2024-11-20,2025-08-03,256
+Plant methods,A rapid and efficient in vivo inoculation method for introducing tree stem canker pathogens onto leaves: suitable for large-scale assessment of resist,10.1186/s13007-025-01360-1,2024-06-28,2025-03-08,253
+Plant methods,Improved estimation of forage nitrogen in alpine grassland by integrating Sentinel-2 and SIF data.,10.1186/s13007-025-01389-2,2024-12-05,2025-05-11,157
+Plant methods,A lightweight hybrid transformer approach for hyperspectral imaging-based drought tolerance evaluation in tea plants.,10.1186/s13007-025-01487-1,2025-07-25,2025-12-10,138
+Plant methods,"Exploring the potential of microscopic hyperspectral, Raman, and LIBS for nondestructive quality assessment of diverse rice samples.",10.1186/s13007-025-01345-0,2024-12-02,2025-02-10,70
+Plant methods,Introduction of the Ribo-BiFC method to plants using a split mVenus approach.,10.1186/s13007-025-01494-2,2025-08-08,2025-12-18,132
+Plant methods,RAGP: a retrieval-augmented deep learning model for genomic prediction in crop breeding.,10.1186/s13007-026-01574-x,2025-07-28,2026-07-09,346
+Plant methods,A simple and versatile plasma membrane staining method for visualizing living cell morphology in reproductive tissues across diverse plant species.,10.1186/s13007-025-01465-7,2025-06-23,2025-10-17,116
+Plant methods,PVP-40 mediated enhancement of mesophyll protoplast yield and viability for transient gene expression in black huckleberry.,10.1186/s13007-025-01471-9,2025-09-03,2025-11-06,64
+Plant methods,Covered smut screening in barley: power analysis and effect on agronomic traits.,10.1186/s13007-026-01577-8,2026-03-11,2026-07-15,126
+Plant methods,Robust estimation of rice flag leaf inclination angle from SfM-MVS point clouds via ensemble skeleton extraction: validation in field and pot experime,10.1186/s13007-026-01524-7,2025-12-27,2026-03-07,70
+Plant methods,Impedance flow cytometry for rapid quality assessment of protoplast cultures.,10.1186/s13007-025-01474-6,2025-08-21,2025-11-16,87
+Plant methods,Spectral image classification of asymptomatic peanut leaf diseases based on deep learning algorithms.,10.1186/s13007-025-01485-3,2025-08-30,2025-12-09,101
+Plant methods,Rapid Ragi: A speed breeding protocol for finger millet.,10.1186/s13007-025-01403-7,2025-04-08,2025-06-05,58
+Plant methods,Hyperspectral image analysis for classification of multiple infections in wheat.,10.1186/s13007-025-01461-x,2025-07-07,2025-10-09,94
+Plant methods,Attention-PestNet: hierarchical scaled dot-product attention for insect pest detection.,10.1186/s13007-025-01489-z,2025-10-05,2025-12-15,71
+Plant methods,Phenotype microarray-based assessment of metabolic variability in plant protoplasts.,10.1186/s13007-025-01378-5,2025-03-12,2025-04-22,41
+Plant methods,SSR_VibraProfiler: a Python package for accurate classification of varieties using SSRs with intra-variety specificity and inter-variety polymorphism.,10.1186/s13007-025-01380-x,2024-11-20,2025-04-25,156
+Plant methods,CRISPR-Cas13a as a next-generation tool for rapid and precise plant RNA virus diagnostics.,10.1186/s13007-025-01401-9,2025-02-13,2025-05-29,105
+Plant methods,Assisting species differentiation and taxonomic classification by hyperspectral imaging: an example from the parasitic plant realm.,10.1186/s13007-025-01498-y,2025-08-18,2025-12-30,134
+Plant methods,Optical coherence tomography for early detection of crop infection.,10.1186/s13007-025-01411-7,2025-05-19,2025-06-28,40
+Plant methods,A high-throughput fluorescence-based microplate reader assay to quantify total flavonol levels in plant tissues.,10.1186/s13007-026-01511-y,2025-10-21,2026-02-14,116
+Plant methods,ADAM-DETR: an intelligent rice disease detection method based on adaptive multi-scale feature fusion.,10.1186/s13007-025-01429-x,2025-05-23,2025-08-03,72
+Plant methods,A simple and highly efficient protocol for ,10.1186/s13007-024-01310-3,2024-08-27,2024-11-28,93
+Plant methods,Generation of transgene-free MtABCG46 mutants in Medicago truncatula using CRISPR/Cas9.,10.1186/s13007-026-01582-x,2026-03-16,2026-07-26,132
+Plant methods,A practical guide to two-stage sporulation of Pyricularia oryzae: introducing a filter paper method and comparison with existing methods using strains,10.1186/s13007-025-01466-6,2025-07-13,2025-10-20,99
+Plant methods,"Protoplast isolation and transient gene expression in Suaeda aralocaspica, a halophyte with single-cell C",10.1186/s13007-025-01497-z,2025-06-21,2025-12-28,190

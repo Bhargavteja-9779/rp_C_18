@@ -1,0 +1,401 @@
+journal,title,doi,received,accepted,days
+Neural Computing and Applications,ANFISpy: a python package for neuro-fuzzy models,10.1007/s00521-026-11914-6,2025-10-28,2026-01-13,77
+Neural Computing and Applications,Conditional GANs for human activity recognition: synthetic keypoint data generation,10.1007/s00521-025-11831-0,2025-04-26,2025-09-18,145
+Neural Computing and Applications,Neural network estimation of vacancy binding energy to screw dislocations: a case study for iron and tungsten,10.1007/s00521-025-11425-w,2024-11-15,2025-05-30,196
+Neural Computing and Applications,Ovarian cancer subtype classification using convolutional neural networks: an evaluation of deep learning techniques for histopathological image analysis,10.1007/s00521-025-11638-z,2025-01-30,2025-08-22,204
+Neural Computing and Applications,AOAE: a hybrid feature selection approach for enhanced intrusion detection in internet of things networks,10.1007/s00521-025-11763-9,2025-02-06,2025-10-25,261
+Neural Computing and Applications,Improving DNNs for time-series classification using state and gradient abstraction-based preprocessing,10.1007/s00521-025-11550-6,2025-01-24,2025-07-23,180
+Neural Computing and Applications,LWIR2Vis-Net: feature injection-augmented encoder-decoder for efficient thermal-to-visible image translation,10.1007/s00521-026-11863-0,2025-05-29,2026-01-12,228
+Neural Computing and Applications,ESMPS: an efficient stock market prediction system based on optimized and ensemble deep learning architecture,10.1007/s00521-025-11502-0,2024-12-26,2025-07-09,195
+Neural Computing and Applications,Advancements in brain tumor segmentation: a literature survey of U-Net variants,10.1007/s00521-025-11798-y,2024-08-26,2025-10-08,408
+Neural Computing and Applications,Deep learning-based method for detecting the association between the personnel operating attitudes and the operational targets on offshore platform,10.1007/s00521-025-11373-5,2024-06-24,2025-05-08,318
+Neural Computing and Applications,A comparative analysis for skin cancer detection by using explainable deep learning,10.1007/s00521-025-11809-y,2025-02-22,2025-10-02,222
+Neural Computing and Applications,Evaluating the role of 3D hand-crafted fused features in Alzheimer’s disease classification from a machine learning perspective,10.1007/s00521-026-11947-x,2025-04-23,2026-01-13,265
+Neural Computing and Applications,Integrating plant growth monitoring in a precision intrarow hoeing tool through canopy cover segmentation,10.1007/s00521-025-11445-6,2024-09-03,2025-06-16,286
+Neural Computing and Applications,Compact deep learning models for leaf disease classification and recognition in precision agriculture,10.1007/s00521-025-11400-5,2024-10-17,2025-05-23,218
+Neural Computing and Applications,Multi-objective reinforcement learning framework for beneficent artificial intelligence,10.1007/s00521-025-11311-5,2024-04-05,2025-05-02,392
+Neural Computing and Applications,Enhancing anomaly detection in satellite imagery using self-supervised learning techniques,10.1007/s00521-025-11746-w,2025-07-07,2025-10-31,116
+Neural Computing and Applications,Physics-informed neural network with symbolic regression for deriving analytical approximate solutions to nonlinear partial differential equations,10.1007/s00521-025-11450-9,2025-04-10,2025-06-16,67
+Neural Computing and Applications,Explainable artificial intelligence (XAI) for efficient lung cancer diagnosis using transformer–CNN hybrid with metadata fusion,10.1007/s00521-025-11791-5,2025-06-11,2025-10-07,118
+Neural Computing and Applications,A generalized novel approach for plant disease detection based on SimCLR and patch-based analysis,10.1007/s00521-025-11493-y,2025-01-25,2025-07-07,163
+Neural Computing and Applications,Integrating artificial intelligence for stability assessment in casson hybrid nanofluid flow using LMS-BPNN,10.1007/s00521-025-11320-4,2023-11-21,2025-05-02,528
+Neural Computing and Applications,Enhancing chronic kidney disease diagnosis with polynomial feature expansion and KMeans-guided feature-aware stratified splitting: a comparative machine-learning study,10.1007/s00521-025-11788-0,2025-01-14,2025-10-07,266
+Neural Computing and Applications,Multi-task learning for identification of porcelain in Song and Yuan dynasties,10.1007/s00521-025-11703-7,2025-04-10,2025-12-05,239
+Neural Computing and Applications,Gaussian random fuzzy and nature-inspired neural networks: a novel approach to Brent oil price prediction,10.1007/s00521-025-11306-2,2024-08-20,2025-04-28,251
+Neural Computing and Applications,A survey on 1-bit quantized large language models,10.1007/s00521-025-11529-3,2024-10-29,2025-05-30,213
+Neural Computing and Applications,Reducing labeled data requirements in text classification with active learning and BERT-based transformers,10.1007/s00521-025-11756-8,2024-12-20,2025-10-25,309
+Neural Computing and Applications,"A novel NLP-driven approach for enriching artefact descriptions, provenance, and entities in cultural heritage",10.1007/s00521-025-11449-2,2025-02-03,2025-06-13,130
+Neural Computing and Applications,Breast cancer classification by converging tumour region probability density and texture feature-based clustering,10.1007/s00521-025-11596-6,2023-07-06,2025-08-12,768
+Neural Computing and Applications,Global $$\mu$$-synchronization of stochastic neural networks based on resilient event-triggered mechanism: considering time-varying delay and packet loss,10.1007/s00521-026-11866-x,2025-04-07,2026-01-12,280
+Neural Computing and Applications,Integrating multi-camera surveillance with transductive learning for duplicate removal,10.1007/s00521-025-11716-2,2025-06-11,2025-12-01,173
+Neural Computing and Applications,MammoSegNet: a convolutional network analysis for segmenting tumor tissue masses in digital mammograms of breast cancer patients,10.1007/s00521-025-11631-6,2024-11-30,2025-08-22,265
+Neural Computing and Applications,Blind image super-resolution using swin transformer with unsupervised degradation and sparse attention,10.1007/s00521-025-11471-4,2024-06-12,2025-07-03,386
+Neural Computing and Applications,A novel GldReLU activation function with enhanced RESNET50 for classification of X-ray images,10.1007/s00521-025-11500-2,2024-08-10,2025-07-09,333
+Neural Computing and Applications,Soft computing techniques for predicting thermal conductivity of bentonite–fly ash/-sand composite materials,10.1007/s00521-025-11568-w,2024-04-25,2025-08-11,473
+Neural Computing and Applications,Fault tolerant control design for memristive bidirectional associative memory neural networks and its application in genetic regulatory networks,10.1007/s00521-025-11811-4,2024-08-01,2025-09-18,413
+Neural Computing and Applications,Revisiting workplace mobbing: tweets and qualitative analysis in Türkiye case,10.1007/s00521-025-11705-5,2024-10-13,2025-12-05,418
+Neural Computing and Applications,OneEncoder: a lightweight framework for efficient multimodal training,10.1007/s00521-025-11435-8,2024-12-10,2025-06-04,176
+Neural Computing and Applications,Optimizing wind power forecasting with hybrid neural networks: insights from Brazil,10.1007/s00521-025-11464-3,2024-10-17,2025-06-19,245
+Neural Computing and Applications,AMBER: advanced SegFormer for multi-band image segmentation—an application to hyperspectral imaging,10.1007/s00521-025-11315-1,2024-06-06,2025-05-02,330
+Neural Computing and Applications,LSHADE-NGS: enhancing Q-coverage in directional sensor networks through navigated generation search,10.1007/s00521-025-11479-w,2025-01-26,2025-07-03,158
+Neural Computing and Applications,Fire and smoke detection using two-stream spatiotemporal network,10.1007/s00521-025-11412-1,2023-09-06,2025-05-30,632
+Neural Computing and Applications,EvoBagNet: a decomposition-driven bagging ensemble with evolutionary hyperparameter optimization for robust stock price prediction,10.1007/s00521-025-11789-z,2025-02-11,2025-10-07,238
+Neural Computing and Applications,Industrial automation anomaly detection based on BERT and edge sensor computing,10.1007/s00521-025-11590-y,2025-04-22,2025-08-12,112
+Neural Computing and Applications,A systematic literature review on the application of artificial intelligence techniques for rock strength estimation,10.1007/s00521-025-11517-7,2024-10-07,2025-07-09,275
+Neural Computing and Applications,A transformer approach for predicting transitions in emotional trajectory directly from music audio,10.1007/s00521-025-11333-z,2024-10-16,2025-05-04,200
+Neural Computing and Applications,FolkRAG: a retrieval-augmented generation system for cultural heritage materials,10.1007/s00521-025-11455-4,2024-12-10,2025-06-10,182
+Neural Computing and Applications,DAPrompt: deterministic assumption prompt learning for event causality identification,10.1007/s00521-025-11486-x,2024-09-28,2025-07-03,278
+Neural Computing and Applications,An innovative metaheuristic algorithm inspired by behavior of birds-of-paradise in tropical rainforests for global optimization,10.1007/s00521-026-11887-6,2024-12-12,2026-01-12,396
+Neural Computing and Applications,Auto language identifier and text aligner using neural network,10.1007/s00521-025-11390-4,2024-04-28,2025-05-23,390
+Neural Computing and Applications,Enhancing generalization in autonomous driving through track-agnostic reinforcement learning,10.1007/s00521-025-11597-5,2024-12-29,2025-08-12,226
+Neural Computing and Applications,Parkinson’s disease early detection using hybrid attentive CNN-transformer model,10.1007/s00521-025-11634-3,2024-11-16,2025-08-22,279
+Neural Computing and Applications,Demand forecasting using KAN-RNN,10.1007/s00521-025-11514-w,2024-12-16,2025-07-09,205
+Neural Computing and Applications,Federated learning-based robust android malware detection: label-flipping attacks and defenses,10.1007/s00521-025-11656-x,2025-03-02,2025-09-03,185
+Neural Computing and Applications,Lightweight and high-precision spectral convolutional neural network model for custom 94-class ASCII character recognition,10.1007/s00521-025-11376-2,2024-11-26,2025-04-01,126
+Neural Computing and Applications,Cultural history optimization algorithm: a new human-inspired metaheuristic algorithm for engineering optimization problems,10.1007/s00521-025-11379-z,2023-03-28,2025-05-02,766
+Neural Computing and Applications,Bridging spatial awareness and global context in medical image segmentation,10.1007/s00521-025-11712-6,2025-05-05,2025-12-05,214
+Neural Computing and Applications,A chaos-driven reptile search algorithm with weighted optimization and hybrid mutation for efficient FANET clustering,10.1007/s00521-025-11762-w,2025-01-25,2025-10-25,273
+Neural Computing and Applications,Multi-classification of brain tumors using proposed hybrid quantum–classical integrated neural network (HQCINN) models: shallow and deep circuit approaches,10.1007/s00521-025-11522-w,2024-10-17,2025-07-09,265
+Neural Computing and Applications,ViT-DtC: vision transformer-based design-to-code framework for code generation from generated UI designs and hand-drawn sketches,10.1007/s00521-025-11565-z,2024-03-29,2025-08-11,500
+Neural Computing and Applications,A novel double and triple BERT and distilBERT classification methods,10.1007/s00521-025-11531-9,2025-01-25,2025-07-23,179
+Neural Computing and Applications,Temporally adaptive dropout LSTM framework for enhanced financial time-series forecasting,10.1007/s00521-026-12065-4,2025-05-14,2026-02-25,287
+Neural Computing and Applications,Attention–based HAPS–to–ground nodes optimization for differential privacy towards secure semantic communications,10.1007/s00521-026-11851-4,2025-07-12,2026-01-12,184
+Neural Computing and Applications,Enhanced child face anonymization using YOLO framework for real-time privacy protection in videos,10.1007/s00521-025-11424-x,2024-11-05,2025-05-30,206
+Neural Computing and Applications,Global cultural appropriation discourse on reddit: a topic modeling approach,10.1007/s00521-025-11277-4,2025-02-15,2025-04-09,53
+Neural Computing and Applications,A benchmark study of optimizers for short-term solar PV power forecasting using neural networks under real-world constraints,10.1007/s00521-025-11546-2,2025-04-10,2025-07-23,104
+Neural Computing and Applications,Recognizing recyclable waste materials based on deep transfer learning models,10.1007/s00521-025-11592-w,2025-01-24,2025-08-12,200
+Neural Computing and Applications,A genetic-based hyper-heuristic optimisation method to solve the constrained multi-row facility layout problem,10.1007/s00521-025-11370-8,2024-03-18,2025-05-08,416
+Neural Computing and Applications,Improvement in the classification of EMG signals through a convolutional neural network,10.1007/s00521-025-11456-3,2025-02-21,2025-06-10,109
+Neural Computing and Applications,Smart green Guardian: leveraging transfer learning for early plant disease detection in kitchen gardens,10.1007/s00521-025-11796-0,2024-12-20,2025-10-07,291
+Neural Computing and Applications,SSD-YOLOv12: an improved YOLOv12n model for ship detection using SAR data,10.1007/s00521-025-11735-z,2025-05-13,2025-11-17,188
+Neural Computing and Applications,Efficient deep neural unification in symbolic processing,10.1007/s00521-025-11512-y,2024-04-22,2025-07-09,443
+Neural Computing and Applications,A review of deep learning methods for the prediction of prostate cancer,10.1007/s00521-025-11563-1,2025-04-27,2025-07-29,93
+Neural Computing and Applications,Meta-learning ensemble for emotion detection in conversational text,10.1007/s00521-025-11805-2,2025-01-02,2025-10-08,279
+Neural Computing and Applications,Accelerated black hole optimization algorithm with enhanced FOPID controller for omni-wheel drive mobile robot system,10.1007/s00521-025-11310-6,2024-02-03,2025-05-02,454
+Neural Computing and Applications,Detoxifying digital information: harnessing neural networks for cleaner data,10.1007/s00521-025-11444-7,2024-03-23,2025-06-16,450
+Neural Computing and Applications,IntruSafe: a FCNN-LSTM hybrid IoMT intrusion detection system for both string and 2D-spatial data using sandwich architecture,10.1007/s00521-025-11527-5,2024-06-05,2025-05-30,359
+Neural Computing and Applications,Boxelder Bug Search Optimization: a novel reliable tool for optimizing engineering problems through bio-inspired ecology of Boxelder bugs,10.1007/s00521-025-11637-0,2024-12-04,2025-08-22,261
+Neural Computing and Applications,Multi-objective optimization for home health care scheduling under uncertainty using fuzzy logic and non-dominated sorting genetic algorithm II,10.1007/s00521-026-11958-8,2025-10-30,2026-02-03,96
+Neural Computing and Applications,Integrating dynamic evolutionary fuzzy multilevel thresholding with differential evolution for enhanced precision in complex image segmentation tasks,10.1007/s00521-025-11419-8,2024-05-04,2025-06-03,395
+Neural Computing and Applications,Predictive maintenance based on IIoT and machine learning aligned with industry 4.0: a case study in waste-water treatment plant,10.1007/s00521-025-11463-4,2024-09-20,2025-06-19,272
+Neural Computing and Applications,Interpretable learning models: an XAI-focused evaluation of classifier performance,10.1007/s00521-026-11933-3,2025-07-20,2026-01-13,177
+Neural Computing and Applications,JONet: a new deep network for acute ischemic stroke localization in MRI,10.1007/s00521-026-11883-w,2024-08-26,2026-01-12,504
+Neural Computing and Applications,Power-preserving degradation for energy-aware images,10.1007/s00521-025-11839-6,2024-04-14,2025-09-18,522
+Neural Computing and Applications,Product clustering using dimensional reduction and GA-based clustering algorithm for the information industry,10.1007/s00521-026-11864-z,2025-05-30,2026-01-12,227
+Neural Computing and Applications,Unveiling epidemic dynamics: harnessing the synergy of social media data and mobility patterns during COVID-19,10.1007/s00521-025-11606-7,2024-11-07,2025-08-27,293
+Neural Computing and Applications,Analysis and prediction of enrollment decisions of university-admitted candidates,10.1007/s00521-025-11632-5,2025-04-15,2025-08-22,129
+Neural Computing and Applications,Optimized deep CNN with rotation-driven features for malaria parasite detection,10.1007/s00521-025-11598-4,2024-10-18,2025-08-12,298
+Neural Computing and Applications,Bilinear quantum recurrent neural network-based real-time adaptive controller,10.1007/s00521-025-11651-2,2023-03-13,2025-09-03,905
+Neural Computing and Applications,Torque ripple minimization and maximum power point tracking of wind turbine doubly fed induction generator based on bonobo optimization algorithm,10.1007/s00521-025-11404-1,2024-08-12,2025-05-30,291
+Neural Computing and Applications,Enhancing gaze estimation accuracy in wearable eye-tracking devices using neural networks,10.1007/s00521-025-11334-y,2024-11-27,2025-05-04,158
+Neural Computing and Applications,Encoding using three-channel deep convolutional neural network and decoding in multi-layer perceptron for facial emotion recognition,10.1007/s00521-025-11797-z,2023-11-18,2025-10-07,689
+Neural Computing and Applications,Dual-stage deep neural network for tooth localization and caries segmentation in panoramic dental imaging,10.1007/s00521-026-11865-y,2025-04-17,2026-01-12,270
+Neural Computing and Applications,GSML: Graph structure self-evolution recognition model based on multi-task learning,10.1007/s00521-026-11894-7,2024-08-14,2026-01-13,517
+Neural Computing and Applications,GoHarvest: an intelligent crop recommendation system using explainable attentive dilated CNN with voting ensemble(ADCVE) integrating CTGAN method at user end,10.1007/s00521-026-11954-y,2024-10-25,2025-12-05,406
+Neural Computing and Applications,Early drowsiness detection model in autonomous vehicles using GAN and YOLO integration,10.1007/s00521-025-11676-7,2024-08-26,2025-07-06,314
+Neural Computing and Applications,A deep learning-based CNN-GRU prediction model for early fault diagnosis in rolling ball bearings,10.1007/s00521-025-11293-4,2024-03-21,2025-04-16,391
+Neural Computing and Applications,TA-ASTGCN: a trend-aware adaptive spatio-temporal graph convolutional network for traffic flow prediction,10.1007/s00521-025-11513-x,2024-07-15,2025-07-09,359
+Neural Computing and Applications,S2LU: An Activation Function Based on Skew Student's t-distribution for Improved Neural Network Performance,10.1007/s00521-025-11704-6,2025-09-22,2025-12-05,74
+Neural Computing and Applications,Advanced detection of cardiac arrhythmias using machine learning algorithms on ECG data,10.1007/s00521-025-11681-w,2024-09-07,2025-05-04,239
+Neural Computing and Applications,An innovative approach harmonizing convolution and self-attention to enhance EEG-based seizure detection,10.1007/s00521-025-11356-6,2024-02-04,2025-05-08,459
+Neural Computing and Applications,Autoencoder-based dimensionality reduction of turbulent channel flow under spanwise wall oscillations,10.1007/s00521-026-11856-z,2025-06-03,2026-01-12,223
+Neural Computing and Applications,An intelligent approach for detection and classification of transmission line faults using Markov transition field and residual network,10.1007/s00521-025-11718-0,2023-12-26,2025-12-01,706
+Neural Computing and Applications,Multiplex network-based representation of vision transformers for visual explainability,10.1007/s00521-025-11591-x,2024-11-07,2025-08-12,278
+Neural Computing and Applications,Gender classification using dorsal NIR hand veins imaging,10.1007/s00521-025-11363-7,2024-08-08,2025-05-08,273
+Neural Computing and Applications,Adversarial threats to vision transformers: evaluating robustness beyond CNNs,10.1007/s00521-025-11734-0,2022-09-04,2025-11-12,1165
+Neural Computing and Applications,Weight-space noise for privacy-robustness trade-offs in federated learning,10.1007/s00521-025-11420-1,2024-07-12,2025-05-30,322
+Neural Computing and Applications,Parrot optimization-enhanced SVM model for Parkinson’s diagnosis,10.1007/s00521-025-11667-8,2025-01-23,2025-09-09,229
+Neural Computing and Applications,UDA-student network and the role of pixel-space relationships in pseudo-label optimization,10.1007/s00521-025-11507-9,2024-02-07,2025-07-09,518
+Neural Computing and Applications,Deep learning-based beat-to-beat arterial blood pressure estimation using distant radar signals,10.1007/s00521-025-11327-x,2024-03-15,2025-05-02,413
+Neural Computing and Applications,Revolutionizing cervical cancer detection: a new optimized explainable artificial intelligence model,10.1007/s00521-025-11548-0,2024-08-06,2025-07-23,351
+Neural Computing and Applications,Development of computationally feasible hospital-specific large language models using parameter-efficient and preference alignment techniques,10.1007/s00521-025-11600-z,2025-05-07,2025-08-12,97
+Neural Computing and Applications,Hardware implementation of a quantized CNN model for early detection of skin cancer cells using hls4ml tool,10.1007/s00521-025-11411-2,2023-08-20,2025-05-30,649
+Neural Computing and Applications,Multi-level thresholding segmentation for brain tumor detection using optimized deep learning approach,10.1007/s00521-025-11398-w,2023-09-29,2025-05-23,602
+Neural Computing and Applications,Underspecification and uncertainty in deep learning models: Is there a connection?,10.1007/s00521-025-11415-y,2024-10-18,2025-05-30,224
+Neural Computing and Applications,Deep learning for urban air quality: a traffic-based prediction and alert system for Valencia,10.1007/s00521-025-11316-0,2024-11-04,2025-05-02,179
+Neural Computing and Applications,Optimizing student engagement detection using facial and behavioral features,10.1007/s00521-025-11317-z,2024-11-30,2025-05-02,153
+Neural Computing and Applications,A convolutional neural network method to obtain the dynamic model parameters of a three-linear-axis Cartesian robot,10.1007/s00521-025-11297-0,2025-02-21,2025-04-16,54
+Neural Computing and Applications,The evolution of GANs in medical imaging: a scientometric perspective,10.1007/s00521-025-11793-3,2024-11-02,2025-10-09,341
+Neural Computing and Applications,Fixed-point graph convolutional networks against adversarial attacks,10.1007/s00521-025-11752-y,2024-10-16,2025-10-29,378
+Neural Computing and Applications,VGG19-ResSE: an optimized hybrid model for accurate segmentation and classification of vitiligo lesions,10.1007/s00521-025-11670-z,2024-12-21,2025-09-05,258
+Neural Computing and Applications,Leveraging foundation model DINO-v2 for image complexity estimation,10.1007/s00521-025-11786-2,2025-04-07,2025-10-08,184
+Neural Computing and Applications,Development of an ANN-based online surface roughness prediction (ANN-OSRP) system in wire electrical discharge machining processes,10.1007/s00521-025-11745-x,2024-09-24,2025-10-31,402
+Neural Computing and Applications,Unsupervised biomarker discovery leveraging foundation models: a multimodal approach to clinical data integration,10.1007/s00521-025-11751-z,2024-12-02,2025-10-29,331
+Neural Computing and Applications,A novel federated swarm learning for increased resilience in latency-aware cloud-native applications,10.1007/s00521-025-11728-y,2025-04-25,2025-12-01,220
+Neural Computing and Applications,GRAF-IDS: graph-based clustering as aggregation for federated intrusion detection system in IoT network,10.1007/s00521-025-11385-1,2024-12-18,2025-05-21,154
+Neural Computing and Applications,Cybersecurity challenges and opportunities of machine learning-based artificial intelligence,10.1007/s00521-025-11604-9,2025-02-08,2025-08-22,195
+Neural Computing and Applications,"The hyperdimensional transform for distributional modeling, regression and classification",10.1007/s00521-025-11405-0,2024-08-21,2025-05-30,282
+Neural Computing and Applications,Effective non-random extreme learning machine,10.1007/s00521-025-11519-5,2024-11-25,2025-07-09,226
+Neural Computing and Applications,Multi-scale residual attention model for retinal image feature segmentation: toward chemical exposure detection,10.1007/s00521-025-11567-x,2025-03-03,2025-08-11,161
+Neural Computing and Applications,Providing projective and affine invariance for recognition by Multi-Angle-Scale Vision Transformer,10.1007/s00521-025-11821-2,2024-11-26,2025-09-22,300
+Neural Computing and Applications,OVST: online video stabilization with two-stage training transformer,10.1007/s00521-025-11494-x,2023-04-08,2025-07-03,817
+Neural Computing and Applications,Data-driven deep neural control for chattering reduction in a novel caterpillar robot mechanism,10.1007/s00521-025-11447-4,2024-11-15,2025-06-13,210
+Neural Computing and Applications,Enhanced oil recovery screening in one of the reservoirs in the southwest of Iran using machine learning methods,10.1007/s00521-025-11657-w,2024-06-03,2025-09-04,458
+Neural Computing and Applications,Structural damage identification of existing bridges using machine learning-aided nested sequential optimization,10.1007/s00521-025-11673-w,2024-09-10,2025-08-12,336
+Neural Computing and Applications,Enhancing Chinese legal judgment prediction in LLMs via legal norms integration,10.1007/s00521-025-11713-5,2025-01-21,2025-12-05,318
+Neural Computing and Applications,A novel medical image security and compression based on multiple-order fractional quaternion Hahn moments and 2D-chaotic map,10.1007/s00521-025-11523-9,2023-11-28,2025-07-09,589
+Neural Computing and Applications,An efficient task offloading based on modified elk herd optimizer for minimizing response times in fog-enabled IoT,10.1007/s00521-025-11569-9,2025-03-04,2025-08-11,160
+Neural Computing and Applications,Optimized intrusion detection with deep learning classification models,10.1007/s00521-025-11383-3,2024-08-24,2025-05-21,270
+Neural Computing and Applications,Detecting image forgery: a deep learning framework with feature pyramid integration for inpainting detection,10.1007/s00521-025-11461-6,2024-05-24,2025-06-18,390
+Neural Computing and Applications,Automation of cytological analysis of peritoneal and pleural cavity fluids using computer vision,10.1007/s00521-026-11993-5,2025-02-28,2026-02-03,340
+Neural Computing and Applications,Improving the precision of Markov-switching GARCH models using denoising methods and auto encoder neural networks,10.1007/s00521-025-11364-6,2024-12-17,2025-05-08,142
+Neural Computing and Applications,A different perspective on the diagnosis of COVID-19 disease with the developed quadstar local binary pattern method,10.1007/s00521-025-11640-5,2024-06-14,2024-09-09,87
+Neural Computing and Applications,LDFormer: lightweight dehazing transformer,10.1007/s00521-025-11440-x,2024-11-13,2025-06-09,208
+Neural Computing and Applications,A small object detection method based on CSF-YOLO for UAV images,10.1007/s00521-025-11687-4,2023-07-29,2025-07-09,711
+Neural Computing and Applications,Graph isomorphism attention network combined with pre-trained language models: a novel approach for crystal material property prediction,10.1007/s00521-025-11532-8,2024-12-17,2025-07-23,218
+Neural Computing and Applications,The three-eyed invigilator: an AI-powered interactive rotator for enhanced online exam proctoring,10.1007/s00521-026-11844-3,2025-09-19,2026-01-12,115
+Neural Computing and Applications,Single-shot policy explanation to improve task performance via semantic reward coaching,10.1007/s00521-025-11477-y,2024-06-17,2025-07-03,381
+Neural Computing and Applications,Neural leader–follower swarm control algorithm for underwater vehicles,10.1007/s00521-025-11429-6,2024-12-05,2025-06-04,181
+Neural Computing and Applications,Enhancing clustering performance for TASOCNN: a topology adaptive approach for circular data with application to color image segmentation,10.1007/s00521-026-11897-4,2024-01-28,2026-01-15,718
+Neural Computing and Applications,Damage detection in aircraft engine borescope inspection using deep learning,10.1007/s00521-025-11443-8,2023-09-21,2025-06-16,634
+Neural Computing and Applications,CrossGCL: cross-view graph contrastive learning with dual tasks for drug recommendation,10.1007/s00521-025-11497-8,2024-11-18,2025-07-03,227
+Neural Computing and Applications,GUNNEL: guided mixup augmentation and multi-model fusion for aquatic animal segmentation,10.1007/s00521-025-11417-w,2023-08-10,2025-06-03,663
+Neural Computing and Applications,Nutriconv: multitask learning framework for digital dietary tracking trained on EFSA’s pancake dataset,10.1007/s00521-025-11542-6,2025-04-25,2025-07-23,89
+Neural Computing and Applications,Interval granular probabilistic neural network for unified processing of classification data,10.1007/s00521-025-11773-7,2024-03-19,2025-10-25,585
+Neural Computing and Applications,Integrating machine learning models and explainable AI to predict DTaP vaccine demand in rural primary care,10.1007/s00521-025-11416-x,2025-02-04,2025-05-30,115
+Neural Computing and Applications,A systematic review of artificial intelligence techniques for violence detection in audio,10.1007/s00521-026-11965-9,2025-10-13,2026-02-03,113
+Neural Computing and Applications,A lightweight and efficient intrusion detection system (IDS) for unmanned aerial vehicles,10.1007/s00521-025-11276-5,2024-10-01,2025-04-09,190
+Neural Computing and Applications,Robotic arm visual-servoing for AI-driven chess gameplay using LLM-based plannner,10.1007/s00521-025-11700-w,2024-01-11,2025-12-05,694
+Neural Computing and Applications,SLTrans: a sequential learning transformer for extracting spatial–temporal features from EEG signals,10.1007/s00521-025-11683-8,2024-02-28,2025-08-14,533
+Neural Computing and Applications,Performance evaluation of AI and hybrid-AI models for estimation of evaporation in Lesser Himalayan Valley,10.1007/s00521-025-11492-z,2024-12-24,2025-07-06,194
+Neural Computing and Applications,Identifying overlapping bird species from raw field audio recordings by assembling Grouped Channel Feature Attention with multi-scale residual CBAM,10.1007/s00521-025-11361-9,2024-02-03,2025-05-08,460
+Neural Computing and Applications,An efficient epileptic seizure detection framework based on optimized deep residual network,10.1007/s00521-025-11354-8,2024-10-15,2025-05-08,205
+Neural Computing and Applications,Detection of diseases in cucumber using deep neural networks,10.1007/s00521-026-11945-z,2025-04-23,2026-01-12,264
+Neural Computing and Applications,STAHGNet: modeling hybrid-grained heterogenous dependency efficiently for traffic prediction,10.1007/s00521-025-11525-7,2024-02-29,2024-10-07,221
+Neural Computing and Applications,Explainability graph neural networks with nearest neighbor estimate interpretations,10.1007/s00521-025-11339-7,2024-06-27,2025-05-02,309
+Neural Computing and Applications,Mitigating data imbalance in semantic segmentation using sequential unconditional and conditional diffusion models: a case study in digital rock physics,10.1007/s00521-025-11616-5,2024-11-10,2025-08-22,285
+Neural Computing and Applications,Enhancing power grid frequency stability with an optimized TID-MRAC controller and electric vehicle integration under renewable energy penetration,10.1007/s00521-025-11298-z,2024-08-24,2025-04-16,235
+Neural Computing and Applications,A new deep decoder type cascaded feedforward neural network for critical heat flux prediction in power reactors,10.1007/s00521-025-11436-7,2023-09-06,2025-06-09,642
+Neural Computing and Applications,A survey on retrieval-augmentation generation (RAG) models for healthcare applications,10.1007/s00521-025-11666-9,2024-11-16,2025-09-09,297
+Neural Computing and Applications,An evaluation of a pre-trained transformer-based self-distillation model (DINOv2) for cross-domain plant species identification,10.1007/s00521-025-11499-6,2024-07-31,2025-07-09,343
+Neural Computing and Applications,A pre-communication mechanism for evolutionary multitasking optimization,10.1007/s00521-025-11534-6,2024-12-31,2025-07-23,204
+Neural Computing and Applications,Round trip time meets transformers: high-fidelity human counting in cluttered environments,10.1007/s00521-025-11540-8,2024-12-18,2025-07-23,217
+Neural Computing and Applications,Optimizing energy efficiency through precise occupancy detection: A tailored CNN architecture for smart buildings and beyond,10.1007/s00521-025-11348-6,2024-06-10,2025-05-08,332
+Neural Computing and Applications,Data classification based on improved cooperative genetic algorithm-extreme learning machine,10.1007/s00521-025-11392-2,2024-12-19,2025-05-23,155
+Neural Computing and Applications,Neural networks-based automated test oracles,10.1007/s00521-026-11909-3,2025-03-18,2026-01-13,301
+Neural Computing and Applications,R-soft sets: a novel entropy measure and its application in decision-making algorithms,10.1007/s00521-025-11685-6,2023-12-20,2025-08-22,611
+Neural Computing and Applications,A deep learning-based approach for a real-time diagnosis of skin diseases,10.1007/s00521-025-11577-9,2024-11-17,2025-08-14,270
+Neural Computing and Applications,Deep graph neural network with progressive graph structure denoising,10.1007/s00521-025-11768-4,2024-11-12,2025-10-25,347
+Neural Computing and Applications,A novel transformer-based software fault prediction using syntactic tree and word embedding,10.1007/s00521-025-11771-9,2023-12-07,2025-10-25,688
+Neural Computing and Applications,Adaptive learning of instance representatives in dual spaces for medical image classification,10.1007/s00521-025-11481-2,2024-10-12,2025-07-03,264
+Neural Computing and Applications,Enhancing dung beetle optimization algorithm with hybrid multi-strategy and its engineering applications,10.1007/s00521-025-11371-7,2024-02-12,2025-05-08,451
+Neural Computing and Applications,An enhanced weighted mean of vectors optimizer: addressing combined heat and power economic dispatch with system losses and valve point loading effect,10.1007/s00521-025-11245-y,2024-02-07,2025-04-01,419
+Neural Computing and Applications,Leveraging ordinal generalized matrix learning vector quantization for improved classification,10.1007/s00521-026-11980-w,2025-06-19,2026-02-03,229
+Neural Computing and Applications,Enhanced fault detection and diagnosis in wind turbine systems using canonical variate analysis and reconstruction-based contribution method,10.1007/s00521-025-11541-7,2025-02-21,2025-07-23,152
+Neural Computing and Applications,Multimodal deep learning model for bitcoin price prediction with news and market prices,10.1007/s00521-025-11432-x,2025-01-26,2025-06-04,129
+Neural Computing and Applications,A novel neuron efficiency metric for enhancing deep neural network pruning,10.1007/s00521-026-11855-0,2025-06-19,2026-01-12,207
+Neural Computing and Applications,Optimization of hybrid active power filters using dynamic fitness-distance balance-based metaheuristic approach,10.1007/s00521-025-11652-1,2024-10-15,2025-09-03,323
+Neural Computing and Applications,Optimized ensemble machine learning cancer classification system for clinical decision-making,10.1007/s00521-025-11599-3,2025-02-19,2025-08-12,174
+Neural Computing and Applications,Enhanced arrhythmia detection using spiking neural networks: an in-depth analysis of ECG data from the MIMIC-IV clinical database,10.1007/s00521-025-11585-9,2025-04-02,2025-08-12,132
+Neural Computing and Applications,Improved grasshopper optimization and modified moth–flame optimization (IGH-MMFO) algorithm for identifying optimal threshold in image segmentation,10.1007/s00521-025-11391-3,2024-05-13,2025-05-23,375
+Neural Computing and Applications,"Prediction of compressive strengths of Portland cement with random forest, support vector machine and gradient boosting models",10.1007/s00521-025-11536-4,2024-09-24,2025-07-23,302
+Neural Computing and Applications,Integrating V2X solutions in intelligent green cities: an AI-driven point exchange system approach,10.1007/s00521-025-11187-5,2024-01-14,2025-03-14,425
+Neural Computing and Applications,"Enhancing differential evolution algorithm for CEC 2014, CEC 2017, CEC 2021, and CEC 2022 test suites",10.1007/s00521-025-11678-5,2023-09-26,2025-07-23,666
+Neural Computing and Applications,"MSAE-DL: enhancing breast cancer classification through hybrid self-attention integration, feature fusion, and ensemble classification in digital breast tomosynthesis",10.1007/s00521-025-11192-8,2024-10-14,2025-03-19,156
+Neural Computing and Applications,SLF-ADM: Securing Linux frontiers: Advanced persistent threat (APT) detection using machine learning,10.1007/s00521-025-11338-8,2024-04-17,2025-05-04,382
+Neural Computing and Applications,Efficient deformable modeling network for multi-view 3D object detection,10.1007/s00521-026-11881-y,2025-03-02,2026-01-12,316
+Neural Computing and Applications,Empowering CO2 emission prediction: an innovative approach based on jackaloptimization techniques,10.1007/s00521-025-11614-7,2024-10-16,2025-08-22,310
+Neural Computing and Applications,Enhancing optimization efficiency through discrete integer metaheuristic optimization algorithm (DIMOA): a novel metaheuristic approach for truss optimization,10.1007/s00521-025-11739-9,2024-06-27,2025-11-08,499
+Neural Computing and Applications,A sharper building segmentation by shape gradient enhancement,10.1007/s00521-025-11767-5,2024-03-17,2025-10-25,587
+Neural Computing and Applications,An imperceptible attack on machine translation system and the countermeasure,10.1007/s00521-025-11308-0,2024-03-04,2025-04-01,393
+Neural Computing and Applications,Efficient few-shot human activity recognition via meta-learning and data augmentation,10.1007/s00521-025-11408-x,2024-12-06,2025-05-30,175
+Neural Computing and Applications,Balancing misclassification errors in image-based inference using problem domain semantics and a nested cascade architecture,10.1007/s00521-025-11613-8,2024-07-29,2025-08-22,389
+Neural Computing and Applications,Human detection in UAV imagery using deep learning: a review,10.1007/s00521-025-11446-5,2024-11-01,2025-06-10,221
+Neural Computing and Applications,VisioDECT: a novel approach to drone detection using CBAM-integrated YOLO and GELAN-E models,10.1007/s00521-025-11448-3,2024-12-15,2025-06-16,183
+Neural Computing and Applications,Gait stability anomalies assessed by measures describing nonlinear dynamical systems,10.1007/s00521-026-11853-2,2025-07-28,2026-01-12,168
+Neural Computing and Applications,Hybrid U-Net architecture with REASPP and DenseNet for robust medical image segmentation,10.1007/s00521-025-11738-w,2024-10-30,2025-11-08,374
+Neural Computing and Applications,FRIC: a framework for feature importance explanations and evaluation in span-level NLP,10.1007/s00521-025-11628-1,2025-01-22,2025-08-21,211
+Neural Computing and Applications,"Revolutionizing heart health: an AI-driven analysis of dietary habits, unveiling impacts on human health and attitudes",10.1007/s00521-025-11559-x,2025-05-07,2025-07-23,77
+Neural Computing and Applications,Ensemble interpretation: a unified framework for explanation methods,10.1007/s00521-025-11130-8,2024-03-26,2025-02-15,326
+Neural Computing and Applications,MindfulLIME: a stable solution for explanations of machine learning models with enhanced localization precision—a medical image case study,10.1007/s00521-025-11583-x,2024-10-09,2025-08-14,309
+Neural Computing and Applications,Encoding analysis in inhibition response classification using Sinc-EEGNet and partial directed coherence,10.1007/s00521-025-11588-6,2024-10-24,2025-08-12,292
+Neural Computing and Applications,Gait data classification for Parkinson’s disease detection using discrete wavelet transform features and a proposed neural network model,10.1007/s00521-025-11621-8,2025-02-13,2025-08-22,190
+Neural Computing and Applications,Memory-based batch contrastive regularization for enhanced feature learning in deep neural networks,10.1007/s00521-026-11885-8,2024-10-10,2026-01-12,459
+Neural Computing and Applications,Synthesis-guided unsupervised anomaly detection in industrial images with large language model-driven analysis,10.1007/s00521-025-11775-5,2025-03-18,2025-10-20,216
+Neural Computing and Applications,Theory of mind and continual reinforcement learning for bullying intervention,10.1007/s00521-025-11835-w,2025-03-12,2025-09-18,190
+Neural Computing and Applications,Predicting design suitability of box-shaped sustainable timber structural members using machine learning and hyperparameter optimization,10.1007/s00521-025-11556-0,2024-02-05,2025-07-23,534
+Neural Computing and Applications,Parameter selection using Shannon entropy in soft set theory: an application to medical diagnosis,10.1007/s00521-025-11774-6,2025-05-22,2025-10-25,156
+Neural Computing and Applications,The design and application of steerable side window framework,10.1007/s00521-025-11819-w,2024-03-07,2025-09-22,564
+Neural Computing and Applications,"Analyzing toxicity in Arabic social media: a study of regional dialects, sentiments, and toxic topics on X/Twitter",10.1007/s00521-025-11503-z,2024-12-27,2025-07-09,194
+Neural Computing and Applications,Enhancing predictive accuracy of nano-additive concrete gamma ray attenuation at high temperatures using AI-based models,10.1007/s00521-025-11491-0,2024-07-12,2025-07-07,360
+Neural Computing and Applications,AdversarialGait: direction invariant gait recognition with adversarial learning,10.1007/s00521-025-11505-x,2025-02-25,2025-07-08,133
+Neural Computing and Applications,Integration of an adaptive neuro-fuzzy inference system (ANFIS) model for groundwater level prediction utilizing feature engineering techniques in the training process,10.1007/s00521-025-11761-x,2025-05-03,2025-10-25,175
+Neural Computing and Applications,Intelligent classification of muscular paralysis using optimized convolutional neural network layers from raw electromyography signals,10.1007/s00521-025-11431-y,2025-01-24,2025-06-04,131
+Neural Computing and Applications,DEPP: dictionary embedded probabilistic priors for scene text image super-resolution,10.1007/s00521-025-11441-w,2025-02-15,2025-06-10,115
+Neural Computing and Applications,Advancing wearable gait-based identity recognition: multi-head attention and feature analysis for unconstrained environments and multiple sensor locations,10.1007/s00521-025-11832-z,2023-09-14,2025-09-18,735
+Neural Computing and Applications,An enhanced deep learning model for detection and classification of dental caries in panoramic radiographs,10.1007/s00521-025-11730-4,2025-03-14,2025-11-12,243
+Neural Computing and Applications,EGAN: an ensemble adversarial network for topology-preserving EEG data generation for predicting cognitive load levels,10.1007/s00521-025-11346-8,2024-07-16,2025-03-04,231
+Neural Computing and Applications,Explainable classification by local error amplification,10.1007/s00521-025-11535-5,2025-04-01,2025-07-23,113
+Neural Computing and Applications,Multi-model anomaly detection for industrial inspection with dynamic loss weighting and soft-hard features loss,10.1007/s00521-025-11367-3,2024-07-22,2025-05-08,290
+Neural Computing and Applications,Improving image captioning descriptiveness by ranking and LLM-based fusion,10.1007/s00521-025-11672-x,2025-04-16,2025-08-22,128
+Neural Computing and Applications,PolyNeXt: a novel semantic segmentation network for polyp detection in colonoscopy images,10.1007/s00521-026-11898-3,2024-01-28,2026-01-14,717
+Neural Computing and Applications,Selection of medical equipment suppliers using structural equation modeling and fuzzy slack-based DEA models,10.1007/s00521-026-11893-8,2024-07-10,2026-01-14,553
+Neural Computing and Applications,A self-organizing soft sensor for process control systems: Integrating support vector regression with subtractive clustering,10.1007/s00521-025-11504-y,2025-01-07,2025-07-08,182
+Neural Computing and Applications,"A fully convolutional neural network for fast detection, classification, and segmentation of fabric defects",10.1007/s00521-025-11495-w,2024-10-09,2025-07-03,267
+Neural Computing and Applications,"Explainable deep learning techniques for wind speed forecasting in coastal areas: Integrating model configuration, regularization, early stopping, and SHAP analysis",10.1007/s00521-025-11433-w,2025-02-08,2025-06-04,116
+Neural Computing and Applications,Innovative hybrid model for spalling prediction in concrete pavement: SVR enhanced by particle swarm optimization,10.1007/s00521-025-11744-y,2024-12-26,2025-11-02,311
+Neural Computing and Applications,Geometric multimodal learning to support prostate cancer diagnosis on limited and multicentric bi-parametric MRI data,10.1007/s00521-025-11413-0,2024-05-20,2025-05-30,375
+Neural Computing and Applications,MRFFD: multimodal recommender based on feature fusion and decoupling,10.1007/s00521-025-11372-6,2024-03-03,2025-05-08,431
+Neural Computing and Applications,Optimizing software defect prediction: a fusion of binary horse herd optimizer and machine learning methods,10.1007/s00521-025-11669-6,2024-08-29,2025-05-30,274
+Neural Computing and Applications,Fourier convolutional decoder: reconstructing solar flare images via deep learning,10.1007/s00521-025-11283-6,2024-09-29,2025-04-09,192
+Neural Computing and Applications,Hierarchical deep learning model for tooth classification in intra-oral dental photographs,10.1007/s00521-025-11639-y,2025-02-08,2025-08-22,195
+Neural Computing and Applications,A comparative study of one-class classification methods for bloodstain detection in hyperspectral forensic imaging,10.1007/s00521-025-11825-y,2024-09-10,2025-09-22,377
+Neural Computing and Applications,Enhancing monocular depth estimation with an advanced encoder-decoder architecture,10.1007/s00521-025-11566-y,2024-11-16,2025-08-11,268
+Neural Computing and Applications,Efficient time-series approximation with linear recurrent neural networks: architecture learning and predictive power,10.1007/s00521-025-11655-y,2025-02-28,2025-09-02,186
+Neural Computing and Applications,Comprehensive survey on residual neural networks improvements in agricultural applications,10.1007/s00521-025-11682-9,2024-11-11,2025-06-10,211
+Neural Computing and Applications,Multi-task deep learning framework for forecasting CO2 and temperature using Conv1D-LSTM with explainable AI,10.1007/s00521-026-12039-6,2025-10-14,2026-02-23,132
+Neural Computing and Applications,Universal COVID-19 time series patterns model for confirmed and death cases forecasting using transfer learning,10.1007/s00521-026-11873-y,2024-08-18,2026-01-12,512
+Neural Computing and Applications,An optimization approach for big data processing in complex networks fusing graph computing and spark architecture,10.1007/s00521-025-11595-7,2025-05-13,2025-08-12,91
+Neural Computing and Applications,Digital footprints and personality prediction: integrating methodological innovations and ethical considerations in social media analysis,10.1007/s00521-025-11607-6,2024-03-25,2025-08-22,515
+Neural Computing and Applications,DALEK: combining deep active learning and explanations methods for fake news detection on COVID-19,10.1007/s00521-025-11830-1,2024-11-07,2025-09-18,315
+Neural Computing and Applications,A multi-scale deep learning approach for nutrient deficiency detection in banana plants using adaptive feature pooling,10.1007/s00521-025-11726-0,2025-04-05,2025-12-01,240
+Neural Computing and Applications,Hybrid approach for missing data imputation via correlation-based interpolation and outlier analysis,10.1007/s00521-026-11961-z,2025-10-21,2026-02-03,105
+Neural Computing and Applications,Enhancing computer program anomaly detection: a decreasing-threshold approach,10.1007/s00521-025-11344-w,2024-12-10,2025-05-02,143
+Neural Computing and Applications,Brain tumor diagnosis using hybrid quantum-classical neural networks,10.1007/s00521-025-11601-y,2025-01-28,2025-08-12,196
+Neural Computing and Applications,Novel CNN-driven model for brain tumor image categorization,10.1007/s00521-025-11770-w,2024-12-06,2025-10-25,323
+Neural Computing and Applications,Attention-based transformer model for Arabic image captioning,10.1007/s00521-025-11199-1,2023-11-27,2025-03-19,478
+Neural Computing and Applications,A cross-entropy based direct policy search algorithm for multi-objective energy storage control,10.1007/s00521-025-11785-3,2024-11-09,2025-10-09,334
+Neural Computing and Applications,Reinforcement learning-based decision support system for an agile humanitarian relief chain,10.1007/s00521-025-11352-w,2024-08-24,2025-05-08,257
+Neural Computing and Applications,Comprehensive dual framework for lesion segmentation and classification in retinal OCT scans,10.1007/s00521-025-11375-3,2024-04-28,2025-05-10,377
+Neural Computing and Applications,Mining hidden layers in CNN for certainty prediction in medical imaging,10.1007/s00521-025-11840-z,2025-01-05,2025-09-22,260
+Neural Computing and Applications,Extended dissipativity-based finite-time contractive boundedness for delayed discrete-time neural networks via event-triggered approach,10.1007/s00521-025-11399-9,2023-12-21,2025-05-23,519
+Neural Computing and Applications,VATP360: viewport adaptive 360-degree video streaming based on tile priority,10.1007/s00521-026-11879-6,2024-12-20,2026-01-12,388
+Neural Computing and Applications,Casenet: a novel HIV forecasting model using attention-based spatio-temporal graph network leveraging city-wide infection correlations,10.1007/s00521-025-11804-3,2024-12-11,2025-10-08,301
+Neural Computing and Applications,Joint channel–spatial entropy modeling for efficient visual coding,10.1007/s00521-025-11138-0,2023-09-05,2025-02-15,529
+Neural Computing and Applications,A dual-channel robust deep learning framework for enhanced detection of hardware Trojans via side-channel analysis,10.1007/s00521-025-11841-y,2025-03-26,2025-09-18,176
+Neural Computing and Applications,Multilayer perceptron ensembles in a truly sparse training context,10.1007/s00521-025-11294-3,2024-10-25,2025-04-16,173
+Neural Computing and Applications,Data augmentation and feature extraction using deep learning for motor imagery EEG-based brain–computer interface classification,10.1007/s00521-025-11403-2,2022-06-08,2025-05-30,1087
+Neural Computing and Applications,Distributed optimization with faulty nodes: robust aggregation in hyperbolic space,10.1007/s00521-025-11475-0,2025-03-07,2025-07-03,118
+Neural Computing and Applications,BotMHG: a hybrid deep learning-based graphical approach to detect botnets using graph neural networks and graph attention networks on topological and temporal features,10.1007/s00521-025-11402-3,2024-04-21,2025-05-30,404
+Neural Computing and Applications,A multi-objective mathematical model for addressing human factors in the risk of cash-in-transit problem using hybrid multi-objectives metaheuristic algorithm,10.1007/s00521-025-11742-0,2024-10-20,2025-11-02,378
+Neural Computing and Applications,Exploring the evolution trends of network security research field based on P4OE heterogeneous network,10.1007/s00521-026-11950-2,2023-11-20,2025-10-25,705
+Neural Computing and Applications,A lightweighted densely connected network for insect-pest identification in cotton crop,10.1007/s00521-025-11469-y,2024-09-09,2025-07-03,297
+Neural Computing and Applications,Embedded computer software security monitoring system based on dynamic intelligent algorithm,10.1007/s00521-025-11472-3,2025-02-26,2025-07-03,127
+Neural Computing and Applications,The role of explainable AI in building trust and acceptance of AI-driven heart disease,10.1007/s00521-025-11629-0,2025-03-04,2025-08-21,170
+Neural Computing and Applications,Adapting artificial rabbit optimization for solving classification problem: benchmark dataset analysis,10.1007/s00521-025-11572-0,2024-12-24,2025-08-14,233
+Neural Computing and Applications,Fortifying EV charging stations: AI-powered detection and mitigation of DDoS attacks using personalized Federated learning,10.1007/s00521-025-11452-7,2024-08-24,2025-06-10,290
+Neural Computing and Applications,Enhanced classification of brain MRI images leveraging edge ai strategies and multi-model ensembles,10.1007/s00521-025-11741-1,2025-05-08,2025-11-08,184
+Neural Computing and Applications,Intelligent deep learning framework for cache pollution threatening detection using named data networking,10.1007/s00521-025-11620-9,2025-02-06,2025-08-21,196
+Neural Computing and Applications,Integrative multi-omics approach for identifying and classifying high-risk patients in prostate cancer management,10.1007/s00521-025-11386-0,2025-01-07,2025-05-20,133
+Neural Computing and Applications,Advanced Parkinson’s disease diagnosis: leveraging deep learning and machine learning with vowel analysis,10.1007/s00521-025-11727-z,2024-02-07,2025-12-01,663
+Neural Computing and Applications,Exploring the frontiers of image super-resolution: a review of modern techniques and emerging applications,10.1007/s00521-025-11331-1,2024-02-01,2025-05-04,458
+Neural Computing and Applications,TransConv: a lightweight architecture based on transformers and convolutional neural networks for adenocarcinoma and Barrett’s esophagus identification,10.1007/s00521-025-11299-y,2024-09-26,2025-04-16,202
+Neural Computing and Applications,MOGSM-Net: Multi-objective genetically searched multi-label deep networks for non-intrusive load monitoring,10.1007/s00521-026-11913-7,2025-10-20,2026-01-14,86
+Neural Computing and Applications,Synthetic chest X-ray data generation for tuberculosis infection detection using generative adversarial networks,10.1007/s00521-025-11388-y,2025-02-12,2025-05-20,97
+Neural Computing and Applications,Handling uncertainty with parametric surrogate-assisted optimization for dynamic multi-objective problems,10.1007/s00521-025-11359-3,2024-04-15,2025-05-08,388
+Neural Computing and Applications,A generalized leaf disease recognition of various crops and vegetables through computer vision and machine learning,10.1007/s00521-025-11382-4,2024-08-15,2025-05-20,278
+Neural Computing and Applications,Real-time hybrid demand response strategy based on reinforcement learning for smart grid,10.1007/s00521-025-11710-8,2023-03-25,2025-12-05,986
+Neural Computing and Applications,Corpus machine translation system based on compaction algorithm and self-attention mechanism model,10.1007/s00521-025-11351-x,2024-12-10,2025-05-08,149
+Neural Computing and Applications,An artificial neural network-based automated identification system for selection of appropriate turbulence model for numerical simulation of tube thermal enhancement using nanofluids,10.1007/s00521-025-11397-x,2024-12-25,2025-05-23,149
+Neural Computing and Applications,Machine learning technique for Alzheimer’s disease diagnosing using online handwriting data,10.1007/s00521-025-11836-9,2025-02-24,2025-09-18,206
+Neural Computing and Applications,Enhancing aviation safety and efficiency: applying artificial intelligence (AI) to address navigational challenges,10.1007/s00521-025-11544-4,2024-12-20,2025-07-23,215
+Neural Computing and Applications,Contrastive learning-based video quality assessment-jointed video vision transformer for video recognition,10.1007/s00521-026-11949-9,2025-09-22,2026-01-16,116
+Neural Computing and Applications,Are LLMs adequate SPARQL query generators? Investigating zero-shot NL-to-SPARQL translation,10.1007/s00521-025-11799-x,2025-04-16,2025-10-08,175
+Neural Computing and Applications,CorrBoost: a feature selection technique and utility of tabular deep neural networks in software fault prediction,10.1007/s00521-025-11648-x,2024-09-12,2025-09-03,356
+Neural Computing and Applications,Analytical softmax temperature setting from feature dimensions for model- and domain-robust classification,10.1007/s00521-025-11488-9,2025-01-09,2025-07-03,175
+Neural Computing and Applications,Unlocking Arabic event relation extraction: a comprehensive survey,10.1007/s00521-025-11537-3,2023-11-16,2025-07-23,615
+Neural Computing and Applications,Improved colorectal gland segmentation in histopathology images with adaptive resizer-enhanced U-Net models,10.1007/s00521-025-11817-y,2024-05-29,2025-09-22,481
+Neural Computing and Applications,Lightweight image super-resolution based on retentive network,10.1007/s00521-026-11888-5,2025-02-05,2025-09-30,237
+Neural Computing and Applications,Multimodal data analysis-based neurological movement disorders prediction using U-PCA and 2D Cross-Chaotic Lemur optimization with Long Short-Term Memory,10.1007/s00521-025-11622-7,2024-07-17,2025-08-21,400
+Neural Computing and Applications,Adaptive fuzzy semi-supervised support vector machine based on sample tightness and its application in credit risk assessment,10.1007/s00521-025-11754-w,2025-05-09,2025-10-25,169
+Neural Computing and Applications,Multiple attribute list aggregation with applications in collaborative playlist editing and collaborative job scheduling,10.1007/s00521-026-12068-1,2024-01-21,2026-02-25,766
+Neural Computing and Applications,Dynamically stabilized recurrent neural network optimized with wolf bird optimization for face sketch recognition,10.1007/s00521-025-11755-9,2025-03-25,2025-10-25,214
+Neural Computing and Applications,TAP++: a tier-aware transformer for adaptive prefetching system in hybrid memory systems,10.1007/s00521-026-11970-y,2025-07-31,2026-02-03,187
+Neural Computing and Applications,Swarm-based metaheuristic and reptile search algorithm for downstream operation-dependent fragmentation size prediction,10.1007/s00521-025-11321-3,2024-01-10,2025-05-02,478
+Neural Computing and Applications,Covid-19 lung infection diagnosis model using parallel and cascaded CNN architecture based on M-blocks and modified U-Net,10.1007/s00521-025-11772-8,2024-03-03,2025-10-25,601
+Neural Computing and Applications,SENNERF: Stacking Ensemble with Neural Networks and Enhanced Random Forest for improved heart disease prediction,10.1007/s00521-025-11615-6,2024-11-09,2025-08-22,286
+Neural Computing and Applications,Transferability prediction in sparse data regime using multi-resolution KNN predictor,10.1007/s00521-025-11625-4,2025-02-10,2025-08-21,192
+Neural Computing and Applications,Deep learning techniques for analyzing peripheral blood smears: a meta-analysis,10.1007/s00521-025-11401-4,2024-10-27,2025-06-04,220
+Neural Computing and Applications,HASP-Net: hierarchical adaptive structural pooling network for ancient Chinese character recognition,10.1007/s00521-025-11833-y,2023-12-27,2025-09-18,631
+Neural Computing and Applications,Hybrid deep CNN model for multi-class classification of skin lesion,10.1007/s00521-025-11409-w,2024-12-21,2025-05-30,160
+Neural Computing and Applications,UniBERT: adversarial training for language-universal representations,10.1007/s00521-025-11470-5,2025-03-20,2025-07-07,109
+Neural Computing and Applications,Transfer learning-based lightweight MobileNetV2 with CBAM attention for rice leaf nutrient deficiency detection,10.1007/s00521-025-11665-w,2025-05-08,2025-09-05,120
+Neural Computing and Applications,Behaviour-based trust assessment for the Internet of Things systems using multi-classifier ensemble learning and Dempster–Shafer fusion,10.1007/s00521-025-11273-8,2024-05-10,2025-04-10,335
+Neural Computing and Applications,A joint learning classification for intent detection and slot filling from classical to deep learning: a review,10.1007/s00521-025-11329-9,2024-06-04,2025-05-04,334
+Neural Computing and Applications,Improve cluster quality with better centroid selection,10.1007/s00521-025-11822-1,2025-04-09,2025-09-22,166
+Neural Computing and Applications,Secure and fair transaction ordering in DPoS-based blockchains for high-frequency trading environments,10.1007/s00521-025-11551-5,2025-04-25,2025-07-23,89
+Neural Computing and Applications,Segmenting pyramidal neurons in low-resolution images: a new dataset and CNN-based evaluation,10.1007/s00521-026-11867-w,2025-04-09,2026-01-12,278
+Neural Computing and Applications,EfficientOvaNet: efficient deep learning model for multiclass classification of benign ovarian cyst using ultrasound images,10.1007/s00521-025-11589-5,2024-12-16,2025-08-12,239
+Neural Computing and Applications,Levenberg–Marquardt neural network analysis of entropy optimization on MHD nanofluid convective flow with nonlinear thermal radiation and Cattaneo–Christov heat and mass fluxes: a comparative study,10.1007/s00521-025-11312-4,2024-04-25,2025-05-02,372
+Neural Computing and Applications,P3DE: A novel integration of deep ensemble learning and parameter-less optimization for superior breast cancer biomarker discovery,10.1007/s00521-026-11896-5,2024-01-30,2026-01-14,715
+Neural Computing and Applications,Energy-efficient control of parallel pump units of different models: optimization with an enhanced artificial bee colony algorithm,10.1007/s00521-025-11610-x,2024-10-11,2025-08-22,315
+Neural Computing and Applications,Enhanced data quality-driven framework using stacked-GRU for robust prediction of volatile crypto trends,10.1007/s00521-025-11803-4,2024-11-19,2025-10-08,323
+Neural Computing and Applications,Reducing false alarms by identifying depression-mimicking expressions,10.1007/s00521-025-11543-5,2024-10-28,2025-07-23,268
+Neural Computing and Applications,CTAUNet: Improved retinal blood vessel segmentation with collaborative transformer attention U-Net,10.1007/s00521-025-11332-0,2024-10-01,2025-05-04,215
+Neural Computing and Applications,Sustainable architecture evaluation model using double normalization-based multi-aggregation and maximizing deviation method with probabilistic 2-tuple linguistic fuzzy information,10.1007/s00521-025-11510-0,2024-11-08,2025-07-09,243
+Neural Computing and Applications,A neurodynamic approach for asphalt mix ratio design problem,10.1007/s00521-025-11635-2,2024-12-28,2025-08-22,237
+Neural Computing and Applications,A unified hybrid excitable cell model for anomaly detection of heart,10.1007/s00521-025-11674-9,2023-09-14,2025-05-30,624
+Neural Computing and Applications,EcoFlex: an integrated simulation–optimization framework for assessing river ecological flow time series,10.1007/s00521-025-11724-2,2025-05-20,2025-12-01,195
+Neural Computing and Applications,Multimodal object detection: an architecture using feature-level fusion and deep learning,10.1007/s00521-025-11521-x,2024-01-12,2025-07-09,544
+Neural Computing and Applications,"Exploring wearable technologies for health monitoring: a systematic review of applications, advantages and disadvantages",10.1007/s00521-025-11605-8,2025-03-25,2025-08-22,150
+Neural Computing and Applications,Cardiovascular disease detection using stacking meta-learner with pipeline machine learning,10.1007/s00521-025-11347-7,2024-01-24,2025-05-08,470
+Neural Computing and Applications,An exhaustive examination of the thermal and mechanical properties of nanofluids containing graphene oxide nanoparticles through the utilization of artificial neural network,10.1007/s00521-025-11428-7,2024-08-25,2025-06-03,282
+Neural Computing and Applications,Data-driven heat pump management: combining machine learning with anomaly detection for residential hot water systems,10.1007/s00521-025-11318-y,2025-01-08,2025-05-02,114
+Neural Computing and Applications,An explainable deep learning-based panoptic segmentation for brain tumor diagnosis,10.1007/s00521-025-11459-0,2023-08-05,2025-06-09,674
+Neural Computing and Applications,Advancing temporal forecasting: a comparative analysis of conventional paradigms and deep learning architectures on publicly accessible datasets,10.1007/s00521-025-11324-0,2024-12-13,2025-05-02,140
+Neural Computing and Applications,Mining user reviews for method-level bug localization using transformers in java-based applications,10.1007/s00521-025-11611-w,2024-11-21,2025-08-22,274
+Neural Computing and Applications,Best practices for responsible machine learning in credit scoring,10.1007/s00521-025-11520-y,2025-03-19,2025-07-09,112
+Neural Computing and Applications,An integrated scheduling and optimization approach for photovoltaic-storage systems using deep reinforcement learning,10.1007/s00521-025-11647-y,2025-05-16,2025-09-03,110
+Neural Computing and Applications,Improving Arabic sentiment analysis with negation and speculation auxiliary tasks,10.1007/s00521-025-11451-8,2024-03-13,2025-06-10,454
+Neural Computing and Applications,Exploring the scope of deep neural network to predict print densitometry from scanner data,10.1007/s00521-025-11313-3,2024-05-30,2025-05-02,337
+Neural Computing and Applications,Comparative performance analysis of single-stage and two-stage object detectors and design of novel quantum-enhanced deep learning model for visually impaired,10.1007/s00521-025-11686-5,2024-02-10,2025-09-05,573
+Neural Computing and Applications,A comparative study of neural ordinary differential equations and neural operators for modeling temporal dynamics,10.1007/s00521-025-11580-0,2025-03-17,2025-08-14,150
+Neural Computing and Applications,Multi-view dynamic hypergraph learning for Alzheimer’s disease detection via fMRI analysis,10.1007/s00521-026-11882-x,2025-03-07,2026-01-12,311
+Neural Computing and Applications,MB-ViT: MBConv vision transformer with time–frequency feature fusion for bearing fault diagnosis,10.1007/s00521-025-11509-7,2024-10-16,2025-07-09,266
+Neural Computing and Applications,An artificial neural network for predicting the roles of contacting bodies in computational contact mechanics,10.1007/s00521-025-11654-z,2025-06-10,2025-09-03,85
+Neural Computing and Applications,MDA: a multi-agent framework for data analysis task,10.1007/s00521-025-11369-1,2024-12-28,2025-05-08,131
+Neural Computing and Applications,Scheduling of occupational health and safety personnel: joint health and safety unit Türkiye implementation,10.1007/s00521-026-11892-9,2024-07-03,2026-01-14,560
+Neural Computing and Applications,Pedestrian trajectory prediction: a literature review and current trends,10.1007/s00521-025-11663-y,2024-09-23,2025-09-04,346
+Neural Computing and Applications,Evaluation of High Line city park user satisfaction with machine learning: COVID-19 process year-based sentiment analysis,10.1007/s00521-025-11587-7,2024-10-14,2025-08-12,302
+Neural Computing and Applications,Enhancing unit commitment in power systems with transmission loss analysis,10.1007/s00521-025-11350-y,2024-06-27,2025-05-08,315
+Neural Computing and Applications,Advancing forensic dentistry: a comprehensive review of machine learning and deep learning applications in dental image analysis,10.1007/s00521-025-11612-9,2025-04-03,2025-08-22,141
+Neural Computing and Applications,Optimizing federated learning efficiency: accelerating model averaging with cluster-based approach using class occurrences - fedCCO,10.1007/s00521-025-11289-0,2024-05-02,2025-04-03,336
+Neural Computing and Applications,"Robust bipedal walking control through a privileged learning-based, hierarchical imitation learning method",10.1007/s00521-025-11808-z,2025-02-10,2025-10-02,234
+Neural Computing and Applications,"Distribution shift, generalization and OOD challenge in offline reinforcement learning: a comprehensive survey",10.1007/s00521-026-11966-8,2025-09-13,2026-02-03,143
+Neural Computing and Applications,A GARCH-temporal fusion transformer model for the volatility prediction of exchange traded funds,10.1007/s00521-025-11468-z,2024-09-03,2025-07-03,303
+Neural Computing and Applications,Explainable deep learning for rainfall prediction: A CNN-XGBoost hybrid approach in the northern region of Bangladesh,10.1007/s00521-025-11646-z,2025-04-04,2025-09-02,151
+Neural Computing and Applications,Predicting breast cancer treatment response using transfer learning,10.1007/s00521-025-11206-5,2024-01-05,2025-03-19,439
+Neural Computing and Applications,Hash-binding: DNA-protein binding prediction using hashing-based embedding,10.1007/s00521-025-11349-5,2023-12-16,2025-05-08,509
+Neural Computing and Applications,MedCross recurrent network with adaptive gating optimization model for enhanced ovarian cancer detection and classification,10.1007/s00521-026-11878-7,2025-04-06,2026-01-12,281
+Neural Computing and Applications,Land cover classification using contextual texture information in sentinel-2 images of southern Mexico,10.1007/s00521-025-11766-6,2025-04-03,2025-10-25,205
+Neural Computing and Applications,MDNER: integrating MRC with diffusion models for enhanced named entity recognition,10.1007/s00521-025-11533-7,2024-12-29,2025-07-23,206
+Neural Computing and Applications,Blockchain-based personalized federated learning framework for drug recommendation systems resilient to model poisoning,10.1007/s00521-025-11828-9,2025-03-20,2025-09-18,182
+Neural Computing and Applications,"Gene-biomarker data-driven deep learning model with m-dman for er, pr, her2 enrichment and breast cancer association prediction",10.1007/s00521-025-11750-0,2025-01-18,2025-10-31,286
+Neural Computing and Applications,Optimizing 1D CNN models for accurate °Brix prediction,10.1007/s00521-025-11453-6,2024-10-29,2025-06-10,224
+Neural Computing and Applications,Discriminating psychological stress levels: multi-level attentive LSTM approach,10.1007/s00521-025-11608-5,2024-04-13,2025-08-22,496
+Neural Computing and Applications,An ontology-based adaptive tutoring system for learning business english idioms,10.1007/s00521-025-11506-w,2025-04-17,2025-07-08,82
+Neural Computing and Applications,A panorama of text summarization research: bibliometric trends and developments (2000–2024),10.1007/s00521-025-11562-2,2024-12-11,2025-07-09,210
+Neural Computing and Applications,Adaptive filter-enabled electrocardiogram signals-based myocardial infarction detection using convolutional neural network ensemble model,10.1007/s00521-025-11439-4,2024-06-04,2025-06-09,370
+Neural Computing and Applications,Deep Learning IoT Malware Analysis: Investigation and Understanding,10.1007/s00521-025-11365-5,2024-03-16,2025-05-08,418
+Neural Computing and Applications,Accent identification from emotional speech using classification fusion of multiple deep learning models,10.1007/s00521-026-11870-1,2024-03-14,2026-01-12,669
+Neural Computing and Applications,VTFCGNet: a novel cross-modal reasoning network integrating Fourier self-attention and graph attention for visual text question answering,10.1007/s00521-025-11721-5,2025-05-25,2025-12-01,190
+Neural Computing and Applications,Attention-based dual-purpose segmentation and classification of diseases in alphonso mango leaves for smart agriculture,10.1007/s00521-025-11800-7,2024-01-26,2025-10-07,620
+Neural Computing and Applications,A hybrid heuristic transfer framework for combinatorial optimization: dual-tree genetic programming and neural networks for bin packing and knapsack problems,10.1007/s00521-025-11790-6,2025-05-20,2025-10-07,140
+Neural Computing and Applications,Supervised regularized attention-aware clock-triggered recurrent neural network for video summarization,10.1007/s00521-025-11309-z,2023-05-01,2025-05-02,732
+Neural Computing and Applications,Construction of deep space communication channel environment prediction model based on deep learning,10.1007/s00521-025-11557-z,2025-03-08,2025-07-23,137
+Neural Computing and Applications,Assessing the viability of the gig economy framework for the nursing workforce in Saudi Arabia: A neural network approach,10.1007/s00521-025-11627-2,2024-11-12,2025-08-21,282
+Neural Computing and Applications,The asynchronous real-time universal adversarial perturbation generation method for practical speaker recognition systems,10.1007/s00521-025-11677-6,2024-11-12,2025-07-09,239
+Neural Computing and Applications,A novel metaheuristic algorithm inspired by tree pruning for solving benchmark optimization and engineering design problems,10.1007/s00521-025-11584-w,2025-02-13,2025-08-12,180
+Neural Computing and Applications,RETRACTED ARTICLE: Unlocking autistic emotions: developing an interpretable IoT-based EfficientNet model for emotion recognition in children with autism,10.1007/s00521-025-11290-7,2024-05-09,2025-03-14,309
+Neural Computing and Applications,Brain tumor classification from MRI scans using fine-tuned CNN models,10.1007/s00521-025-11626-3,2024-09-24,2025-08-21,331
+Neural Computing and Applications,Multidimensional analysis and visualization of aromaticity in five- and six-membered ring compounds,10.1007/s00521-025-11643-2,2024-12-27,2025-09-02,249
+Neural Computing and Applications,A fairness scale for real-time recidivism forecasts using a national database of convicted offenders,10.1007/s00521-025-11478-x,2024-11-15,2025-07-03,230
+Neural Computing and Applications,Denoising diffusion probabilistic model as a GAN generator for breast cancer histology images segmentation,10.1007/s00521-026-11877-8,2025-03-26,2026-01-12,292
+Neural Computing and Applications,A hybrid CNN–ViT framework for skin disease classification via feature extraction and selection,10.1007/s00521-025-11664-x,2025-04-17,2025-09-04,140
+Neural Computing and Applications,Training neural networks with a self-adaptive ant colony algorithm,10.1007/s00521-025-11423-y,2024-09-14,2025-05-30,258
+Neural Computing and Applications,Feature selection and global interpretability of black-box classification for intrusion detection,10.1007/s00521-025-11549-z,2024-06-13,2025-07-23,405
+Neural Computing and Applications,"An end-to-end multi agent AI system for personal finance: synthetic data generation, budget optimization, and investment advisory",10.1007/s00521-025-11749-7,2025-04-29,2025-10-31,185
+Neural Computing and Applications,Improved multi-agent knowledge sharing system using knowledge graphs for news bias detection and fact-checking,10.1007/s00521-026-11944-0,2025-04-30,2026-01-14,259
+Neural Computing and Applications,Controlling ensemble variance in diffusion models: an application for reanalyses downscaling,10.1007/s00521-025-11709-1,2025-03-31,2025-12-05,249
+Neural Computing and Applications,"Exploring EEG biomarkers in meditation, yoga, and mantra practices: a review of neural correlates and methodologies",10.1007/s00521-026-12026-x,2025-01-07,2026-02-03,392
+Neural Computing and Applications,Network security threat detection model based on large-scale multi-source data analysis and perception fusion,10.1007/s00521-025-11285-4,2024-10-11,2025-04-09,180
+Neural Computing and Applications,Deep learning-based automatic modulation classifier,10.1007/s00521-025-11381-5,2024-08-17,2025-05-20,276
+Neural Computing and Applications,Ant colony optimization for solving mixed Chinese postman problem on open real world data,10.1007/s00521-026-11846-1,2025-09-04,2026-01-12,130
+Neural Computing and Applications,Logistics supply chain security risk warning system based on CNN-PSO encryption algorithm,10.1007/s00521-025-11558-y,2025-04-06,2025-07-23,108
+Neural Computing and Applications,RanVisStat: a statistical feature engineering approach for ransomware binary and multiclass classification using machine learning,10.1007/s00521-025-11810-5,2024-04-11,2025-10-02,539
+Neural Computing and Applications,Early detection of fetal health status based on cardiotocography using artificial intelligence,10.1007/s00521-025-11343-x,2024-11-23,2025-05-04,162
+Neural Computing and Applications,Advancements in global optimization with an empowered capuchin search algorithm,10.1007/s00521-025-11421-0,2024-08-10,2025-06-03,297
+Neural Computing and Applications,HR-YOLOv8: an innovative model to detect mitosis and identify cancer regions in histopathological images,10.1007/s00521-025-11594-8,2025-01-25,2025-08-12,199
+Neural Computing and Applications,Intelligent control and optimization of hydraulic systems using reinforcement learning,10.1007/s00521-025-11430-z,2024-12-20,2025-06-04,166
+Neural Computing and Applications,Investigation of seismic reliability analysis of non-linear steel structures utilizing quantile regression deep learning,10.1007/s00521-025-11795-1,2024-08-23,2025-10-07,410
+Neural Computing and Applications,Toward trustworthy and sustainable clinical decision support by training ensembles of specialized logistic regressors,10.1007/s00521-025-11360-w,2024-11-10,2025-05-08,179

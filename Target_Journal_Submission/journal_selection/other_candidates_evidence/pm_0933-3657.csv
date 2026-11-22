@@ -1,0 +1,251 @@
+journal,title,doi,received,accepted,days
+Artificial intelligence in medicine,LkaM-PTM: Predicting PTM sites through multimodal protein features from capturing cross-field information.,10.1016/j.artmed.2025.103297,2025-01-16,2025-10-31,288
+Artificial intelligence in medicine,Exploring trade-offs in equitable stroke risk prediction with parity-constrained and race-free models.,10.1016/j.artmed.2025.103130,2024-04-28,2025-04-09,346
+Artificial intelligence in medicine,"Types, functions, and mechanisms of machine learning for personalizing smoking cessation interventions: A systematic scoping review.",10.1016/j.artmed.2025.103274,2024-06-20,2025-09-15,452
+Artificial intelligence in medicine,Generating synthetic clinical text with local large language models to identify misdiagnosed limb fractures in radiology reports.,10.1016/j.artmed.2024.103027,2024-04-05,2024-11-15,224
+Artificial intelligence in medicine,Human visual perception-inspired medical image segmentation network with multi-feature compression.,10.1016/j.artmed.2025.103133,2024-12-15,2025-04-10,116
+Artificial intelligence in medicine,SDMentor: A virtual reality-based intelligent tutoring system for surgical decision making in dentistry.,10.1016/j.artmed.2025.103092,2023-10-19,2025-02-18,488
+Artificial intelligence in medicine,Adaptation of Segment Anything Model enhanced by contrastive-manifold-regularised SSL and YOLO prompting for liver tumour segmentation.,10.1016/j.artmed.2026.103533,2026-01-22,2026-06-06,135
+Artificial intelligence in medicine,Decoding the cortical responses to mechanical wrist perturbations: A two-step shared structure NARX method.,10.1016/j.artmed.2025.103273,2024-11-21,2025-09-15,298
+Artificial intelligence in medicine,An artificial intelligence approach to support adolescent suicide prevention initiatives in the United States.,10.1016/j.artmed.2026.103411,2025-10-02,2026-03-13,162
+Artificial intelligence in medicine,Learning Health Systems provide a glide path to safe landing for AI in health.,10.1016/j.artmed.2025.103346,2025-07-26,2025-12-28,155
+Artificial intelligence in medicine,ROP-MMNet: A multimodal multi-instance learning framework for screening Retinopathy of Prematurity.,10.1016/j.artmed.2026.103563,2026-01-23,2026-11-01,282
+Artificial intelligence in medicine,TDMFS: Tucker decomposition multimodal fusion model for pan-cancer survival prediction.,10.1016/j.artmed.2025.103099,2024-01-22,2025-02-23,398
+Artificial intelligence in medicine,PRESTIGE: Prevalence estimation for interactive guesstimates.,10.1016/j.artmed.2026.103496,2025-03-07,2026-07-17,497
+Artificial intelligence in medicine,The role of natural language processing in improving cancer care: A scoping review with narrative synthesis.,10.1016/j.artmed.2025.103227,2024-03-06,2025-07-19,500
+Artificial intelligence in medicine,A survey for large language models in biomedicine.,10.1016/j.artmed.2025.103268,2024-09-20,2025-09-08,353
+Artificial intelligence in medicine,SurgflowNet: Leveraging unannotated video for consistent endoscopic pituitary surgery workflow recognition.,10.1016/j.artmed.2025.103309,2025-07-15,2025-11-13,121
+Artificial intelligence in medicine,Detecting depression through speech and text from casual talks with fully automated virtual humans.,10.1016/j.artmed.2025.103305,2024-11-12,2025-11-12,365
+Artificial intelligence in medicine,Can one model fit all? Evaluating foundation models for time series forecasting across clinical medicine.,10.1016/j.artmed.2026.103473,2025-05-14,2026-06-07,389
+Artificial intelligence in medicine,Real-time EEG-based epileptic seizure prediction using artificial intelligence: A systematic review.,10.1016/j.artmed.2026.103476,2025-08-19,2026-06-15,300
+Artificial intelligence in medicine,HMEA: A hierarchical medical knowledge graph entity alignment model fusing multi-aspect information.,10.1016/j.artmed.2025.103188,2024-05-08,2025-06-01,389
+Artificial intelligence in medicine,Reporting guideline for chatbot health advice studies: The CHART statement.,10.1016/j.artmed.2025.103222,2025-06-11,2025-07-09,28
+Artificial intelligence in medicine,Hybrid probabilistic forecasting of under-five malaria admissions in Ghana: A Gaussian process regression with Holt-Winters smoothing.,10.1016/j.artmed.2026.103508,2025-10-18,2026-08-12,298
+Artificial intelligence in medicine,Artificial intelligence language models for medical text analysis: A systematic review.,10.1016/j.artmed.2026.103441,2025-09-06,2026-04-27,233
+Artificial intelligence in medicine,IHE-Net:Hidden feature discrepancy fusion and triple consistency training for semi-supervised medical image segmentation.,10.1016/j.artmed.2025.103229,2024-11-06,2025-07-22,258
+Artificial intelligence in medicine,B2E-CDG: Conditional diffusion-based for label-free OCT angiography artifact removal and robust vascular reconstruction.,10.1016/j.artmed.2025.103345,2025-06-03,2025-12-27,207
+Artificial intelligence in medicine,Computer model for gait assessments in Parkinson's patients using a fuzzy inference model and inertial sensors.,10.1016/j.artmed.2024.103059,2023-11-11,2024-12-19,404
+Artificial intelligence in medicine,ORBIT: Oncogenic Representation Learning via Bi-Prototype Contrastive Learning in Hyperbolic Space for cancer driver gene identification.,10.1016/j.artmed.2026.103486,2026-03-13,2026-07-10,119
+Artificial intelligence in medicine,TabulaTime: Novel multimodal deep learning for Acute Coronary Syndrome prediction through environmental and clinical data integration.,10.1016/j.artmed.2026.103395,2025-07-01,2026-03-02,244
+Artificial intelligence in medicine,Advances in kidney biopsy lesion assessment through dense instance segmentation.,10.1016/j.artmed.2025.103111,2024-05-21,2025-03-14,297
+Artificial intelligence in medicine,Uncertainty in deep learning for EEG under dataset shifts.,10.1016/j.artmed.2026.103374,2025-07-09,2026-02-02,208
+Artificial intelligence in medicine,Beyond the field of view: Radiomics and artificial intelligence for organ-specific and systemic disease prediction from localized medical imaging.,10.1016/j.artmed.2026.103535,2025-09-25,2026-09-11,351
+Artificial intelligence in medicine,Hybrid approach for drug-target interaction predictions in ischemic stroke models.,10.1016/j.artmed.2025.103067,2024-05-20,2025-01-15,240
+Artificial intelligence in medicine,Comprehensive deep representation-based Wasserstein domain discriminator for cross-subject motor imagery EEG classification.,10.1016/j.artmed.2026.103537,2024-11-20,2026-09-11,660
+Artificial intelligence in medicine,A cell-interacting and multi-correcting method for automatic circulating tumor cells detection.,10.1016/j.artmed.2025.103164,2024-04-16,2025-05-10,389
+Artificial intelligence in medicine,"Mapping the landscape of AI-driven digital twins in medical diagnosis: A scoping review on core technologies, applications, and implementation barrier",10.1016/j.artmed.2026.103474,2025-10-10,2026-06-15,248
+Artificial intelligence in medicine,IdenBAT: Disentangled representation learning for identity-preserved brain age transformation.,10.1016/j.artmed.2025.103115,2024-07-01,2025-03-18,260
+Artificial intelligence in medicine,ECG synthesis for cardiac arrhythmias: Integrating self-supervised learning and generative adversarial networks.,10.1016/j.artmed.2025.103162,2024-05-14,2025-05-08,359
+Artificial intelligence in medicine,"Electrohysterography in modern obstetrics: Advances in signal processing, machine learning, and clinical applications.",10.1016/j.artmed.2025.103303,2025-05-05,2025-11-10,189
+Artificial intelligence in medicine,Artificial intelligence in pain assessment and management for older adults: A scoping review.,10.1016/j.artmed.2026.103455,2025-08-16,2026-05-15,272
+Artificial intelligence in medicine,Pathway information on methylation analysis using deep neural network (PROMINENT): An interpretable deep learning method with pathway prior for phenot,10.1016/j.artmed.2025.103236,2024-08-22,2025-08-11,354
+Artificial intelligence in medicine,Combining structural equation modeling analysis with machine learning for early malignancy detection in Bethesda Category III thyroid nodules.,10.1016/j.artmed.2025.103186,2025-04-18,2025-05-29,41
+Artificial intelligence in medicine,Unsupervised learning from EEG data for epilepsy: A systematic literature review.,10.1016/j.artmed.2025.103095,2024-02-26,2025-02-19,359
+Artificial intelligence in medicine,Systematic review of Artificial Intelligence-based methods for glycemic control and risk prediction in intensive care units.,10.1016/j.artmed.2026.103409,2025-09-12,2026-03-11,180
+Artificial intelligence in medicine,Causally-informed deep learning towards explainable and generalizable outcome prediction in critical care.,10.1016/j.artmed.2026.103478,2026-01-19,2026-06-15,147
+Artificial intelligence in medicine,Siamese evolutionary masking: Enhancing the generalization of self-supervised medical image segmentation model.,10.1016/j.artmed.2026.103349,2024-12-20,2026-01-05,381
+Artificial intelligence in medicine,Neural Architecture Search for biomedical image classification: A comparative study across data modalities.,10.1016/j.artmed.2024.103064,2024-07-11,2024-12-30,172
+Artificial intelligence in medicine,DRExplainer: Quantifiable interpretability in drug response prediction with directed graph convolutional network.,10.1016/j.artmed.2025.103101,2024-07-14,2025-02-23,224
+Artificial intelligence in medicine,An AI system for continuous knee osteoarthritis severity grading: An anomaly detection inspired approach with few labels.,10.1016/j.artmed.2025.103138,2024-06-18,2025-04-21,307
+Artificial intelligence in medicine,Training and validating a treatment recommender with partial verification evidence.,10.1016/j.artmed.2024.103062,2024-02-10,2024-12-21,315
+Artificial intelligence in medicine,Lesion boundary detection for skin lesion segmentation based on boundary sensing and CNN-transformer fusion networks.,10.1016/j.artmed.2025.103190,2024-07-04,2025-06-02,333
+Artificial intelligence in medicine,Comparative evaluation of training strategies using partially labelled datasets for segmentation of white matter hyperintensities and stroke lesions i,10.1016/j.artmed.2026.103507,2025-09-10,2026-08-12,336
+Artificial intelligence in medicine,Hyperbolic multivariate feature learning in higher-order heterogeneous networks for drug-disease prediction.,10.1016/j.artmed.2025.103090,2023-11-22,2025-02-14,450
+Artificial intelligence in medicine,Generating interpretable context-aware medical concept embedding implicating expert knowledge using LLMs.,10.1016/j.artmed.2026.103543,2024-03-05,2026-09-24,933
+Artificial intelligence in medicine,Adaptive time-frequency decomposition informer for pathological rest tremor sequence prediction.,10.1016/j.artmed.2026.103428,2025-02-12,2026-04-16,428
+Artificial intelligence in medicine,Whitening black boxes: Interpretable and explainable DL-based systems for trustworthy healthcare.,10.1016/j.artmed.2026.103458,2025-12-30,2026-05-21,142
+Artificial intelligence in medicine,Artificial intelligence in depression diagnostics: A systematic review of methodologies and clinical applications.,10.1016/j.artmed.2025.103320,2025-06-04,2025-11-25,174
+Artificial intelligence in medicine,Context-aware heterogeneous graph neural network for multi-level description and invasiveness prediction in renal cell carcinoma.,10.1016/j.artmed.2025.103313,2024-07-04,2025-11-24,508
+Artificial intelligence in medicine,Automation or augmentation? The impact of artificial intelligence's technological characteristics on usage intention in medical staff.,10.1016/j.artmed.2025.103283,2025-06-18,2025-10-16,120
+Artificial intelligence in medicine,BRLA-DDI: A novel framework for drug-drug interaction extraction.,10.1016/j.artmed.2026.103353,2024-11-17,2026-01-15,424
+Artificial intelligence in medicine,Identifying and timing patient outcomes in clinician notes using large language models.,10.1016/j.artmed.2026.103408,2025-05-15,2026-03-06,295
+Artificial intelligence in medicine,Mitigating patient harm risks: A proposal of requirements for AI in healthcare.,10.1016/j.artmed.2025.103168,2024-07-19,2025-05-22,307
+Artificial intelligence in medicine,Enhancing colorectal polyp segmentation with TCFMA-Net: A transformer-based cross feature and multi-attention network.,10.1016/j.artmed.2025.103167,2024-10-08,2025-05-21,225
+Artificial intelligence in medicine,MRC-GAT: A meta-relational copula-based graph attention network for interpretable multimodal Alzheimer's disease diagnosis.,10.1016/j.artmed.2026.103555,2026-01-29,2026-10-05,249
+Artificial intelligence in medicine,A critical perspective on finite sample conformal prediction theory in medical applications.,10.1016/j.artmed.2026.103462,2026-01-26,2026-05-23,117
+Artificial intelligence in medicine,Glaucoma detection: Binocular approach and clinical data in machine learning.,10.1016/j.artmed.2024.103050,2024-04-05,2024-12-05,244
+Artificial intelligence in medicine,SiCLIP: An explainable multimodal framework for silicosis diagnosis.,10.1016/j.artmed.2026.103456,2025-07-15,2026-05-06,295
+Artificial intelligence in medicine,TADynFed: Dynamic modality-adaptive federated learning with tissue-aware disentanglement for cross-disease analysis.,10.1016/j.artmed.2026.103378,2025-07-16,2026-02-10,209
+Artificial intelligence in medicine,Spatial multi-agent reinforcement learning for epidemic control with heterogeneous risk preferences.,10.1016/j.artmed.2026.103554,2026-02-02,2026-10-05,245
+Artificial intelligence in medicine,Mapping the brain: AI-driven radiomic approaches to mental disorders.,10.1016/j.artmed.2025.103219,2025-02-25,2025-07-08,133
+Artificial intelligence in medicine,Twin cross contrastive learning with multi-modality fusion for drug-target affinity prediction.,10.1016/j.artmed.2026.103394,2025-06-22,2026-03-02,253
+Artificial intelligence in medicine,H-SynEx: Using synthetic images and ultra-high resolution ex vivo MRI for hypothalamus subregion segmentation.,10.1016/j.artmed.2025.103271,2024-07-01,2025-09-11,437
+Artificial intelligence in medicine,Topo-UNet: A topology-aware multi-task network for pulmonary vessel segmentation.,10.1016/j.artmed.2026.103439,2025-01-13,2026-04-22,464
+Artificial intelligence in medicine,AI-based methods for diagnosing and grading diabetic retinopathy: A comprehensive review.,10.1016/j.artmed.2025.103221,2025-03-18,2025-07-08,112
+Artificial intelligence in medicine,GLF-Net: A quasi-periodic prior-guided waveform segmentation network for ECG delineation.,10.1016/j.artmed.2026.103485,2025-06-17,2026-07-08,386
+Artificial intelligence in medicine,Size doesn't matter: Assessing the trustworthiness of large language models in medical contexts: A focus on epidural information retrieval.,10.1016/j.artmed.2026.103379,2025-07-23,2026-02-10,202
+Artificial intelligence in medicine,AI-driven dynamic grouping for adaptive clinical trials: Rethinking randomization in precision medicine.,10.1016/j.artmed.2025.103272,2025-05-28,2025-09-15,110
+Artificial intelligence in medicine,Deep generative models for physiological signals: A systematic literature review.,10.1016/j.artmed.2025.103127,2023-10-25,2025-04-06,529
+Artificial intelligence in medicine,Deep learning for early detection of chronic kidney disease stages in diabetes patients: A TabNet approach.,10.1016/j.artmed.2025.103153,2024-11-06,2025-05-01,176
+Artificial intelligence in medicine,TSFNet: A Temporal-Spectral Fusion Network for advanced speech emotion recognition in medical applications.,10.1016/j.artmed.2025.103279,2024-07-05,2025-09-28,450
+Artificial intelligence in medicine,Hierarchical classification for differential diagnosis of fever of unknown origin: A multi-task learning approach with self-adaptive representation sh,10.1016/j.artmed.2025.103298,2023-10-23,2025-11-02,741
+Artificial intelligence in medicine,Causal inference model for accurate medical diagnosis in Coronary Artery Bypass Graft operation.,10.1016/j.artmed.2025.103150,2024-02-25,2025-05-01,431
+Artificial intelligence in medicine,DDintensity: Addressing imbalanced drug-drug interaction risk levels using pre-trained deep learning model embeddings.,10.1016/j.artmed.2025.103202,2024-02-06,2025-06-26,506
+Artificial intelligence in medicine,Artificial Intelligence and Machine Learning solutions-based oral cancer screening and detection: A scoping review.,10.1016/j.artmed.2026.103480,2025-04-09,2026-06-17,434
+Artificial intelligence in medicine,BIGPN: Biologically informed graph propagational network for plasma proteomic profiling of neurodegenerative biomarkers.,10.1016/j.artmed.2025.103241,2025-05-03,2025-08-11,100
+Artificial intelligence in medicine,A prior knowledge-supervised fusion network predicts survival after radiotherapy in patients with advanced gastric cancer.,10.1016/j.artmed.2025.103184,2024-06-14,2025-05-28,348
+Artificial intelligence in medicine,Too agreeable to be accurate? Sycophancy and diagnostic instability of large language models in medical diagnosis.,10.1016/j.artmed.2026.103516,2026-05-06,2026-08-17,103
+Artificial intelligence in medicine,From cell images to clinical insight: Clinically grounded explainable classification of peripheral blood and bone marrow cells with cross-modal learni,10.1016/j.artmed.2026.103560,2026-04-14,2026-10-09,178
+Artificial intelligence in medicine,Machine learning-based methods for predicting postpartum depression: A review.,10.1016/j.artmed.2026.103410,2025-05-27,2026-03-13,290
+Artificial intelligence in medicine,An anxiety screening framework integrating multimodal data and graph node correlation.,10.1016/j.artmed.2025.103189,2024-06-23,2025-06-01,343
+Artificial intelligence in medicine,Preprocessing narrative texts in electronic medical records to identify hospital adverse events: A scoping review.,10.1016/j.artmed.2025.103281,2024-12-06,2025-10-05,303
+Artificial intelligence in medicine,Multi-annotation agreement and prediction consistency networks: Improving semi-supervised segmentation of medical images with ambiguous boundaries.,10.1016/j.artmed.2025.103289,2024-11-29,2025-10-23,328
+Artificial intelligence in medicine,MediCARE: Medical Collaborative Agents REasoning over Interpretable Heterogeneous Graphs.,10.1016/j.artmed.2026.103444,2024-04-02,2026-04-29,757
+Artificial intelligence in medicine,Rethinking mitosis detection: Towards diverse data and feature representation for better domain generalization.,10.1016/j.artmed.2025.103097,2024-05-15,2025-02-21,282
+Artificial intelligence in medicine,Measuring the quality of AI-generated clinical notes: A systematic review and experimental benchmark of evaluation methods.,10.1016/j.artmed.2026.103421,2025-12-17,2026-03-30,103
+Artificial intelligence in medicine,A novel memory interaction neural network for multi-label drug-drug interaction prediction with neighbor importance sampling.,10.1016/j.artmed.2025.103275,2025-01-09,2025-09-15,249
+Artificial intelligence in medicine,Probabilistic emotion and sentiment modelling of patient-reported experiences.,10.1016/j.artmed.2025.103178,2024-01-09,2025-05-23,500
+Artificial intelligence in medicine,"Deep learning for automatic ICD coding: Review, opportunities and challenges.",10.1016/j.artmed.2025.103187,2024-03-26,2025-06-01,432
+Artificial intelligence in medicine,"Creating, anonymizing and evaluating the first medical language model pre-trained on Dutch Electronic Health Records: MedRoBERTa.nl.",10.1016/j.artmed.2025.103148,2024-04-02,2025-04-24,387
+Artificial intelligence in medicine,Deep learning based estimation of heart surface potentials.,10.1016/j.artmed.2025.103093,2024-05-22,2025-02-19,273
+Artificial intelligence in medicine,EPPCMinerBen: A novel benchmark for evaluating large language models on electronic patient-provider communication via the patient portal.,10.1016/j.artmed.2026.103429,2025-10-02,2026-04-18,198
+Artificial intelligence in medicine,From slides to AI-ready maps: Standardized multi-layer tissue maps as metadata for artificial intelligence in digital pathology.,10.1016/j.artmed.2026.103368,2025-10-30,2026-01-24,86
+Artificial intelligence in medicine,Privacy-preserving federated transfer learning for enhanced liver lesion segmentation in PET-CT imaging.,10.1016/j.artmed.2025.103245,2025-04-25,2025-08-13,110
+Artificial intelligence in medicine,Prior-guided multi-expert consensus fusion for multi-center thyroid nodule classification.,10.1016/j.artmed.2026.103487,2026-04-01,2026-07-15,105
+Artificial intelligence in medicine,Rough hypervolume-driven feature selection with groupwise intelligent sampling for detecting clinical characterization of lupus nephritis.,10.1016/j.artmed.2024.103042,2023-12-01,2024-11-23,358
+Artificial intelligence in medicine,From convolutional neural networks to large foundation models: A systematic review of deep learning for intelligent tongue diagnosis.,10.1016/j.artmed.2026.103514,2026-05-17,2026-08-15,90
+Artificial intelligence in medicine,QENNA: A quantum-enhanced neural network for early Alzheimer's detection using magnetic resonance imaging.,10.1016/j.artmed.2025.103322,2025-07-17,2025-11-27,133
+Artificial intelligence in medicine,Leveraging explainable artificial intelligence for transparent and trustworthy cancer detection systems.,10.1016/j.artmed.2025.103243,2024-10-11,2025-08-11,304
+Artificial intelligence in medicine,DiffCAS: Inference-time CT-free diffusion model for physics-aware multi-slice attenuation correction in cardiac SPECT.,10.1016/j.artmed.2026.103511,2026-02-05,2026-08-12,188
+Artificial intelligence in medicine,Unprepared and overwhelmed: A case for clinician-focused AI education.,10.1016/j.artmed.2025.103252,2025-06-03,2025-08-21,79
+Artificial intelligence in medicine,Learning age-conditioned brain atlases via free-prototype modeling for brain age prediction.,10.1016/j.artmed.2026.103534,2026-04-14,2026-09-10,149
+Artificial intelligence in medicine,From black box to clarity: Strategies for effective AI informed consent in healthcare.,10.1016/j.artmed.2025.103169,2024-11-16,2025-05-22,187
+Artificial intelligence in medicine,Joint segmentation of retinal layers and fluid lesions in optical coherence tomography with cross-dataset learning.,10.1016/j.artmed.2025.103096,2024-05-30,2025-02-19,265
+Artificial intelligence in medicine,Weakly-supervised ultrasound image segmentation with elliptical shape prior constraint.,10.1016/j.artmed.2025.103306,2024-12-25,2025-11-12,322
+Artificial intelligence in medicine,Your turn: At home turning angle estimation for Parkinson's disease severity assessment.,10.1016/j.artmed.2025.103194,2024-08-31,2025-06-04,277
+Artificial intelligence in medicine,PatientFlow: Learning to generate mixed-type longitudinal clinical data with flow matching.,10.1016/j.artmed.2026.103392,2025-06-13,2026-03-02,262
+Artificial intelligence in medicine,BPINet: Synchronous blood pressure estimation and user authentication based on ECG and PPG signal with multi-task learning.,10.1016/j.artmed.2025.103277,2025-01-24,2025-09-15,234
+Artificial intelligence in medicine,Histopathology image classification based on semantic correlation clustering domain adaptation.,10.1016/j.artmed.2025.103110,2024-06-23,2025-03-14,264
+Artificial intelligence in medicine,Improving prototypical parts abstraction for case-based reasoning explanations designed for the kidney stone type recognition.,10.1016/j.artmed.2025.103266,2024-09-19,2025-09-08,354
+Artificial intelligence in medicine,Evaluating AI-driven characters in extended reality (XR) healthcare simulations: A systematic review.,10.1016/j.artmed.2025.103270,2025-06-17,2025-09-11,86
+Artificial intelligence in medicine,Comprehensive review of heart disease prediction: A comparative study from 2019 onwards.,10.1016/j.artmed.2026.103354,2024-09-28,2026-01-15,474
+Artificial intelligence in medicine,Speech translation for multilingual medical education leveraged by large language models.,10.1016/j.artmed.2025.103147,2024-04-01,2025-04-24,388
+Artificial intelligence in medicine,Multi-scale feature enhancement in multi-task learning for medical image analysis.,10.1016/j.artmed.2025.103338,2025-07-05,2025-12-17,165
+Artificial intelligence in medicine,LLM-based approaches for automated vocabulary mapping between SIGTAP and OMOP CDM concepts.,10.1016/j.artmed.2025.103204,2024-04-02,2025-06-29,453
+Artificial intelligence in medicine,Mitigating bias in chest X-ray disease diagnosis via de-biased disentangled representation learning.,10.1016/j.artmed.2026.103446,2025-01-23,2026-04-17,449
+Artificial intelligence in medicine,EvoPS: Evolutionary Patch Selection in the Training Embedding Space of Whole Slide Images.,10.1016/j.artmed.2026.103398,2025-11-30,2026-03-02,92
+Artificial intelligence in medicine,PreLora: A fine-tuning approach with low-rank matrix decomposition and prefix tuning for pre-hospital emergency text classification.,10.1016/j.artmed.2026.103364,2025-01-20,2026-01-20,365
+Artificial intelligence in medicine,"A systematic review on the roles of remote diagnosis in telemedicine system: Coherent taxonomy, insights, recommendations, and open research direction",10.1016/j.artmed.2024.103057,2024-06-02,2024-12-09,190
+Artificial intelligence in medicine,UniStain: A unified and organ-aware virtual H&E staining framework for label-free autofluorescence images.,10.1016/j.artmed.2025.103335,2025-06-16,2025-12-12,179
+Artificial intelligence in medicine,Contrastive adapter training and consensus knowledge distillation for multi-source-free domain adaptation in skin cancer diagnosis.,10.1016/j.artmed.2026.103465,2026-02-21,2026-05-29,97
+Artificial intelligence in medicine,Centralized pooling and federated learning for Canadian patient-level data sharing in multicenter medical AI: A scoping review.,10.1016/j.artmed.2026.103422,2026-01-02,2026-04-02,90
+Artificial intelligence in medicine,Machine learning and clinical EEG data for multiple sclerosis: A systematic review.,10.1016/j.artmed.2025.103116,2024-08-31,2025-03-26,207
+Artificial intelligence in medicine,R-peak detection and ECG data compression scheme based on empirical mode decomposition and wavelet transform.,10.1016/j.artmed.2026.103483,2025-05-26,2026-06-22,392
+Artificial intelligence in medicine,AI-based mid-term effectiveness prediction of bracing treatments for adolescent idiopathic scoliosis.,10.1016/j.artmed.2026.103520,2026-02-22,2026-08-26,185
+Artificial intelligence in medicine,ItpCtrl-AI: End-to-end interpretable and controllable artificial intelligence by modeling radiologists' intentions.,10.1016/j.artmed.2024.103054,2024-05-12,2024-12-05,207
+Artificial intelligence in medicine,ContraDTI: Improved drug-target interaction prediction via multi-view contrastive learning.,10.1016/j.artmed.2025.103195,2024-09-14,2025-06-10,269
+Artificial intelligence in medicine,Artificial intelligence-driven approaches in antibiotic stewardship programs and optimizing prescription practices: A systematic review.,10.1016/j.artmed.2025.103089,2024-07-28,2025-02-11,198
+Artificial intelligence in medicine,GAPPA: Enhancing prognosis prediction in primary aldosteronism post-adrenalectomy using graph-based modeling.,10.1016/j.artmed.2024.103028,2024-05-22,2024-11-15,177
+Artificial intelligence in medicine,GFASNet: Gait feature attention-driven deep sequential network for dementia-related gait pattern analysis.,10.1016/j.artmed.2026.103377,2025-06-12,2026-02-10,243
+Artificial intelligence in medicine,Multi-modal signal integration for enhanced sleep stage classification: Leveraging EOG and 2-channel EEG data with advanced feature extraction.,10.1016/j.artmed.2025.103152,2023-11-14,2025-05-01,534
+Artificial intelligence in medicine,"Beyond predictive performance: A systematic review and critical methodological appraisal of AI/ML and conventional modelling strategies in breast, col",10.1016/j.artmed.2026.103506,2025-08-29,2026-08-12,348
+Artificial intelligence in medicine,CA-OCL and CHAN: A novel diagnostic framework for rheumatoid arthritis integrating contradiction-aware orthogonal contrastive learning with confidence,10.1016/j.artmed.2025.103307,2025-06-18,2025-11-12,147
+Artificial intelligence in medicine,Reinforcement learning for real-time adaptive radiotherapy.,10.1016/j.artmed.2026.103413,2025-10-31,2026-03-19,139
+Artificial intelligence in medicine,Physical foundations for trustworthy medical imaging: A survey for artificial intelligence researchers.,10.1016/j.artmed.2025.103251,2025-02-21,2025-08-20,180
+Artificial intelligence in medicine,Artificial intelligence in drug discovery for fungal diseases: a scoping review.,10.1016/j.artmed.2026.103461,2025-10-05,2026-05-23,230
+Artificial intelligence in medicine,IKDP: Implicit Knowledge Enhanced Disease Prediction via heterogeneous admission sequence graphs.,10.1016/j.artmed.2026.103365,2025-06-03,2026-01-20,231
+Artificial intelligence in medicine,Using artificial intelligence to predict patient wait times in the emergency department: A scoping review.,10.1016/j.artmed.2025.103316,2024-10-08,2025-11-24,412
+Artificial intelligence in medicine,Healing with hierarchy: Hierarchical attention empowered graph neural networks for predictive analysis in medical data.,10.1016/j.artmed.2025.103134,2024-06-04,2025-04-12,312
+Artificial intelligence in medicine,GraphCF: Drug-target interaction prediction via multi-feature fusion with contrastive graph neural network.,10.1016/j.artmed.2025.103196,2024-09-16,2025-06-10,267
+Artificial intelligence in medicine,Video-based ultrasound diagnosis via difference-guided multi-frame modeling.,10.1016/j.artmed.2026.103564,2026-05-01,2026-11-02,185
+Artificial intelligence in medicine,PregBase: A comprehensive knowledge base for clinically relevant knowledge representation and biomarker prediction in pregnancy.,10.1016/j.artmed.2026.103510,2026-02-01,2026-08-12,192
+Artificial intelligence in medicine,Digital phenotyping for mental health based on data analytics: A systematic literature review.,10.1016/j.artmed.2025.103094,2024-05-04,2025-02-19,291
+Artificial intelligence in medicine,An end-to-end solution for out-of-hospital emergency medical dispatch triage based on multimodal and continual deep learning.,10.1016/j.artmed.2025.103264,2024-11-20,2025-09-03,287
+Artificial intelligence in medicine,JRadiEvo: A Japanese radiology report generation model enhanced by evolutionary optimization of model merging.,10.1016/j.artmed.2026.103482,2026-01-18,2026-06-18,151
+Artificial intelligence in medicine,"The accuracy, validity and reliability of Theia3D markerless motion capture for studying the biomechanics of human movement: A systematic review.",10.1016/j.artmed.2025.103332,2025-01-05,2025-12-01,330
+Artificial intelligence in medicine,DARE: A Deformable Adaptive Regularization Estimator for learning-based medical image registration.,10.1016/j.artmed.2026.103440,2025-05-18,2026-04-22,339
+Artificial intelligence in medicine,Electronic Health Records-based identification of newly diagnosed Crohn's Disease cases.,10.1016/j.artmed.2024.103032,2023-10-25,2024-09-10,321
+Artificial intelligence in medicine,Segmentation-synthesis co-training for semi-supervised domain generalizable medical image segmentation.,10.1016/j.artmed.2026.103512,2026-03-23,2026-08-12,142
+Artificial intelligence in medicine,GenGait: A Transformer-based model for human gait anomaly detection and normative twin generation.,10.1016/j.artmed.2026.103545,2026-03-25,2026-10-01,190
+Artificial intelligence in medicine,A deep learning-based framework for the malignancy analysis of thyroid lesions in contrast-enhanced ultrasound videos.,10.1016/j.artmed.2026.103500,2026-04-14,2026-07-21,98
+Artificial intelligence in medicine,Comparing neural language models for medical concept representation and patient trajectory prediction.,10.1016/j.artmed.2025.103108,2023-06-01,2025-03-09,647
+Artificial intelligence in medicine,Intelligent sentiment analysis with Arabic patient feedback on healthcare services in King Hussein Cancer Center.,10.1016/j.artmed.2025.103334,2024-08-17,2025-12-12,482
+Artificial intelligence in medicine,LCDL: Classification of ICD codes based on disease label co-occurrence dependency and LongFormer with medical knowledge.,10.1016/j.artmed.2024.103041,2023-11-22,2024-11-23,367
+Artificial intelligence in medicine,Toward responsible artificial intelligence in medicine: Reflections from the Australian epilepsy project.,10.1016/j.artmed.2025.103192,2023-04-27,2025-06-03,768
+Artificial intelligence in medicine,Adapting language models for mental health analysis on social media.,10.1016/j.artmed.2025.103217,2024-07-12,2025-07-03,356
+Artificial intelligence in medicine,CircWaveDL: Modeling of optical coherence tomography images based on a new supervised tensor-based dictionary learning for classification of macular a,10.1016/j.artmed.2024.103060,2024-07-10,2024-12-21,164
+Artificial intelligence in medicine,"Medical multimodal foundation models in clinical diagnosis and treatment: Applications, challenges, and future directions.",10.1016/j.artmed.2025.103265,2024-12-12,2025-09-05,267
+Artificial intelligence in medicine,ECGEFNet: A two-branch deep learning model for calculating left ventricular ejection fraction using electrocardiogram.,10.1016/j.artmed.2024.103065,2024-01-30,2024-12-30,335
+Artificial intelligence in medicine,Artificial intelligence use and performance in detecting and predicting healthcare-associated infections: A systematic review.,10.1016/j.artmed.2025.103321,2025-01-18,2025-11-25,311
+Artificial intelligence in medicine,Map2VidSeg Revisited: A controlled-upgrade study of classifier-derived prompts for medical video segmentation.,10.1016/j.artmed.2026.103558,2026-04-21,2026-10-06,168
+Artificial intelligence in medicine,A Character-level Convolutional Recurrent Interaction Network for joint traditional Chinese medicine clinical named entity recognition and relation ex,10.1016/j.artmed.2026.103372,2024-11-18,2026-01-30,438
+Artificial intelligence in medicine,"Advances in diagnosis and prognosis of bacteraemia, bloodstream infection, and sepsis using machine learning: A comprehensive living literature review",10.1016/j.artmed.2024.103008,2024-05-07,2024-10-23,169
+Artificial intelligence in medicine,Interactive prototype learning and self-learning for few-shot medical image segmentation.,10.1016/j.artmed.2025.103183,2024-07-16,2025-05-26,314
+Artificial intelligence in medicine,Developing novel dynamic prediction methods for survival time to analyze short-term and long-term progression of Alzheimer's disease.,10.1016/j.artmed.2025.103140,2024-10-13,2025-04-22,191
+Artificial intelligence in medicine,AI-enabled clinical decision support tools for mental healthcare: A product review.,10.1016/j.artmed.2024.103052,2023-12-13,2024-12-05,358
+Artificial intelligence in medicine,Green artificial intelligence in health applications.,10.1016/j.artmed.2026.103442,2025-05-23,2026-04-27,339
+Artificial intelligence in medicine,Annotator reliability and probabilistic consensus for semantic segmentation in digital pathology.,10.1016/j.artmed.2026.103459,2025-05-19,2026-05-23,369
+Artificial intelligence in medicine,Artificial intelligence in 4D flow MRI: Review of technological aspects and clinical applications.,10.1016/j.artmed.2025.103308,2024-11-18,2025-11-13,360
+Artificial intelligence in medicine,DMHGNN: Double multi-view heterogeneous graph neural network framework for drug-target interaction prediction.,10.1016/j.artmed.2024.103023,2023-12-03,2024-11-15,348
+Artificial intelligence in medicine,CCLDA: prediction of lncRNA-disease associations based on Convolutional Block Attention Module and Capsule Network.,10.1016/j.artmed.2025.103238,2024-09-27,2025-08-11,318
+Artificial intelligence in medicine,A benchmark study comparing deep learning and path analysis approaches for multi-class link prediction on a disease-specific literature knowledge grap,10.1016/j.artmed.2026.103542,2026-04-08,2026-09-24,169
+Artificial intelligence in medicine,Symbolic and hybrid AI for brain tissue segmentation using spatial model checking.,10.1016/j.artmed.2025.103154,2024-10-04,2025-05-01,209
+Artificial intelligence in medicine,A generalizable normative deep autoencoder for brain morphological anomaly detection: application to the multi-site StratiBip dataset on bipolar disor,10.1016/j.artmed.2024.103063,2024-07-17,2024-12-30,166
+Artificial intelligence in medicine,Concordance-based Predictive Uncertainty (CPU)-Index: Proof-of-concept with application towards improved specificity of lung cancers on low dose scree,10.1016/j.artmed.2024.103055,2024-08-09,2024-12-09,122
+Artificial intelligence in medicine,Improving organizational processes in healthcare through simulation-driven resource allocation: Methodology and real-world case study.,10.1016/j.artmed.2026.103391,2025-05-28,2026-03-02,278
+Artificial intelligence in medicine,Smiling difficulties in Alzheimer's disease linked to reduced nucleus accumbens and pallidum brain volume: Deep learning insights.,10.1016/j.artmed.2025.103347,2025-01-05,2025-12-29,358
+Artificial intelligence in medicine,High-quality triage and diagnosis of gynecological diseases via artificial intelligence.,10.1016/j.artmed.2025.103267,2024-02-21,2025-09-08,565
+Artificial intelligence in medicine,Frequency-based boundary-guided attention network for domain generalizable polyp segmentation from colonoscopy images.,10.1016/j.artmed.2025.103288,2025-01-07,2025-10-21,287
+Artificial intelligence in medicine,AMOTS: Partially supervised framework for abdominal multi-organ and tumor segmentation via aspect-aware complementary.,10.1016/j.artmed.2025.103224,2024-09-25,2025-07-09,287
+Artificial intelligence in medicine,SCLResNet and DSAF: A self-supervised contrastive learning and deep self-attention fusion-based multimodal network for predicting central lymph node m,10.1016/j.artmed.2025.103280,2024-11-18,2025-09-28,314
+Artificial intelligence in medicine,Quantification of the tumor microenvironment and prognostic analysis in colorectal cancer based on CAMuTILS.,10.1016/j.artmed.2026.103498,2026-03-13,2026-07-21,130
+Artificial intelligence in medicine,Automatic classification of HEp-2 specimens by explainable deep learning and Jensen-Shannon reliability index.,10.1016/j.artmed.2024.103030,2023-11-22,2024-11-18,362
+Artificial intelligence in medicine,Artificial intelligence-powered image analysis: A paradigm shift in infectious disease detection.,10.1016/j.artmed.2024.103025,2024-03-24,2024-11-15,236
+Artificial intelligence in medicine,Anatomical prior-based vertebral landmark detection for spinal disorder diagnosis.,10.1016/j.artmed.2024.103011,2023-12-27,2024-11-02,311
+Artificial intelligence in medicine,Improving unified information extraction in Chinese mental health domain with instruction-tuned LLMs and type-verification component.,10.1016/j.artmed.2025.103087,2024-07-06,2025-02-11,220
+Artificial intelligence in medicine,Unpaired multi-modal multi-label learning for detecting endometriosis signs.,10.1016/j.artmed.2026.103503,2026-01-04,2026-08-05,213
+Artificial intelligence in medicine,The measure that matters: What medicine asks of artificial intelligence.,10.1016/j.artmed.2026.103565,2026-05-22,2026-11-03,165
+Artificial intelligence in medicine,Prediction of radiological decision errors from longitudinal analysis of gaze and image features.,10.1016/j.artmed.2024.103051,2024-05-29,2024-12-05,190
+Artificial intelligence in medicine,AGraphHF: Adversarial graph-based multimodal learning for heart failure risk prediction.,10.1016/j.artmed.2026.103547,2026-06-01,2026-10-03,124
+Artificial intelligence in medicine,Toward fair medical advice: Addressing and mitigating bias in large language model-based healthcare applications.,10.1016/j.artmed.2025.103216,2025-03-23,2025-07-03,102
+Artificial intelligence in medicine,"TransformerLSR: Attentive joint model of longitudinal data, survival, and recurrent events with concurrent latent structure.",10.1016/j.artmed.2024.103056,2024-04-03,2024-12-09,250
+Artificial intelligence in medicine,"CReaTe-LM: A large language model for stepwise, heuristic clinical reasoning instruction.",10.1016/j.artmed.2026.103540,2025-10-12,2026-09-15,338
+Artificial intelligence in medicine,Multimodal biomarker AI techniques for early neurocognitive disorder diagnosis: A systematic review.,10.1016/j.artmed.2026.103389,2025-11-18,2026-02-26,100
+Artificial intelligence in medicine,DMNet-E: Enhanced dual-segmentation multi-decoder network strategy for advancing IVOCT plaque segmentation.,10.1016/j.artmed.2026.103531,2026-05-31,2026-09-04,96
+Artificial intelligence in medicine,Reconstruction-based approach for chest X-ray image segmentation and enhanced multi-label chest disease classification.,10.1016/j.artmed.2025.103135,2024-08-28,2025-04-13,228
+Artificial intelligence in medicine,A Multi-task learning U-Net model for end-to-end HEp-2 cell image analysis.,10.1016/j.artmed.2024.103031,2024-01-30,2024-11-18,293
+Artificial intelligence in medicine,Uncovering the genetic basis of glioblastoma heterogeneity through multimodal analysis of whole slide images and RNA sequencing data.,10.1016/j.artmed.2025.103191,2024-10-15,2025-06-03,231
+Artificial intelligence in medicine,Difficulty-aware coupled contour regression network with IoU loss for efficient IVUS delineation.,10.1016/j.artmed.2025.103240,2025-04-30,2025-08-11,103
+Artificial intelligence in medicine,"Leveraging deep-learning and unconventional data for real-time surveillance, forecasting, and early warning of respiratory pathogens outbreak.",10.1016/j.artmed.2025.103076,2024-08-09,2025-01-30,174
+Artificial intelligence in medicine,Predictive models and significant predictors for vaginal birth after caesarean section: A scoping review.,10.1016/j.artmed.2026.103559,2025-08-20,2026-10-07,413
+Artificial intelligence in medicine,Training-free OCT denoising via anatomically guided latent manipulation of a pretrained generative foundation model.,10.1016/j.artmed.2026.103532,2026-04-12,2026-09-07,148
+Artificial intelligence in medicine,Deep learning in acupuncture: A systematic review.,10.1016/j.artmed.2025.103300,2024-05-28,2025-11-02,523
+Artificial intelligence in medicine,Fuzzy-DDI: A robust fuzzy logic query model for complex drug-drug interaction prediction.,10.1016/j.artmed.2025.103125,2024-05-17,2025-03-29,316
+Artificial intelligence in medicine,Integrating probabilistic trees and causal networks for clinical and epidemiological data.,10.1016/j.artmed.2026.103350,2025-01-22,2026-01-05,348
+Artificial intelligence in medicine,An informed machine learning based environmental risk score for hypertension in European adults.,10.1016/j.artmed.2025.103139,2024-09-23,2025-04-21,210
+Artificial intelligence in medicine,Regret theory-based clinical efficacy evaluation method with three-way decision.,10.1016/j.artmed.2025.103333,2025-01-12,2025-12-08,330
+Artificial intelligence in medicine,Multiplex aggregation combining sample reweight composite network for pathology image segmentation.,10.1016/j.artmed.2025.103239,2025-03-28,2025-08-11,136
+Artificial intelligence in medicine,"Facial data for autism spectrum disorder detection using machine learning, deep learning, and emerging large language and vision-language models: A sy",10.1016/j.artmed.2026.103546,2026-06-04,2026-10-02,120
+Artificial intelligence in medicine,A generalized LLMs framework to support public health financing through probabilistic predictions and uncertainty quantification.,10.1016/j.artmed.2025.103203,2024-04-02,2025-06-29,453
+Artificial intelligence in medicine,Investigation of synonym expansion and self-alignment pretraining for enhancing Human Phenotype Ontology concept recognition.,10.1016/j.artmed.2025.103282,2024-09-21,2025-10-15,389
+Artificial intelligence in medicine,Applications of artificial intelligence in liver cancer: A scoping review.,10.1016/j.artmed.2025.103244,2025-01-19,2025-08-11,204
+Artificial intelligence in medicine,Design and use of a Denoising Convolutional Autoencoder for reconstructing electrocardiogram signals at super resolution.,10.1016/j.artmed.2024.103058,2024-06-04,2024-12-15,194
+Artificial intelligence in medicine,Utilizing semantically enhanced self-supervised graph convolution and multi-head attention fusion for herb recommendation.,10.1016/j.artmed.2025.103112,2024-05-16,2025-03-14,302
+Artificial intelligence in medicine,BenSParX: A robust explainable machine learning framework for Parkinson's disease detection from Bengali conversational speech.,10.1016/j.artmed.2026.103538,2025-05-17,2026-09-14,485
+Artificial intelligence in medicine,Improving fairness of large language model-based ICU mortality prediction via case-based prompting.,10.1016/j.artmed.2026.103541,2026-03-23,2026-09-19,180
+Artificial intelligence in medicine,EvidenceMap: Learning evidence analysis to unleash the power of small language models for biomedical question answering.,10.1016/j.artmed.2025.103246,2025-04-28,2025-08-13,107
+Artificial intelligence in medicine,A multi-feature alignment fusion neural network model for red blood cell aggregation classification using ultrasonic radiofrequency data of blood.,10.1016/j.artmed.2026.103397,2025-01-07,2026-03-02,419
+Artificial intelligence in medicine,Zero- and few-shot Named Entity Recognition and Text Expansion in medication prescriptions using large language models.,10.1016/j.artmed.2025.103165,2024-01-30,2025-05-10,466
+Artificial intelligence in medicine,CIGMA: Causal-inspired invariant graph matching with multi-view contrastive distillation for predicting herb-symptom associations.,10.1016/j.artmed.2026.103509,2025-12-10,2026-08-12,245
+Artificial intelligence in medicine,Minimal data poisoning attack in federated learning for medical image classification: An attacker perspective.,10.1016/j.artmed.2024.103024,2023-12-26,2024-11-15,325
+Artificial intelligence in medicine,Surgery scheduling based on large language models.,10.1016/j.artmed.2025.103151,2024-07-27,2025-05-01,278
+Artificial intelligence in medicine,The application of artificial intelligence in healthcare practice: A mapping review of systematic reviews.,10.1016/j.artmed.2026.103495,2025-10-12,2026-07-17,278
+Artificial intelligence in medicine,Multi-modal medical image synthesis via dual-branch wavelet encoding and deformable feature interaction.,10.1016/j.artmed.2025.103287,2025-05-28,2025-10-21,146
+Artificial intelligence in medicine,ICD code mapping model based on clinical text tree structure.,10.1016/j.artmed.2025.103163,2024-04-27,2025-05-08,376
+Artificial intelligence in medicine,Anatomy consistent segmentation network for joint PET/CT tumor segmentation.,10.1016/j.artmed.2026.103477,2025-08-26,2026-06-15,293
+Artificial intelligence in medicine,Mixture-attention Siamese transformer for video polyp segmentation.,10.1016/j.artmed.2025.103278,2024-09-30,2025-09-27,362
+Artificial intelligence in medicine,Structural-preserving diffusion generation for zero-shot CECT-to-NCCT synthesis.,10.1016/j.artmed.2026.103562,2026-01-04,2026-10-31,300
+Artificial intelligence in medicine,CastNet: A three-channel EEG-based deep learning model for cross-subject depression detection.,10.1016/j.artmed.2026.103484,2025-11-30,2026-06-22,204
+Artificial intelligence in medicine,Disentangled global and local features of multi-source data variational autoencoder: An interpretable model for diagnosing IgAN via multi-source Raman,10.1016/j.artmed.2024.103053,2024-01-26,2024-12-05,314
+Artificial intelligence in medicine,Pandemic transition: A review of social media text mining for pandemic transition in the post-vaccination era.,10.1016/j.artmed.2025.103242,2024-07-27,2025-08-11,380
+Artificial intelligence in medicine,Evidential reasoning-enabled deep learning for reliable treatment outcome prediction in cancer therapy.,10.1016/j.artmed.2026.103445,2025-11-23,2026-05-04,162
+Artificial intelligence in medicine,Implementation of artificial intelligence approaches in oncology clinical trials: A systematic review.,10.1016/j.artmed.2025.103066,2024-08-14,2025-01-15,154
+Artificial intelligence in medicine,Development and validation of deep continual learning model to sequentially learn multiple clinical prediction tasks for ICU patients.,10.1016/j.artmed.2025.103319,2025-01-07,2025-11-25,322
+Artificial intelligence in medicine,Sum of similarity-regularized squared correlations for enhancing SSVEP detection.,10.1016/j.artmed.2025.103100,2024-06-18,2025-02-23,250
+Artificial intelligence in medicine,FairEnc: A Fair vision-language model with fair vision and text encoders for glaucoma detection.,10.1016/j.artmed.2026.103521,2026-05-06,2026-08-28,114
+Artificial intelligence in medicine,Deep learning for autism detection using clinical notes: A comparison of transfer learning for a transparent and black-box approach.,10.1016/j.artmed.2025.103318,2024-09-23,2025-11-24,427
+Artificial intelligence in medicine,GHOSTS: Validated generation of synthetic hospital time series.,10.1016/j.artmed.2026.103443,2025-05-23,2026-04-29,341
+Artificial intelligence in medicine,Imitation learning-embedded deep reinforcement learning controller designed for MRI-guided transurethral ultrasound ablation: Simulation and phantom v,10.1016/j.artmed.2026.103539,2025-08-18,2026-09-14,392
+Artificial intelligence in medicine,Patient preference analysis for online consultation based on user-generated content.,10.1016/j.artmed.2026.103427,2025-06-06,2026-04-16,314
+Artificial intelligence in medicine,MMSupcon: An image fusion-based multi-modal supervised contrastive method for brain tumor diagnosis.,10.1016/j.artmed.2025.103253,2025-03-01,2025-08-21,173
+Artificial intelligence in medicine,AI-based mining of biomedical literature: Applications for drug repurposing for the treatment of dementia.,10.1016/j.artmed.2025.103218,2024-12-11,2025-07-07,208

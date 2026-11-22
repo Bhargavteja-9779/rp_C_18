@@ -1,0 +1,251 @@
+journal,title,doi,received,accepted,days
+Briefings in bioinformatics,Deep learning approaches for resolving genomic discrepancies in cancer: a systematic review and clinical perspective.,10.1093/bib/bbaf541,2025-06-27,2025-09-16,81
+Briefings in bioinformatics,spMosaic: multi-sample integration for scalable spatial domain discovery based on spatial transcriptomics.,10.1093/bib/bbag527,2026-04-28,2026-09-04,129
+Briefings in bioinformatics,Comparison of variant callers using 60 532 multi-ancestry whole genome sequences.,10.1093/bib/bbag130,2025-07-23,2026-01-24,185
+Briefings in bioinformatics,Surf2Spot: a surface-informed geometry-aware model for predicting partner-independent binder and nanobody design hotspots.,10.1093/bib/bbag542,2026-06-23,2026-09-11,80
+Briefings in bioinformatics,A data-intelligence-intensive bioinformatics copilot system for large-scale omics research and scientific insights.,10.1093/bib/bbaf312,2024-11-11,2025-06-05,206
+Briefings in bioinformatics,AICellType: a large language model-based platform for accurate cell type annotation.,10.1093/bib/bbag151,2025-09-23,2026-02-13,143
+Briefings in bioinformatics,The critical role of artificial intelligence and bioinformatics in accelerating peptide-based vaccine discovery for tackling global infectious disease,10.1093/bib/bbag260,2025-12-17,2026-04-09,113
+Briefings in bioinformatics,A conceptual framework for human-AI collaborative genome annotation.,10.1093/bib/bbaf377,2025-03-19,2025-07-06,109
+Briefings in bioinformatics,Early cancer detection via multi-omics cfDNA fragmentation using early-late fusion neural network with sample-modality evaluation.,10.1093/bib/bbaf599,2025-08-24,2025-10-19,56
+Briefings in bioinformatics,Multimodal foundation models in colorectal cancer: from prediction to trustworthy clinical insight.,10.1093/bib/bbag179,2025-09-15,2026-03-05,171
+Briefings in bioinformatics,Empowering multifaceted analysis of spatial transcriptomics data with RGAST.,10.1093/bib/bbag298,2025-10-20,2026-05-15,207
+Briefings in bioinformatics,CELLetter: leveraging large language model and dual-stream network to identify context-specific ligand-receptor interactions for cell-cell communicati,10.1093/bib/bbaf693,2025-09-29,2025-12-04,66
+Briefings in bioinformatics,GatorSC: multi-scale cell and gene graphs with mixture-of-experts fusion for single-cell transcriptomics.,10.1093/bib/bbag330,2026-02-09,2026-05-26,106
+Briefings in bioinformatics,De Bruijn graphs for pangenomics: in-depth performance benchmarking of de Bruijn graph-based tools for read mapping.,10.1093/bib/bbag440,2026-01-07,2026-07-23,197
+Briefings in bioinformatics,TRACER: response-protected cross-domain alignment of cancer pharmacogenomic models with patient tumors.,10.1093/bib/bbag593,2026-08-21,2026-10-05,45
+Briefings in bioinformatics,MuRaL-indel: a deep learning framework for building insertion and deletion mutation rate maps.,10.1093/bib/bbag212,2026-01-05,2026-04-12,97
+Briefings in bioinformatics,Proteomic analysis across Healthy-NAT-Tumor tissues uncovers clinically relevant biological events in esophageal squamous cell carcinoma.,10.1093/bib/bbag186,2025-12-05,2026-03-27,112
+Briefings in bioinformatics,Prediction of drug hypersensitivity by comprehensive modeling of HLA-peptidomes.,10.1093/bib/bbag350,2026-02-02,2026-06-05,123
+Briefings in bioinformatics,Data imbalance in drug response prediction: multi-objective optimization approach in deep learning setting.,10.1093/bib/bbaf134,2024-09-19,2025-02-18,152
+Briefings in bioinformatics,DeOPUS: cellular deconvolution via optimized power-transformed unmixing with shrinkage.,10.1093/bib/bbag524,2026-03-18,2026-08-30,165
+Briefings in bioinformatics,Porcine MutBERT: a family of lightweight genomic foundation models for functional element prediction in pigs.,10.1093/bib/bbag319,2025-11-04,2026-05-18,195
+Briefings in bioinformatics,DeepADR: multimodal prediction of adverse drug reaction frequency by integrating early-stage drug discovery information via Kolmogorov-Arnold networks,10.1093/bib/bbaf695,2025-08-06,2025-12-09,125
+Briefings in bioinformatics,GCNMF-SDA: predicting snoRNA-disease associations based on graph convolution and non-negative matrix factorization.,10.1093/bib/bbaf453,2025-02-08,2025-08-05,178
+Briefings in bioinformatics,scHSC: enhancing single-cell RNA-seq clustering via hard sample contrastive learning.,10.1093/bib/bbaf485,2025-02-25,2025-08-20,176
+Briefings in bioinformatics,"Graphics processing unit-accelerated quantum simulation for molecular biology and drug discovery: algorithms, platforms, and emerging applications.",10.1093/bib/bbag629,2026-06-30,2026-10-20,112
+Briefings in bioinformatics,Growing and linking optimizers: synthesis-driven molecule design.,10.1093/bib/bbaf482,2025-05-12,2025-08-18,98
+Briefings in bioinformatics,Identification of cancer mini-drivers by deciphering selective landscape in the cancer genome.,10.1093/bib/bbaf694,2025-08-20,2025-12-04,106
+Briefings in bioinformatics,Long Noncoding RNA function prediction via multiview cross-contrastive learning combined with multiscale semantic adaptive optimization.,10.1093/bib/bbaf650,2025-07-14,2025-11-14,123
+Briefings in bioinformatics,DTAP: a unified graph transformer framework for joint prediction of drug-target affinity and docking pose.,10.1093/bib/bbag069,2025-10-16,2026-01-27,103
+Briefings in bioinformatics,CRISPR-MBTF: a multi-branch transformer fusion framework for CRISPR-Cas9 off-target prediction.,10.1093/bib/bbag216,2025-11-02,2026-04-10,159
+Briefings in bioinformatics,Integrating multi-omics data through deep learning with applications to autism risk gene prioritization.,10.1093/bib/bbag588,2026-06-22,2026-10-04,104
+Briefings in bioinformatics,MFE-ACVP: anti-coronavirus peptide prediction based on multimodal feature extraction and ensemble learning.,10.1093/bib/bbaf610,2025-07-01,2025-10-24,115
+Briefings in bioinformatics,Pathogenicity prediction for noncanonical splice-altering variants based on multimodal feature fusion.,10.1093/bib/bbag291,2026-02-11,2026-05-11,89
+Briefings in bioinformatics,Graph-based deep learning for integrating single-cell and bulk transcriptomic data to identify clinical cancer subtypes.,10.1093/bib/bbaf467,2025-01-06,2025-08-07,213
+Briefings in bioinformatics,"Toward high-efficiency, low-resource, and explainable neuropeptide prediction with MSKDNP.",10.1093/bib/bbaf466,2025-03-28,2025-07-23,117
+Briefings in bioinformatics,From early-onset asthma to chronic obstructive pulmonary disease: potential mediating proteins and therapeutic targets.,10.1093/bib/bbag209,2025-10-27,2026-04-05,160
+Briefings in bioinformatics,CRESCENT: a deep learning framework with multi-scale attention for detecting recurrent copy number alterations.,10.1093/bib/bbag167,2025-12-17,2026-03-15,88
+Briefings in bioinformatics,SLGCA: spatial cross-level graph contrastive autoencoder for multislice spatial domain identification and microenvironment exploration.,10.1093/bib/bbaf574,2025-08-01,2025-10-01,61
+Briefings in bioinformatics,In silico approaches for discovering microbial antiviral defense systems.,10.1093/bib/bbaf619,2025-07-04,2025-10-19,107
+Briefings in bioinformatics,UDEC-MO: an uncertainty-guided deep embedded clustering framework for bulk and single-cell multi-omics data.,10.1093/bib/bbag435,2026-05-05,2026-07-15,71
+Briefings in bioinformatics,Path-MGCN: a pathway activity-based multi-view graph convolutional network for determining spatial domains.,10.1093/bib/bbaf365,2025-05-09,2025-07-01,53
+Briefings in bioinformatics,Minimal cut sets in metabolic networks: from conceptual foundations to applications in metabolic engineering and biomedicine.,10.1093/bib/bbaf188,2025-02-12,2025-04-01,48
+Briefings in bioinformatics,Estimating population structure using epigenome-wide methylation data.,10.1093/bib/bbag142,2025-09-10,2026-03-06,177
+Briefings in bioinformatics,Integrated machine learning and molecular dynamics framework for predicting and elucidating ABCB1 allocrite interactions.,10.1093/bib/bbag106,2025-10-06,2026-02-10,127
+Briefings in bioinformatics,Integrative multi-omics analysis reveals microbiota alterations and clinical indicators predictive of pulmonary fibrosis progression following SARS-Co,10.1093/bib/bbag173,2025-11-12,2026-03-06,114
+Briefings in bioinformatics,MPHGNN: metapath-guided heterogeneous graph neural network for miRNA-drug resistance association prediction.,10.1093/bib/bbag013,2025-09-12,2026-01-05,115
+Briefings in bioinformatics,Computational analysis in spatial transcriptomics: methods and perspectives.,10.1093/bib/bbag417,2025-10-21,2026-06-17,239
+Briefings in bioinformatics,Ab initio detection of multiple epitranscriptomic modifications from Oxford nanopore technology direct RNA sequencing data.,10.1093/bib/bbaf709,2025-07-04,2025-12-16,165
+Briefings in bioinformatics,RPSubAlign: a novel sequence-based molecular representation method for retrosynthesis prediction with improved validity and robustness.,10.1093/bib/bbaf257,2024-11-26,2025-05-13,168
+Briefings in bioinformatics,Artificial intelligence in bioinformatics: a survey.,10.1093/bib/bbaf576,2025-07-21,2025-09-30,71
+Briefings in bioinformatics,Design of function-regulating RNA via deep learning and AlphaFold 3.,10.1093/bib/bbaf419,2025-02-10,2025-07-19,159
+Briefings in bioinformatics,A machine learning framework using urinary biomarkers for pancreatic ductal adenocarcinoma prediction with post hoc validation via single-cell transcr,10.1093/bib/bbaf583,2025-07-16,2025-10-03,79
+Briefings in bioinformatics,Pepxml: ESM2-based extreme multilabel classification of pathogen-targeted antimicrobial peptides.,10.1093/bib/bbaf548,2025-07-08,2025-09-22,76
+Briefings in bioinformatics,Current trends and challenges in deciphering single molecule resolution maps of single cell transcriptomes.,10.1093/bib/bbag323,2026-02-27,2026-05-21,83
+Briefings in bioinformatics,A multi-omics integration framework using multi-label guided learning and multi-scale fusion.,10.1093/bib/bbaf493,2025-03-25,2025-08-25,153
+Briefings in bioinformatics,RGCN-BA: relational graph convolutional network with batch awareness for single-cell RNA sequencing clustering.,10.1093/bib/bbaf378,2025-04-17,2025-06-30,74
+Briefings in bioinformatics,Decoding TCR recognition via geometric deep learning of immunological fingerprints.,10.1093/bib/bbag048,2025-07-31,2025-12-31,153
+Briefings in bioinformatics,RLEAAI: improving antibody-antigen interaction prediction using protein language model and sequence order information.,10.1093/bib/bbaf238,2025-01-23,2025-05-02,99
+Briefings in bioinformatics,Pushing the boundaries of few-shot learning for low-data drug discovery with a Bayesian meta-learning hypernetwork framework.,10.1093/bib/bbaf408,2025-04-09,2025-07-15,97
+Briefings in bioinformatics,A graph retrieval-augmented generation pipeline for systematic drug target discovery: validation and application to ocular neovascularization.,10.1093/bib/bbag343,2026-02-05,2026-05-26,110
+Briefings in bioinformatics,Large-scale information retrieval and correction of noisy pharmacogenomic datasets through residual thresholded deep matrix factorization.,10.1093/bib/bbaf226,2024-06-06,2025-04-28,326
+Briefings in bioinformatics,GRANet: a graph residual attention network for gene regulatory network inference.,10.1093/bib/bbaf349,2025-04-25,2025-07-01,67
+Briefings in bioinformatics,Pangenome-guided sequence assembly via binary optimization.,10.1093/bib/bbag084,2025-09-12,2026-01-24,134
+Briefings in bioinformatics,The rise and potential opportunities of large language model agents in bioinformatics and biomedicine.,10.1093/bib/bbaf601,2025-08-05,2025-10-19,75
+Briefings in bioinformatics,Development of bioinformatics competency framework to address labor market demands in Thailand.,10.1093/bib/bbag561,2026-07-16,2026-09-06,52
+Briefings in bioinformatics,Cox-Sage: enhancing Cox proportional hazards model with interpretable graph neural networks for cancer prognosis.,10.1093/bib/bbaf108,2024-09-19,2025-02-25,159
+Briefings in bioinformatics,Systematic evaluation of normalization approaches in tandem mass tag and label-free protein quantification data using PRONE.,10.1093/bib/bbaf201,2025-01-29,2025-04-09,70
+Briefings in bioinformatics,scDETECT: a novel statistical model accounting for cell type correlation in single-cell RNA-seq differential expression analysis.,10.1093/bib/bbaf556,2024-10-18,2025-04-11,175
+Briefings in bioinformatics,DSCC: disease subtyping using spectral clustering and community detection from consensus networks.,10.1093/bib/bbaf600,2025-07-19,2025-10-19,92
+Briefings in bioinformatics,CONTRA-IL6: an interpretable hybrid convolutional neural network and Transformer framework for accurate prediction of interleukin-6-inducing peptides ,10.1093/bib/bbag250,2025-12-23,2026-04-16,114
+Briefings in bioinformatics,MCOD: a memory-constrained deep learning framework for robust outlier detection in quantitative proteomics.,10.1093/bib/bbag507,2025-12-30,2026-08-07,220
+Briefings in bioinformatics,PepLand: a large-scale pre-trained peptide representation model for a comprehensive landscape of both canonical and non-canonical amino acids.,10.1093/bib/bbaf367,2024-11-04,2025-06-18,226
+Briefings in bioinformatics,SCPline: An interactive framework for the single-cell proteomics data preprocessing.,10.1093/bib/bbaf256,2025-02-22,2025-05-15,82
+Briefings in bioinformatics,Decoupling topological and molecular features for interpretable biomolecular interaction prediction.,10.1093/bib/bbag471,2026-01-31,2026-07-31,181
+Briefings in bioinformatics,X chromosome-wide association studies for quantitative trait loci based on the mixture of general pedigrees and additional unrelated individuals.,10.1093/bib/bbag467,2026-04-26,2026-08-03,99
+Briefings in bioinformatics,Learning to explore tree neighbourhoods for phylogenetic inference.,10.1093/bib/bbaf732,2025-09-08,2025-12-22,105
+Briefings in bioinformatics,AGCLD: an adaptive graph contrastive learning method with denoising for spatial domain identification.,10.1093/bib/bbag385,2026-04-22,2026-06-16,55
+Briefings in bioinformatics,AdaSemb: an adaptive knowledge-driven deep learning framework integrating cancer protein assemblies for predicting PI3Kα inhibitor response and resist,10.1093/bib/bbaf510,2025-04-23,2025-09-07,137
+Briefings in bioinformatics,Computational prediction of RNA modification site-disease associations: a systematic review.,10.1093/bib/bbag388,2026-03-10,2026-06-24,106
+Briefings in bioinformatics,Cell type-specific dissection of cell death programs during ovarian aging.,10.1093/bib/bbag399,2026-03-24,2026-06-24,92
+Briefings in bioinformatics,DMRU: generative deep learning to unravel condition-specific cytosine methylation in plants.,10.1093/bib/bbaf579,2025-04-28,2025-10-12,167
+Briefings in bioinformatics,The impact of transcriptome assembly algorithms on downstream quantification in RNA-seq data analysis.,10.1093/bib/bbag267,2025-11-04,2026-05-04,181
+Briefings in bioinformatics,The promises and pitfalls of automated variant interpretation: a comprehensive review.,10.1093/bib/bbaf545,2025-05-13,2025-09-20,130
+Briefings in bioinformatics,Kun-peng enables scalable and accurate pan-domain metagenomic classification.,10.1093/bib/bbag119,2025-09-02,2026-02-23,174
+Briefings in bioinformatics,A free energy perturbation-assisted machine learning strategy for mimotope screening in neoantigen-based vaccine design.,10.1093/bib/bbaf254,2024-11-09,2025-05-11,183
+Briefings in bioinformatics,KansformerEPI: a deep learning framework integrating KAN and transformer for predicting enhancer-promoter interactions.,10.1093/bib/bbaf272,2024-12-16,2025-05-24,159
+Briefings in bioinformatics,Clinical and data-driven optimization of Genomiser for rare disease patients: experience from the Hong Kong Genome Project.,10.1093/bib/bbaf475,2025-05-06,2025-08-20,106
+Briefings in bioinformatics,scDIAGRAM: detecting chromatin compartments from individual single-cell Hi-C matrix without imputation or reference features.,10.1093/bib/bbag096,2025-07-31,2026-02-07,191
+Briefings in bioinformatics,PREDAC-FluB: predicting antigenic clusters of seasonal influenza B viruses with protein language model embedding based convolutional neural network.,10.1093/bib/bbaf308,2025-03-26,2025-06-04,70
+Briefings in bioinformatics,BAMBI integrates biostatistical and artificial intelligence methods to improve RNA biomarker discovery.,10.1093/bib/bbaf073,2024-11-19,2025-01-26,68
+Briefings in bioinformatics,AutoMethyc: an automated methylation analysis for massively parallel sequencing data.,10.1093/bib/bbaf416,2024-07-06,2025-07-13,372
+Briefings in bioinformatics,Hi-C3: a statistical inference-based model for reconstructing higher-order cell-cell communication networks.,10.1093/bib/bbaf568,2025-07-24,2025-10-02,70
+Briefings in bioinformatics,Transformers for single-cell RNA sequencing: a survey.,10.1093/bib/bbag332,2025-08-01,2026-05-27,299
+Briefings in bioinformatics,A progressive fine-tuning framework with dynamic parameter selection for low-resource peptide-GPCR interaction prediction.,10.1093/bib/bbag116,2025-09-29,2026-02-17,141
+Briefings in bioinformatics,Guidance for the design and analysis of cell-type-specific DNA methylation epidemiology studies.,10.1093/bib/bbaf427,2024-11-06,2025-06-18,224
+Briefings in bioinformatics,MAGE: an efficient algorithm for identifying Maximal Age-indexed GEne sets.,10.1093/bib/bbag613,2025-12-29,2026-10-11,286
+Briefings in bioinformatics,WDCN: a comprehensive neural network based approach for estimating breast cancer risk.,10.1093/bib/bbag412,2026-04-16,2026-06-18,63
+Briefings in bioinformatics,A recall-rescue fuzzy layer over paired Z-DNA Hunter scans for fast Z-DNA detection.,10.1093/bib/bbag612,2026-06-29,2026-10-10,103
+Briefings in bioinformatics,Deep generative model for protein subcellular localization prediction.,10.1093/bib/bbaf152,2024-11-14,2025-03-19,125
+Briefings in bioinformatics,ProjectSVR: mapping single-cell RNA-seq data to reference atlases by supported vector regression.,10.1093/bib/bbaf586,2025-06-15,2025-09-06,83
+Briefings in bioinformatics,Proformer: a multimodal proteomics transformer model for multidisease early risk assessment.,10.1093/bib/bbaf686,2025-08-01,2025-10-22,82
+Briefings in bioinformatics,QSyncFold: quantum neural network for multidimensional sync-discovery in protein folding.,10.1093/bib/bbag234,2025-11-25,2026-04-15,141
+Briefings in bioinformatics,Elementary methods provide more replicable results in microbial differential abundance analysis.,10.1093/bib/bbaf130,2024-07-22,2025-03-01,222
+Briefings in bioinformatics,MAPTrans: mutual attention transformer with dynamic meta-path pruning for drug repositioning.,10.1093/bib/bbaf382,2025-04-30,2025-07-09,70
+Briefings in bioinformatics,bioETH-PRS: confidential polygenic risk scoring with smart contracts on an FHE-enabled blockchain.,10.1093/bib/bbag503,2026-05-07,2026-08-19,104
+Briefings in bioinformatics,MOGEDN: small-sample cancer subtype classification with encoder-decoder networks for missing-omics recovery and biomarker discovery.,10.1093/bib/bbaf698,2025-09-15,2025-12-04,80
+Briefings in bioinformatics,To pack or not to pack: revisiting protein side-chain packing in the post-AlphaFold era.,10.1093/bib/bbaf297,2025-02-22,2025-05-31,98
+Briefings in bioinformatics,Transformer-based graphs for drug-drug interaction with chemical knowledge embedding.,10.1093/bib/bbag039,2025-06-20,2026-01-16,210
+Briefings in bioinformatics,Deconformer: efficient cell-type composition profiling of cfRNA across diverse cell types.,10.1093/bib/bbag544,2026-05-06,2026-09-15,132
+Briefings in bioinformatics,Generative prediction of real-world prevalent SARS-CoV-2 mutation with in silico virus evolution.,10.1093/bib/bbaf276,2025-01-08,2025-05-11,123
+Briefings in bioinformatics,SciSt: single-cell reference-informed spatial gene expression prediction from pathological images.,10.1093/bib/bbaf613,2025-08-20,2025-10-28,69
+Briefings in bioinformatics,An integrative multi-omics modeling framework for chemotherapy response prediction through microRNA-target regulatory signatures.,10.1093/bib/bbag560,2026-06-28,2026-09-13,77
+Briefings in bioinformatics,Unveiling a novel cancer hallmark by evaluation of neural infiltration in cancer.,10.1093/bib/bbaf082,2024-12-03,2025-02-17,76
+Briefings in bioinformatics,Towards machine learning fairness in classifying multicategory causes of deaths in colorectal or lung cancer patients.,10.1093/bib/bbaf398,2025-02-22,2025-07-20,148
+Briefings in bioinformatics,Data-efficient protein mutational effect prediction with weak supervision by molecular simulation and protein language models.,10.1093/bib/bbaf536,2025-05-21,2025-09-13,115
+Briefings in bioinformatics,TriDTI: tri-modal representation learning with cross-modal alignment for drug-target interaction prediction.,10.1093/bib/bbag034,2025-10-03,2026-01-09,98
+Briefings in bioinformatics,Out of distribution learning in bioinformatics: advancements and challenges.,10.1093/bib/bbaf294,2024-10-27,2025-05-28,213
+Briefings in bioinformatics,"Navigating the 3D genome at single-cell resolution: techniques, computation, and mechanistic landscapes.",10.1093/bib/bbaf520,2025-07-07,2025-09-06,61
+Briefings in bioinformatics,DeepGraphMut: a graph-based deep learning method for cancer prognosis using somatic mutation profile.,10.1093/bib/bbaf409,2024-11-21,2025-07-19,240
+Briefings in bioinformatics,Autoregressive enzyme function prediction with multi-scale multi-modality fusion.,10.1093/bib/bbaf476,2025-03-15,2025-08-22,160
+Briefings in bioinformatics,Bioinformatics frameworks for single-cell long-read sequencing: unlocking isoform-level resolution.,10.1093/bib/bbaf655,2025-08-15,2025-11-14,91
+Briefings in bioinformatics,Virtual cells: progress and challenges from mechanistic modeling to data-driven integration.,10.1093/bib/bbag562,2026-08-17,2026-09-22,36
+Briefings in bioinformatics,Precision in prediction: tailoring machine learning models for breast cancer missense variants pathogenicity prediction.,10.1093/bib/bbaf611,2025-07-08,2025-10-27,111
+Briefings in bioinformatics,Disentangled contrastive learning with dynamic intent adaptation for unveiling gene-drug associations.,10.1093/bib/bbaf530,2025-04-09,2025-09-14,158
+Briefings in bioinformatics,NeuroFANN: identification of neuropathological subtypes in dementia with plasma proteins by using functionally annotated neural network.,10.1093/bib/bbaf366,2025-03-18,2025-07-03,107
+Briefings in bioinformatics,PCBert-Kla: an efficient prediction method for lysine lactylation sites based on ProtBert and fusion of physicochemical features.,10.1093/bib/bbaf615,2025-08-05,2025-10-17,73
+Briefings in bioinformatics,scAED: a framework for mapping the enhancer state at single-cell resolution.,10.1093/bib/bbaf646,2025-05-29,2025-11-14,169
+Briefings in bioinformatics,A comprehensive comparison on clustering methods for multi-slice spatially resolved transcriptomics data analysis.,10.1093/bib/bbaf471,2025-03-12,2025-08-11,152
+Briefings in bioinformatics,A comprehensive review and evaluation of species richness estimation.,10.1093/bib/bbaf158,2024-10-21,2025-03-19,149
+Briefings in bioinformatics,Systematic identification and characterization of virus lncRNAs suggests extensive structural mimicry of host lncRNAs.,10.1093/bib/bbaf640,2025-07-31,2025-11-10,102
+Briefings in bioinformatics,Deciphering hierarchical regulatory network of cell fate via an epigenetics-informed heterogeneous graph transformer on single-cell multi-omics data.,10.1093/bib/bbaf664,2025-07-01,2025-11-18,140
+Briefings in bioinformatics,NNKcat: deep neural network to predict catalytic constants (Kcat) by integrating protein sequence and substrate structure with enhanced data imbalance,10.1093/bib/bbaf212,2025-02-11,2025-04-21,69
+Briefings in bioinformatics,Multi-level association rule mining and network pharmacology to identify the polypharmacological effects of herbal materials and compounds in traditio,10.1093/bib/bbaf328,2025-02-27,2025-06-15,108
+Briefings in bioinformatics,Classifier-driven generative adversarial networks for enhanced antimicrobial peptide design.,10.1093/bib/bbaf500,2025-03-01,2025-08-15,167
+Briefings in bioinformatics,Accelerate the discovery of genetic variants in mitochondrial diseases with Variant prIOritization using Latent spAce.,10.1093/bib/bbaf612,2025-06-18,2025-10-27,131
+Briefings in bioinformatics,Evaluating reference-mixture matching in cell-type deconvolution with single-cell RNA-seq references.,10.1093/bib/bbag184,2025-12-09,2026-03-20,101
+Briefings in bioinformatics,STEAM: Spatial Transcriptomics Evaluation Algorithm and Metric for clustering performance.,10.1093/bib/bbaf570,2025-07-02,2025-10-07,97
+Briefings in bioinformatics,iDLDDG: predicting protein stability changes from missense mutations in DNA-binding proteins using integrated deep learning features.,10.1093/bib/bbag050,2025-11-18,2026-01-16,59
+Briefings in bioinformatics,BHMnet: Bayesian high-dimensional mediation analysis with network information integration for correlated mediators.,10.1093/bib/bbaf734,2025-07-23,2025-12-17,147
+Briefings in bioinformatics,Non-apoptotic regulated cell death based prognostic risk model for colorectal cancer using machine learning guided two-step framework.,10.1093/bib/bbaf639,2025-08-14,2025-11-08,86
+Briefings in bioinformatics,From nucleotides to numbers: a comprehensive review of RNA feature extraction methods for computational modelling.,10.1093/bib/bbaf701,2025-08-13,2025-12-07,116
+Briefings in bioinformatics,SeekTP: identifying multifunctional therapeutic peptides via graph attention and deep property integration.,10.1093/bib/bbaf569,2025-08-03,2025-10-02,60
+Briefings in bioinformatics,scHLens: a web server for hierarchically and interactively exploring single cell RNA-seq data.,10.1093/bib/bbaf675,2025-07-01,2025-11-14,136
+Briefings in bioinformatics,Individualized metagenomic network model for colorectal cancer diagnosis: insights into viral regulation of gut microecology.,10.1093/bib/bbaf208,2024-04-08,2024-09-02,147
+Briefings in bioinformatics,MUTATE: a human genetic atlas of multiorgan artificial intelligence endophenotypes using genome-wide association summary statistics.,10.1093/bib/bbaf125,2024-11-05,2025-03-03,118
+Briefings in bioinformatics,ScFold: a GNN-based model for efficient inverse folding of short-chain proteins via spatial reduction.,10.1093/bib/bbaf156,2024-11-04,2025-03-19,135
+Briefings in bioinformatics,scGGC: a two-stage strategy for single-cell clustering through cellular gene pathway construction.,10.1093/bib/bbaf368,2025-02-17,2025-06-30,133
+Briefings in bioinformatics,Analysis of microsatellite instability intensity in single-cell resolution with scMnT reveals tumor heterogeneity in colorectal cancer.,10.1093/bib/bbag156,2025-08-13,2026-02-26,197
+Briefings in bioinformatics,Pore-C Pipeline-Toolbox: a comprehensive pipeline for Pore-C data analysis.,10.1093/bib/bbaf435,2025-03-16,2025-06-15,91
+Briefings in bioinformatics,Development of a novel multimodal deep learning approach to improve diagnostic precision in ovarian cancer.,10.1093/bib/bbag224,2025-10-02,2026-04-19,199
+Briefings in bioinformatics,Inferring causal networks for genomic trios with high-dimensional confounding variables.,10.1093/bib/bbag611,2026-07-14,2026-10-07,85
+Briefings in bioinformatics,Identifying survival subtypes with autoencoder using multiple types of high-dimensional genomic data from studies of glioblastoma multiforme.,10.1093/bib/bbaf499,2025-02-04,2025-09-01,209
+Briefings in bioinformatics,Addressing flaws in the Seq2Topt dataset for the prediction of enzyme optimal temperature.,10.1093/bib/bbag282,2026-05-03,2026-05-11,8
+Briefings in bioinformatics,DiSCO: deconvoluting spatial transcriptomics via combinatorial optimization with a foundational diffusion model.,10.1093/bib/bbag207,2025-10-28,2026-04-07,161
+Briefings in bioinformatics,scMUG: deep clustering analysis of single-cell RNA-seq data on multiple gene functional modules.,10.1093/bib/bbaf138,2024-11-08,2025-03-09,121
+Briefings in bioinformatics,SingleFrag: a deep learning tool for MS/MS fragment and spectral prediction and metabolite annotation.,10.1093/bib/bbaf333,2024-11-11,2025-05-31,201
+Briefings in bioinformatics,Comprehensive evaluation of artificial intelligence-empowered approaches for protein-aptamer complex prediction.,10.1093/bib/bbag206,2025-11-25,2026-04-07,133
+Briefings in bioinformatics,"Evaluating completeness, coherence, and consistency of genome-scale function annotations.",10.1093/bib/bbag336,2026-02-26,2026-05-28,91
+Briefings in bioinformatics,Decoding heart failure subtypes with neural networks via differential explanation analysis.,10.1093/bib/bbaf581,2025-05-08,2025-10-01,146
+Briefings in bioinformatics,Reg2ST: recognizing potential patterns from gene expression for spatial transcriptomics prediction.,10.1093/bib/bbaf425,2025-03-17,2025-07-15,120
+Briefings in bioinformatics,GLAlign integrates single-cell multi-omics data via global manifold and local marker gene alignment.,10.1093/bib/bbag633,2026-05-06,2026-10-22,169
+Briefings in bioinformatics,A deep adversarial network model for multi-task analysis of single-cell omics data.,10.1093/bib/bbag016,2025-03-21,2025-11-03,227
+Briefings in bioinformatics,Computational tools for tandem repeat detection using long-read sequencing.,10.1093/bib/bbag031,2025-09-23,2026-01-12,111
+Briefings in bioinformatics,"Denoising spatially resolved transcriptomics with consistency of heterogeneous spatial coordinates, transcription, and morphology.",10.1093/bib/bbaf528,2025-04-16,2025-09-10,147
+Briefings in bioinformatics,Structure-based virulence factor classification using a dual-driven graph transformer with a pretrained language model.,10.1093/bib/bbag508,2024-12-10,2026-08-28,626
+Briefings in bioinformatics,Turning heterogeneity of statistical epistasis networks to an advantage.,10.1093/bib/bbaf699,2025-03-12,2025-12-13,276
+Briefings in bioinformatics,InstructPLM-mu: protein fitness prediction from structure instructions.,10.1093/bib/bbag400,2026-01-20,2026-06-16,147
+Briefings in bioinformatics,MutPPI+: a multimodal framework for predicting mutation effects on protein-protein interactions via mutation-path-based data augmentation.,10.1093/bib/bbag105,2025-11-04,2026-02-07,95
+Briefings in bioinformatics,DS-MVP: identifying disease-specific pathogenicity of missense variants by pre-training representation.,10.1093/bib/bbaf119,2024-12-10,2025-03-01,81
+Briefings in bioinformatics,Deep clustering of single-cell RNA-seq using adversarial graph contrastive learning.,10.1093/bib/bbaf423,2025-05-02,2025-07-26,85
+Briefings in bioinformatics,Identifying novel therapeutic targets of natural compounds in traditional Chinese medicine herbs with hypergraph representation learning.,10.1093/bib/bbaf399,2024-11-24,2025-07-02,220
+Briefings in bioinformatics,Literature-informed gene extraction and ranking for multimodal data fusion.,10.1093/bib/bbag348,2025-10-23,2026-06-01,221
+Briefings in bioinformatics,CNAttention: an attention-based deep multiple-instance method for uncovering copy number aberration signatures across cancers.,10.1093/bib/bbaf696,2025-07-29,2025-12-01,125
+Briefings in bioinformatics,Structure-enhanced deep learning accelerates aptamer selection for small molecule families like steroids.,10.1093/bib/bbaf680,2025-05-30,2025-11-27,181
+Briefings in bioinformatics,Chrombus-XMBD: a graph convolution model predicting 3D-genome from chromatin features.,10.1093/bib/bbaf183,2024-11-16,2025-03-26,130
+Briefings in bioinformatics,STRESS: spatial transcriptomics resolution enhancing method based on the state-space model.,10.1093/bib/bbag444,2026-03-19,2026-07-21,124
+Briefings in bioinformatics,Testing and overcoming the limitations of modular response analysis.,10.1093/bib/bbaf098,2024-09-23,2025-02-25,155
+Briefings in bioinformatics,Optimal transport for label transfer in single-cell multi-omics integration.,10.1093/bib/bbag334,2026-01-28,2026-05-28,120
+Briefings in bioinformatics,Feature selection with vector-symbolic architectures: a case study on microbial profiles of shotgun metagenomic samples of colorectal cancer.,10.1093/bib/bbaf177,2024-11-21,2025-03-24,123
+Briefings in bioinformatics,Impact of control selection strategies on GWAS results: a study of prostate cancer in the UK biobank.,10.1093/bib/bbag266,2026-04-22,2026-05-06,14
+Briefings in bioinformatics,TransSurv: compatibility-aware transfer learning for target-cohort survival prediction.,10.1093/bib/bbag532,2026-07-18,2026-09-01,45
+Briefings in bioinformatics,"An advanced network pharmacology investigation of Shufeng Jiedu formula in the treatment for respiratory tract infection based on LC-MS, data mining, ",10.1093/bib/bbaf353,2024-08-15,2025-06-24,313
+Briefings in bioinformatics,Deep learning in single-cell and spatial transcriptomics data analysis: advances and challenges from a data science perspective.,10.1093/bib/bbaf136,2024-12-16,2025-03-05,79
+Briefings in bioinformatics,ANIA: an inception-attention network for predicting minimum inhibitory concentration of antimicrobial peptides.,10.1093/bib/bbag023,2025-07-17,2026-01-06,173
+Briefings in bioinformatics,K-attention: a biologically informed attention operator for data-efficient sequence-based omics modeling.,10.1093/bib/bbag351,2026-03-11,2026-06-06,87
+Briefings in bioinformatics,ST-GCP: a graph convolutional network model with contrastive consistency and permutation for spatial transcriptomics.,10.1093/bib/bbaf643,2025-08-29,2025-11-06,69
+Briefings in bioinformatics,Multi-omics data integration for enhanced cancer subtyping via interactive multi-kernel learning.,10.1093/bib/bbaf687,2025-02-07,2025-12-01,297
+Briefings in bioinformatics,Accounting for the impact of rare variants on causal inference with RARE: a novel multivariable Mendelian randomization method.,10.1093/bib/bbaf214,2024-09-11,2025-04-20,221
+Briefings in bioinformatics,"Advancing genetic engineering with active learning: theory, implementations and potential opportunities.",10.1093/bib/bbaf286,2025-03-21,2025-05-27,67
+Briefings in bioinformatics,Global and local integrated gradient-based diffusion model for de novo drug design.,10.1093/bib/bbag033,2025-09-27,2026-01-09,104
+Briefings in bioinformatics,Dynamic perturbation analysis: a modular rewiring framework for decoding cancer stage progression and identifying therapeutic vulnerabilities.,10.1093/bib/bbag572,2026-07-25,2026-09-25,62
+Briefings in bioinformatics,Systematic evaluation of computational tools to predict the effects of mutations on protein-ligand binding affinity in the absence of experimental str,10.1093/bib/bbag035,2025-08-15,2025-12-09,116
+Briefings in bioinformatics,M3Site: multiclass multimodal learning for protein active site identification and classification.,10.1093/bib/bbaf590,2025-03-23,2025-10-12,203
+Briefings in bioinformatics,PhoSARte: identification of SARS-CoV-2 phosphorylation sites using contrastive learning and protein language models.,10.1093/bib/bbag504,2025-09-18,2026-08-24,340
+Briefings in bioinformatics,SCANER: robust and sensitive identification of malignant cells from the scRNA-seq profiled tumor ecosystem.,10.1093/bib/bbaf175,2024-08-20,2025-03-26,218
+Briefings in bioinformatics,BloodProST: prediction of blood-secretory proteins through self-training.,10.1093/bib/bbaf385,2025-04-16,2025-07-07,82
+Briefings in bioinformatics,Assessment and applications of joint profiling of single-cell chromatin accessibility and transcriptome.,10.1093/bib/bbaf669,2025-09-02,2025-11-23,82
+Briefings in bioinformatics,Genome assemblies and annotations are not static and need support for tracking their evolution.,10.1093/bib/bbag357,2025-11-28,2026-06-02,186
+Briefings in bioinformatics,Single-cell differential expression analysis between conditions within nested settings.,10.1093/bib/bbaf397,2024-10-18,2025-07-13,268
+Briefings in bioinformatics,CASTER-DTA: equivariant graph neural networks for predicting drug-target affinity.,10.1093/bib/bbaf554,2025-04-25,2025-09-25,153
+Briefings in bioinformatics,A single-cell transcriptomic method for the deconvolution of multi-donor blood mixtures.,10.1093/bib/bbag597,2026-07-03,2026-10-07,96
+Briefings in bioinformatics,SCONE: a subset-contrastive method for multi-omics network embedding.,10.1093/bib/bbag381,2025-11-06,2026-06-15,221
+Briefings in bioinformatics,MAEST: accurately spatial domain detection in spatial transcriptomics with graph masked autoencoder.,10.1093/bib/bbaf086,2024-12-08,2025-02-17,71
+Briefings in bioinformatics,Benchmarking large language models for genomic knowledge with GeneTuring.,10.1093/bib/bbaf492,2025-01-05,2025-08-11,218
+Briefings in bioinformatics,MIF-DTI: a multimodal information fusion method for drug-target interaction prediction.,10.1093/bib/bbaf474,2025-05-31,2025-08-20,81
+Briefings in bioinformatics,Imputing missing values in single-cell RNA-sequencing data: a statistical and machine learning-based approach.,10.1093/bib/bbag072,2025-03-24,2026-01-24,306
+Briefings in bioinformatics,CREATE: a novel attention-based framework for efficient classification of transposable elements.,10.1093/bib/bbaf608,2025-04-22,2025-10-17,178
+Briefings in bioinformatics,Shoebill: an interpretable AlphaFold2-informed predictor of protein crystallization propensity using XGBoost.,10.1093/bib/bbag233,2026-01-13,2026-04-16,93
+Briefings in bioinformatics,Decoding cellular vulnerabilities for interpretable drug response prediction.,10.1093/bib/bbag559,2026-05-13,2026-09-16,126
+Briefings in bioinformatics,From conservation scores to language models: a feature engineering perspective on machine learning for genetic variant interpretation.,10.1093/bib/bbag552,2026-05-18,2026-09-09,114
+Briefings in bioinformatics,DNA-DETR: sequence representation matters in object detection for functional genomic elements.,10.1093/bib/bbag345,2025-11-25,2026-06-01,188
+Briefings in bioinformatics,EssTFNet: integration of adaptive time-frequency and DNA language models for interpretable human essential gene prediction.,10.1093/bib/bbag349,2026-02-11,2026-05-30,108
+Briefings in bioinformatics,A Bayesian framework for genome-wide circadian rhythmicity biomarker detection.,10.1093/bib/bbaf552,2025-04-29,2025-09-14,138
+Briefings in bioinformatics,MambaPhase: deep learning for liquid-liquid phase separation protein classification.,10.1093/bib/bbaf230,2024-11-27,2025-05-02,156
+Briefings in bioinformatics,Towards accurate artificial intelligence models for strain-level phage-host prediction.,10.1093/bib/bbag085,2025-11-24,2026-02-04,72
+Briefings in bioinformatics,mKmer: an unbiased K-mer embedding of microbiomic single-microbe RNA sequencing data.,10.1093/bib/bbaf227,2025-01-07,2025-05-01,114
+Briefings in bioinformatics,Machine learning-augmented m6A-Seq analysis without a reference genome.,10.1093/bib/bbaf235,2025-01-14,2025-05-01,107
+Briefings in bioinformatics,Powerful gene network enrichment analysis and its application to severe COVID-19 gene network.,10.1093/bib/bbaf647,2025-07-03,2025-11-14,134
+Briefings in bioinformatics,Artificial intelligence-powered prediction of diabetic complications: from clinical data to molecular omics.,10.1093/bib/bbag083,2025-08-06,2026-02-03,181
+Briefings in bioinformatics,CluVar: clustering of variants using autoencoder for inferring cancer subclones from single cell RNA sequencing data.,10.1093/bib/bbaf603,2025-05-12,2025-10-17,158
+Briefings in bioinformatics,Assessing Random Forest self-reproducibility for optimal short biomarker signature discovery.,10.1093/bib/bbaf318,2025-01-23,2025-05-31,128
+Briefings in bioinformatics,Hidden causal inference delineates dynamic lncRNA regulation in autism spectrum disorder.,10.1093/bib/bbag541,2026-06-03,2026-09-13,102
+Briefings in bioinformatics,Advances in scCUT&Tag and computational analysis for single-cell gene regulatory element mapping.,10.1093/bib/bbag015,2025-08-13,2026-01-06,146
+Briefings in bioinformatics,SegFinder: an automated tool for identifying complete RNA virus genome segments through co-occurrence in multiple sequenced samples.,10.1093/bib/bbaf358,2025-02-13,2025-06-25,132
+Briefings in bioinformatics,SpaJoint: a transfer learning method for spatial transcriptomics deconvolution.,10.1093/bib/bbag158,2025-11-07,2026-03-11,124
+Briefings in bioinformatics,PheCode-guided multi-modal topic modeling of electronic health records improves disease incidence prediction and GWAS discovery from UK Biobank.,10.1093/bib/bbag030,2025-09-22,2026-01-08,108
+Briefings in bioinformatics,Predicting the structures of cyclic peptides containing unnatural amino acids by HighFold2.,10.1093/bib/bbaf202,2025-02-03,2025-04-09,65
+Briefings in bioinformatics,TransMA: an explainable multi-modal deep learning model for predicting properties of ionizable lipid nanoparticles in mRNA delivery.,10.1093/bib/bbaf307,2025-02-10,2025-06-09,119
+Briefings in bioinformatics,Decoding causal m6A: a bioinformatics roadmap for psychiatric disorders.,10.1093/bib/bbag251,2025-11-13,2026-04-27,165
+Briefings in bioinformatics,MOFormer: navigating the antimicrobial peptide design space with Pareto-based multi-objective transformer.,10.1093/bib/bbaf376,2025-03-24,2025-07-06,104
+Briefings in bioinformatics,"Paradigms, innovations, and biological applications of RNA velocity: a comprehensive review.",10.1093/bib/bbaf339,2025-04-17,2025-06-19,63
+Briefings in bioinformatics,Noncoding RNA family classification based on multifeature fusion and convolutional block attention residual network.,10.1093/bib/bbaf598,2025-07-30,2025-10-20,82
+Briefings in bioinformatics,CAT: a conditional association test for microbiome data using a permutation approach.,10.1093/bib/bbaf326,2024-10-20,2025-03-24,155
+Briefings in bioinformatics,ZSeeker: an optimized algorithm for Z-DNA detection in genomic sequences.,10.1093/bib/bbaf240,2025-01-16,2025-04-29,103
+Briefings in bioinformatics,PLM-effector: unleashing the potential of protein language models for bacterial secreted protein prediction.,10.1093/bib/bbag143,2025-11-01,2026-03-05,124
+Briefings in bioinformatics,An unsupervised method for spatial transcriptomics analysis based on adversarial autoencoder.,10.1093/bib/bbag070,2025-09-08,2026-01-12,126
+Briefings in bioinformatics,STINGAllo: a web server for high-throughput prediction of allosteric site-forming residues using internal protein nanoenvironment descriptors.,10.1093/bib/bbaf424,2025-03-11,2025-07-24,135
+Briefings in bioinformatics,Selecting ChIP-seq normalization methods from the perspective of their technical conditions.,10.1093/bib/bbaf431,2025-01-06,2025-07-08,183
+Briefings in bioinformatics,Dynamic-GLEP: a dynamics-informed deep learning framework for ligand efficacy prediction in representative Class A GPCRs.,10.1093/bib/bbag049,2025-10-01,2026-01-14,105
+Briefings in bioinformatics,Graph-based drug-target interaction modeling: from representation learning to output-driven drug discovery.,10.1093/bib/bbag392,2026-04-08,2026-06-25,78
+Briefings in bioinformatics,From genomic signals to prediction tools: a critical feature analysis and rigorous benchmark for phage-host prediction.,10.1093/bib/bbaf626,2025-09-19,2025-11-02,44
+Briefings in bioinformatics,Rag2Mol: structure-based drug design based on retrieval augmented generation.,10.1093/bib/bbaf265,2025-01-22,2025-05-15,113
+Briefings in bioinformatics,I-SVVS: integrative stochastic variational variable selection to explore joint patterns of multi-omics microbiome data.,10.1093/bib/bbaf132,2024-11-05,2025-02-28,115
+Briefings in bioinformatics,Interaction-finder: automated literature-based discovery of biological entity associations with quote-level provenance.,10.1093/bib/bbag624,2026-07-07,2026-10-01,86
+Briefings in bioinformatics,KinaseFusionDB: an integrative knowledge of kinase fusion proteins in multi-scales.,10.1093/bib/bbaf259,2025-03-04,2025-05-13,70
+Briefings in bioinformatics,FireProtASR 2.0: evolution-guided Design of Protein Ancestors and Successors with phylogenetics and machine learning.,10.1093/bib/bbag436,2026-04-10,2026-07-12,93
+Briefings in bioinformatics,Personalized gene expression prediction in the era of deep learning: a review.,10.1093/bib/bbag022,2025-08-26,2026-01-08,135
+Briefings in bioinformatics,Neighborhood enrichment for the identification of antigen-specific T-cell receptors.,10.1093/bib/bbaf495,2025-05-16,2025-08-22,98
+Briefings in bioinformatics,Deep learning-driven survival prediction in pan-cancer studies by integrating multimodal histology-genomic data.,10.1093/bib/bbaf121,2024-10-10,2025-02-28,141
+Briefings in bioinformatics,Alpha_Mesh_Swc: automatic and robust surface mesh generation from the skeleton description of brain cells.,10.1093/bib/bbaf258,2025-01-22,2025-04-29,97
