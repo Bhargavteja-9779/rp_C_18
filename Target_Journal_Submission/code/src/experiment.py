@@ -168,11 +168,11 @@ def recall20(y,p,group):
 
 def main():
     ap=argparse.ArgumentParser(); ap.add_argument("--data"); ap.add_argument("--label",default="y10"); ap.add_argument("--out"); ap.add_argument("--mode",default="full")
-    ap.add_argument("--units",default="state"); ap.add_argument("--tuned",default=None); ap.add_argument("--seeds",type=int,default=5); ap.add_argument("--jobs",type=int,default=4); a=ap.parse_args()
+    ap.add_argument("--ntune",type=int,default=8); ap.add_argument("--units",default="state"); ap.add_argument("--tuned",default=None); ap.add_argument("--seeds",type=int,default=5); ap.add_argument("--jobs",type=int,default=4); a=ap.parse_args()
     t0=time.time(); w=load(a.data,a.label); os.makedirs(a.out,exist_ok=True)
     if a.units=="state":
         cnt=w.groupby("state").y.agg(["size","sum"]); elig=cnt[(cnt["size"]>=100)&(cnt["sum"]>=15)].index.tolist()
-        rng=np.random.default_rng(0); tune_states=sorted(rng.choice(elig,8,replace=False).tolist()); eval_states=[s for s in elig if s not in tune_states]
+        rng=np.random.default_rng(0); tune_states=sorted(rng.choice(elig,a.ntune,replace=False).tolist()); eval_states=[s for s in elig if s not in tune_states]
         if a.mode=="quick": eval_states=eval_states[:3]; a.seeds=1
         print("wells",len(w),"eligible",len(elig),"tune",tune_states,"eval",len(eval_states),flush=True)
         tune_idx={s:w.index[w.state==s].values for s in tune_states}

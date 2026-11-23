@@ -1,1 +1,1 @@
-Cold-start well-testing campaigns: risk maps do not transfer to new states, but feedback from tested wells does
+Which private wells to test first? Risk maps from other states fail, but local test results help

@@ -12,3 +12,15 @@
 | "Spatial validation with buffers lowers scores (Appiah et al.)" | Search snippet only | UNVERIFIED beyond snippet |
 | "Private wells are tested at owner/agency initiative" | General knowledge + CDC snippet | Weakly supported; needs a proper citation |
 | Minnesota explanation (glacial aquifer variability) | none | Marked as hypothesis in text |
+
+## Round 2 additions
+| Claim | Evidence file | Status |
+|---|---|---|
+| Follow-unsafe heuristic 1.92 vs kernel rule; Holm p=0.51 | tables/extra_sweep_as10.csv | Supported |
+| Weight on map: smooth decline 1.80 -> 1.28 (kappa 0.5 -> 1000) | results/extra_as10/sweep_heuristics.csv; tables/extra_sweep_means_as10.csv | Supported |
+| Clustering at 20 km correlates with feedback enrichment (rho 0.52, p=0.003, n=29) | tables/extra_mechanism_as10.csv | Supported; correlational |
+| South weakest region | tables/extra_regional_as10.csv | Supported (n=7 states) |
+| Warm start: map with history 2.05 vs other-states map 1.17; history + feedback 2.17 | results/extra_as10/warm_start.csv; tables/extra_warm_as10.csv | Supported (24 states; date split favours history; stated) |
+| Uranium shows the same direction | tables/summary_u30.csv, summary_u10.csv, statistics_u*.csv | Supported as direction only (9 and 12 states) |
+| Glacial-aquifer variability could explain Minnesota | none | Hypothesis, labelled |
+| 'Local geology explains cold-start failure' | none | Labelled as untested reading |

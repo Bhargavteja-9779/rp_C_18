@@ -4,3 +4,5 @@ FATAL (for this journal): The kernel update is a textbook rule. Active search (A
 MAJOR: Novelty map has ~16 snippet-level papers, not 30; re-search found no leave-state-out campaign study but coverage is thin.
 MODERATE: 'Negative result on the hybrid' is useful but not a contribution of method.
 ACTIONS TAKEN: claims narrowed to the empirical comparison; no 'first' claim; scorecard 18/30 recorded. NOT FIXED: gate failure stands.
+
+ROUND 2: re-scored 20/30. Added closer prior art to the map (Yin et al. 2021 arXiv:2102.11118; Khan et al. 2026). Claims narrowed to the empirical comparison. Gate still not passed.

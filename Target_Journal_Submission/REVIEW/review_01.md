@@ -5,3 +5,5 @@ MAJOR: Only location and aquifer code are predictors, so the 'static map' is a w
 MODERATE: Selection bias of USGS wells is only discussed. Table 2 mixes units (states vs blocks).
 MINOR: Figure axes used code names.
 ACTIONS TAKEN: figure labels made readable; limitations expanded. NOT FIXED: fit, covariates, reference depth (need new work or a different venue).
+
+ROUND 2 (2026-11-23): added explanatory analyses, warm start, second contaminant (uranium, low power), four Water Research citations, verified reference metadata (Crossref/arXiv), story figure. Still open: fit (no geochemistry), non-random wells.

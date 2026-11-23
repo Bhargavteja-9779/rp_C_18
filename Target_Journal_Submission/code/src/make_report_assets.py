@@ -1,7 +1,7 @@
 """Consolidated tables and figures from machine-generated result files."""
 import glob, os, json, numpy as np, pandas as pd
 import matplotlib; matplotlib.use("Agg"); import matplotlib.pyplot as plt
-runs={"As>10, leave-state-out":"as10","As>5, leave-state-out":"as5","As>10, spatial blocks":"as10_blocks","As>10, thinned to 1 km":"as10_thin","Nitrate>10, leave-state-out":"no3"}
+runs={"As>10, leave-state-out":"as10","As>5, leave-state-out":"as5","As>10, spatial blocks":"as10_blocks","As>10, thinned to 1 km":"as10_thin","Uranium>30, leave-state-out":"u30","Uranium>10, leave-state-out":"u10"}
 M=["M1_static_lgbm","M3_static_knn","M4_neighbor_only","M5_proposed","M7_online_refit","A1_no_prior"]
 rows=[]
 for lab,r in runs.items():

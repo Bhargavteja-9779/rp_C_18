@@ -4,3 +4,5 @@ MAJOR: USGS study wells are clustered and non-random; thinning to 1 km keeps the
 MAJOR: No prospective or independent-state-agency test; only arsenic.
 MODERATE: Minnesota/Florida/Washington failures unexplained.
 ACTIONS TAKEN: thinned run and negative control added; limitations state these. NOT FIXED: prospective validation, second contaminant.
+
+ROUND 2: added second contaminant (uranium; direction matches, mostly non-significant), warm-start design, and a limitation that the date split favours history. Still open: prospective test, nitrate (download failed).
