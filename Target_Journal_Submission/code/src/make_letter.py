@@ -73,6 +73,14 @@ sx=lambda st:S[st].loc["M1_static_lgbm","enr_20_mean"]
 envtxt=""
 if ENV["as10_env"] is not None and ENV["as10_envnc"] is not None:
     envtxt=f" For arsenic above 5 µg/L the map did better ({f1(A('as5','M1_map'))}, Holm p {pfm(row5.holm_p)}), though feedback and ABF still reached {f1(A('as5','M4_feedback'))} and {f1(A('as5','ABF'))}. Maps with geology, climate and elevation reached {f1(ENV['as10_env'].loc['M1_static_lgbm','enr_20_mean'])}, and environmental-only maps without coordinates {f1(ENV['as10_envnc'].loc['M1_static_lgbm','enr_20_mean'])}."
+LCHECK=""
+try:
+    _lc=[pd.read_csv(f"results/learner_check/{k}_summary.csv") for k in ("as10_base","as10_env")]
+    _mx=max(t.mean_enrichment.max() for t in _lc); _hp=max(t.holm_p_vs_feedback.max() for t in _lc)
+    assert all((t.feedback_mean>t.mean_enrichment).all() for t in _lc)      # claim guard: feedback above every learner
+    LCHECK=f" Extra-trees, random-forest and logistic maps, with and without the richer predictors, reached at most {_mx:.1f} for arsenic above 10 µg/L and stayed below feedback (Holm p up to {_hp:.3f}; SI)."
+except Exception as e: print("learner check text skipped:",e)
+if envtxt: envtxt+=LCHECK
 ABS_TXT=(f"Health agencies can test only some private wells, so the order of testing matters, yet risk maps are usually judged with random splits. We simulated testing campaigns on 53,294 USGS arsenic wells in 47 states, 28,117 uranium wells and 150,299 fluoride wells, holding out one state at a time. A random split overstated map skill (arsenic ROC-AUC {f1(rv.loc['random_5fold','auc_roc'])} versus {f1(rv.loc['leave_state_out','auc_roc'])}). With 20% of a new state's wells tested, an arsenic map from other states found {f1(a10('M1_map'))} times the unsafe wells of random order, and geology, climate and elevation added little. Testing next to wells that just returned unsafe results found {f1(a10('M4_feedback'))} times as many, cutting tests per unsafe well from {t_rand:.1f} to {t_fb:.1f}. For fluoride a transferred map worked ({f1(f2('M1_map'))}), so the best method depends on the contaminant. An adaptive Bayesian-mixture rule learns online how far to trust the map and never fell more than {REG.loc['worst_case','ABF']:.2f} below the best fixed rule, with no tuning. Gains shrank when results arrived late. The wells are not a random sample and no field trial was done.")
 P("Abstract: "+ABS_TXT,count=False)
 H1("Introduction")

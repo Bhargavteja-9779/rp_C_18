@@ -22,3 +22,6 @@ Done: verified references (45) and full-text/abstract reads; 33-row novelty map;
 Findings that changed the paper: geology helps only modestly; late batches cut the gain; fluoride maps DO transfer (conclusions are contaminant-specific); the 2024 transferability paper and neighbour-letter outreach reduce the novelty of the transfer result.
 Could not be completed (reasons in REVIEW/final_audit.md): official JCR and Guide for Authors (HTTP 403), nitrate (API too slow), Kansas fluoride, prospective pilot, commercial similarity check, Elsevier template, author declarations.
 Scorecard 21/30 (gate 22). FINAL DECISION: NOT READY FOR SUBMISSION.
+
+## Round 5 (2026-11-23)
+Found that a parallel continuation had finished round 4 (ABF, ES&T Letters, aquifer-code fix); stopped and discarded my duplicate M8 work (deviation 35). Added learner-robustness check, fixed two reference gaps (Horton 2017; NASA POWER), cover-letter note, audits. Fluoride learner check not completed (deviation 38).

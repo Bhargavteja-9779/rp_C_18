@@ -60,3 +60,10 @@ Numbers in earlier tables above that came from the first base runs are SUPERSEDE
 | Warm start: ABF with own history 2.17x (arsenic >10), 2.14x (>5), 3.31x (fluoride) | tables/abf_warm_statistics.csv | Supported (24-29 states) |
 | ES&T Letters median 47 d, p75 66 d | journal_selection/acceptance_time_evidence.csv | Verified by script |
 | Letter length limit 3,000 word-equivalents | search snippet of ACS page | UNVERIFIED |
+
+## Round 5 additions
+| Claim | Evidence | Status |
+|---|---|---|
+| For arsenic > 10 µg/L extra-trees, random forest and logistic static maps reach at most 1.30x random order and stay below kernel feedback | results/learner_check/as10_base_summary.csv, as10_env_summary.csv | Supported (3 seeds base; 1 seed env) |
+| For arsenic > 5 µg/L LightGBM is the best static learner (1.42); feedback is 1.67 (Holm 0.088 vs LightGBM; <= 0.005 vs the others) | results/learner_check/as5_base_summary.csv | Supported (Holm computed over 4 comparisons) |
+| Geologic map: Horton (2017), USGS data release, doi 10.5066/F7WH2N65 | ScienceBase item record read | Verified |
