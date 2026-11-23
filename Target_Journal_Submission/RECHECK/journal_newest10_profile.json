@@ -1,0 +1,89 @@
+{
+ "rows": [
+  {
+   "title": "Measurements of Hazardous Air Pollutants in Communities Necessitate Review of Air Quality ",
+   "accepted": "2026-09-11",
+   "days": 183,
+   "refs": 43,
+   "abstract_words": 164,
+   "title_words": 15
+  },
+  {
+   "title": "Screening for Chemical Compliance in Water Quality Monitoring with In Vitro Bioassays.",
+   "accepted": "2026-08-31",
+   "days": 47,
+   "refs": 20,
+   "abstract_words": 201,
+   "title_words": 12
+  },
+  {
+   "title": "Kinetics, Mechanisms, and Particle Formation from Gas-Phase OH Oxidation of 2\u2011Methylthiobe",
+   "accepted": "2026-08-25",
+   "days": 26,
+   "refs": 73,
+   "abstract_words": 202,
+   "title_words": 11
+  },
+  {
+   "title": "Population Dynamics and Cross-Feeding in an Antibiotic-Degrading Synthetic Ecosystem: Insi",
+   "accepted": "2026-07-21",
+   "days": 68,
+   "refs": 12,
+   "abstract_words": 203,
+   "title_words": 16
+  },
+  {
+   "title": "Global, Interdisciplinary Research to Guide a Secure and Sustainable Expansion of Mineral ",
+   "accepted": "2026-07-13",
+   "days": 140,
+   "refs": 159,
+   "abstract_words": 210,
+   "title_words": 14
+  },
+  {
+   "title": "Emissions of Volatile Methyl Siloxanes (VMS) from Vehicles.",
+   "accepted": "2026-06-30",
+   "days": 13,
+   "refs": 37,
+   "abstract_words": 134,
+   "title_words": 8
+  },
+  {
+   "title": "Size-Dependent Reaction Pathways in Multiphase SO2 Oxidation Chemistry.",
+   "accepted": "2026-06-25",
+   "days": 29,
+   "refs": 49,
+   "abstract_words": 211,
+   "title_words": 8
+  },
+  {
+   "title": "Natural Iron as a Decentralized Catalyst Supply for Electrochemical Groundwater Treatment.",
+   "accepted": "2026-06-17",
+   "days": 28,
+   "refs": 34,
+   "abstract_words": 201,
+   "title_words": 11
+  },
+  {
+   "title": "TFA Generation and Deposition over Europe May Currently See a Greater Influence from HFO-1",
+   "accepted": "2026-06-09",
+   "days": 60,
+   "refs": 58,
+   "abstract_words": 0,
+   "title_words": 16
+  },
+  {
+   "title": "High Oxidative Potential Observed in Secondary Organic Aerosol Derived from Oil Sands Emis",
+   "accepted": "2026-06-05",
+   "days": 23,
+   "refs": 61,
+   "abstract_words": 0,
+   "title_words": 13
+  }
+ ],
+ "profile": {
+  "median_refs": 46.0,
+  "median_title_words": 12.5,
+  "median_abstract_words": 201.5
+ }
+}

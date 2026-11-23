@@ -5,9 +5,10 @@ ap=argparse.ArgumentParser(); ap.add_argument("--mode",default="quick"); ap.add_
 root=os.path.abspath(os.path.join(os.path.dirname(__file__),".."))
 def run(cmd): print(">>"," ".join(cmd),flush=True); subprocess.run(cmd,cwd=root,check=True)
 py=sys.executable; c="code/"
-if not a.skip_download and not os.path.isdir(f"{root}/data/raw/as"): run([py,c+"download_usgs.py","Arsenic","data/raw/as"])
-os.makedirs(f"{root}/data/processed",exist_ok=True)
-run([py,c+"src/build_dataset.py","data/raw/as","data/processed/wells_as.csv"])
+if not a.skip_download and not os.path.isdir(f"{root}/data/raw/as") and not os.path.exists(f"{root}/data/processed/wells_as.csv"): run([py,c+"download_usgs.py","Arsenic","data/raw/as"])
+for _d in ("data/processed","tables","figures","results","results/recheck","supplementary","manuscript"): os.makedirs(f"{root}/{_d}",exist_ok=True)
+if not os.path.exists(f"{root}/data/processed/wells_as.csv") or os.path.isdir(f"{root}/data/raw/as"): run([py,c+"src/build_dataset.py","data/raw/as","data/processed/wells_as.csv"])
+else: print("using existing data/processed/wells_as.csv (raw data not present)")
 if a.mode=="quick":
     run([py,c+"src/experiment.py","--data","data/processed/wells_as.csv","--label","y10","--out","results/quick","--mode","quick","--jobs","2"]); run([py,c+"src/analyze.py","results/quick","tables"]); sys.exit()
 run([py,"-c","import pandas as pd,numpy as np;w=pd.read_csv('data/processed/wells_as.csv');x=w.lon*111.32*np.cos(np.radians(w.lat));y=w.lat*110.57;w['cell']=np.floor(x).astype(int).astype(str)+'_'+np.floor(y).astype(int).astype(str);w.sort_values('date').drop_duplicates('cell').drop(columns='cell').to_csv('data/processed/wells_as_thin1km.csv',index=False)"])

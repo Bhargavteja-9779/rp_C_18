@@ -1,3 +1,5 @@
+> SUPERSEDED BY RECHECK/final_recheck_report.md (2026-11-23): the later re-check lowers the novelty score to 21/30, withdraws the first-run depth score of 4, and changes the decision to NOT READY: ADDITIONAL WORK REQUIRED.
+
 # Final audit and decision (round 4, 2026-11-23)
 ## DECISION: CONDITIONALLY READY. All analysis, writing and internal audit items that I can complete are done. Submission is blocked only by author-side items listed below. Acceptance is not guaranteed; desk rejection remains the main risk.
 Target journal: Environmental Science & Technology Letters (ACS). Measured received->accepted: median 47 d, 75th percentile 66 d (n=121) -> the 72-day rule is met on both statistics, with little margin in some years (2024 p75 72 d; 2026 p75 71.75 d).

@@ -1,0 +1,19 @@
+{
+ "tuning_identical": true,
+ "max_abs_diff": 0.0,
+ "n_methods": 11,
+ "n_states": 29,
+ "stored_versions": {
+  "numpy": "2.5.3",
+  "pandas": "3.0.5",
+  "lightgbm": "4.7.0",
+  "sklearn": "1.9.1"
+ },
+ "clean_versions": {
+  "numpy": "2.5.5",
+  "pandas": "3.1.1",
+  "lightgbm": "4.7.0",
+  "sklearn": "1.9.1"
+ },
+ "note": "versions read from the two interpreters on 2026-11-23"
+}

@@ -1,5 +1,19 @@
 [
  {
+  "key": "Abernethy 2016",
+  "fam": "Abernethy",
+  "year": 2016,
+  "n_auth": 13,
+  "text": "Abernethy, J., Anderson, C., Dai, C., Farahi, A., Nguyen, L., Rauh, A., et al. (2016). Flint Water Crisis: Data-Driven Risk Assessment Via Residential Water Testing. arXiv:1610.00580"
+ },
+ {
+  "key": "Abernethy 2018",
+  "text": "Abernethy, J., Chojnacki, A., Farahi, A., Schwartz, E., Webb, J. (2018). ActiveRemediation: The Search for Lead Pipes in Flint, Michigan. Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery &amp; Data Mining, 5-14. https://doi.org/10.1145/3219819.3219896",
+  "fam": "Abernethy",
+  "year": 2018,
+  "n_auth": 5
+ },
+ {
   "key": "Adjei 2026",
   "text": "Adjei, Y. O. (2026). Do Foundation Model Embeddings Improve Cross-Country Crop Yield Generalisation? A Leave-One-Country-Out Evaluation in Sub-Saharan Africa. arXiv:2605.08113",
   "fam": "Adjei",
@@ -264,6 +278,13 @@
   "fam": "Su",
   "year": 2026,
   "n_auth": 11
+ },
+ {
+  "key": "Thompson 1990",
+  "text": "Thompson, S. K. (1990). Adaptive Cluster Sampling. Journal of the American Statistical Association 85, 1050-1059. https://doi.org/10.1080/01621459.1990.10474975",
+  "fam": "Thompson",
+  "year": 1990,
+  "n_auth": 1
  },
  {
   "key": "USGS 2026",

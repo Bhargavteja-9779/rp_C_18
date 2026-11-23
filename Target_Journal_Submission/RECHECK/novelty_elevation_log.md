@@ -1,0 +1,29 @@
+# Novelty elevation log
+
+## Scorecard BEFORE this run (first-run self-score, round 4): 23/30 (distance 3, problem 4, depth 4, evidence 4, generality 4, journal match 3 -> as stated in journal_selection/novelty_scorecard.md).
+## Honest re-score at the START of this run (before any new experiment)
+| Item | Score | Evidence |
+|---|---|---|
+| 1 Distance from closest 5 papers | 3 | Closest: ActiveRemediation (same problem structure: model + field feedback to choose which lead pipes to dig), Thompson 1990 adaptive cluster sampling (the classical follow-the-hits rule), Cao 2024 and Usman 2026 (maps do not transfer), MacDonald and Tippett 2020 (neighbour-result targeting in practice), Yin 2021 (adaptive arsenic sampling). The IDEA that feedback helps is not new. What is new: the measured comparison on national held-out-state data, the contaminant dependence, ABF's behaviour. Close-call positioning is in stage3_priorart.md. |
+| 2 Problem strength | 4 | verified burden (about 40 million private-well users), documented targeting practice. |
+| 3 Depth of idea | 3 | ABF is a standard Bayesian mixture with a standard bound; the explanation (clustering, kappa sweep, synthetic fields) is reasonable but no new theory. First-run self-score of 4 is not supported; corrected to 3. |
+| 4 Strength of evidence | 4 | 6 outcomes, 3 contaminants, held-out states, many checks; one data source, no field trial. |
+| 5 Generality | 4 | three contaminants; one country. |
+| 6 Journal match | 3 | ES&T Letters scope plausible but uncommon (1 private-well paper in 157). |
+**Start total: 21/30.** Elevation stop rule: 26/30 with distance >= 4 and evidence >= 4. Distance is the weakest point.
+
+## ROUND 1
+Weakest point: distance from prior work (idea of following hits is classical; lead-pipe work shows predictions + feedback exist).
+Ideas generated (families): (1) geographically weighted training of the map for transfer [new learning signal / domain adaptation]; (2) calibrated remaining-yield forecast and stopping rule [new capability; borrowed from technology-assisted-review stopping rules]; (3) conformal gate on map trust [abstain/defer] - already covered by ABF's weights; (4) coverage-constrained ordering for equity (distinct areas) - coverage metric already reported; (5) new benchmark/protocol release (held-out-state budgeted protocol) - protocol exists, release is author's choice; (6) theory: closed form for follow-hits gain vs correlation length - synthetic simulation exists, no proof; (7) self-training on target-state features - little information beyond coordinates, dropped; (8) causal transport of effects across states - no usable covariates, dropped.
+Literature check: (1) no direct groundwater transfer paper found in one search (spatial RF, GWR exist); (2) stopping rules and remaining-positive estimates exist in technology-assisted review (QPET, QBCB, sampling-based recall intervals); none found for well testing or environmental screening.
+Tested (pre-registered below): ideas 1 and 2. Ideas tried: 2 tested out of 8 generated. Multiple-comparison: Holm over the 4 weights in idea 1; Holm over comparisons in idea 2.
+
+### Round 1 results (idea 1 and idea 2, pre-registered in deviations 39-40)
+- Idea 1, geographically weighted map training (arsenic > 10, discovery seeds 0-4): L = 500 km raised the map from 0.93 to 1.31 times random (gain +0.38, Holm p = 0.023, better in 20 of 29 states); L = 250, 1000, 2000 km: +0.24, +0.25, +0.13 (Holm p 1.0, 0.10, 0.15). Fresh seeds 10-14 reproduced it (+0.38, Holm 0.019). EXTERNAL CHECK FAILED: arsenic > 5 gave -0.11 (L = 500 km; Holm 1.0). The pre-registered rule required reproduction on arsenic > 5, so the idea is NOT confirmed as a general improvement. It is an outcome-specific finding. Even where it helps (1.30), kernel feedback (about 1.75) is higher. Not adopted as a contribution; reported in the Supporting Information as an exploratory result.
+- Idea 2, remaining-yield forecast (arsenic > 10): forecast error at 20% tested 0.24 (ABF) vs 0.48 (naive scale-up, Wilcoxon p < 0.001) vs 0.27 (map-only, p = 0.57). Hypothesis (a) PARTLY supported (better than naive, not better than map-only). Hypothesis (b) FALSIFIED: 80% interval coverage 23-27% (independence assumption of the Poisson-binomial is wrong under spatial clustering and model error).
+### Round 2 (deviation 41): conformal recalibration on the tuning states
+- Arsenic > 10: coverage 0.85 / 0.94 / 0.77 at 10 / 20 / 30% tested; median full-width / truth 1.58 / 1.39 / 0.57. Arsenic > 5: coverage 0.87 / 0.65 / 0.90; width 1.20 / 0.54 / 0.86. Multipliers 4.4-10 (times the Poisson-binomial sd) from only 8 calibration states. Hypotheses (a) and (b) FAILED in several cells (coverage outside 70-90% at 20% tested in both outcomes; width > 1 for arsenic > 10). Not a usable calibrated stopping rule. Negative result; kept.
+### Tally
+Ideas generated: 8. Tested: 2 (plus one recalibration variant). Winners: none confirmed. Multiple-comparison correction: Holm over 4 weights (idea 1); idea 2 used paired Wilcoxon with 2 comparisons per scenario (reported unadjusted p; none is relied on for a claim).
+### Re-score after round 2
+No new contribution passed its pre-registered test, so the scorecard is unchanged: distance 3 (not 4). Stop rule (26/30 with distance >= 4) NOT reached. Rounds used: 2 of 6. Reason for stopping the loop here: the remaining generated ideas (coverage-constrained ordering, conformal gate on map trust, closed-form gain theory) are either already covered by reported results (coverage metric, ABF weights, synthetic fields) or need data not available (field validation). Label: STRONGEST HONEST VERSION; no inflation.

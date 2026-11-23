@@ -1,0 +1,67 @@
+[
+ {
+  "run": "as10",
+  "n_seeds": 5,
+  "best_per_seed": {
+   "H1_follow_unsafe": "4",
+   "M4_feedback": "1"
+  },
+  "rank_sd_max": 0.4472135954999579,
+  "map_ever_best": false,
+  "spearman_min": 0.8999999999999998
+ },
+ {
+  "run": "as5",
+  "n_seeds": 5,
+  "best_per_seed": {
+   "ABF": "5"
+  },
+  "rank_sd_max": 1.3038404810405297,
+  "map_ever_best": false,
+  "spearman_min": 0.3
+ },
+ {
+  "run": "u30",
+  "n_seeds": 5,
+  "best_per_seed": {
+   "ABF": "2",
+   "H1_follow_unsafe": "2",
+   "M4_feedback": "1"
+  },
+  "rank_sd_max": 1.7888543819998317,
+  "map_ever_best": false,
+  "spearman_min": -0.09999999999999999
+ },
+ {
+  "run": "u10",
+  "n_seeds": 5,
+  "best_per_seed": {
+   "M4_feedback": "3",
+   "H1_follow_unsafe": "2"
+  },
+  "rank_sd_max": 1.0,
+  "map_ever_best": false,
+  "spearman_min": 0.6
+ },
+ {
+  "run": "f2",
+  "n_seeds": 3,
+  "best_per_seed": {
+   "M5_hybrid": "3"
+  },
+  "rank_sd_max": 0.0,
+  "map_ever_best": false,
+  "spearman_min": 0.9999999999999999
+ },
+ {
+  "run": "f4",
+  "n_seeds": 3,
+  "best_per_seed": {
+   "M5_hybrid": "2",
+   "ABF": "1"
+  },
+  "rank_sd_max": 1.0,
+  "map_ever_best": false,
+  "spearman_min": 0.7
+ }
+]

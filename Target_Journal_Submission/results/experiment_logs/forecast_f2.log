@@ -1,0 +1,8 @@
+  run   cp  n_units  median_err_ABF  median_err_map  median_err_naive  p_vs_naive  p_vs_map  coverage80  median_width_rel
+0  f2  0.1       31           0.339           0.364             2.553         0.0     0.664       0.097             0.185
+1  f2  0.2       31           0.295           0.305             1.584         0.0     0.055       0.065             0.138
+2  f2  0.3       31           0.201           0.179             1.266         0.0     0.036       0.097             0.130
+  run   cp  multiplier  n_calib_rows  n_units  coverage80_calibrated  median_rel_width
+0  f2  0.1      11.842            24       31                  0.806             1.705
+1  f2  0.2      10.692            24       31                  0.903             1.155
+2  f2  0.3      11.710            24       31                  0.968             1.191

@@ -1,0 +1,47 @@
+key,kind,status,detail
+Adjei 2026,arXiv 2605.08113,OK,arxiv title='Do Foundation Model Embeddings Improve Cross-Country Crop Yi' title-in-ref=1.00
+Adjei 2026,arXiv 2604.22787,OK,arxiv title='Conformal PM2.5 Mapping Under Spatial Covariate Shift: Satel' title-in-ref=1.00
+Ahmed 2025,arXiv 2503.22771,OK,arxiv title='Unraveling Groundwater Stress: A Model Generalizable Across ' title-in-ref=1.00
+Amery 2025,DOI 10.1021/acs.est.5c07661,OK,crossref title='Methods and Uncertainty in Predictions of Arsenic Exposure a' year=2025 title-in-ref=1.00
+Appiah 2025,no DOI/arXiv (document or web source),MANUAL,"Appiah, P., Engle, M.A., Mariani, M.C., Ma, L., Lopez, N. (2025). Machine learning for pre"
+Arienzo 2022,DOI 10.1016/j.scitotenv.2022.158277,OK,crossref title='Naturally occurring metals in unregulated domestic wells in ' year=2022 title-in-ref=1.00
+Azad 2026,DOI 10.1029/2025gh001666,OK,crossref title='Surface Variable‐Based Machine Learning for Scalable Arsenic' year=2026 title-in-ref=1.00
+Cao 2022,DOI 10.1021/acs.est.1c08682,OK,crossref title='Siamese Network-Based Transfer Learning Model to Predict Geo' year=2022 title-in-ref=1.00
+Cao 2024,DOI 10.1021/acs.est.4c01327,OK,crossref title='Transferability of Machine Learning Models for Geogenic Cont' year=2024 title-in-ref=1.00
+Cao 2024,DOI 10.1016/j.watres.2024.121848,OK,crossref title='Prediction of arsenic and fluoride in groundwater of the Nor' year=2024 title-in-ref=1.00
+CDC 2026,no DOI/arXiv (document or web source),MANUAL,"Vermont Department of Health, in: CDC (2026). Private well ranking indices. Centers for Di"
+Chen 2023,arXiv 2303.00141,OK,arxiv title='Containing a spread through sequential learning: to exploit ' title-in-ref=1.00
+Efron 1979,DOI 10.1214/aos/1176344552,OK,crossref title='Bootstrap Methods: Another Look at the Jackknife' year=1979 title-in-ref=1.00
+Erickson 2021,DOI 10.1021/acs.est.0c06740,OK,crossref title='Machine-Learning Predictions of High Arsenic and High Mangan' year=2021 title-in-ref=1.00
+Garnett 2012,arXiv 1206.6406,OK,arxiv title='Bayesian Optimal Active Search and Surveying' title-in-ref=1.00
+Giri 2023,DOI 10.1016/j.scitotenv.2022.159360,OK,crossref title='Revealing the sources of arsenic in private well water using' year=2023 title-in-ref=1.00
+Haggerty 2023,DOI 10.1016/j.watres.2023.119745,OK,crossref title='Application of machine learning in groundwater quality model' year=2023 title-in-ref=1.00
+Horton 2017,DOI 10.5066/F7WH2N65,OK,DataCite record found
+Jeong 2024,DOI 10.1016/j.watres.2024.122404,OK,crossref title='Spatial prediction of groundwater salinity in multiple aquif' year=2024 title-in-ref=1.00
+Kerketta 2026,DOI 10.1007/s10653-026-03004-2,OK,crossref title='Machine learning-based prediction of elevated uranium concen' year=2026 title-in-ref=1.00
+Kerketta 2026,DOI 10.1007/s10661-026-15974-y,OK,crossref title='Development of predictive equations for the early identifica' year=2026 title-in-ref=1.00
+Khaksar Fasaee 2022,DOI 10.1016/j.watres.2022.118787,OK,crossref title='Developing early warning systems to predict water lead level' year=2022 title-in-ref=1.00
+Khan 2026,arXiv 2602.17605,OK,arxiv title='Adapting Actively on the Fly: Relevance-Guided Online Meta-L' title-in-ref=1.00
+Lombard 2021,DOI 10.1021/acs.est.0c05239,OK,crossref title='Machine\nLearning Models of Arsenic in Private Wells\nThrougho' year=2021 title-in-ref=1.00
+Ma 2015,no DOI/arXiv (document or web source),MANUAL,"Ma, Y., Sutherland, D.J., Garnett, R., Schneider, J. (2015). Active pointillistic pattern "
+MacDonald 2020,DOI 10.2166/wh.2020.059,OK,"crossref title='Reducing public exposure to common, harmful well water conta' year=2020 title-in-ref=1.00"
+Mailloux 2020,DOI 10.1111/gwat.13020,OK,crossref title='Recommended Sampling Intervals for Arsenic in\xa0Private Wells' year=2020 title-in-ref=1.00
+Meyer 2021,DOI 10.1111/2041-210x.13650,OK,crossref title='Predicting into unknown space? Estimating the area of applic' year=2021 title-in-ref=1.00
+NASA 2026,no DOI/arXiv (document or web source),MANUAL,NASA Langley Research Center (2026). Prediction Of Worldwide Energy Resources (POWER) Proj
+O'Neill 2022,DOI 10.1097/phh.0000000000001575,OK,crossref title='Targeted Private Well Outreach Following a Change in Drinkin' year=2022 title-in-ref=1.00
+Ploton 2020,DOI 10.1038/s41467-020-18321-y,OK,crossref title='Spatial validation reveals poor predictive performance of la' year=2020 title-in-ref=1.00
+Podgorski 2020,DOI 10.1126/science.aba1510,OK,crossref title='Global threat of arsenic in groundwater' year=2020 title-in-ref=1.00
+Roberts 2017,DOI 10.1111/ecog.02881,OK,"crossref title='Cross‐validation strategies for data with temporal, spatial,' year=2017 title-in-ref=1.00"
+Savitri 2026,DOI 10.1007/s10653-026-03510-3,OK,crossref title='Data driven prediction of uranium in groundwater for environ' year=2026 title-in-ref=1.00
+Seliga 2021,DOI 10.2166/wh.2021.018,OK,crossref title='Evaluating the impact of free private well testing outreach ' year=2021 title-in-ref=1.00
+Simmons 2025,DOI 10.1002/tox.70005,OK,crossref title='Iowa Population Exposures to Metals and Metalloids in Well W' year=2025 title-in-ref=1.00
+Smith 2026,DOI 10.1021/acs.est.6c02761,OK,crossref title='Anthropogenic and\nGeogenic Factors Affecting Groundwater\nArs' year=2026 title-in-ref=1.00
+Su 2026,DOI 10.1016/j.ecoenv.2026.120627,OK,crossref title='Predicting and assessing the distribution of high-fluoride g' year=2026 title-in-ref=1.00
+USGS 2026,no DOI/arXiv (document or web source),MANUAL,"U.S. Geological Survey (2026). USGS Samples Data API (discrete water-quality results), htt"
+Usman 2026,DOI 10.1016/j.jhazmat.2026.144066,OK,crossref title='National-scale evaluation of groundwater fluoride in Ethiopi' year=2026 title-in-ref=1.00
+Valavi 2018,DOI 10.1111/2041-210x.13107,OK,crossref title='<scp>block</scp>\n                    <scp>CV</scp>\n         ' year=2018 title-in-ref=1.00
+Wadoux 2021,DOI 10.1016/j.ecolmodel.2021.109692,OK,crossref title='Spatial cross-validation is not the right way to evaluate ma' year=2021 title-in-ref=1.00
+Wilcoxon 1945,DOI 10.2307/3001968,OK,crossref title='Individual Comparisons by Ranking Methods' year=1945 title-in-ref=1.00
+Willard 2024,arXiv 2410.19865,OK,arxiv title='Evaluating Deep Learning Approaches for Predictions in Unmon' title-in-ref=1.00
+Yin 2021,arXiv 2102.11118,OK,arxiv title='Risk Based Arsenic Rational Sampling Design for Public and E' title-in-ref=1.00
+Zhang 2024,DOI 10.1016/j.watres.2024.122498,OK,crossref title='Improving prediction of groundwater quality in situations of' year=2024 title-in-ref=1.00

@@ -1,0 +1,20 @@
+{
+ "issn": "0091-6765",
+ "n_all": 922,
+ "n_dated": 27,
+ "median": 128,
+ "p75": 154,
+ "p90": 169,
+ "max": 175,
+ "last6m_n": 27,
+ "last6m_median": 128,
+ "last6m_p75": 154,
+ "by_accept_year": {
+  "2026": {
+   "n": 27,
+   "median": 128,
+   "p75": 154
+  }
+ },
+ "retraction_notices_2022_2026": 6
+}

@@ -1,0 +1,7 @@
+results/elevation/ge_as10_fresh.csv
+       method   mean  gain_mean  gain_median      p  units_better     n  holm_p
+0  unweighted  0.920        NaN          NaN    NaN           NaN   NaN     NaN
+1        L250  1.151      0.231        0.179  0.169          16.0  29.0   0.675
+2        L500  1.302      0.382        0.209  0.005          21.0  29.0   0.019
+3       L1000  1.159      0.238        0.119  0.027          18.0  29.0   0.109
+4       L2000  1.079      0.159        0.118  0.035          19.0  29.0   0.138

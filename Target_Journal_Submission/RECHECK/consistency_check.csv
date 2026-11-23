@@ -1,0 +1,16 @@
+item,value_from_file,found_in_letter
+"arsenic wells 53,294","53,294",True
+"uranium wells 28,117","28,117",True
+"fluoride wells 150,299","150,299",True
+random-split ROC-AUC (arsenic),0.81,True
+held-out ROC-AUC (arsenic),0.64,True
+static map As>10 enrichment,0.93,True
+feedback As>10,1.78,True
+ABF As>10,1.51,True
+follow-unsafe As>10,1.86,True
+static map As>5,1.42,True
+ABF As>5,1.83,True
+static map F>2,1.87,True
+hybrid F>2,2.67,True
+ABF F>2,2.63,True
+tests per unsafe well random,9.2,True
