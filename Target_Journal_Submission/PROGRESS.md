@@ -16,3 +16,9 @@
 - Findings changed the paper: the hybrid method is negative; a simple heuristic matches the kernel rule; a state's own history makes the map useful; the South shows weak feedback gain; uranium is underpowered.
 - Novelty scorecard now 20/30 (gate 22): NOT PASSED. Still NOT READY FOR SUBMISSION (see REVIEW/final_audit.md).
 - Deviations 13-15 logged before the added runs.
+
+## Round 3 (2026-11-23) — completing open items
+Done: verified references (45) and full-text/abstract reads; 33-row novelty map; geology predictors (SGMC) and lithology baseline; warm start with geology; delay/availability/leave-one-region/forward-in-time checks; synthetic-field mechanism test; extended CA/CO arsenic; uranium and fluoride; planner tool with test; highlights, graphical abstract, cover letter; partial similarity check (clean); rewritten 16-page manuscript; updated audits and risk report.
+Findings that changed the paper: geology helps only modestly; late batches cut the gain; fluoride maps DO transfer (conclusions are contaminant-specific); the 2024 transferability paper and neighbour-letter outreach reduce the novelty of the transfer result.
+Could not be completed (reasons in REVIEW/final_audit.md): official JCR and Guide for Authors (HTTP 403), nitrate (API too slow), Kansas fluoride, prospective pilot, commercial similarity check, Elsevier template, author declarations.
+Scorecard 21/30 (gate 22). FINAL DECISION: NOT READY FOR SUBMISSION.

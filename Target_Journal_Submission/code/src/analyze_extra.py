@@ -25,5 +25,5 @@ wd=pd.read_csv(f"{d_}/warm_start.csv"); uw=wd.groupby("unit").mean(numeric_only=
 uw.mean().round(3).to_csv(f"tables/extra_warm_means_{tag}.csv")
 t2=comp(uw,[("W2_map_with_history","W1_map_outside_only"),("W6_history_prior_plus_feedback","W2_map_with_history"),("W6_history_prior_plus_feedback","W5_cold_feedback"),("W2_map_with_history","W5_cold_feedback"),("W2_map_with_history","W3_map_local_history_only"),("W2_map_with_history","random"),("W5_cold_feedback","W1_map_outside_only")],"warm"); print(t2.round(3).to_string())
 # regional consistency of feedback gain (cold start) from main results
-main=pd.read_csv(f"tables/per_state_enr20_{'as10' if tag=='as10' else 'as5'}.csv",index_col=0); main["region"]=[reg.get(s,"West") for s in main.index]
+main=pd.read_csv(f"tables/per_state_enr20_{tag}.csv",index_col=0); main["region"]=[reg.get(s,"West") for s in main.index]
 r=main.assign(diff=main.M4_neighbor_only-main.M1_static_lgbm).groupby("region").agg(n=("diff","size"),median_diff=("diff","median"),states_positive=("diff",lambda x:int((x>0).sum()))); r.to_csv(f"tables/extra_regional_{tag}.csv"); print(r)

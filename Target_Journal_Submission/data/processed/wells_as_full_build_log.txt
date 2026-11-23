@@ -1,0 +1,5 @@
+raw rows 548828
+well/water/target-contaminant rows 136386
+wells 64711; dup coordinates across ids 4301
+unsafe>10: 6675 (10.315%); >5: 11680 (18.049%); states 49
+depth available: 0.0%; aquifer available: 38.2%

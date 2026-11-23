@@ -24,3 +24,23 @@
 | Uranium shows the same direction | tables/summary_u30.csv, summary_u10.csv, statistics_u*.csv | Supported as direction only (9 and 12 states) |
 | Glacial-aquifer variability could explain Minnesota | none | Hypothesis, labelled |
 | 'Local geology explains cold-start failure' | none | Labelled as untested reading |
+
+## Round 3 additions (2026-11-23)
+| Claim | Evidence | Status |
+|---|---|---|
+| Geology does not help As>10 (1.13 vs 1.25); helps modestly for As>5 (+0.33) and uranium, none significant after Holm | tables/geology_effect.csv, summary_*_geo.csv | Supported |
+| Feedback beats geology-assisted map for both arsenic thresholds (Holm<0.001); not distinguishable for uranium | statistics_*_geo.csv | Supported |
+| Late batches shrink the gain (batch 200: 1.47 vs 1.79) | results/robust_checks/delay_availability_means.csv | Supported (3 seeds, not tested) |
+| 30% unavailable wells do not hurt | same file | Supported (3 seeds, not tested) |
+| Leave-one-region-out keeps the effect significant | results/robust_checks/leave_one_region_out.csv | Supported (unadjusted p) |
+| Forward-in-time cold start: map 1.09, feedback 1.93 | results/robust_checks/temporal_cold_start.json | Direction only (6 states) |
+| Synthetic fields: no gain at 1 km correlation length, gain grows with length | results/robust_checks/synthetic_mechanism*.csv | Supported (40 repeats per length) |
+| Extended CA/CO run agrees (static 0.99, feedback 1.71) | tables/summary_as10_full.csv | Supported |
+| Lombard et al. sensitivity 33.9%; 70/30 stratified split, no spatial hold-out described | PMC8852770 read in full by fetch | Verified |
+| Appiah et al. use buffered leave-one-group-out validation (0-10 km) | PDF text extracted | Verified |
+| CDC document is a Vermont town-ranking method | PDF text extracted | Verified |
+| 40 million Americans rely on unregulated private wells | abstract of Amery et al. 2025 (PubMed) | Verified from abstract |
+| Fluoride: static map 1.87x random (Holm<0.001, 29/31 states); hybrid 2.67x; feedback not significantly better than map | tables/statistics_f2.csv, summary_f2.csv | Supported (3 seeds; Kansas missing) |
+| Fluoride >4 mg/L: map 1.76, feedback 2.37, hybrid 2.61; no pairwise difference significant after correction | tables/statistics_f4.csv | Supported (17 states, 3 seeds) |
+| 'Fluoride controls shared across states' explanation | none | Labelled untested |
+| Novelty-map entries: 22 abstracts read | journal_selection/novelty_map.csv | Verified level stated per row |

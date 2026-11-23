@@ -16,7 +16,7 @@ run([py,c+"src/experiment.py","--data","data/processed/wells_as.csv","--label","
 run([py,c+"src/experiment.py","--data","data/processed/wells_as.csv","--label","y10","--out","results/as10_blocks","--units","kmeans","--tuned","results/as10/tuning.json"])
 run([py,c+"src/experiment.py","--data","data/processed/wells_as_thin1km.csv","--label","y10","--out","results/as10_thin"])
 run([py,c+"src/extra_experiments.py","y10","results/extra_as10"]); run([py,c+"src/extra_experiments.py","y5","results/extra_as5"])
-run([py,c+"src/extra_checks.py"]); run([py,c+"src/m7_weight_check.py"])
+run([py,c+"src/extra_checks.py"]); run([py,c+"src/m7_weight_check.py"]); run([py,c+"src/robust_checks.py"]); run([py,c+"src/temporal_check.py"]); run([py,c+"src/synthetic_mechanism.py"])
 # uranium: python code/download_usgs.py Uranium data/raw/u ; python code/src/build_dataset.py data/raw/u data/processed/wells_u.csv Uranium 30 10 ; then experiment.py --label y30 --ntune 4 --out results/u30 and --label y10 --out results/u10 (optional)
 for r in ("as10","as5","as10_blocks","as10_thin"): run([py,c+"src/analyze.py",f"results/{r}","tables"])
 run([py,c+"src/analyze_extra.py","results/extra_as10","as10"]); run([py,c+"src/analyze_extra.py","results/extra_as5","as5"])

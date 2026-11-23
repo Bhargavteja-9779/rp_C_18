@@ -2,7 +2,7 @@
 
 Chosen after you excluded Frontiers and MDPI. It had the lowest measured acceptance time among the non-Frontiers journals I could measure.
 
-- JCR quartile / Impact Factor / category: **UNVERIFIED** (JCR unreachable here). Water Research is widely listed as a Q1 journal in its categories, but confirm it.
+- JCR quartile / Impact Factor / category: official JCR page unreachable. Secondary web pages report Impact Factor 12.8 (JCR 2025) and Q1; this is NOT confirmed against JCR (see journal_verification.md).
 - Measured received->accepted (PubMed history dates, n=250, 2025-01 to 2026-11): **median 81 d, 75th percentile 103 d, max 317 d**. Raw file: `other_candidates_evidence/pm_0043-1354_WaterResearch.csv`.
 - **Unmet rule: the 72-day limit is NOT met** (median 81 d, p75 103 d). It is the best I could verify; every non-Frontiers journal I measured was slower. This is stated, not hidden.
 - Limitation: dates exist only for accepted papers (survivorship).

@@ -1,0 +1,3 @@
+wells 139858 eligible 25 tune ['AZ', 'CA', 'ID', 'KY', 'NC', 'NH', 'OK', 'WY'] eval 17
+tuned {'n_estimators': 300, 'learning_rate': 0.06, 'num_leaves': 16, 'min_child_samples': 100, 'subsample': 1.0, 'subsample_freq': 1, 'colsample_bytree': 0.7, 'reg_lambda': 0.0} (20, 1)
+done 613 s

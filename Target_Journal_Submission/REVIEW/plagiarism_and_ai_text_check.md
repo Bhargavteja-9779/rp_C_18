@@ -1,2 +1,3 @@
-# Similarity and AI-text check
-No similarity tool (iThenticate, Turnitin) is available in this environment: NOT DONE. Text was written from scratch and no sentence was copied from a source. The paper discloses AI assistance. The authors must run a similarity check before submission.
+# Similarity and AI-text check (partial)
+No commercial tool (iThenticate, Turnitin) is available: the formal check is NOT DONE and must be run by the authors.
+Partial self-check (code/src/similarity_partial.py; results/similarity_partial.json), run on the final round-3 manuscript text without references: 5651 eight-word sequences compared with 57 retrieved abstracts and paper texts; shared 8-word sequences: 0; top shared 5-word sequences: 0. A sentence on the number of private-well users was reworded after an earlier run found a 5-word overlap with a source abstract. This covers only the sources I retrieved. Text was written from scratch; AI assistance is disclosed in the manuscript.

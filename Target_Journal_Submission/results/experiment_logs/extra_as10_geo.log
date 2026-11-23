@@ -1,0 +1,21 @@
+M1                  1.126
+H1_follow_unsafe    1.924
+H2_spread           0.881
+M5_kappa0.5         1.745
+M5_kappa2           1.703
+M5_kappa10          1.472
+M5_kappa50          1.355
+M5_kappa200         1.245
+M5_kappa1000        1.147
+M4                  1.792
+lift_2km Spearman with M4 enrichment [0.212, 0.27] n 29
+lift_5km Spearman with M4 enrichment [0.377, 0.044] n 29
+lift_20km Spearman with M4 enrichment [0.525, 0.003] n 29
+warm-start units 24
+W0_random                         1.000
+W1_map_outside_only               1.280
+W2_map_with_history               1.675
+W3_map_local_history_only         1.951
+W4_history_kernel_static          2.017
+W5_cold_feedback                  1.751
+W6_history_prior_plus_feedback    2.150

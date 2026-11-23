@@ -1,0 +1,38 @@
+{
+ "n_sources": 57,
+ "manuscript_8grams": 5651,
+ "shared_8grams_total": 0,
+ "top": [
+  [
+   0,
+   0,
+   "fetch-1795421460749-inkthm.pdf"
+  ],
+  [
+   0,
+   0,
+   "fetch-1795421460025-dtcdcl.pdf"
+  ],
+  [
+   0,
+   0,
+   "fetch-1795421459467-sd75fv.pdf"
+  ],
+  [
+   0,
+   0,
+   "Unraveling the role of lattice incorporation in enhanced co-removal of"
+  ],
+  [
+   0,
+   0,
+   "Unraveling Groundwater Stress: A Model Generalizable Across Space and "
+  ],
+  [
+   0,
+   0,
+   "Transferability of Machine Learning Models for Geogenic Contaminated G"
+  ]
+ ],
+ "examples": []
+}

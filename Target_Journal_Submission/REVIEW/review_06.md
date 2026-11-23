@@ -3,3 +3,5 @@
 MODERATE: Original draft gave no timings. Now measured: static map fit 1.1 s, feedback campaign 0.3 s, online refit 8.0 s (SD, 3,608 wells, one core). The feedback rule is cheap and needs no model.
 MINOR: Operational cost of testing itself (money per well) is not modelled.
 ACTIONS TAKEN: timing added to paper. No further issue.
+
+ROUND 3: cost expressed as tests per unsafe well found (9.2 random, 8.1 static map, 5.2 feedback); timing reported. Monetary cost per test not modelled (no data).

@@ -1,0 +1,5 @@
+region,n,median_diff,states_positive
+Midwest,9,0.8043478260869565,9
+Northeast,5,0.15428571428571414,3
+South,9,0.6470588235294121,6
+West,8,0.4943056158754552,8

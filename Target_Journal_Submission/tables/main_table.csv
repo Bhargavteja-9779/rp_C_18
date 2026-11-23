@@ -35,3 +35,15 @@ scenario,units,method,enr20,lo,hi
 "Uranium>10, leave-state-out",12,M5_proposed,1.605,1.138482868886133,2.137176767173544
 "Uranium>10, leave-state-out",12,M7_online_refit,1.477,1.0619010620540328,1.924008823118757
 "Uranium>10, leave-state-out",12,A1_no_prior,1.758,1.4418762449461315,2.097569719561996
+"Fluoride>2, leave-state-out",31,M1_static_lgbm,1.874,1.5771219083543342,2.1880263719885886
+"Fluoride>2, leave-state-out",31,M3_static_knn,1.505,1.2413310648016425,1.784659818529274
+"Fluoride>2, leave-state-out",31,M4_neighbor_only,2.407,2.160094096141162,2.6416245958243447
+"Fluoride>2, leave-state-out",31,M5_proposed,2.672,2.364083275517585,2.97768367140055
+"Fluoride>2, leave-state-out",31,M7_online_refit,2.482,2.1699524593489388,2.8030827712252653
+"Fluoride>2, leave-state-out",31,A1_no_prior,2.529,2.296689781042034,2.777951194175689
+"Fluoride>4, leave-state-out",17,M1_static_lgbm,1.763,1.2772976046039737,2.2664872137518586
+"Fluoride>4, leave-state-out",17,M3_static_knn,1.468,1.0380092867830362,1.9322307862883457
+"Fluoride>4, leave-state-out",17,M4_neighbor_only,2.371,1.959989973328515,2.7598917483490792
+"Fluoride>4, leave-state-out",17,M5_proposed,2.607,2.2761194979662918,2.956991978225644
+"Fluoride>4, leave-state-out",17,M7_online_refit,2.201,1.7897257452289583,2.6205914999911
+"Fluoride>4, leave-state-out",17,A1_no_prior,2.332,1.9302053827199992,2.754527061258183

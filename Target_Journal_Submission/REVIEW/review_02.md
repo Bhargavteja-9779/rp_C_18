@@ -6,3 +6,5 @@ MODERATE: 'Negative result on the hybrid' is useful but not a contribution of me
 ACTIONS TAKEN: claims narrowed to the empirical comparison; no 'first' claim; scorecard 18/30 recorded. NOT FIXED: gate failure stands.
 
 ROUND 2: re-scored 20/30. Added closer prior art to the map (Yin et al. 2021 arXiv:2102.11118; Khan et al. 2026). Claims narrowed to the empirical comparison. Gate still not passed.
+
+ROUND 3: re-searched with abstracts. NEW close prior art found and added: Cao et al. 2024 (transferability of fluoride models; surface predictors fail, target-region samples help), Usman et al. 2026 (buffered validation, negligible transfer), MacDonald & Tippett 2020 (neighbour-exceedance letters raise testing). The 'maps do not transfer' finding is therefore corroboration, not novelty. What remains new: budgeted campaign metric, feedback/heuristic/hybrid comparison on national US data held out by state, warm start, effect of late batches. Novelty map now 33 rows (22 abstract-read). Score stays 20/30.

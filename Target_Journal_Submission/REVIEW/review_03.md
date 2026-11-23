@@ -6,3 +6,5 @@ MINOR: Random baseline is analytic.
 ACTIONS TAKEN: M7 weight check (1/20/100): no change in conclusion; thinned result reported with its non-significance; deviations logged. NOT FIXED: spatial dependence among states (could add region-level clustered bootstrap).
 
 ROUND 2: added regional consistency check (South weakest: 4/7 states positive at 10 ug/L); stated that states are not fully independent. Added Holm-corrected tests for all added comparisons. Open: clustered bootstrap over regions (only 4 regions).
+
+ROUND 3: added leave-one-region-out (effect stays significant, largest unadjusted p=0.018), extended run with California and Colorado (agrees), Holm correction for all added comparisons, paired test of the geology effect (none significant after correction, stated). Still open: states are not independent; 4 regions are too few for a cluster bootstrap.

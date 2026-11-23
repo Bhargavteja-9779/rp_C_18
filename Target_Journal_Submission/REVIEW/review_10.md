@@ -7,3 +7,5 @@ MINOR: Wording.
 No invented problems; each item above is traceable to a file or to a stated limitation.
 
 ROUND 2: fatal item (novelty/journal fit) is reduced but not removed. Total 20/30.
+
+ROUND 3 final hostile review: fatal = novelty relative to the 2024 transferability paper and neighbour-letter outreach practice; major = non-random wells, no prospective test, uranium underpowered; moderate = states not independent, simple tuning grid; minor = formatting. No invented problems.

@@ -18,11 +18,14 @@ def rbc(x):  # rank-biserial from signed ranks
 comps=[("M5_proposed","M1_static_lgbm"),("M5_proposed","M4_neighbor_only"),("M5_proposed","M7_online_refit"),("M5_proposed","M6_thompson"),
        ("M5_proposed","A1_no_prior"),("M5_proposed","A2_no_shrinkage"),("M5_proposed","A3_fixed_bandwidth"),("M5_proposed","A4_knn_prior"),
        ("M1_static_lgbm","M3_static_knn"),("M1_static_lgbm","M2_static_logreg"),("M4_neighbor_only","M1_static_lgbm")]
+comps+=[("G0_lithology_prevalence","M0_random"),("G0_lithology_prevalence","M1_static_lgbm"),("M5_proposed","G0_lithology_prevalence"),("M4_neighbor_only","G0_lithology_prevalence")]
+comps=[c for c in comps if all(x in piv.columns for x in c if x!="M0_random")]
 rows=[]
 for a,b in comps:
+    if b=="M0_random": continue
     x=(piv[a]-piv[b]).values; p=wilcoxon(x).pvalue if np.any(x!=0) else 1.0; lo,hi=boot(x)
     rows.append(dict(A=a,B=b,n_states=len(x),median_diff_enr20=np.median(x),ci_lo=lo,ci_hi=hi,wilcoxon_p=p,rank_biserial=rbc(x),states_A_better=int((x>0).sum())))
-for m in ["M1_static_lgbm","M4_neighbor_only","M5_proposed"]:    # vs random order (enrichment = 1)
+for m in [x for x in ["M1_static_lgbm","M4_neighbor_only","M5_proposed","G0_lithology_prevalence"] if x in piv.columns]:    # vs random order (enrichment = 1)
     x=(piv[m]-1).values; rows.append(dict(A=m,B="M0_random(=1)",n_states=len(x),median_diff_enr20=np.median(x),ci_lo=boot(x)[0],ci_hi=boot(x)[1],wilcoxon_p=wilcoxon(x).pvalue,rank_biserial=rbc(x),states_A_better=int((x>0).sum())))
 s=pd.DataFrame(rows).sort_values("wilcoxon_p").reset_index(drop=True); m_=len(s)
 s["holm_p"]=[min(1.0,(m_-i)*p) for i,p in enumerate(s.wilcoxon_p)]; s["holm_p"]=np.maximum.accumulate(s.holm_p.values)

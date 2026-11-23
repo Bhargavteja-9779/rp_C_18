@@ -1,0 +1,5 @@
+• Arsenic risk maps from other states ranked wells little better than random order
+• Random splits gave ROC-AUC 0.87; held-out states gave 0.63
+• A state's own earlier wells made the map useful; late result batches cut the gain
+• Following results of tested wells cut tests per unsafe well by 44%
+• Fluoride maps transferred between states, unlike arsenic; best method varies

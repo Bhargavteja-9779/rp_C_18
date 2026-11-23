@@ -1,10 +1,14 @@
-# Final audit and decision
+# Final audit and decision (round 3, 2026-11-23)
 ## FINAL DECISION: NOT READY FOR SUBMISSION to Water Research
-Reasons (each traceable): (1) novelty gate not passed (17/30, 18/30, now 20/30; gate 22); (2) journal-fit mismatch; (3) 72-day limit unmet for every non-Frontiers journal measured; (4) JCR status unverified; (5) references metadata-verified but not read in full, and few; (6) no geology-informed baseline, uranium underpowered, non-random wells.
-Round 2 (2026-11-23) raised the paper's depth and evidence (explanation, warm start, heuristic baseline, uranium, verified references, story figure). Remaining gaps need new data (geology, agency or prospective tests), not more simulation of the same wells. Options for the authors: add hydrogeological covariates plus an agency-supplied warm-start and prospective test and aim for a venue that values evaluation studies; or merge with the other pending gap (a second contaminant once the API allows it).
+Reasons (each traceable):
+1. Novelty gate not passed: 17/30, 18/30, 20/30, now 21/30 (gate 22; no single score below 3). Close prior work exists (transferability of fluoride models, buffered validation, neighbour-targeted outreach).
+2. Journal fit unconfirmed: the Guide for Authors and the publisher page returned HTTP 403; the paper has no geochemical process model.
+3. 72-day limit unmet for every non-Frontiers journal measured (Water Research: median 81 d, p75 103 d). JCR could not be checked; secondary sources give IF 12.8 and Q1.
+4. No prospective test; non-random wells; one data source; uranium underpowered; nitrate infeasible; Kansas missing for fluoride; fluoride used 3 seeds.
+5. Not in the Elsevier template; author, funding, CRediT and conflict fields are blank placeholders; commercial similarity check not run.
+What is now done (round 3): verified reference list (45), full-text reads of key documents, 33-row novelty map (22 abstracts read), geologic predictors and lithology baseline, warm start with and without geology, heuristic and kappa analyses, synthetic-field test of the mechanism, delay/availability/leave-one-region/forward-in-time checks, extended California/Colorado run, uranium and fluoride, a tested planning tool, highlights, graphical abstract, cover letter, partial similarity check (clean), rewritten manuscript (16 pages).
+Items that cannot be completed by me: official JCR/Guide-for-Authors verification, a prospective agency pilot, hydrochemical predictors from an agency, commercial similarity check, filling author declarations, final template formatting. These are listed so that nothing is silently dropped.
 ## Consistency audit
-Title <-> abstract <-> contributions <-> code <-> tables checked by construction: every number in `manuscript/Final_Manuscript.docx` is produced by `code/src/make_manuscript.py` from `tables/` and `results/`. Claims without a file are marked UNVERIFIED (claim_evidence_audit.md). Known mismatch: the protocol listed KMeans blocks as primary; the primary became leave-one-state-out (deviations.md items 3-12, all logged).
+Every number in `manuscript/Final_Manuscript.docx` is produced by `code/src/make_manuscript.py` from `tables/` and `results/`; the script asserts that each highlight is at most 85 characters. Claims without a file are labelled (claim_evidence_audit.md). The protocol listed KMeans blocks as primary; the primary became leave-one-state-out; all 25 deviations are dated and explained in `code/experiments/deviations.md`.
 ## Reproducibility audit
-`python code/run_all.py --mode quick --skip-download` was executed successfully. The full runs were executed by hand with the same commands (logs in results/*.log); data download needs ~30 minutes and the USGS API sometimes times out (CA, CO). `data/raw/` is not committed (510 MB); `data/processed/` is.
-## What is not done
-25-paper full-text journal benchmark; 30-paper novelty map; nitrate; story figure; journal-template formatting; similarity check; DOI/author verification of references.
+`run_all.py --mode quick --skip-download` and `pytest` (5 tests) were run. Full runs were executed stepwise with the commands listed in `code/README.md`; data download depends on a slow API (about 30-60 minutes per contaminant; some states needed date-window requests). `data/raw/` is not committed; `data/processed/` is.

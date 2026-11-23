@@ -3,11 +3,11 @@ import glob, sys, numpy as np, pandas as pd
 USE=["Location_Identifier","Location_StatePostalCode","Location_CountyName","Location_HUCEightDigitCode","Location_LatitudeStandardized","Location_LongitudeStandardized",
  "Location_Type","Activity_Media","Activity_StartDate","Activity_TopDepthMeasure","Activity_BottomDepthMeasure","Activity_BottomDepthMeasureUnit","Activity_TopDepthMeasureUnit",
  "Result_Characteristic","Result_ResultDetectionCondition","Result_Measure","Result_MeasureUnit","Result_SampleFraction","DetectionLimit_MeasureA","DetectionLimit_MeasureUnitA","USGSSampleAquifer"]
-CHAR=sys.argv[3] if len(sys.argv)>3 else "Arsenic"; THI=float(sys.argv[4]) if len(sys.argv)>4 else 10; TLO=float(sys.argv[5]) if len(sys.argv)>5 else 5
+CHAR=sys.argv[3] if len(sys.argv)>3 else "Arsenic"; THI=float(sys.argv[4]) if len(sys.argv)>4 else 10; TLO=float(sys.argv[5]) if len(sys.argv)>5 else 5; UNIT=sys.argv[6] if len(sys.argv)>6 else "ug/L"
 d=pd.concat([pd.read_csv(f,usecols=lambda c:c in USE,dtype=str,low_memory=False) for f in sorted(glob.glob(sys.argv[1]+"/*.csv")) if open(f).read(20)],ignore_index=True)
 n0=len(d); log=[f"raw rows {n0}"]
 d=d[(d.Location_Type=="Well")&(d.Activity_Media=="Water")&(d.Result_Characteristic==CHAR)]; log.append(f"well/water/target-contaminant rows {len(d)}")
-d=d[d.Result_MeasureUnit.fillna("ug/L").isin(["ug/L"])|d.Result_MeasureUnit.isna()]
+d=d[d.Result_MeasureUnit.fillna("ug/L").isin([UNIT])|d.Result_MeasureUnit.isna()]
 nd=d.Result_ResultDetectionCondition.fillna("").str.contains("Not Detected")
 d["val"]=pd.to_numeric(d.Result_Measure,errors="coerce"); d["dl"]=pd.to_numeric(d.DetectionLimit_MeasureA,errors="coerce")
 d.loc[nd,"val"]=0.0   # non-detect: below its detection limit; flagged below

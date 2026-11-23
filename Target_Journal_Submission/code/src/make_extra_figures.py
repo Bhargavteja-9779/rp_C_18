@@ -33,3 +33,10 @@ m=pd.read_csv("results/extra_as10/mechanism.csv").dropna(subset=["lift_20km"]); 
 for _,q in m.iterrows():
     if q.unit in ("MN","FL","WA","OH"): ax.annotate(q.unit,(q.lift_20km,q.M4),fontsize=7,xytext=(3,3),textcoords="offset points")
 ax.axhline(1,ls="--",color="0.5"); ax.set_xlabel("Spatial clustering of unsafe wells\n(P(neighbour unsafe | unsafe) / prevalence, ≤20 km)",fontsize=8); ax.set_ylabel("Feedback enrichment at 20% budget",fontsize=8); ax.set_title(f"Spearman ρ = {r.statistic:.2f}, p = {r.pvalue:.3f} (n={len(m)})",fontsize=8); plt.tight_layout(); plt.savefig("figures/fig_mechanism.png",dpi=300); plt.close(); print("figs ok")
+
+# synthetic mechanism
+d=pd.read_csv("results/robust_checks/synthetic_mechanism.csv").groupby("L")[["M4","H1"]].agg(["mean","std"]); fig,ax=plt.subplots(figsize=(4.8,3.6))
+for c,col,lab in (("M4","#2a6f97","Kernel feedback (M4)"),("H1","#6a994e","Follow unsafe only (H1)")):
+    m=d[c]["mean"]; sd=d[c]["std"]; ax.errorbar(m.index,m.values,yerr=1.96*sd.values/np.sqrt(40),marker="o",color=col,label=lab,capsize=2)
+ax.axhline(1,ls="--",color="0.5"); ax.axhline(5,ls=":",color="0.5"); ax.text(1.1,5.1,"ceiling (10% unsafe, 20% budget)",fontsize=6.5)
+ax.set_xscale("log"); ax.set_xlabel("Correlation length of unsafe wells (km)"); ax.set_ylabel("Enrichment at 20% budget"); ax.set_title("Synthetic fields: gain appears with spatial clustering",fontsize=8); ax.legend(fontsize=7); plt.tight_layout(); plt.savefig("figures/fig_synthetic.png",dpi=300); plt.close()

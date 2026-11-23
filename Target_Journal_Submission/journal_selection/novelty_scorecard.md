@@ -1,20 +1,20 @@
-# Novelty scorecard (updated 2026-11-23, round 2; topic: well-testing campaigns for arsenic)
+# Novelty scorecard (round 3, 2026-11-23; topic: well-testing campaigns for arsenic)
 
-Evidence: `novelty_map.csv` (papers seen through search snippets only; 30 not reached; no paper was read in full). Scores are my honest judgement and are not checkable by a third party.
+Evidence: `novelty_map.csv`: 33 papers, 22 of them with the abstract read (PubMed/arXiv), the rest title/metadata or search snippets; three documents read as text (Lombard, Appiah, CDC/Vermont). The brief asked for 30 closest papers; this is met in count but not in depth of reading.
 
-Novelty types claimed: N1 (campaign formulation, weak), N5 (held-out-state + budget protocol, moderate; spatial-validation inflation is already documented elsewhere), N7 (finding: static maps ~ random across states, feedback helps, ML prior does not add; moderate). N2 (new method): NOT claimed; the hybrid did not beat the simple rule. N3, N4, N6: none.
+New close prior art found in round 3: Cao et al. 2024 (transferability of fluoride models between basins; surface predictors fail, adding target-region samples helps), Usman et al. 2026 (buffered validation; negligible national transfer for environmental-only models), MacDonald & Tippett 2020 (neighbour-exceedance letters raise testing), O'Neill et al. 2022 (history-based outreach). The finding that maps trained elsewhere do not transfer is therefore corroboration, not a new result.
 
-| # | Criterion | Score /5 (round 1 -> round 2) | Evidence |
-|---|---|---|---|
-| 1 | Distance from closest 5 papers | 3 -> 3 | Closest: risk-based arsenic sampling design (arXiv 2102.11118), active area search (AISTATS), Lombard et al. 2021, Appiah et al. 2025, OWL-GPS (arXiv 2602.17605). None seen doing held-out-state campaign simulation with warm-start and heuristic comparison, but only snippets/metadata were read. |
-| 2 | Problem strength | 4 -> 4 | State health agencies; documented 33.9% sensitivity of the national map; cost in money not modelled. |
-| 3 | Depth of idea | 2 -> 3 | Still no new method or theory. Added explanation with evidence: weight-on-map sweep (smooth path from feedback to static map), clustering-gain correlation (rho 0.52, n=29), regional heterogeneity, warm-start result showing local history beats pooled data. Correlational. |
-| 4 | Evidence strength | 4 -> 4 | 29-31 states, 11 methods + 2 heuristics, 5 seeds, paired tests with Holm, 3 designs, negative control, warm start, uranium. Single data source. |
-| 5 | Generality | 3 -> 3 | Uranium added but only 9 and 12 evaluation states (underpowered); nitrate failed; one country. |
-| 6 | Journal-level match | 2 -> 3 | Cites four Water Research papers and adds explanatory analyses; still no geochemical covariates or process modelling. Benchmark is abstract-level only. |
+| # | Criterion | Round 1 | Round 2 | Round 3 | Evidence |
+|---|---|---|---|---|---|
+| 1 | Distance from closest 5 papers | 3 | 3 | 3 | Campaign metric, feedback/heuristic/hybrid comparison on national US data held out by state, warm start and late-batch effect are not in the papers read; the transfer finding is. |
+| 2 | Problem strength | 4 | 4 | 4 | Verified burden (about 40 million private-well users), documented practice of neighbour/history targeting, 33.9% sensitivity of the national map verified in the full text. |
+| 3 | Depth of idea | 2 | 3 | 3 | Mechanism now tested three ways (across-state clustering correlation, weight-on-map sweep, synthetic fields with controlled correlation length), plus geology and warm-start tests. No new method or theory. |
+| 4 | Evidence strength | 4 | 4 | 4 | 29-31 test states, 11 methods + heuristics, 5 seeds, Holm-corrected paired tests, 3 data designs, extended CA/CO run, regional, timing, availability, forward-in-time and negative-control checks. Single data source. |
+| 5 | Generality | 3 | 3 | 4 | Three contaminants and six thresholds: arsenic (29-31 states), fluoride (31 and 17 states, 3 seeds), uranium (9 and 12 states, underpowered). The answer differs by contaminant (fluoride maps transfer), which the paper reports. Nitrate infeasible; one country; Kansas/Colorado/California gaps disclosed. |
+| 6 | Journal-level match | 2 | 3 | 3 | Four Water Research papers cited, 45 references (journal median 52), geology tested; no geochemical process model; Guide for Authors unavailable. |
 
-**Total 20/30 (round 1: 18). Gate 22/30 with no score below 3: NOT PASSED on total (20 < 22); no individual score is below 3.**
-Novelty types claimed: N1 (campaign formulation, weak), N5 (held-out-state budgeted protocol, moderate), N7 (findings: map ~ random in new states; feedback and local history help; hybrid does not add; moderate). N2 not claimed.
+**Total 21/30 (round 1: 18; round 2: 20; round 3: 21). Gate 22/30 with no score below 3: NOT PASSED on the total (no individual score is below 3).** I did not raise scores that the evidence does not support. Reaching 22 would need depth that I cannot supply honestly from public data alone: hydrochemical predictors, a mechanism-level model, or a prospective agency pilot.
+Novelty types claimed: N1 (campaign formulation, weak), N5 (held-out-state budgeted protocol, moderate), N7 (findings: feedback and local history help, hybrid and geology do not reliably add, late results erase much of the gain; moderate). N2 not claimed.
 
 ## Reviewer-zero sentences (desk rejection)
 1. "A kernel neighbour update is a textbook idea; adaptive and active-search sampling for arsenic and hotspots already exist."

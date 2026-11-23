@@ -5,8 +5,8 @@ from joblib import Parallel, delayed
 from scipy.spatial import cKDTree
 sys.path.insert(0,os.path.dirname(__file__)); import experiment as E
 label,out=sys.argv[1],sys.argv[2]; os.makedirs(out,exist_ok=True)
-tdir="results/as10" if label=="y10" else "results/as5"
-w=E.load("data/processed/wells_as.csv",label); T=json.load(open(f"{tdir}/tuning.json")); params=T["params"]; H=T["h_kappa"][0]
+tdir=sys.argv[3] if len(sys.argv)>3 else ("results/as10" if label=="y10" else "results/as5")
+w=E.load(os.environ.get("DATA","data/processed/wells_as.csv"),label); T=json.load(open(f"{tdir}/tuning.json")); params=T["params"]; H=T["h_kappa"][0]
 KAPPAS=[0.5,2,10,50,200,1000]; SEEDS=3
 def enr(y,o,f=0.2): cum=E.curve_from_order(y,o); return E.found_at(cum,len(y),f)/(f*y.sum())
 def campaign_hot(y,coords,h,seed):                         # H1: follow unsafe results only

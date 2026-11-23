@@ -1,0 +1,317 @@
+[
+ {
+  "key": "Adjei 2026",
+  "text": "Adjei, Y. O. (2026). Do Foundation Model Embeddings Improve Cross-Country Crop Yield Generalisation? A Leave-One-Country-Out Evaluation in Sub-Saharan Africa. arXiv:2605.08113",
+  "fam": "Adjei",
+  "year": 2026,
+  "n_auth": 1
+ },
+ {
+  "key": "Adjei 2026",
+  "text": "Adjei, Y. O., Opoku, D., Abotsi, E., Amanqua, K. O., Kornyo, O., Soglo-Ahianyo, E., et al. (2026). Conformal PM2.5 Mapping Under Spatial Covariate Shift: Satellite-Reanalysis Fusion for Africa's Green Industrial Transition. arXiv:2604.22787",
+  "fam": "Adjei",
+  "year": 2026,
+  "n_auth": 8
+ },
+ {
+  "key": "Ahmed 2025",
+  "text": "Ahmed, S. S., Zzaman, R. U., Jony, S. R., Himel, F. R., Sharmin, A., Rahman, A. H. M. K., et al. (2025). Unraveling Groundwater Stress: A Model Generalizable Across Space and Time Reveals Co-Declining Water Tables and Recharge Across Bangladesh. arXiv:2503.22771",
+  "fam": "Ahmed",
+  "year": 2025,
+  "n_auth": 8
+ },
+ {
+  "key": "Amery 2025",
+  "text": "Amery, L., Tobiason, J., Kumpel, E. (2025). Methods and Uncertainty in Predictions of Arsenic Exposure and Health Outcomes for Private Well Users in Massachusetts. Environmental Science & Technology 59, 23081-23094. https://doi.org/10.1021/acs.est.5c07661",
+  "fam": "Amery",
+  "year": 2025,
+  "n_auth": 3
+ },
+ {
+  "key": "Appiah 2025",
+  "fam": "Appiah",
+  "year": 2025,
+  "n_auth": 5,
+  "text": "Appiah, P., Engle, M.A., Mariani, M.C., Ma, L., Lopez, N. (2025). Machine learning for predicting groundwater quality and understanding controls on contaminants. Preprint, University of Texas at El Paso, https://www.cs.utep.edu/vladik/utepnmsu25appiah.pdf (title and authors read from the PDF)."
+ },
+ {
+  "key": "Arienzo 2022",
+  "text": "Arienzo, M. M., Saftner, D., Bacon, S. N., Robtoy, E., Neveux, I., Schlauch, K., et al. (2022). Naturally occurring metals in unregulated domestic wells in Nevada, USA. Science of The Total Environment 851, 158277. https://doi.org/10.1016/j.scitotenv.2022.158277",
+  "fam": "Arienzo",
+  "year": 2022,
+  "n_auth": 8
+ },
+ {
+  "key": "Azad 2026",
+  "text": "Azad, S., Stahl, M. O., Erickson, M., DeYoung, B. A., Connolly, C., Chillrud, L., et al. (2026). Surface Variable\u2010Based Machine Learning for Scalable Arsenic Prediction in Undersampled Areas. GeoHealth 10. https://doi.org/10.1029/2025gh001666",
+  "fam": "Azad",
+  "year": 2026,
+  "n_auth": 12
+ },
+ {
+  "key": "Cao 2022",
+  "text": "Cao, H., Xie, X., Shi, J., Jiang, G., Wang, Y. (2022). Siamese Network-Based Transfer Learning Model to Predict Geogenic Contaminated Groundwaters. Environmental Science & Technology 56, 11071-11079. https://doi.org/10.1021/acs.est.1c08682",
+  "fam": "Cao",
+  "year": 2022,
+  "n_auth": 5
+ },
+ {
+  "key": "Cao 2024",
+  "text": "Cao, H., Xie, X., Xiao, Z., Liu, W. (2024). Transferability of Machine Learning Models for Geogenic Contaminated Groundwaters. Environmental Science & Technology 58, 8783-8791. https://doi.org/10.1021/acs.est.4c01327",
+  "fam": "Cao",
+  "year": 2024,
+  "n_auth": 4
+ },
+ {
+  "key": "Cao 2024",
+  "text": "Cao, W., Zhang, Z., Fu, Y., Zhao, L., Ren, Y., Nan, T., et al. (2024). Prediction of arsenic and fluoride in groundwater of the North China Plain using enhanced stacking ensemble learning. Water Research 259, 121848. https://doi.org/10.1016/j.watres.2024.121848",
+  "fam": "Cao",
+  "year": 2024,
+  "n_auth": 7
+ },
+ {
+  "key": "CDC 2026",
+  "fam": "CDC",
+  "year": 2026,
+  "n_auth": 0,
+  "text": "Vermont Department of Health, in: CDC (2026). Private well ranking indices. Centers for Disease Control and Prevention, https://www.cdc.gov/environmental-health-practice/media/pdfs/2026/07/Private-Well-Ranking-Indices-508.pdf (read in full; 2 pages)."
+ },
+ {
+  "key": "Chen 2023",
+  "text": "Chen, X., Nikpey, H., Kim, J., Sarkar, S., Saeedi-Bidokhti, S. (2023). Containing a spread through sequential learning: to exploit or to explore?. arXiv:2303.00141",
+  "fam": "Chen",
+  "year": 2023,
+  "n_auth": 5
+ },
+ {
+  "key": "Efron 1979",
+  "text": "Efron, B. (1979). Bootstrap Methods: Another Look at the Jackknife. The Annals of Statistics 7, 1-26. https://doi.org/10.1214/aos/1176344552",
+  "fam": "Efron",
+  "year": 1979,
+  "n_auth": 1
+ },
+ {
+  "key": "Erickson 2021",
+  "text": "Erickson, M. L., Elliott, S. M., Brown, C. J., Stackelberg, P. E., Ransom, K. M., Reddy, J. E., et al. (2021). Machine-Learning Predictions of High Arsenic and High Manganese at Drinking Water Depths of the Glacial Aquifer System, Northern Continental United States. Environmental Science & Technology 55, 5791-5805. https://doi.org/10.1021/acs.est.0c06740",
+  "fam": "Erickson",
+  "year": 2021,
+  "n_auth": 7
+ },
+ {
+  "key": "Garnett 2012",
+  "text": "Garnett, R., Krishnamurthy, Y., Xiong, X., Schneider, J., Mann, R. (2012). Bayesian Optimal Active Search and Surveying. arXiv:1206.6406",
+  "fam": "Garnett",
+  "year": 2012,
+  "n_auth": 5
+ },
+ {
+  "key": "Giri 2023",
+  "text": "Giri, S., Kang, Y., MacDonald, K., Tippett, M., Qiu, Z., Lathrop, R. G., et al. (2023). Revealing the sources of arsenic in private well water using Random Forest Classification and Regression. Science of The Total Environment 857, 159360. https://doi.org/10.1016/j.scitotenv.2022.159360",
+  "fam": "Giri",
+  "year": 2023,
+  "n_auth": 7
+ },
+ {
+  "key": "Haggerty 2023",
+  "text": "Haggerty, R., Sun, J., Yu, H., Li, Y. (2023). Application of machine learning in groundwater quality modeling - A comprehensive review. Water Research 233, 119745. https://doi.org/10.1016/j.watres.2023.119745",
+  "fam": "Haggerty",
+  "year": 2023,
+  "n_auth": 4
+ },
+ {
+  "key": "SGMC",
+  "fam": "Horton",
+  "year": 2017,
+  "n_auth": 0,
+  "text": "U.S. Geological Survey. State Geologic Map Compilation (SGMC) geodatabase of the conterminous United States. ScienceBase item 5888bf4fe4b05ccb964bab9d, https://www.sciencebase.gov/catalog/item/5888bf4fe4b05ccb964bab9d, accessed 23 November 2026 (author and year as given on the item are not reproduced here)."
+ },
+ {
+  "key": "Jeong 2024",
+  "text": "Jeong, H., Abbas, A., Kim, H. G., Van Hoan, H., Van Tuan, P., Long, P. T., et al. (2024). Spatial prediction of groundwater salinity in multiple aquifers of the Mekong Delta region using explainable machine learning models. Water Research 266, 122404. https://doi.org/10.1016/j.watres.2024.122404",
+  "fam": "Jeong",
+  "year": 2024,
+  "n_auth": 8
+ },
+ {
+  "key": "Kerketta 2026",
+  "text": "Kerketta, A., Kapoor, H. S., Sahoo, P. K. (2026). Machine learning-based prediction of elevated uranium concentrations in shallow groundwater of Punjab, India. Environmental Geochemistry and Health 48. https://doi.org/10.1007/s10653-026-03004-2",
+  "fam": "Kerketta",
+  "year": 2026,
+  "n_auth": 3
+ },
+ {
+  "key": "Kerketta 2026",
+  "text": "Kerketta, A., Kapoor, H. S., Sahoo, P. K. (2026). Development of predictive equations for the early identification of uranium contamination using basic hydrochemical parameters in the groundwater of Punjab, India. Environmental Monitoring and Assessment 198. https://doi.org/10.1007/s10661-026-15974-y",
+  "fam": "Kerketta",
+  "year": 2026,
+  "n_auth": 3
+ },
+ {
+  "key": "Khaksar Fasaee 2022",
+  "text": "Khaksar Fasaee, M. A., Pesantez, J., Pieper, K. J., Ling, E., Benham, B., Edwards, M., et al. (2022). Developing early warning systems to predict water lead levels in tap water for private systems. Water Research 221, 118787. https://doi.org/10.1016/j.watres.2022.118787",
+  "fam": "Khaksar Fasaee",
+  "year": 2022,
+  "n_auth": 7
+ },
+ {
+  "key": "Khan 2026",
+  "text": "Khan, J., Sarkar, A., Vorobeychik, Y., Bondi-Kelly, E. (2026). Adapting Actively on the Fly: Relevance-Guided Online Meta-Learning with Latent Concepts for Geospatial Discovery. arXiv:2602.17605",
+  "fam": "Khan",
+  "year": 2026,
+  "n_auth": 4
+ },
+ {
+  "key": "Lombard 2021",
+  "text": "Lombard, M. A., Bryan, M. S., Jones, D. K., Bulka, C., Bradley, P. M., Backer, L. C., et al. (2021). Machine Learning Models of Arsenic in Private Wells Throughout the Conterminous United States As a Tool for Exposure Assessment in Human Health Studies. Environmental Science & Technology 55, 5012-5023. https://doi.org/10.1021/acs.est.0c05239",
+  "fam": "Lombard",
+  "year": 2021,
+  "n_auth": 12
+ },
+ {
+  "key": "Ma 2015",
+  "fam": "Ma",
+  "year": 2015,
+  "n_auth": 4,
+  "text": "Ma, Y., Sutherland, D.J., Garnett, R., Schneider, J. (2015). Active pointillistic pattern search. Proceedings of the International Conference on Artificial Intelligence and Statistics (AISTATS), 2015 (year taken from the file name apps_aistats15.pdf; pages not shown)."
+ },
+ {
+  "key": "MacDonald 2020",
+  "text": "MacDonald, K., Tippett, M. (2020). Reducing public exposure to common, harmful well water contaminants through targeted outreach to highly susceptible neighborhoods as a method of increasing the likelihood of testing and treatment of water from private wells. Journal of Water and Health 18, 522-532. https://doi.org/10.2166/wh.2020.059",
+  "fam": "MacDonald",
+  "year": 2020,
+  "n_auth": 2
+ },
+ {
+  "key": "Mailloux 2020",
+  "text": "Mailloux, B. J., Procopio, N. A., Bakker, M., Chen, T., Choudhury, I., Ahmed, K. M., et al. (2020). Recommended Sampling Intervals for Arsenic in Private Wells. Groundwater 59, 80-89. https://doi.org/10.1111/gwat.13020",
+  "fam": "Mailloux",
+  "year": 2020,
+  "n_auth": 10
+ },
+ {
+  "key": "Meyer 2021",
+  "text": "Meyer, H., Pebesma, E. (2021). Predicting into unknown space? Estimating the area of applicability of spatial prediction models. Methods in Ecology and Evolution 12, 1620-1633. https://doi.org/10.1111/2041-210x.13650",
+  "fam": "Meyer",
+  "year": 2021,
+  "n_auth": 2
+ },
+ {
+  "key": "O'Neill 2022",
+  "text": "O'Neill, H. S., Flanagan, S. V., Gleason, J. A., Spayd, S. E., Schwartz, R. I., Procopio, N. A. (2022). Targeted Private Well Outreach Following a Change in Drinking Water Standard: Arsenic and the New Jersey Private Well Testing Act. Journal of Public Health Management & Practice 29, E29-E36. https://doi.org/10.1097/phh.0000000000001575",
+  "fam": "O'Neill",
+  "year": 2022,
+  "n_auth": 6
+ },
+ {
+  "key": "Ploton 2020",
+  "text": "Ploton, P., Mortier, F., R\u00e9jou-M\u00e9chain, M., Barbier, N., Picard, N., Rossi, V., et al. (2020). Spatial validation reveals poor predictive performance of large-scale ecological mapping models. Nature Communications 11. https://doi.org/10.1038/s41467-020-18321-y",
+  "fam": "Ploton",
+  "year": 2020,
+  "n_auth": 13
+ },
+ {
+  "key": "Podgorski 2020",
+  "text": "Podgorski, J., Berg, M. (2020). Global threat of arsenic in groundwater. Science 368, 845-850. https://doi.org/10.1126/science.aba1510",
+  "fam": "Podgorski",
+  "year": 2020,
+  "n_auth": 2
+ },
+ {
+  "key": "Roberts 2017",
+  "text": "Roberts, D. R., Bahn, V., Ciuti, S., Boyce, M. S., Elith, J., Guillera\u2010Arroita, G., et al. (2017). Cross\u2010validation strategies for data with temporal, spatial, hierarchical, or phylogenetic structure. Ecography 40, 913-929. https://doi.org/10.1111/ecog.02881",
+  "fam": "Roberts",
+  "year": 2017,
+  "n_auth": 14
+ },
+ {
+  "key": "Savitri 2026",
+  "text": "Savitri, P. P., Bharadwaj, U., Ramesh, B., Sudhakar, J., kumar, R. B., Warrier, M., et al. (2026). Data driven prediction of uranium in groundwater for environmental radioactivity surveillance. Environmental Geochemistry and Health 48. https://doi.org/10.1007/s10653-026-03510-3",
+  "fam": "Savitri",
+  "year": 2026,
+  "n_auth": 7
+ },
+ {
+  "key": "Seliga 2021",
+  "text": "Seliga, A., Spayd, S. E., Procopio, N. A., Flanagan, S. V., Gleason, J. A. (2021). Evaluating the impact of free private well testing outreach on participants' private well stewardship in New Jersey. Journal of Water and Health 20, 1-11. https://doi.org/10.2166/wh.2021.018",
+  "fam": "Seliga",
+  "year": 2021,
+  "n_auth": 5
+ },
+ {
+  "key": "Simmons 2025",
+  "text": "Simmons, D. L., Wels, B., Mattson, A., Miller, E. M., Hoggarth, Z. E., Sternberg, M., et al. (2025). Iowa Population Exposures to Metals and Metalloids in Well Water. Environmental Toxicology 41, 459-469. https://doi.org/10.1002/tox.70005",
+  "fam": "Simmons",
+  "year": 2025,
+  "n_auth": 10
+ },
+ {
+  "key": "Smith 2026",
+  "text": "Smith, R. G., Lopez, A. M., Honeyman, A. S., Carney, D., Fendorf, S., Lombard, M. A., et al. (2026). Anthropogenic and Geogenic Factors Affecting Groundwater Arsenic and Potential Drinking Water Exposure in the San Luis Valley, Colorado. Environmental Science &\nTechnology 60, 28781-28791. https://doi.org/10.1021/acs.est.6c02761",
+  "fam": "Smith",
+  "year": 2026,
+  "n_auth": 9
+ },
+ {
+  "key": "Su 2026",
+  "text": "Su, M., Wang, Q., Liu, Y., Wang, X., Zhang, C., Zhang, X., et al. (2026). Predicting and assessing the distribution of high-fluoride groundwater in China using multiple machine learning models: A big data-driven geospatial analysis. Ecotoxicology and Environmental Safety 323, 120627. https://doi.org/10.1016/j.ecoenv.2026.120627",
+  "fam": "Su",
+  "year": 2026,
+  "n_auth": 11
+ },
+ {
+  "key": "USGS 2026",
+  "fam": "USGS",
+  "year": 2026,
+  "n_auth": 0,
+  "text": "U.S. Geological Survey (2026). USGS Samples Data API (discrete water-quality results), https://api.waterdata.usgs.gov/samples-data, accessed 22\u201323 November 2026."
+ },
+ {
+  "key": "Usman 2026",
+  "text": "Usman, U. S., Cheng, J., Yan, B., Ding, K., Lv, Q., Zhao, W. (2026). National-scale evaluation of groundwater fluoride in Ethiopia using spatially buffered machine learning. Journal of Hazardous Materials 518, 144066. https://doi.org/10.1016/j.jhazmat.2026.144066",
+  "fam": "Usman",
+  "year": 2026,
+  "n_auth": 6
+ },
+ {
+  "key": "Valavi 2018",
+  "text": "Valavi, R., Elith, J., Lahoz\u2010Monfort, J. J., Guillera\u2010Arroita, G. (2018). block CV : An r package for generating spatially or environmentally separated folds for k \u2010fold cross\u2010validation of species distribution models. Methods in Ecology and Evolution 10, 225-232. https://doi.org/10.1111/2041-210x.13107",
+  "fam": "Valavi",
+  "year": 2018,
+  "n_auth": 4
+ },
+ {
+  "key": "Wadoux 2021",
+  "text": "Wadoux, A. M. C., Heuvelink, G. B., de Bruin, S., Brus, D. J. (2021). Spatial cross-validation is not the right way to evaluate map accuracy. Ecological Modelling 457, 109692. https://doi.org/10.1016/j.ecolmodel.2021.109692",
+  "fam": "Wadoux",
+  "year": 2021,
+  "n_auth": 4
+ },
+ {
+  "key": "Wilcoxon 1945",
+  "text": "Wilcoxon, F. (1945). Individual Comparisons by Ranking Methods. Biometrics Bulletin 1, 80. https://doi.org/10.2307/3001968",
+  "fam": "Wilcoxon",
+  "year": 1945,
+  "n_auth": 1
+ },
+ {
+  "key": "Willard 2024",
+  "text": "Willard, J. D., Ciulla, F., Weierbach, H., Kumar, V., Varadharajan, C. (2024). Evaluating Deep Learning Approaches for Predictions in Unmonitored Basins with Continental-scale Stream Temperature Models. arXiv:2410.19865",
+  "fam": "Willard",
+  "year": 2024,
+  "n_auth": 5
+ },
+ {
+  "key": "Yin 2021",
+  "text": "Yin, L., Sang, H., Schnoebelen, D. J., Wels, B., Simmons, D., Mattson, A., et al. (2021). Risk Based Arsenic Rational Sampling Design for Public and Environmental Health Management. arXiv:2102.11118",
+  "fam": "Yin",
+  "year": 2021,
+  "n_auth": 9
+ },
+ {
+  "key": "Zhang 2024",
+  "text": "Zhang, J., Xiao, C., Yang, W., Liang, X., Zhang, L., Wang, X., et al. (2024). Improving prediction of groundwater quality in situations of limited monitoring data based on virtual sample generation and Gaussian process regression. Water Research 267, 122498. https://doi.org/10.1016/j.watres.2024.122498",
+  "fam": "Zhang",
+  "year": 2024,
+  "n_auth": 7
+ }
+]

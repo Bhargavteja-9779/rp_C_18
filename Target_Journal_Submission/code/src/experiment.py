@@ -18,14 +18,19 @@ def load(path,label):
     w["aq_known"]=w.aquifer.notna().astype(int)
     w["aq_code"]=pd.factorize(w.aquifer)[0]                    # -1 for unknown
     w["y"]=w[label].astype(int)
+    if "geo_lith" in w.columns:
+        age=w.geo_age_min.fillna("unknown").str.split(" - ").str[-1]; vc=age.value_counts(normalize=True); age=age.where(age.map(vc)>=0.01,"other")
+        w["geo_lith_c"]=pd.factorize(w.geo_lith.fillna("unknown"),sort=True)[0]; w["geo_age_c"]=pd.factorize(age,sort=True)[0]
     return w
-FEATS=["lat","lon","aq_known","aq_code"]
+GEO=os.environ.get("WELL_FEATS","base")=="geo"
+FEATS=["lat","lon","aq_known","aq_code"]+(["geo_lith_c","geo_age_c"] if GEO else [])
+CATS=["aq_code","geo_lith_c","geo_age_c"]
 
 def train_mask(w,held_idx):
     t=cKDTree(w.loc[held_idx,["x","yk"]].values); d,_=t.query(w[["x","yk"]].values,k=1)
     return d>BUF_KM
 def fit_lgb(Xtr,ytr,params,seed,w=None):
-    m=lgb.LGBMClassifier(**params,random_state=seed,n_jobs=1,verbose=-1); m.fit(Xtr,ytr,sample_weight=w); return m
+    m=lgb.LGBMClassifier(**params,random_state=seed,n_jobs=1,verbose=-1); m.fit(Xtr,ytr,sample_weight=w,categorical_feature=[c for c in CATS if c in Xtr.columns]); return m
 def sample_params(rng):
     return dict(n_estimators=int(rng.choice([100,200,300])),learning_rate=float(rng.choice([0.03,0.06,0.1])),num_leaves=int(rng.choice([8,16,31,63])),
                 min_child_samples=int(rng.choice([20,50,100])),subsample=float(rng.choice([0.7,1.0])),subsample_freq=1,colsample_bytree=float(rng.choice([0.7,1.0])),reg_lambda=float(rng.choice([0,1,10])))
@@ -99,6 +104,9 @@ def eval_unit(w,unit_idx,params,seed,hk,quick=False,refit=True):
     if len(np.unique(y))>1: 
         for nm,p in (("M1",p1),("M2",p2),("M3",p3)): ext[nm]=(roc_auc_score(y,p),average_precision_score(y,p))
     prev=float(tr.y.mean())
+    if GEO:   # G0: geology-informed expert-style baseline = unsafe rate of the same lithology class in other states
+        lp=tr.groupby("geo_lith_c").y.agg(["mean","size"]); pr=te.geo_lith_c.map(lp["mean"].where(lp["size"]>=30)).fillna(prev).values
+        rec("G0_lithology_prevalence",np.argsort(-(pr+1e-6*np.random.default_rng(seed).random(n)),kind="stable"))
     rng=np.random.default_rng(seed)
     rec("M1_static_lgbm",np.argsort(-p1,kind="stable"),{"auc_roc":ext.get("M1",(np.nan,np.nan))[0],"auc_pr":ext.get("M1",(np.nan,np.nan))[1]})
     rec("M2_static_logreg",np.argsort(-p2,kind="stable"),{"auc_roc":ext.get("M2",(np.nan,np.nan))[0],"auc_pr":ext.get("M2",(np.nan,np.nan))[1]})

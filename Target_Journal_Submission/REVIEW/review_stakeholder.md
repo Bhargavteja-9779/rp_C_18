@@ -5,3 +5,5 @@ What is missing: (1) my state already holds past results, so cold start is rare;
 ACTIONS TAKEN: limitations list items 1-2. NOT FIXED: warm-start analysis, tool.
 
 ROUND 2: warm-start analysis added (agency with its own past results): local history makes the map useful (2.05x) and history plus feedback is best on average (2.17x); pooled national data did not help (10 ug/L) or hurt (5 ug/L). Still open: cost per test, a usable tool.
+
+ROUND 3: a command-line planner (code/campaign_planner.py, tested) now turns candidate wells, results so far and optional history into the next batch. Warm-start analysis and the batch-size result translate into advice: use history as a prior, test in small batches, expect no gain if results return late. Still open: cost per test and refusals beyond the 30% availability check; field validation.

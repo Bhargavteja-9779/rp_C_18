@@ -1,17 +1,17 @@
-# Final rejection-risk report
+# Final rejection-risk report (round 3, 2026-11-23)
 | Area | Risk | Evidence | Severity | Mitigation | Fixed? |
 |---|---|---|---|---|---|
-| Novelty | Simple rule; related adaptive/active search exists; novelty gate 20/30 (was 18) | novelty_scorecard.md | FATAL for Water Research | Add process insight/prospective test or choose another venue | NO |
-| Journal scope | ML evaluation vs process-insight journal | journal_level_profile.md (abstract-level) | HIGH | Re-target | NO |
+| Novelty | Related transfer/targeting work exists; no new method; gate 21/30 | novelty_scorecard.md | HIGH (fatal at a high-IF journal) | Add new data (hydrochemistry, prospective pilot) or target an evaluation-friendly venue | NO |
+| Journal scope | ML evaluation study vs process-insight journal; Guide for Authors unreadable | journal_verification.md | HIGH | Check scope statement; consider another venue | NO |
 | 72-day timeline | Median 81 d, p75 103 d (Water Research); no non-Frontiers journal tested passed | acceptance_time_evidence.csv, journal_comparison.md | HIGH (rule unmet) | None available | NO |
-| JCR Q1/IF | Not verified | journal_verification.md | MEDIUM | Author to verify | NO |
-| Methodology | Sound; spatial non-independence of states; tuning not nested | review_03, review_04 | MODERATE | Disclosed | PARTLY |
-| Dataset | Non-random USGS wells; no depth; CA, CO missing | limitations | HIGH | Disclosed; thinning check | PARTLY |
-| Statistics | Paired tests, Holm, CIs | statistics_*.csv | LOW | - | YES |
-| Reproducibility | run_all.py quick mode tested; full mode run in pieces by hand (same commands) | code/run_all.py | LOW | Authors should rerun full mode once | PARTLY |
-| Baselines | Heuristic H1 added; no geology-informed baseline | review_08 | MEDIUM | Needs geology data/agency input | PARTLY |
-| Generalization | Arsenic plus uranium (9-12 states, underpowered); one country | review_05 | MEDIUM-HIGH | Nitrate download failed | PARTLY |
-| Writing/formatting | Docx generated, not in journal template; author fields blank; abstract long | review_07 | MEDIUM | Apply Elsevier template | NO |
-| Citations | 15 refs; 11 metadata-verified, none read in full | citation_audit.md | MEDIUM | Read and extend | PARTLY |
-| Integrity/compliance | AI-use disclosed; similarity check not done | plagiarism_and_ai_text_check.md | MEDIUM | Run iThenticate | NO |
+| JCR Q1/IF | Secondary sources: IF 12.8, Q1; official JCR unreachable | journal_verification.md | MEDIUM | Author to confirm in JCR | PARTLY |
+| Methodology | Sound; states not independent; tuning not nested; simple grids | review_03, review_04 | MODERATE | Disclosed; LORO, extended run | PARTLY |
+| Dataset | Non-random USGS wells; no depth/hydrochemistry; nitrate infeasible | limitations | HIGH | Thinning, forward-in-time, availability checks; disclosed | PARTLY |
+| Statistics | Paired tests, Holm, CIs; robustness checks use 3 seeds, untested | statistics_*.csv | LOW-MODERATE | - | MOSTLY |
+| Reproducibility | quick mode tested; full runs executed stepwise with the same commands; data download is slow and API-dependent | code/README.md, run_all.py | LOW-MODERATE | Authors re-run full mode once | PARTLY |
+| Baselines | Heuristics H1, H2, lithology rule G0 added; no agency-protocol baseline | review_08 | MEDIUM | Needs agency input | PARTLY |
+| Generalization | Arsenic, uranium (underpowered) and fluoride (3 seeds, Kansas missing); answers differ by contaminant; one country | review_05 | MEDIUM | Reported with limits; nitrate infeasible | PARTLY |
+| Writing/formatting | Docx generated, not in Elsevier template; author fields blank | review_07 | MEDIUM | Apply template; Guide for Authors unavailable | NO |
+| Citations | 45 refs, metadata-verified; 22 abstracts read; some metadata-only | citation_audit.md | LOW-MEDIUM | Read metadata-only papers | MOSTLY |
+| Integrity/compliance | AI use disclosed; commercial similarity check not run; partial check clean | plagiarism_and_ai_text_check.md | MEDIUM | Run iThenticate | PARTLY |
 No claim of zero risk or guaranteed acceptance is made.
