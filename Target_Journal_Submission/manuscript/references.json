@@ -119,11 +119,11 @@
   "n_auth": 4
  },
  {
-  "key": "SGMC",
+  "key": "Horton 2017",
   "fam": "Horton",
   "year": 2017,
-  "n_auth": 0,
-  "text": "U.S. Geological Survey. State Geologic Map Compilation (SGMC) geodatabase of the conterminous United States. ScienceBase item 5888bf4fe4b05ccb964bab9d, https://www.sciencebase.gov/catalog/item/5888bf4fe4b05ccb964bab9d, accessed 23 November 2026 (author and year as given on the item are not reproduced here)."
+  "n_auth": 1,
+  "text": "Horton, J.D. (2017). The State Geologic Map Compilation (SGMC) geodatabase of the conterminous United States (ver. 1.1, August 2017). U.S. Geological Survey data release. https://doi.org/10.5066/F7WH2N65"
  },
  {
   "key": "Jeong 2024",
@@ -194,6 +194,13 @@
   "fam": "Meyer",
   "year": 2021,
   "n_auth": 2
+ },
+ {
+  "key": "NASA 2026",
+  "fam": "NASA",
+  "year": 2026,
+  "n_auth": 0,
+  "text": "NASA Langley Research Center (2026). Prediction Of Worldwide Energy Resources (POWER) Project: annual climatology (precipitation, 2-m temperature, relative humidity, all-sky solar radiation; community AG) and elevation at 0.5-degree cell centres. https://power.larc.nasa.gov, accessed 23 November 2026."
  },
  {
   "key": "O'Neill 2022",

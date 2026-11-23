@@ -1,0 +1,6 @@
+results/learner_check/as5_base.csv
+        learner  n_states  mean_enrichment  feedback_minus_learner_median      p  states_learner_better  vs_random_p  holm_p_vs_feedback  feedback_mean
+0      LightGBM        31            1.418                          0.446  0.022                     10        0.000               0.088           1.67
+1    ExtraTrees        31            1.312                          0.349  0.000                      3        0.018               0.001           1.67
+2  RandomForest        31            1.285                          0.458  0.001                      7        0.007               0.006           1.67
+3      Logistic        31            1.245                          0.534  0.001                      4        0.622               0.005           1.67
