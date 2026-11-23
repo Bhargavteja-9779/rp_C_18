@@ -1,0 +1,1 @@
+{"scenario": "u10", "rule": "primary (>=100 wells, >=10 unsafe, >=30 dates)", "n_campaigns": 25, "n_states": 15}

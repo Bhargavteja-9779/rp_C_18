@@ -1,0 +1,23 @@
+{
+ "feedback": {
+  "mean_diff": 0.47864406994410813,
+  "sd_diff": 0.9674100948594924,
+  "campaigns_for_80pct_power": 33,
+  "campaigns_for_90pct_power": 43,
+  "n_campaigns_in_replay": 53
+ },
+ "follow": {
+  "mean_diff": 0.6033189714308281,
+  "sd_diff": 0.9993722497390349,
+  "campaigns_for_80pct_power": 22,
+  "campaigns_for_90pct_power": 29,
+  "n_campaigns_in_replay": 53
+ },
+ "ABF": {
+  "mean_diff": 0.39704355628935845,
+  "sd_diff": 1.021415966455862,
+  "campaigns_for_80pct_power": 52,
+  "campaigns_for_90pct_power": 70,
+  "n_campaigns_in_replay": 53
+ }
+}

@@ -14,4 +14,12 @@ for name,val,_ in checks:
     rows.append(dict(item=name,value_from_file=val,found_in_letter=val in L))
 for tag in ("learner","synthetic"):
     pass
+
+import os
+for k,lab in (("as10","replay As>10"),("as5","replay As>5"),("f2","replay F>2"),("u10","replay U>10")):
+    f=f"results/replay/replay_{k}_summary.csv"
+    if os.path.exists(f):
+        r=pd.read_csv(f).iloc[0]
+        for nm,v in (("campaigns",f"{int(r.n_campaigns)}"),("real order",f"{r.real_mean:.2f}"),("ABF",f"{r.ABF_mean:.2f}"),("feedback",f"{r.feedback_mean:.2f}")):
+            rows.append(dict(item=f"{lab} {nm}",value_from_file=v,found_in_letter=v in L))
 df=pd.DataFrame(rows); df.to_csv("RECHECK/consistency_check.csv",index=False); print(df.to_string()); print("ALL FOUND" if df.found_in_letter.all() else "MISMATCHES: "+", ".join(df[~df.found_in_letter].item))

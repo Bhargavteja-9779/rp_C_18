@@ -5,3 +5,4 @@ Rule: nothing from earlier runs is trusted until re-verified here. Each stage ap
 - [x] Stage 2/3 prior art: novelty_map_50.csv (53 rows); close calls ActiveRemediation, Thompson 1990. Stage 4: 2 rounds, no confirmed winner, score stays ~21/30 (distance 3)
 - [x] Stages 5-9 done: clean rerun identical; leakage clean; README bugs fixed; stress test; 6 reviews; consistency check. Stage 10 report next.
 - [x] Stage 10: final_recheck_report.md written. Decision: NOT READY (novelty 21/30; official items unverified).
+- [x] Round 6: replay of real campaigns done (arsenic, fluoride significant; uranium not); Letter/SI/cover letter updated; pilot protocol and pre-submission draft written.
