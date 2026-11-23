@@ -1,0 +1,8 @@
+"""Author block and declarations shared by the Letter, the Supporting Information and the cover letter."""
+FIRST="P N Bhargav Teja"; SECOND="[Second Author Name]"; AFF="Vellore Institute of Technology (VIT), Vellore, Tamil Nadu, India"
+AUTH_LINE=f"{FIRST}¹, {SECOND}¹,*"; AFF_LINE=f"¹ [School/Department], {AFF}"; CORR_LINE=f"*Corresponding author: {SECOND}, [email address]"
+FUNDING="This research received no specific funding."
+COMPETING="The authors declare no competing financial interest."
+CONTRIB=f"{FIRST}: investigation, data curation, formal analysis (running and verifying the analyses), writing – original draft. {SECOND}: supervision, project administration, writing – review and editing."
+AI_DECL="Declaration of generative AI use: an AI assistant (Claude, Anthropic) was used to help write the analysis code, to draft and edit the text and to check reference metadata. The authors reviewed and edited all content, ran and verified the analyses, and take full responsibility for the content of the publication."
+CODE="Code availability: the code is available from the corresponding author on request."

@@ -66,9 +66,13 @@ def table(df,cap):
             for p in c.paragraphs:
                 for run in p.runs: run.font.size=Pt(8)
     D.add_paragraph()
+import sys; sys.path.insert(0,os.path.dirname(os.path.abspath(__file__)))
+from authors import *
 TITLE="Which private wells to test first? For arsenic, risk maps from other states fail and local test results help"
 P(TITLE,bold=True,al=WD_ALIGN_PARAGRAPH.CENTER).runs[0].font.size=Pt(15)
-P("[Author names, affiliations, ORCID and corresponding-author details: to be added by the authors]",italic=True,al=WD_ALIGN_PARAGRAPH.CENTER)
+P(AUTH_LINE,al=WD_ALIGN_PARAGRAPH.CENTER)
+P(AFF_LINE,italic=True,al=WD_ALIGN_PARAGRAPH.CENTER)
+P(CORR_LINE,italic=True,al=WD_ALIGN_PARAGRAPH.CENTER)
 hw=wm.mean(); G=S["as10_geo"]
 H1("Abstract")
 _REG=pd.read_csv("tables/abf_regret_vs_best_fixed.csv",index_col=0); _AB=pd.read_csv("tables/abf_summary.csv")
@@ -241,16 +245,16 @@ for t in ("The wells are USGS study wells, not a random sample of private wells.
 H1("7. Conclusions")
 P(f"For arsenic above 10 µg/L, a risk map trained on other states ranked wells no better than random order in a new state ({s10.loc['M1_static_lgbm','enr_20_mean']:.2f}), although a random split suggested otherwise; geologic and climate predictors helped only modestly and not reliably. Testing wells in an order that follows recent results found about 1.8 times as many unsafe wells as random order, a simple heuristic did as well as a kernel rule, and the advantage depended on getting results back in small batches. A state's own earlier wells made a map useful, and history combined with feedback worked best on average. For fluoride, a map from other states did transfer and a map-plus-feedback hybrid was best on average, so the choice of method depends on the contaminant; an adaptive mixture rule (ABF) that needs no such choice had the smallest mean and worst-case gap to the best fixed rule. Campaign plans should be judged by held-out, budgeted simulation, and prospective trials with agencies should follow.")
 H1("Declarations")
-for t in ("Data availability: USGS Samples API (https://api.waterdata.usgs.gov/samples-data), retrieved 22–23 November 2026, and the USGS State Geologic Map Compilation (ScienceBase item 5888bf4fe4b05ccb964bab9d). Processed well tables, per-unit results and code are in the submission package.",
- "Code availability: the code is available from the corresponding author on request.",
+for t in ("Data availability: USGS Samples API (https://api.waterdata.usgs.gov/samples-data), retrieved 22–23 November 2026, and the USGS State Geologic Map Compilation (ScienceBase item 5888bf4fe4b05ccb964bab9d). Result tables are in the Supporting Information package.",
+ CODE,
  "Ethics: no human participants; public well-level data were used.",
- "Declaration of competing interests: [to be completed by the authors].",
- "Funding: [to be completed by the authors].",
- "CRediT authorship contribution statement: [to be completed by the authors].",
- "Declaration of generative AI use: an AI coding assistant (Claude Code) wrote analysis code and a first draft of this text, and retrieved and checked reference metadata. The authors must review all content, verify the results, and take responsibility for it before submission."): P(t)
+ "Declaration of competing interests: "+COMPETING,
+ "Funding: "+FUNDING,
+ "Author contributions: "+CONTRIB,
+ AI_DECL): P(t)
 H1("References")
 for r in REFS: P(r["text"].replace(f"({r['year']})",f"({r['year']}{r['suffix']})",1))
-os.makedirs("manuscript",exist_ok=True); D.save("manuscript/Final_Manuscript.docx"); D.paragraphs[0].runs[0].text="Supporting Information for: "+TITLE; D.save("manuscript/Supporting_Information.docx"); open("manuscript/title.txt","w").write(TITLE)
+os.makedirs("manuscript",exist_ok=True); D.core_properties.author=FIRST+"; "+SECOND; D.core_properties.last_modified_by=FIRST; D.core_properties.comments=""; D.save("manuscript/Final_Manuscript.docx"); D.paragraphs[0].runs[0].text="Supporting Information for: "+open("manuscript/letter_title.txt").read().strip(); D.core_properties.author=FIRST+"; "+SECOND; D.core_properties.last_modified_by=FIRST; D.core_properties.title="Supporting Information for: "+open("manuscript/letter_title.txt").read().strip(); D.core_properties.comments=""; D.save("manuscript/Supporting_Information.docx"); open("manuscript/title.txt","w").write(TITLE)
 HL=["Arsenic risk maps from other states ranked wells little better than random order",
     f"Random splits gave ROC-AUC {rv.loc['random_5fold','auc_roc']:.2f}; held-out states gave {rv.loc['leave_state_out','auc_roc']:.2f}",
     "A state's own earlier wells made the map useful; late result batches cut the gain",
