@@ -1,8 +1,8 @@
 ,0
 W0_random,1.0
-W1_map_outside_only,1.167
-W2_map_with_history,2.052
-W3_map_local_history_only,1.962
-W4_history_kernel_static,2.043
+W1_map_outside_only,1.179
+W2_map_with_history,1.417
+W3_map_local_history_only,1.948
+W4_history_kernel_static,1.978
 W5_cold_feedback,1.751
-W6_history_prior_plus_feedback,2.172
+W6_history_prior_plus_feedback,2.141

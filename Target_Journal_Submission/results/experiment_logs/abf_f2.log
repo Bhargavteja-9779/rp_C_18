@@ -1,0 +1,10 @@
+f2 states 31
+method
+ABF                 2.627
+ABF_fixed_h         2.606
+ABF_nomap           2.500
+H1_follow_unsafe    2.044
+M1_map              1.874
+M4_feedback         2.407
+M5_hybrid           2.672
+ABF mean weights free/map/maponly: {'w_free': 0.336, 'w_map': 0.658, 'w_maponly': 0.006} | max regret nats 3.43 vs ln N 3.43

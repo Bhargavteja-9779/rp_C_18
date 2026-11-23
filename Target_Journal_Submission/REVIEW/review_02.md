@@ -1,5 +1,13 @@
 # Review 02: Novelty and prior art
 
+## ROUND 4 (final, 2026-11-23)
+MAJOR: ABF is an application of standard expert-mixture aggregation; 'maps do not transfer' is corroborated by Cao 2024a and Usman 2026; neighbour targeting exists in practice (MacDonald 2020). MODERATE: novelty map has 33 rows, 22 abstract-read.
+ANSWER: the contribution claimed is the measured size of each effect on national held-out data across three contaminants, the contaminant dependence, the adaptive rule with a bound, the late-results failure mode and the warm-start result. No 'first' claim is made.
+SCORE: 23/30 (see novelty_scorecard.md); depth score 4 is the most contestable.
+
+---
+Earlier rounds (kept for the record; some numbers superseded by the corrected runs):
+
 FATAL (for this journal): The kernel update is a textbook rule. Active search (AISTATS), adaptive arsenic sampling (arXiv 2102.11118), OWL-GPS budgeted discovery, and spatial CV with buffers exist. The earlier conformal-yield idea was dropped for a 2026 competitor; this one has a lower but real overlap.
 MAJOR: Novelty map has ~16 snippet-level papers, not 30; re-search found no leave-state-out campaign study but coverage is thin.
 MODERATE: 'Negative result on the hybrid' is useful but not a contribution of method.

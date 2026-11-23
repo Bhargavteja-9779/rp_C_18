@@ -1,5 +1,12 @@
 # Review 03: Statistics and fairness
 
+## ROUND 4 (final, 2026-11-23)
+MAJOR (FOUND AND FIXED): early runs treated the nominal aquifer code as numeric. All base runs repeated; superseded outputs archived (deviation 33). MODERATE: states not independent (leave-one-region-out checks agree); tuning states are also training data; robustness checks use 3 seeds; ABF vs feedback in arsenic >10 is borderline (Holm 0.057) and is reported.
+NOT FIXED: no cluster bootstrap over regions (4 regions).
+
+---
+Earlier rounds (kept for the record; some numbers superseded by the corrected runs):
+
 MAJOR: Held-out states are not fully independent (neighbouring states share aquifers), so Wilcoxon p-values may be optimistic. Tuning used 8 states but not a nested design; the M7 weight was untuned.
 MODERATE: Holm family differs per scenario; the thinned run has only 26 units and low power (edge over static p=0.10 reported as not significant). Random-vs-blocked used 3 seeds and no buffer on the random split.
 MINOR: Random baseline is analytic.

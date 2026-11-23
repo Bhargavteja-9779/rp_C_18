@@ -33,3 +33,22 @@
 
 Raw samples: `other_candidates_evidence/`. JCR quartile and IF for every row: UNVERIFIED.
 Not tested: IEEE, ACM, SAGE, IET, Wiley, T&F, Cambridge journals (no machine-readable dates found for them in this environment).
+
+## Added 2026-11-23 (APC accepted; open-access and hybrid candidates)
+| Journal (publisher) | n | median d | p75 d | Passes 72-d rule? |
+|---|---|---|---|---|
+| **Environ. Sci. Technol. Letters (ACS)** | 121 | 47 | 66 | **yes** |
+| npj Clean Water (Nature Portfolio) | 175 | 68 | 88 | median yes, p75 no |
+| Water Research X (Elsevier OA) | 34 | 69.5 | 88 | median yes, p75 no |
+| Environmental Health Perspectives | 27 | 128 | 154 | no |
+| Environmental Health (BMC) | 177 | 112 | 162 | no |
+| ACS ES&T Water | 156 | 118.5 | 156 | no |
+| Environment International (Elsevier) | 200 | 113 | 146 | no |
+| Int. J. Health Geographics (BMC) | 98 | 156 | 218 | no |
+| GeoHealth (AGU/Wiley OA) | 200 | 171.5 | 240 | no |
+| Exposure and Health (Springer) | 111 | 166 | 236 | no |
+| J. Exposure Sci. Environ. Epidemiol. | 200 | 190 | 256 | no |
+| Spatial and Spatio-temporal Epidemiology | 100 | 199.5 | 261 | no |
+| Communications Earth & Environment (Nature) | 200 | 178 | 236 | no |
+| Environmental Research Letters, Environmental Research: Health (IOP) | - | - | - | dates not available in Crossref/PubMed: UNVERIFIED |
+Raw samples: `oa_candidates_evidence/`. JCR quartile and impact factor for every row: UNVERIFIED.

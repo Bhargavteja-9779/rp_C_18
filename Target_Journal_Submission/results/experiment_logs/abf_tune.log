@@ -1,0 +1,14 @@
+    vi  eta    hot    ext  enr20
+4    4  1.0  False  False  1.867
+11  11  2.0   True   True  1.853
+10  10  2.0   True  False  1.851
+6    6  1.0   True  False  1.842
+0    0  0.5  False  False  1.813
+9    9  2.0  False   True  1.806
+1    1  0.5  False   True  1.792
+3    3  0.5   True   True  1.777
+7    7  1.0   True   True  1.775
+8    8  2.0  False  False  1.767
+2    2  0.5   True  False  1.750
+5    5  1.0  False   True  1.739
+CHOSEN {'eta': 1.0, 'hot': False, 'ext': False}

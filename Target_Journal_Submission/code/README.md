@@ -18,6 +18,13 @@ Steps run by hand and not wrapped in run_all (same commands, logs in `results/ex
 - Fluoride (mg/L): `python code/download_usgs.py Fluoride data/raw/f` (large states time out: refill with `python code/download_chunked.py Fluoride data/raw/f_chunk 1960 2026 6 <state codes>`; Kansas could not be retrieved), merge the files, `python code/src/build_dataset.py data/raw/f_all data/processed/wells_f.csv Fluoride 4 2 mg/L`, then `python code/src/experiment.py --data data/processed/wells_f.csv --label y2 --seeds 3 --out results/f2` (and `--label y4 --out results/f4`).
 - References: `python code/src/refs.py` (Crossref/arXiv lookups).
 
+## Added in round 4
+- ABF method: `src/abf.py`; evaluation `src/abf_experiments.py <run>` (run in as10, as5, u30, u10, f2, f4); tuning-state selection `src/abf_tune.py`; warm start `src/abf_warm.py`; late rounds `src/abf_batch.py`; statistics `src/analyze_abf.py`, `src/analyze_abf_warm.py`.
+- Stronger maps: `src/download_climate.py`, `src/build_geology.py`, `src/build_env.py`; run `experiment.py` with `WELL_FEATS=geo|env|envnc` and the `_geo`/`_env` data files.
+- Checks: `src/coverage_check.py`, `src/robust_checks.py`, `src/temporal_check.py`, `src/synthetic_mechanism.py`.
+- Documents: `src/make_letter.py` (ES&T Letters manuscript + cover letter), `src/make_manuscript.py` (Supporting Information and full-article version), `src/make_letter_figures.py`, `src/make_toc_graphic.py`.
+- NOTE: an early error (aquifer code treated as a number) was corrected and all base runs were repeated; see `experiments/deviations.md` item 33. Code is shared on request (author instruction).
+
 ## Planner for agencies (research tool)
 ```
 python code/campaign_planner.py --wells candidate_wells.csv --results tested_so_far.csv --history earlier_state_wells.csv --batch 10 --bandwidth 5

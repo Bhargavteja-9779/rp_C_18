@@ -44,3 +44,19 @@
 | Fluoride >4 mg/L: map 1.76, feedback 2.37, hybrid 2.61; no pairwise difference significant after correction | tables/statistics_f4.csv | Supported (17 states, 3 seeds) |
 | 'Fluoride controls shared across states' explanation | none | Labelled untested |
 | Novelty-map entries: 22 abstracts read | journal_selection/novelty_map.csv | Verified level stated per row |
+
+## Round 4 (final) additions and corrections
+Numbers in earlier tables above that came from the first base runs are SUPERSEDED (aquifer-code error, deviation 33). Current values:
+| Claim | Evidence | Status |
+|---|---|---|
+| Arsenic >10: map 0.93x random (Holm 0.914), below random in 19/29 states; feedback 1.78x; follow-unsafe 1.86x; hybrid 1.32x (worse than feedback, Holm<0.001) | tables/summary_as10.csv, statistics_as10.csv | Supported |
+| Arsenic >5: map 1.42x (Holm 0.005); feedback 1.68x; ABF 1.83x | summary_as5.csv, abf_summary.csv | Supported |
+| Random-split ROC-AUC 0.81 vs 0.64 (arsenic) | results/as10/random_vs_blocked.csv | Supported (3 seeds) |
+| ABF smallest mean (0.08) and worst-case (0.35) gap to best fixed rule over 6 outcomes | tables/abf_regret_vs_best_fixed.csv | Supported; not best in every outcome |
+| ABF bound: realised excess loss <= ln 31 = 3.43 nats in all runs | results/abf_*/abf.csv, code/tests/test_abf.py | Supported (prediction loss only) |
+| ABF sensitive to late rounds (1.54 / 1.33 / 1.08 at 10/50/200) | results/robust_checks/abf_batch_as10.csv | Supported (3 seeds) |
+| Geology, climate, elevation (with/without coordinates) do not lift the arsenic >10 map above ~1.2-1.25x | tables/summary_as10_geo/env/envnc.csv | Supported |
+| ABF finds more distinct unsafe 5 km areas than random order (arsenic 1.17x; fluoride 2.13x) | results/robust_checks/coverage_*.csv | Supported |
+| Warm start: ABF with own history 2.17x (arsenic >10), 2.14x (>5), 3.31x (fluoride) | tables/abf_warm_statistics.csv | Supported (24-29 states) |
+| ES&T Letters median 47 d, p75 66 d | journal_selection/acceptance_time_evidence.csv | Verified by script |
+| Letter length limit 3,000 word-equivalents | search snippet of ACS page | UNVERIFIED |

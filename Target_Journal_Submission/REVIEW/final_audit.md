@@ -1,14 +1,21 @@
-# Final audit and decision (round 3, 2026-11-23)
-## FINAL DECISION: NOT READY FOR SUBMISSION to Water Research
-Reasons (each traceable):
-1. Novelty gate not passed: 17/30, 18/30, 20/30, now 21/30 (gate 22; no single score below 3). Close prior work exists (transferability of fluoride models, buffered validation, neighbour-targeted outreach).
-2. Journal fit unconfirmed: the Guide for Authors and the publisher page returned HTTP 403; the paper has no geochemical process model.
-3. 72-day limit unmet for every non-Frontiers journal measured (Water Research: median 81 d, p75 103 d). JCR could not be checked; secondary sources give IF 12.8 and Q1.
-4. No prospective test; non-random wells; one data source; uranium underpowered; nitrate infeasible; Kansas missing for fluoride; fluoride used 3 seeds.
-5. Not in the Elsevier template; author, funding, CRediT and conflict fields are blank placeholders; commercial similarity check not run.
-What is now done (round 3): verified reference list (45), full-text reads of key documents, 33-row novelty map (22 abstracts read), geologic predictors and lithology baseline, warm start with and without geology, heuristic and kappa analyses, synthetic-field test of the mechanism, delay/availability/leave-one-region/forward-in-time checks, extended California/Colorado run, uranium and fluoride, a tested planning tool, highlights, graphical abstract, cover letter, partial similarity check (clean), rewritten manuscript (16 pages).
-Items that cannot be completed by me: official JCR/Guide-for-Authors verification, a prospective agency pilot, hydrochemical predictors from an agency, commercial similarity check, filling author declarations, final template formatting. These are listed so that nothing is silently dropped.
+# Final audit and decision (round 4, 2026-11-23)
+## DECISION: CONDITIONALLY READY. All analysis, writing and internal audit items that I can complete are done. Submission is blocked only by author-side items listed below. Acceptance is not guaranteed; desk rejection remains the main risk.
+Target journal: Environmental Science & Technology Letters (ACS). Measured received->accepted: median 47 d, 75th percentile 66 d (n=121) -> the 72-day rule is met on both statistics, with little margin in some years (2024 p75 72 d; 2026 p75 71.75 d).
+Novelty gate: 23/30 (gate 22) on my own scores; the depth score of 4 is contestable (if 3, total 22).
+## What changed in round 4
+- Journal re-selected after APC was accepted (16 more journals measured).
+- ERROR FOUND AND FIXED: the nominal aquifer code had been used as a number in early runs; all base runs, tuning and downstream analyses were repeated with the correct categorical treatment (deviation 33; superseded outputs archived in results/superseded_numeric_aq/). Several conclusions changed: the arsenic map is now at 0.93x random for >10 µg/L (was 1.25), the hybrid is now significantly WORSE than feedback for >10 µg/L, the 5 µg/L map is better than random (1.42), and the text was rewritten from the new numbers.
+- New method ABF (adaptive Bayesian mixture) with a verified prediction-loss bound; smallest mean and worst-case gap to the best fixed rule over six outcomes (0.08 and 0.35), not best in every outcome, more sensitive to late results.
+- Fluoride and uranium added; stronger maps (geology, climate, elevation, with and without coordinates); warm start with ABF; coverage (distinct unsafe areas), delay, availability, leave-one-region-out, forward-in-time checks; controlled synthetic simulation.
+- Letter written to the ES&T Letters format (1,635 words + 4 figures/tables = 2,435 word-equivalents against an assumed 3,000 limit), Supporting Information (full report), TOC graphic, cover letter. Code statement: available from the corresponding author on request.
+## Author-side items I cannot complete (nothing is silently dropped)
+1. Check the live ACS Guide for Authors: word-equivalent limit, abstract/synopsis rules, SI rules, AI-use and data statements (HTTP 403 here; limit taken from a search snippet).
+2. Confirm JCR quartile/IF for ES&T Letters (secondary pages only) and the APC.
+3. Fill author, affiliation, ORCID, funding, conflict-of-interest and author-contribution fields; confirm the competing-interest statement.
+4. Run a commercial similarity check (iThenticate/Turnitin); my partial self-check found no shared 5- or 8-word sequence with 57 retrieved sources.
+5. Read the metadata-only references before relying on anything beyond their abstracts (citation_audit.md).
+6. Optionally arrange a field pilot or agency data; this is the largest remaining scientific gap.
 ## Consistency audit
-Every number in `manuscript/Final_Manuscript.docx` is produced by `code/src/make_manuscript.py` from `tables/` and `results/`; the script asserts that each highlight is at most 85 characters. Claims without a file are labelled (claim_evidence_audit.md). The protocol listed KMeans blocks as primary; the primary became leave-one-state-out; all 25 deviations are dated and explained in `code/experiments/deviations.md`.
+Every number in the Letter and the SI is generated by `code/src/make_letter.py` and `code/src/make_manuscript.py` from files in `tables/` and `results/`; the Letter script asserts that ABF exceeds the worse of feedback and hybrid in each outcome before saying so. Superseded numbers are not used.
 ## Reproducibility audit
-`run_all.py --mode quick --skip-download` and `pytest` (5 tests) were run. Full runs were executed stepwise with the commands listed in `code/README.md`; data download depends on a slow API (about 30-60 minutes per contaminant; some states needed date-window requests). `data/raw/` is not committed; `data/processed/` is.
+7 unit tests pass; `run_all.py --mode quick` runs. Full runs were executed stepwise with the commands in `code/README.md`; data downloads depend on a slow API. Raw data are not in the repository. Code is to be shared on request (user instruction).

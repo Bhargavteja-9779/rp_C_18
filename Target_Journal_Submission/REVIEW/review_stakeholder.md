@@ -1,4 +1,10 @@
-# Review stakeholder: Real-world stakeholder: a state environmental-health programme officer
+# Review stakeholder: Real-world stakeholder: state private-well programme officer
+
+## ROUND 4 (final, 2026-11-23)
+I would use the guide: seed the rule with my own earlier results, test in small batches, and check whether a map transfers before trusting it. The planner tool turns that into a next-batch list. Missing: cost per test and travel, refusals beyond the 30% check, and a field pilot. ABF needs batches of about 10 wells, which may be hard if the laboratory returns results in weeks.
+
+---
+Earlier rounds (kept for the record; some numbers superseded by the corrected runs):
 
 Would I use it? Partly. A rule that says 'after each batch, follow the hot spots' matches field instinct and the numbers (about 19 vs 11 unsafe per 100 tests) are in units I understand.
 What is missing: (1) my state already holds past results, so cold start is rare; a warm-start analysis is more relevant. (2) Cost per test, travel, owner refusals. (3) A tool I can run, not code. (4) Wells I can test are private wells, not USGS study wells.

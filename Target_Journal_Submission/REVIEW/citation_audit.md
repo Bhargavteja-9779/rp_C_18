@@ -5,3 +5,6 @@ Abstract read (PubMed/arXiv): Cao 2024a, Cao 2022, Usman 2026, Su 2026, Kerketta
 Metadata only (title/venue/DOI verified, abstract not read): Cao 2024b, Haggerty 2023, Zhang 2024, Khaksar Fasaee 2022, Jeong 2024, Erickson 2021, Mailloux 2020, Podgorski & Berg 2020, Roberts 2017, Meyer & Pebesma 2021, Wadoux 2021, Ploton 2020, Valavi 2019, Wilcoxon 1945, Efron 1979, Garnett 2012 (arXiv), Yin 2021 (arXiv), Adjei 2026 (yield).
 Statements are limited to what each source's abstract or the read text supports. Two minor notes: the Valavi entry carries the online-first year given by Crossref (2018); the Ma et al. year is inferred from the file name.
 Still to do by the authors: read the metadata-only papers before relying on any statement beyond their titles; Holm (1979) is named but not cited (DOI lookup failed).
+
+## Round 4
+The Letter cites 29 of the 45 references (printed with its text); the SI lists all 45. Journal change to ES&T Letters removed the need for the Water Research citations in the Letter (they remain in the SI related work). No reference was added without a Crossref/arXiv/document check. Valavi 2019 appears with the online-first year from Crossref.

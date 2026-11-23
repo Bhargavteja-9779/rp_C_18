@@ -1,0 +1,17 @@
+{
+ "negative_control_M4_enrichment20_mean": 0.9965829645662034,
+ "ci": [
+  0.962115006924699,
+  1.0287155113010262
+ ],
+ "n_runs": 145,
+ "timing_state": "SD",
+ "timing_n_wells": 3608,
+ "timing_n_train": 46189,
+ "timing": {
+  "M1_fit_and_score_s": 0.5141186714172363,
+  "M4_campaign_s": 0.3236844539642334,
+  "M5_campaign_s_excluding_prior_fit": 0.3057091236114502,
+  "M7_online_refit_s": 3.627598285675049
+ }
+}

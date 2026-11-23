@@ -22,8 +22,10 @@ def load(path,label):
         age=w.geo_age_min.fillna("unknown").str.split(" - ").str[-1]; vc=age.value_counts(normalize=True); age=age.where(age.map(vc)>=0.01,"other")
         w["geo_lith_c"]=pd.factorize(w.geo_lith.fillna("unknown"),sort=True)[0]; w["geo_age_c"]=pd.factorize(age,sort=True)[0]
     return w
-GEO=os.environ.get("WELL_FEATS","base")=="geo"
-FEATS=["lat","lon","aq_known","aq_code"]+(["geo_lith_c","geo_age_c"] if GEO else [])
+MODE=os.environ.get("WELL_FEATS","base"); GEO=MODE in("geo","env","envnc")
+ENVF=["clim_precip","clim_temp","clim_rh","clim_solar","elev_m"]
+FEATS=["lat","lon","aq_known","aq_code"]+(["geo_lith_c","geo_age_c"] if GEO else [])+(ENVF if MODE in("env","envnc") else [])
+if MODE=="envnc": FEATS=[f for f in FEATS if f not in("lat","lon")]
 CATS=["aq_code","geo_lith_c","geo_age_c"]
 
 def train_mask(w,held_idx):

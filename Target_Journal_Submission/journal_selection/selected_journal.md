@@ -1,10 +1,12 @@
-# Selected journal — Water Research (Elsevier), ISSN 0043-1354
+# Selected journal (round 4, 2026-11-23) — Environmental Science & Technology Letters (ACS)
 
-Chosen after you excluded Frontiers and MDPI. It had the lowest measured acceptance time among the non-Frontiers journals I could measure.
+Reason for the change: you accepted APC charges, which opens open-access and hybrid journals. I re-measured acceptance times for 16 more journals (journal_comparison.md). ES&T Letters was the only candidate that passed the 72-day rule on both the median and the 75th percentile, and it is the Letters sibling of ES&T, which published the national private-well arsenic model (Lombard et al. 2021), the glacial-aquifer arsenic model (Erickson et al. 2021) and the 2022 and 2024 transfer-learning papers cited in the manuscript.
 
-- JCR quartile / Impact Factor / category: official JCR page unreachable. Secondary web pages report Impact Factor 12.8 (JCR 2025) and Q1; this is NOT confirmed against JCR (see journal_verification.md).
-- Measured received->accepted (PubMed history dates, n=250, 2025-01 to 2026-11): **median 81 d, 75th percentile 103 d, max 317 d**. Raw file: `other_candidates_evidence/pm_0043-1354_WaterResearch.csv`.
-- **Unmet rule: the 72-day limit is NOT met** (median 81 d, p75 103 d). It is the best I could verify; every non-Frontiers journal I measured was slower. This is stated, not hidden.
-- Limitation: dates exist only for accepted papers (survivorship).
-- First-decision time, APC, length limits, author rules: UNVERIFIED (not collected).
-- Top rejection risks: (1) editors want process insight, not a plain ML score; (2) high desk-rejection rate at a high-IF journal; (3) 72-day timeline.
+- Publisher: American Chemical Society (not MDPI, not Frontiers). ISSN 2328-8930.
+- Received->Accepted (PubMed history dates; articles accepted 2022-2026; n=121): **median 47 d, 75th percentile 66 d, maximum 224 d**. Evidence file: `acceptance_time_evidence.csv`. By acceptance year the 75th percentile was 60-72 d (2022: 65.5; 2023: 60; 2024: 72; 2025: 61; 2026: 71.75), so the limit is met but with little margin.
+- Survivorship caveat: dates exist only for accepted papers. A secondary web guide quotes ACS data: median 3.8 days to an editorial decision without peer review, 26 days to a first decision with review, and 39.6 days submission to acceptance. NOT verified on the ACS site. The very fast triage means **desk rejection is the main risk**, which the manuscript is built to address.
+- JCR quartile / Impact Factor: official JCR unreachable. Secondary pages give about 6.8-7.3 (2025); a best quartile of Q1 is reported from OpenAlex data, not JCR. UNVERIFIED.
+- APC / open access: ACS offers open-access publication for an APC (amount not verified here); you accepted APC charges.
+- Format (from a search snippet of the ACS guidelines page; page itself unreadable, may be dated; UNVERIFIED): Letters up to 3,000 word-equivalents (each figure or table counts 200 words; abstract, captions, TOC graphic, acknowledgments and references excluded); about 20-word synopsis; TOC graphic; clear environmental relevance required or the paper may be rejected without review. The Letter version of the manuscript is built to this limit, with details moved to a Supporting Information file.
+- Code availability: per your instruction the statement says code is available from the corresponding author on request. Data sources are public.
+- Top rejection risks: (1) editorial desk rejection for novelty/significance; (2) a Letter must make one clear, significant point; (3) exact word, figure and SI limits must be checked in the live guidelines.

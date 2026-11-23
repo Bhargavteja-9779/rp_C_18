@@ -20,4 +20,6 @@ run([py,c+"src/extra_checks.py"]); run([py,c+"src/m7_weight_check.py"]); run([py
 # uranium: python code/download_usgs.py Uranium data/raw/u ; python code/src/build_dataset.py data/raw/u data/processed/wells_u.csv Uranium 30 10 ; then experiment.py --label y30 --ntune 4 --out results/u30 and --label y10 --out results/u10 (optional)
 for r in ("as10","as5","as10_blocks","as10_thin"): run([py,c+"src/analyze.py",f"results/{r}","tables"])
 run([py,c+"src/analyze_extra.py","results/extra_as10","as10"]); run([py,c+"src/analyze_extra.py","results/extra_as5","as5"])
-run([py,c+"src/make_report_assets.py"]); run([py,c+"src/make_extra_figures.py"]); run([py,c+"src/make_manuscript.py"])
+for r in ("as10","as5","u30","u10","f2","f4"): run([py,c+"src/abf_experiments.py",r])
+run([py,c+"src/analyze_abf.py"]); run([py,c+"src/analyze_geology.py"])
+run([py,c+"src/make_report_assets.py"]); run([py,c+"src/make_extra_figures.py"]); run([py,c+"src/make_letter_figures.py"]); run([py,c+"src/make_toc_graphic.py"]); run([py,c+"src/make_manuscript.py"]); run([py,c+"src/make_letter.py"])

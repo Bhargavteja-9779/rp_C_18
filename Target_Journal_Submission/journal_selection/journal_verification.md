@@ -17,3 +17,7 @@
 
 ## Still unmet
 - 72-day limit (median 81 d, p75 103 d for Water Research; no non-Frontiers journal measured passed).
+
+## Update 2026-11-23 (round 4: journal changed to ES&T Letters)
+- Verified by script: received->accepted days for ES&T Letters (n=121; median 47, p75 66, max 224), by acceptance year (4 to 34 papers per year).
+- Not verified: JCR quartile/IF, ACS Guide for Authors (HTTP 403; a search snippet gives the Letter limits), APC amount, ACS first-decision statistics (secondary source), scope fit statement.

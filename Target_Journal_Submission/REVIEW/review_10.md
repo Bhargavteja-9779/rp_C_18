@@ -1,5 +1,11 @@
 # Review 10: Final hostile review
 
+## ROUND 4 (final, 2026-11-23)
+FATAL candidates: none found that would invalidate the results. MAJOR: simulation only; non-random wells; incremental method. MODERATE: states not independent; ABF borderline worse than feedback for arsenic >10; uranium underpowered. MINOR: formatting. No invented problems.
+
+---
+Earlier rounds (kept for the record; some numbers superseded by the corrected runs):
+
 FATAL: Novelty and journal fit (see reviews 02, 09).
 MAJOR: Non-random wells; a straw-man baseline; one contaminant; unverified references.
 MODERATE: Non-independence among states; untuned details.

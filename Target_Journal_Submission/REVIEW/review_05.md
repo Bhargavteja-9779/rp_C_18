@@ -1,5 +1,12 @@
 # Review 05: External validity
 
+## ROUND 4 (final, 2026-11-23)
+MAJOR: non-random USGS wells; simulation only. Checked: thinning to 1 km, spatial blocks, California and Colorado added, forward-in-time check (6 states), 30% unavailable wells, delayed results. ABF is more sensitive than fixed feedback to late results (1.54 to 1.08 at 10 to 200 wells per round); reported.
+NOT FIXED: field validation; nitrate infeasible; Kansas missing for fluoride.
+
+---
+Earlier rounds (kept for the record; some numbers superseded by the corrected runs):
+
 MAJOR: USGS study wells are clustered and non-random; thinning to 1 km keeps the main result but shrinks the edge over the static map to non-significant. Campaigns on wells already sampled differ from real campaigns (refusals, costs).
 MAJOR: No prospective or independent-state-agency test; only arsenic.
 MODERATE: Minnesota/Florida/Washington failures unexplained.
