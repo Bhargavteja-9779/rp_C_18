@@ -1,0 +1,33 @@
+n10 primary (>=100 wells, >=10 unsafe, >=30 dates) campaigns: 28 states: 20
+                                                                                0
+scenario                                                                      n10
+rule                               primary (>=100 wells, >=10 unsafe, >=30 dates)
+n_campaigns                                                                    28
+n_states                                                                       20
+real_median                                                                 0.889
+real_mean                                                                   0.996
+map_mean                                                                    0.901
+feedback_mean                                                               1.359
+follow_mean                                                                 1.463
+ABF_mean                                                                    1.331
+holm_base                                                                       0
+map_vs_real_p                                                               0.614
+map_better_in                                                                  13
+map_median_diff                                                            -0.093
+feedback_vs_real_p                                                          0.041
+feedback_better_in                                                             20
+feedback_median_diff                                                        0.294
+follow_vs_real_p                                                            0.023
+follow_better_in                                                               19
+follow_median_diff                                                          0.429
+ABF_vs_real_p                                                               0.077
+ABF_better_in                                                                  17
+ABF_median_diff                                                              0.36
+map_vs_real_holm                                                            0.614
+feedback_vs_real_holm                                                       0.123
+follow_vs_real_holm                                                         0.093
+ABF_vs_real_holm                                                            0.155
+state_level_ABF_minus_real_median                                           0.454
+states_ABF_better                                                              13
+n_state_units                                                                  20
+dropped_campaigns                                                               0

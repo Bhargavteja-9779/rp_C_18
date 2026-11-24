@@ -6,3 +6,4 @@ Rule: nothing from earlier runs is trusted until re-verified here. Each stage ap
 - [x] Stages 5-9 done: clean rerun identical; leakage clean; README bugs fixed; stress test; 6 reviews; consistency check. Stage 10 report next.
 - [x] Stage 10: final_recheck_report.md written. Decision: NOT READY (novelty 21/30; official items unverified).
 - [x] Round 6: replay of real campaigns done (arsenic, fluoride significant; uranium not); Letter/SI/cover letter updated; pilot protocol and pre-submission draft written.
+- [x] Long run 2026-11-24: nitrate added; hierarchical ABF negative; replay robustness; route length; clean reruns of all main scenarios identical; ActiveRemediation correction (novelty 20/30). Package rebuilt (121 files).

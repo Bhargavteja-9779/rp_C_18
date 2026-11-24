@@ -2,7 +2,7 @@
 import json, os, sys, numpy as np, pandas as pd
 from joblib import Parallel, delayed
 sys.path.insert(0,os.path.dirname(__file__)); import experiment as E, abf
-CFG={"as10":("data/processed/wells_as.csv","y10",5),"as5":("data/processed/wells_as.csv","y5",5),"u30":("data/processed/wells_u.csv","y30",5),"u10":("data/processed/wells_u.csv","y10",5),"f2":("data/processed/wells_f.csv","y2",3),"f4":("data/processed/wells_f.csv","y4",3)}
+CFG={"as10":("data/processed/wells_as.csv","y10",5),"as5":("data/processed/wells_as.csv","y5",5),"u30":("data/processed/wells_u.csv","y30",5),"u10":("data/processed/wells_u.csv","y10",5),"f2":("data/processed/wells_f.csv","y2",3),"f4":("data/processed/wells_f.csv","y4",3),"n10":("data/processed/wells_n.csv","y10",3),"n5":("data/processed/wells_n.csv","y5",3)}
 run=sys.argv[1]; quick=len(sys.argv)>2; tag=run; data,label,nseeds=CFG[run.split("_")[0]]
 tdir=f"results/{run}"; DATA=os.environ.get("DATA",data); out=f"results/abf_{tag}"; os.makedirs(out,exist_ok=True)
 w=E.load(DATA,label); T=json.load(open(f"{tdir}/tuning.json")); params=T["params"]; h,k=T["h_kappa"]

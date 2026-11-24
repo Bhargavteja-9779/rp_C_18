@@ -25,4 +25,7 @@ for k,lab in (("as10","replay As>10"),("as5","replay As>5"),("f2","replay F>2"),
             rows.append(dict(item=f"{lab} {nm}",value_from_file=v,found_in_letter=v in L))
 tr=pd.read_csv("results/replay/travel_as10_summary.csv").iloc[0]
 for nm,v in (("route km follow",f"{tr.follow_km_per_unsafe:.0f} km"),("route km ABF",f"{tr.ABF_km_per_unsafe:.0f} km"),("route km real",f"{tr.real_km_per_unsafe:.0f} km")): rows.append(dict(item=nm,value_from_file=v,found_in_letter=v in L))
+nd=pd.read_csv("results/abf_n10/abf.csv").groupby(["method","unit"]).enr_20.mean().unstack(0)
+for nm,v in (("nitrate map",f"{nd.M1_map.mean():.2f}"),("nitrate feedback",f"{nd.M4_feedback.mean():.2f}")): rows.append(dict(item=nm,value_from_file=v,found_in_letter=v in L))
+rows.append(dict(item="nitrate wells 47,375",value_from_file="47,375",found_in_letter="47,375" in L))
 df=pd.DataFrame(rows); df.to_csv("RECHECK/consistency_check.csv",index=False); print(df.to_string()); print("ALL FOUND" if df.found_in_letter.all() else "MISMATCHES: "+", ".join(df[~df.found_in_letter].item))

@@ -1,0 +1,1 @@
+{"scenario": "n10", "rule": "primary (>=100 wells, >=10 unsafe, >=30 dates)", "n_campaigns": 28, "n_states": 20, "dropped_campaigns": 0, "prospective": false, "batch": 10}

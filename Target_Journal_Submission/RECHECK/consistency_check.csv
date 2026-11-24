@@ -24,3 +24,6 @@ replay U>10 campaigns,25,True
 route km follow,74 km,True
 route km ABF,97 km,True
 route km real,156 km,True
+nitrate map,1.17,True
+nitrate feedback,1.66,True
+"nitrate wells 47,375","47,375",True

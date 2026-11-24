@@ -3,7 +3,7 @@ import glob, json, os, sys, numpy as np, pandas as pd
 from joblib import Parallel, delayed
 sys.path.insert(0,os.path.dirname(__file__)); import experiment as E, abf
 SC={"as10":("data/processed/wells_as.csv","y10","data/raw/as","Arsenic","ug/L","results/as10/tuning.json",5),"as5":("data/processed/wells_as.csv","y5","data/raw/as","Arsenic","ug/L","results/as5/tuning.json",5),
-    "f2":("data/processed/wells_f.csv","y2","data/raw/f_all","Fluoride","mg/L","results/f2/tuning.json",3),"u10":("data/processed/wells_u.csv","y10","data/raw/u","Uranium","ug/L","results/u10/tuning.json",5)}
+    "f2":("data/processed/wells_f.csv","y2","data/raw/f_all","Fluoride","mg/L","results/f2/tuning.json",3),"u10":("data/processed/wells_u.csv","y10","data/raw/u","Uranium","ug/L","results/u10/tuning.json",5),"n10":("data/processed/wells_n.csv","y10","data/raw/no3","Nitrate","mg/L","results/n10/tuning.json",3)}
 BATCHSZ=int(os.environ.get("REPLAY_BATCH","10")); PROSP=os.environ.get("REPLAY_PROSPECTIVE","0")=="1"; SUF=("_prosp" if PROSP else "")+("" if BATCHSZ==10 else f"_b{BATCHSZ}")
 sc=sys.argv[1]; data,label,rawdir,char,unit_,tun,nseeds=SC[sc]; os.makedirs("results/replay",exist_ok=True)
 w=E.load(data,label); T=json.load(open(tun)); params=T["params"]; h,k=T["h_kappa"]

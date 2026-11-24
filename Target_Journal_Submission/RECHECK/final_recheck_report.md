@@ -61,3 +61,11 @@ JCR quartile, impact factor and category; scope statement; APC; Letters length/f
 - Replay with larger batches: arsenic > 10 gain holds at 50 wells per round, disappears at 200 (feedback 1.03); fluoride holds at 200 (1.71); ABF was better than feedback at 200 for fluoride (falsifier of the pre-registered hypothesis).
 - Connecticut private-well data release (674 wells): coordinates withheld; cannot be used.
 - Nitrate: background download still running (very slow; each 3-year window takes minutes).
+
+## ADDENDUM 3 (2026-11-24, long run): nitrate, route length, clean reruns
+- Nitrate (fourth contaminant): 47,375 wells in 49 states, downloaded in 3-year windows over about 3.5 hours, processed under rules fixed beforehand (NO3 converted to N). Held-out states: map 1.17x random at both 10 and 5 mg/L as N; feedback 1.66 and 1.76; ABF 1.75 and 1.73 (ABF beats the map, unadjusted p 0.0025 and 0.0002). Replay (28 campaigns, 20 states): real order 1.00; follow-unsafe 1.46, feedback 1.36, ABF 1.33; not significant after Holm (p 0.09-0.16), like uranium.
+- Route length (minimum spanning tree of tested wells per unsafe well found, replayed campaigns): arsenic > 10: real 156 km, random 179, follow-unsafe 74 (Holm 0.006), ABF 97 (0.044), feedback 117 (n.s.); arsenic > 5 and fluoride > 2: adaptive rules lower (Holm <= 0.04). Straight-line proxy only.
+- Clean-environment reruns: arsenic > 10, > 5, uranium 30 and 10, fluoride 2 and 4 (held-out-state experiment), ABF for arsenic > 10 and the arsenic > 10 replay all reproduced the stored results exactly (maximum difference 0.0000; identical tuning). Not re-run from scratch: geology/environment runs, extended CA/CO run, learner check, forecast, hierarchical ABF, replay variants, nitrate.
+- New negative results: hierarchical ABF (no gain, 9 runs); replay with maps trained only on earlier years (weaker for arsenic > 10 because 21 campaigns are dropped); replay with 200-well rounds (arsenic gain gone; fluoride persists).
+- Connecticut private-well data release unusable (coordinates withheld). ActiveRemediation read in full (see Addendum 2): novelty score 20/30.
+- Decision unchanged: NOT READY by the stated criteria; the package is more complete and better verified; no acceptance is implied.
