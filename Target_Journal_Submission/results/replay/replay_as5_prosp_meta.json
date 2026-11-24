@@ -1,0 +1,1 @@
+{"scenario": "as5", "rule": "primary (>=100 wells, >=10 unsafe, >=30 dates)", "n_campaigns": 38, "n_states": 22, "dropped_campaigns": 21, "prospective": true, "batch": 10}

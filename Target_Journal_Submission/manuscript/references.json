@@ -8,7 +8,7 @@
  },
  {
   "key": "Abernethy 2018",
-  "text": "Abernethy, J., Chojnacki, A., Farahi, A., Schwartz, E., Webb, J. (2018). ActiveRemediation: The Search for Lead Pipes in Flint, Michigan. Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery &amp; Data Mining, 5-14. https://doi.org/10.1145/3219819.3219896",
+  "text": "Abernethy, J., Chojnacki, A., Farahi, A., Schwartz, E., Webb, J. (2018). ActiveRemediation: The Search for Lead Pipes in Flint, Michigan. Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, 5-14. https://doi.org/10.1145/3219819.3219896",
   "fam": "Abernethy",
   "year": 2018,
   "n_auth": 5
@@ -224,6 +224,13 @@
   "n_auth": 6
  },
  {
+  "key": "Pieper 2025",
+  "text": "Pieper, K. J., Beighley, E., Jones, C. N., Drewry, K., Jamshidi, R., Li, Y., et al. (2025). Responding after Hurricane Helene: Rapidly Estimating Impacts to Environmental Health Services in North Carolina. Environmental Science & Technology Letters 12, 820-826. https://doi.org/10.1021/acs.estlett.5c00503",
+  "fam": "Pieper",
+  "year": 2025,
+  "n_auth": 23
+ },
+ {
   "key": "Ploton 2020",
   "text": "Ploton, P., Mortier, F., R\u00e9jou-M\u00e9chain, M., Barbier, N., Picard, N., Rossi, V., et al. (2020). Spatial validation reveals poor predictive performance of large-scale ecological mapping models. Nature Communications 11. https://doi.org/10.1038/s41467-020-18321-y",
   "fam": "Ploton",
@@ -285,6 +292,13 @@
   "fam": "Thompson",
   "year": 1990,
   "n_auth": 1
+ },
+ {
+  "key": "Ulrich 2023",
+  "text": "Ulrich, J. C., Hoffman, K., Gunasekara, T. D. K. S. C., Sandamini, P. M. M. A., Jackson, B. P., De Silva, P. M. C. S., et al. (2023). Glyphosate and Fluoride in High-Hardness Drinking Water Are Positively Associated with Chronic Kidney Disease of Unknown Etiology (CKDu) in Sri Lanka. Environmental Science & Technology Letters 10, 916-923. https://doi.org/10.1021/acs.estlett.3c00504",
+  "fam": "Ulrich",
+  "year": 2023,
+  "n_auth": 8
  },
  {
   "key": "USGS 2026",

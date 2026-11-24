@@ -1,0 +1,44 @@
+{
+ "as5": {
+  "tuning_identical": true,
+  "max_abs_diff": 0.0,
+  "n_methods": 11,
+  "n_states": 31
+ },
+ "u30": {
+  "tuning_identical": true,
+  "max_abs_diff": 0.0,
+  "n_methods": 11,
+  "n_states": 9
+ },
+ "u10": {
+  "tuning_identical": true,
+  "max_abs_diff": 0.0,
+  "n_methods": 11,
+  "n_states": 12
+ },
+ "f2": {
+  "tuning_identical": true,
+  "max_abs_diff": 0.0,
+  "n_methods": 11,
+  "n_states": 31
+ },
+ "f4": {
+  "tuning_identical": true,
+  "max_abs_diff": 0.0,
+  "n_methods": 11,
+  "n_states": 17
+ },
+ "abf_as10": {
+  "tuning_identical": true,
+  "max_abs_diff": 0.0,
+  "n_methods": 7,
+  "n_states": 29
+ },
+ "replay_as10": {
+  "tuning_identical": true,
+  "max_abs_diff": 0.0,
+  "n_methods": 5,
+  "n_states": 53
+ }
+}

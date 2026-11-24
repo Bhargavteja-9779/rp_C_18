@@ -19,14 +19,8 @@ replay As>10 real order,1.02,True
 replay As>10 ABF,1.42,True
 replay As>10 feedback,1.50,True
 replay As>5 campaigns,59,True
-replay As>5 real order,1.08,True
-replay As>5 ABF,1.51,True
-replay As>5 feedback,1.46,True
 replay F>2 campaigns,49,True
-replay F>2 real order,1.18,True
-replay F>2 ABF,2.23,True
-replay F>2 feedback,2.24,True
 replay U>10 campaigns,25,True
-replay U>10 real order,1.02,True
-replay U>10 ABF,1.15,True
-replay U>10 feedback,1.43,True
+route km follow,74 km,True
+route km ABF,97 km,True
+route km real,156 km,True

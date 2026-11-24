@@ -1,0 +1,2 @@
+run,batch,tau_star,mean_ABF,mean_ABF_H,mean_gain,median_gain,p,states_better,n,gap_ABF,gap_ABF_H,worst_gap_ABF,best_fixed_mean
+as5,10,0.0,1.8349001830493654,1.8349001830493654,0.0,0.0,1.0,0,31,0.1139896809967258,0.1139896809967258,0.1139896809967258,1.68297028068

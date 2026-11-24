@@ -1,0 +1,16 @@
+as10 batch 10 tau selection on tuning states: {0.0: np.float64(1.823), 0.1: np.float64(1.748), 0.3: np.float64(1.642), 1.0: np.float64(1.64)} -> tau* 0.0
+                     0
+run               as10
+batch               10
+tau_star           0.0
+mean_ABF         1.513
+mean_ABF_H       1.513
+mean_gain          0.0
+median_gain        0.0
+p                  1.0
+states_better        0
+n                   29
+gap_ABF          0.477
+gap_ABF_H        0.477
+worst_gap_ABF    0.477
+best_fixed_mean  1.862

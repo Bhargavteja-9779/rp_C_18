@@ -1,0 +1,21 @@
+as5 primary (>=100 wells, >=10 unsafe, >=30 dates) campaigns: 59 states: 33
+                                 0
+scenario                       as5
+n_campaigns                     59
+random_km_per_unsafe        104.78
+real_km_per_unsafe          72.722
+follow_km_per_unsafe        43.387
+follow_len_ratio_to_real     0.802
+follow_lower_in                 44
+follow_p                       0.0
+feedback_km_per_unsafe      43.666
+feedback_len_ratio_to_real   0.924
+feedback_lower_in               38
+feedback_p                   0.011
+ABF_km_per_unsafe           43.139
+ABF_len_ratio_to_real        0.892
+ABF_lower_in                    44
+ABF_p                          0.0
+follow_holm                    0.0
+feedback_holm                0.011
+ABF_holm                       0.0

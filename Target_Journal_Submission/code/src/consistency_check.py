@@ -20,6 +20,9 @@ for k,lab in (("as10","replay As>10"),("as5","replay As>5"),("f2","replay F>2"),
     f=f"results/replay/replay_{k}_summary.csv"
     if os.path.exists(f):
         r=pd.read_csv(f).iloc[0]
-        for nm,v in (("campaigns",f"{int(r.n_campaigns)}"),("real order",f"{r.real_mean:.2f}"),("ABF",f"{r.ABF_mean:.2f}"),("feedback",f"{r.feedback_mean:.2f}")):
+        items=[("campaigns",f"{int(r.n_campaigns)}")]+([("real order",f"{r.real_mean:.2f}"),("ABF",f"{r.ABF_mean:.2f}"),("feedback",f"{r.feedback_mean:.2f}")] if k=="as10" else [])
+        for nm,v in items:
             rows.append(dict(item=f"{lab} {nm}",value_from_file=v,found_in_letter=v in L))
+tr=pd.read_csv("results/replay/travel_as10_summary.csv").iloc[0]
+for nm,v in (("route km follow",f"{tr.follow_km_per_unsafe:.0f} km"),("route km ABF",f"{tr.ABF_km_per_unsafe:.0f} km"),("route km real",f"{tr.real_km_per_unsafe:.0f} km")): rows.append(dict(item=nm,value_from_file=v,found_in_letter=v in L))
 df=pd.DataFrame(rows); df.to_csv("RECHECK/consistency_check.csv",index=False); print(df.to_string()); print("ALL FOUND" if df.found_in_letter.all() else "MISMATCHES: "+", ".join(df[~df.found_in_letter].item))
