@@ -19,3 +19,6 @@ Letter now cites 40 references (journal median ~47); R7 editor screen added (REC
 
 ## Update 2026-11-24 (3)
 Items 51-54: multi-contaminant panel feedback. Redox signature transfers between states, but no confirmed search gain (P2X confirmation failed). SI 4.24 + one Letter sentence. Letter 2,998 word-equivalents.
+
+## Update 2026-11-24 (4)
+Items 55-58: equity analysis (Census SAIPE county poverty/income; raw file data/raw/saipe/est22all.xls not in git, re-download from www2.census.gov/programs-surveys/saipe/datasets/2022/2022-state-and-county/est22all.xls; needs pip xlrd). Follow-unsafe under-served high-poverty counties (ratio 0.82); equity-stratified batches fixed it (0.97) at cost 0.02. In Letter (abstract, results, implications), SI 4.25, cover letter. Code code/src/equity_check.py.

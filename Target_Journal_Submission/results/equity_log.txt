@@ -1,0 +1,45 @@
+county match rate 1.0
+  AR 537 27
+  AZ 2725 742
+  DE 232 18
+  FL 2048 120
+  GA 641 29
+  IA 778 66
+  ID 3250 505
+  IL 3075 312
+  IN 831 106
+  KS 1476 119
+  MA 474 31
+  MD 898 38
+  ME 284 121
+  MI 1292 171
+  MN 544 24
+  MO 933 70
+  MS 272 15
+  MT 1367 212
+  NC 523 33
+  ND 928 158
+  NE 1042 103
+  NH 850 124
+  NJ 2226 54
+  NM 1787 207
+  NV 1216 614
+  NY 3499 70
+  OH 603 84
+  OK 1414 146
+  OR 942 90
+  PA 3024 133
+  SD 3654 164
+  TX 1662 112
+  UT 1291 227
+  WA 1436 128
+  WI 808 18
+  WV 611 36
+  WY 891 55
+       flag method  n_states  enr_all  enr_low  rep_ratio_mean  rep_ratio_median  p_rep_vs_1  holm_enr_low_vs_map
+0  high_pov     M1        36    1.111    1.263           1.154             1.165       0.252                  NaN
+1  high_pov     F1        36    1.873    1.638           0.875             0.931       0.171                0.120
+2  high_pov     H1        36    1.881    1.515           0.815             0.849       0.002                0.203
+3   low_inc     M1        36    1.100    1.187           1.025             1.081       0.950                  NaN
+4   low_inc     F1        36    1.871    1.893           1.023             1.077       0.405                0.002
+5   low_inc     H1        36    1.891    1.599           0.842             0.862       0.022                0.057

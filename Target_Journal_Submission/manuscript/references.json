@@ -57,7 +57,7 @@
  },
  {
   "key": "Azad 2026",
-  "text": "Azad, S., Stahl, M. O., Erickson, M., DeYoung, B. A., Connolly, C., Chillrud, L., et al. (2026). Surface Variable\u2010Based Machine Learning for Scalable Arsenic Prediction in Undersampled Areas. GeoHealth 10. https://doi.org/10.1029/2025gh001666",
+  "text": "Azad, S., Stahl, M. O., Erickson, M., DeYoung, B. A., Connolly, C., Chillrud, L., et al. (2026). Surface Variable‐Based Machine Learning for Scalable Arsenic Prediction in Undersampled Areas. GeoHealth 10. https://doi.org/10.1029/2025gh001666",
   "fam": "Azad",
   "year": 2026,
   "n_auth": 12
@@ -232,7 +232,7 @@
  },
  {
   "key": "Ploton 2020",
-  "text": "Ploton, P., Mortier, F., R\u00e9jou-M\u00e9chain, M., Barbier, N., Picard, N., Rossi, V., et al. (2020). Spatial validation reveals poor predictive performance of large-scale ecological mapping models. Nature Communications 11. https://doi.org/10.1038/s41467-020-18321-y",
+  "text": "Ploton, P., Mortier, F., Réjou-Méchain, M., Barbier, N., Picard, N., Rossi, V., et al. (2020). Spatial validation reveals poor predictive performance of large-scale ecological mapping models. Nature Communications 11. https://doi.org/10.1038/s41467-020-18321-y",
   "fam": "Ploton",
   "year": 2020,
   "n_auth": 13
@@ -246,7 +246,7 @@
  },
  {
   "key": "Roberts 2017",
-  "text": "Roberts, D. R., Bahn, V., Ciuti, S., Boyce, M. S., Elith, J., Guillera\u2010Arroita, G., et al. (2017). Cross\u2010validation strategies for data with temporal, spatial, hierarchical, or phylogenetic structure. Ecography 40, 913-929. https://doi.org/10.1111/ecog.02881",
+  "text": "Roberts, D. R., Bahn, V., Ciuti, S., Boyce, M. S., Elith, J., Guillera‐Arroita, G., et al. (2017). Cross‐validation strategies for data with temporal, spatial, hierarchical, or phylogenetic structure. Ecography 40, 913-929. https://doi.org/10.1111/ecog.02881",
   "fam": "Roberts",
   "year": 2017,
   "n_auth": 14
@@ -305,7 +305,7 @@
   "fam": "USGS",
   "year": 2026,
   "n_auth": 0,
-  "text": "U.S. Geological Survey (2026). USGS Samples Data API (discrete water-quality results), https://api.waterdata.usgs.gov/samples-data, accessed 22\u201323 November 2026."
+  "text": "U.S. Geological Survey (2026). USGS Samples Data API (discrete water-quality results), https://api.waterdata.usgs.gov/samples-data, accessed 22–23 November 2026."
  },
  {
   "key": "Usman 2026",
@@ -316,7 +316,7 @@
  },
  {
   "key": "Valavi 2018",
-  "text": "Valavi, R., Elith, J., Lahoz\u2010Monfort, J. J., Guillera\u2010Arroita, G. (2018). block CV : An r package for generating spatially or environmentally separated folds for k \u2010fold cross\u2010validation of species distribution models. Methods in Ecology and Evolution 10, 225-232. https://doi.org/10.1111/2041-210x.13107",
+  "text": "Valavi, R., Elith, J., Lahoz‐Monfort, J. J., Guillera‐Arroita, G. (2018). block CV : An r package for generating spatially or environmentally separated folds for k ‐fold cross‐validation of species distribution models. Methods in Ecology and Evolution 10, 225-232. https://doi.org/10.1111/2041-210x.13107",
   "fam": "Valavi",
   "year": 2018,
   "n_auth": 4
@@ -355,5 +355,12 @@
   "fam": "Zhang",
   "year": 2024,
   "n_auth": 7
+ },
+ {
+  "key": "U.S. Census Bureau 2024",
+  "fam": "U.S. Census Bureau",
+  "year": 2024,
+  "n_auth": 0,
+  "text": "U.S. Census Bureau (2024). Small Area Income and Poverty Estimates (SAIPE): 2022 state and county estimates (median household income; poverty, all ages). https://www2.census.gov/programs-surveys/saipe/datasets/2022/2022-state-and-county/est22all.xls, accessed 24 November 2026."
  }
 ]

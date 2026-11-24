@@ -1,0 +1,53 @@
+county match rate 1.0
+  AR 537 27
+  AZ 2725 742
+  DE 232 18
+  FL 2048 120
+  GA 641 29
+  IA 778 66
+  ID 3250 505
+  IL 3075 312
+  IN 831 106
+  KS 1476 119
+  MA 474 31
+  MD 898 38
+  ME 284 121
+  MI 1292 171
+  MN 544 24
+  MO 933 70
+  MS 272 15
+  MT 1367 212
+  NC 523 33
+  ND 928 158
+  NE 1042 103
+  NH 850 124
+  NJ 2226 54
+  NM 1787 207
+  NV 1216 614
+  NY 3499 70
+  OH 603 84
+  OK 1414 146
+  OR 942 90
+  PA 3024 133
+  SD 3654 164
+  TX 1662 112
+  UT 1291 227
+  WA 1436 128
+  WI 808 18
+  WV 611 36
+  WY 891 55
+        flag      method  n_states  enr_all  enr_low  p_rep_vs_1  rep_ratio_mean  rep_ratio_median  holm_enr_low_vs_map
+0   high_pov  F1EQ_vs_F1        36   -0.100    0.105       0.010             NaN               NaN                  NaN
+1   high_pov  H1EQ_vs_H1        36   -0.021    0.276       0.658             NaN               NaN                  NaN
+2   high_pov          M1        36    1.111    1.263       0.252           1.154             1.165                  NaN
+3   high_pov          F1        36    1.873    1.638       0.171           0.875             0.931                0.120
+4   high_pov          H1        36    1.881    1.515       0.002           0.815             0.849                0.203
+5   high_pov        F1EQ        36    1.773    1.744       0.871           0.981             1.022                  NaN
+6   high_pov        H1EQ        36    1.860    1.791       0.323           0.974             0.941                  NaN
+7    low_inc  F1EQ_vs_F1        36   -0.092   -0.168       0.042             NaN               NaN                  NaN
+8    low_inc  H1EQ_vs_H1        36   -0.044    0.171       0.669             NaN               NaN                  NaN
+9    low_inc          M1        36    1.100    1.187       0.950           1.025             1.081                  NaN
+10   low_inc          F1        36    1.871    1.893       0.405           1.023             1.077                0.002
+11   low_inc          H1        36    1.891    1.599       0.022           0.842             0.862                0.057
+12   low_inc        F1EQ        36    1.779    1.725       0.245           0.950             0.937                  NaN
+13   low_inc        H1EQ        36    1.847    1.770       0.499           0.972             0.946                  NaN
