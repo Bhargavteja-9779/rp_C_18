@@ -13,3 +13,6 @@ Repo root: rp_C_18; project: Target_Journal_Submission; branch claude/zealous-jo
 2. Re-run adversarial reviews of the rewritten Letter as an ES&T Letters editor; fix SI/Final_Manuscript wording to match plain-language Letter; rebuild package.
 3. Possible genuine new methods: field-pilot design (RECHECK/field_pilot_protocol.md), pre-submission inquiry (RECHECK/presubmission_inquiry_draft.md). Pre-register each in code/experiments/deviations.md (items 1-50 used) before running; report negatives.
 4. Authors must fill: second author name/department/email, ORCIDs, date; verify live ACS rules, IF/quartile, APC; run commercial similarity check.
+
+## Update 2026-11-24 (2)
+Letter now cites 40 references (journal median ~47); R7 editor screen added (RECHECK/review_R7_ESTL_editor.md); novelty stays 20/30 (target 25 not reached; needs field pilot).
