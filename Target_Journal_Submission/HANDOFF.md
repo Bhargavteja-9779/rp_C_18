@@ -16,3 +16,6 @@ Repo root: rp_C_18; project: Target_Journal_Submission; branch claude/zealous-jo
 
 ## Update 2026-11-24 (2)
 Letter now cites 40 references (journal median ~47); R7 editor screen added (RECHECK/review_R7_ESTL_editor.md); novelty stays 20/30 (target 25 not reached; needs field pilot).
+
+## Update 2026-11-24 (3)
+Items 51-54: multi-contaminant panel feedback. Redox signature transfers between states, but no confirmed search gain (P2X confirmation failed). SI 4.24 + one Letter sentence. Letter 2,998 word-equivalents.
