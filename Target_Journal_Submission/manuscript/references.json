@@ -92,7 +92,7 @@
  },
  {
   "key": "Chen 2023",
-  "text": "Chen, X., Nikpey, H., Kim, J., Sarkar, S., Saeedi-Bidokhti, S. (2023). Containing a spread through sequential learning: to exploit or to explore?. arXiv:2303.00141",
+  "text": "Chen, X., Nikpey, H., Kim, J., Sarkar, S., Saeedi-Bidokhti, S. (2023). Containing a spread through sequential learning: to exploit or to explore? arXiv:2303.00141",
   "fam": "Chen",
   "year": 2023,
   "n_auth": 5
@@ -362,5 +362,19 @@
   "year": 2024,
   "n_auth": 0,
   "text": "U.S. Census Bureau (2024). Small Area Income and Poverty Estimates (SAIPE): 2022 state and county estimates (median household income; poverty, all ages). https://www2.census.gov/programs-surveys/saipe/datasets/2022/2022-state-and-county/est22all.xls, accessed 24 November 2026."
+ },
+ {
+  "key": "Flanagan 2016",
+  "fam": "Flanagan",
+  "year": 2016,
+  "n_auth": 7,
+  "text": "Flanagan, S. V., Spayd, S. E., Procopio, N. A., Chillrud, S. N., Ross, J., Braman, S., et al. (2016). Arsenic in private well water part 2 of 3: Who benefits the most from traditional testing promotion? Science of The Total Environment 562, 1010-1018. https://doi.org/10.1016/j.scitotenv.2016.03.199"
+ },
+ {
+  "key": "Cai 2022",
+  "fam": "Cai",
+  "year": 2022,
+  "n_auth": 7,
+  "text": "Cai, W., Encarnacion, R., Chern, B., Corbett-Davies, S., Bogen, M., Bergman, S., et al. (2022). Adaptive Sampling Strategies to Construct Equitable Training Datasets. 2022 ACM Conference on Fairness Accountability and Transparency, 1467-1478. https://doi.org/10.1145/3531146.3533203"
  }
 ]

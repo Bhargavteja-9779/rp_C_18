@@ -12,3 +12,15 @@ Stop rule (26/30, distance >= 4, evidence >= 4) NOT reached after 2 elevation ro
 
 ## Correction after reading ActiveRemediation in full (2026-11-24)
 The full text shows that ActiveRemediation already combines a model with sequential active learning, backtests it against the order actually used in Flint, compares greedy and uniform exploration and checks batch-size robustness. The replay of real campaigns is therefore NOT a new kind of evidence, and the pipeline structure is not new. 'Distance from closest papers' is lowered from 3 to 2 and the total from 21 to 20/30. What remains different: groundwater contaminants and private wells, held-out-state transfer of maps, the contaminant dependence, ABF with a loss bound, and the measured failure conditions.
+
+## Re-score after rounds 7-8 (2026-11-24; items 51-58)
+New evidence: (1) multi-contaminant panel feedback (pre-registered; arsenic negative; nitrate gain NOT confirmed on 9,082 independent wells; redox coefficient signs replicated); (2) equity analysis with Census SAIPE: follow-unsafe under-served high-poverty counties (ratio 0.82, p = 0.002); pre-registered equity-stratified batches restored proportionality (0.97) at a cost of 0.02 and raised unsafe wells found in poor counties (1.52 -> 1.79 x random). Prior-art check: testing-promotion disparities are documented (Flanagan et al. 2016) and fairness-aware sampling exists in ML (Cai et al. 2022); no study found that tests the equity of adaptive testing rules for wells.
+| Criterion | Before | Now | Why |
+|---|---|---|---|
+| Distance from closest work | 2 | 3 | equity of adaptive rules + fix is new in this domain; feedback itself still classical |
+| Real problem | 4 | 5 | private-well exposure + environmental justice |
+| Depth | 3 | 4 | confirmation test, harm criterion with pre-declared mitigation |
+| Evidence | 4 | 4 | still no field trial |
+| Generality | 4 | 4 | equity check arsenic only |
+| Journal match | 3 | 4 | plain-language rewrite, map, EJ angle |
+| Total | 20 | 24 | stop rule 26 NOT met; user's target 25 NOT met; label: strongest honest version |
