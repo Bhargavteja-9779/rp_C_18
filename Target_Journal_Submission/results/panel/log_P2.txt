@@ -2,3 +2,17 @@ P2 wells 21279 {'as': 2075, 'n': 993}
 as states 29
   as AZ 970 242
   as DE 168 15
+  as ID 2662 336
+  as IL 285 37
+  as IN 250 42
+  as KS 509 64
+  as MD 538 26
+  as ME 201 86
+  as MI 262 37
+  as MO 551 66
+  as MT 399 53
+  as NC 434 21
+  as ND 208 20
+  as NE 670 55
+  as NH 142 17
+  as NJ 1037 24

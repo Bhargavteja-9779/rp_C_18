@@ -4,3 +4,21 @@ as states 21
   as ID 373 23
   as IL 271 36
   as IN 146 24
+  as MD 287 23
+  as ME 154 67
+  as MI 134 16
+  as MO 249 12
+  as MT 155 20
+  as ND 102 12
+  as NE 617 42
+  as NM 576 84
+  as NV 427 209
+  as NY 1102 39
+  as OH 241 38
+  as PA 1027 39
+  as TX 1084 96
+  as UT 219 44
+  as WA 226 23
+  as WV 220 12
+  as WY 500 28
+u states 5
