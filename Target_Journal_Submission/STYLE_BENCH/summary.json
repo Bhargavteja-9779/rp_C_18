@@ -1,0 +1,84 @@
+{
+ "n_all": 37,
+ "n_research_letters": 34,
+ "title_words": {
+  "median": 13.5,
+  "q1": 11.0,
+  "q3": 16.0
+ },
+ "abstract_words": {
+  "median": 196.5,
+  "q1": 189.75,
+  "q3": 203.0
+ },
+ "body_words": {
+  "median": 2799.0,
+  "q1": 2617.75,
+  "q3": 3264.75
+ },
+ "figs": {
+  "median": 2.0,
+  "q1": 1.0,
+  "q3": 3.0
+ },
+ "tabs": {
+  "median": 0.0,
+  "q1": 0.0,
+  "q3": 1.0
+ },
+ "refs": {
+  "median": 47.5,
+  "q1": 33.75,
+  "q3": 59.5
+ },
+ "section_titles": [
+  [
+   "Supplementary Material",
+   34
+  ],
+  [
+   "Introduction",
+   33
+  ],
+  [
+   "Materials and Methods",
+   27
+  ],
+  [
+   "Results and Discussion",
+   22
+  ],
+  [
+   "Results",
+   9
+  ],
+  [
+   "Discussion",
+   8
+  ],
+  [
+   "Implications",
+   3
+  ],
+  [
+   "Methods and Materials",
+   2
+  ],
+  [
+   "Theory",
+   2
+  ],
+  [
+   "Recommendations and Research Needs",
+   1
+  ],
+  [
+   "Global Challenges and Emerging Solutions",
+   1
+  ],
+  [
+   "Role of Data Monitoring and Systems Modeling in Guiding Innovation",
+   1
+  ]
+ ]
+}

@@ -1,1 +1,1 @@
-Letting each test result guide the next private well tested finds unsafe water faster than risk maps from other states.
+Testing next to wells that just returned unsafe results finds contaminated private wells with far fewer tests than a risk map from other states.
