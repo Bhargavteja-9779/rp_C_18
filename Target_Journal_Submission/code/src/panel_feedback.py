@@ -14,7 +14,7 @@ NSEED = int(sys.argv[2]) if len(sys.argv) > 2 else 5
 OUT = f"results/panel/{PANEL}"; os.makedirs(OUT, exist_ok=True)
 THR = {"as": 10.0, "u": 30.0, "f": 4.0, "n": 10.0}
 AN = ["as", "u", "f", "n"] if PANEL == "P4" else ["as", "n"]
-TARGETS = {"P4": ["as", "u", "n", "any"], "P2": ["as", "n"]}[PANEL]
+TARGETS = {"P4": ["as", "u", "n", "any"], "P2": ["as", "n"], "P2X": ["n", "as"]}[PANEL]
 H = (5.0, 20.0); BATCH = 10; BUF = 25.0
 
 def load():
@@ -24,6 +24,12 @@ def load():
         d = d.rename(columns={"val": a}).drop_duplicates("Location_Identifier")
         base = d if base is None else base.merge(d[["Location_Identifier", a]], on="Location_Identifier")
     base = base.dropna(subset=AN + ["lat", "lon"])
+    if PANEL == "P2X":   # exclude every well of the four-analyte panel P4 (item 53)
+        p4 = None
+        for a in ["as", "u", "f", "n"]:
+            ids = set(pd.read_csv(f"data/processed/wells_{a}.csv", usecols=["Location_Identifier", "val"]).dropna().Location_Identifier)
+            p4 = ids if p4 is None else p4 & ids
+        base = base[~base.Location_Identifier.isin(p4)]
     for a in AN: base["y_" + a] = (base[a] > THR[a]).astype(int)
     if PANEL == "P4": base["y_any"] = base[["y_as", "y_u", "y_f", "y_n"]].max(axis=1)
     lat0 = np.deg2rad(38.0)

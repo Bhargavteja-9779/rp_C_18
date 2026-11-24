@@ -16,3 +16,40 @@ as states 29
   as NE 670 55
   as NH 142 17
   as NJ 1037 24
+  as NM 799 100
+  as NV 514 254
+  as NY 1499 43
+  as OH 327 47
+  as OK 194 15
+  as OR 206 14
+  as PA 1483 59
+  as SD 214 49
+  as TX 1259 104
+  as UT 354 76
+  as WA 653 74
+  as WV 462 23
+  as WY 536 31
+n states 28
+  n AZ 970 101
+  n DE 168 33
+  n GA 302 12
+  n IA 214 19
+  n ID 2662 79
+  n IL 285 12
+  n IN 250 24
+  n KS 509 35
+  n MD 538 45
+  n MN 220 23
+  n MO 551 24
+  n MT 399 12
+  n NC 434 12
+  n NE 670 103
+  n NJ 1037 49
+  n NM 799 53
+  n NV 514 16
+  n NY 1499 40
+  n OK 194 11
+  n OR 206 11
+  n PA 1483 66
+  n SC 206 12
+  n TX 1259 52
