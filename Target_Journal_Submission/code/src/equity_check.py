@@ -6,12 +6,13 @@ from scipy.stats import wilcoxon
 import lightgbm as lgb
 
 NSEED = int(sys.argv[1]) if len(sys.argv) > 1 else 5
-OUT = "results/equity"; os.makedirs(OUT, exist_ok=True); BATCH = 10; BUF = 25.0; H = 5.0
+CONT = sys.argv[2] if len(sys.argv) > 2 else "as"; YCOL = {"as": "y10", "f": "y2", "n": "y10", "u": "y10"}[CONT]
+OUT = "results/equity" if CONT == "as" else f"results/equity_{CONT}"; MAXN = 6000; os.makedirs(OUT, exist_ok=True); BATCH = 10; BUF = 25.0; H = 5.0
 
 def norm(s): return re.sub(r"[^a-z]", "", str(s).lower().replace("saint", "st"))
 
 def load():
-    w = pd.read_csv("data/processed/wells_as.csv")
+    w = pd.read_csv(f"data/processed/wells_{CONT}.csv")
     w = w.dropna(subset=["lat", "lon"]).drop_duplicates("Location_Identifier").reset_index(drop=True)
     x = pd.read_excel("data/raw/saipe/est22all.xls", header=3)
     x = x[x["County FIPS Code"] != 0].copy()
@@ -22,7 +23,7 @@ def load():
     match = w.inc.notna().mean()
     lat0 = np.deg2rad(38.0); w["x"] = w.lon * 111.32 * np.cos(lat0); w["yk"] = w.lat * 110.57
     w["aq"] = w.aquifer.fillna("NA").astype("category").cat.codes
-    w["y"] = w.y10.astype(int)
+    w["y"] = w[YCOL].astype(int)
     # state-relative low-income flags (median over the state's counties that contain wells)
     c = w.dropna(subset=["inc"]).drop_duplicates("key")
     med_inc = c.groupby("state").inc.median(); med_pov = c.groupby("state").pov.median()
@@ -36,6 +37,13 @@ def map_scores(D, s):
     m = lgb.LGBMClassifier(n_estimators=300, learning_rate=0.05, num_leaves=31, verbose=-1)
     m.fit(tr[["lat", "lon", "aq"]], tr.y, categorical_feature=["aq"])
     return m.predict_proba(tw[["lat", "lon", "aq"]])[:, 1]
+
+def map_scores_sub(D, s, W):
+    tree = cKDTree(D[D.state == s][["x", "yk"]].values)
+    tr = D[D.state != s]; tr = tr[tree.query(tr[["x", "yk"]].values, distance_upper_bound=BUF)[0] > BUF]
+    m = lgb.LGBMClassifier(n_estimators=300, learning_rate=0.05, num_leaves=31, verbose=-1)
+    m.fit(tr[["lat", "lon", "aq"]], tr.y, categorical_feature=["aq"])
+    return m.predict_proba(W[["lat", "lon", "aq"]])[:, 1]
 
 def order(W, K, y, method, seed, ms, L=None):
     n = len(W); rng = np.random.default_rng(seed); noise = rng.random(n) * 1e-9
@@ -63,9 +71,11 @@ def main():
     st = D.groupby("state").y.agg(["size", "sum"]); units = st[(st["size"] >= 100) & (st["sum"] >= 15)].index
     rows = []
     for s in units:
-        W = D[D.state == s].reset_index(drop=True); y = W.y.values; X = W[["x", "yk"]].values
+        W = D[D.state == s]
+        if len(W) > MAXN: W = W.sample(MAXN, random_state=0); print("  subsampled", s, flush=True)
+        W = W.reset_index(drop=True); y = W.y.values; X = W[["x", "yk"]].values
         K = np.exp(-((X[:, None] - X[None]) ** 2).sum(-1) / (2 * H * H)); np.fill_diagonal(K, 0)
-        ms = map_scores(D, s); k20 = int(np.ceil(0.2 * len(W)))
+        ms = map_scores(D, s); ms = ms[:len(W)] if len(ms) == len(W) else map_scores_sub(D, s, W); k20 = int(np.ceil(0.2 * len(W)))
         for flag in ("low_inc", "high_pov"):
             L = W[flag].fillna(0).values == 1; y = y.astype(bool).astype(int); nlow = int((y & L).sum())
             for seed in range(NSEED):
