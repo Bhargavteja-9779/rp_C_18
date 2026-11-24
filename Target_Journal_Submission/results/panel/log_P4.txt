@@ -1,0 +1,6 @@
+P4 wells 12197 {'as': 1012, 'u': 258, 'n': 509, 'any': 1675}
+as states 21
+  as AZ 255 56
+  as ID 373 23
+  as IL 271 36
+  as IN 146 24
