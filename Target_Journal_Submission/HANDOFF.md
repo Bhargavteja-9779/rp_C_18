@@ -22,3 +22,6 @@ Items 51-54: multi-contaminant panel feedback. Redox signature transfers between
 
 ## Update 2026-11-24 (4)
 Items 55-58: equity analysis (Census SAIPE county poverty/income; raw file data/raw/saipe/est22all.xls not in git, re-download from www2.census.gov/programs-surveys/saipe/datasets/2022/2022-state-and-county/est22all.xls; needs pip xlrd). Follow-unsafe under-served high-poverty counties (ratio 0.82); equity-stratified batches fixed it (0.97) at cost 0.02. In Letter (abstract, results, implications), SI 4.25, cover letter. Code code/src/equity_check.py.
+
+## Update 2026-11-25
+Items 59-61: equity replication on F/N/U met both pre-registered hypotheses. Novelty self-score 25/30 (stop rule 26 not met). SI Table S-E2. Resume equity runs with RESUME=1.

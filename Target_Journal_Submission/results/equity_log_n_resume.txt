@@ -1,2 +1,24 @@
 county match rate 1.0
 resuming; states done 26
+  SC 288 23
+  TX 1361 59
+  UT 449 22
+  VA 524 32
+  WA 1576 158
+  WI 323 33
+  WY 1140 73
+        flag      method  n_states  enr_all  enr_low  p_rep_vs_1  rep_ratio_mean  rep_ratio_median  holm_enr_low_vs_map
+0   high_pov  F1EQ_vs_F1        32   -0.124   -0.281       0.066             NaN               NaN                  NaN
+1   high_pov  H1EQ_vs_H1        32   -0.080    0.197       0.400             NaN               NaN                  NaN
+2   high_pov          M1        32    1.109    1.221       0.313           1.009             0.876                  NaN
+3   high_pov          F1        32    1.895    1.851       0.934           1.026             1.011                0.030
+4   high_pov          H1        32    2.048    1.692       0.001           0.751             0.819                0.085
+5   high_pov        F1EQ        32    1.771    1.570       0.017           0.842             0.904                  NaN
+6   high_pov        H1EQ        32    1.968    1.889       0.665           0.983             0.945                  NaN
+7    low_inc  F1EQ_vs_F1        30   -0.096   -0.317       0.080             NaN               NaN                  NaN
+8    low_inc  H1EQ_vs_H1        30   -0.099    0.224       0.404             NaN               NaN                  NaN
+9    low_inc          M1        30    1.107    1.365       0.428           1.146             1.095                  NaN
+10   low_inc          F1        30    1.937    1.975       0.465           1.105             1.097                0.056
+11   low_inc          H1        30    2.072    1.750       0.022           0.779             0.809                0.184
+12   low_inc        F1EQ        30    1.841    1.658       0.043           0.883             0.864                  NaN
+13   low_inc        H1EQ        30    1.973    1.974       0.984           1.021             0.989                  NaN

@@ -24,3 +24,6 @@ New evidence: (1) multi-contaminant panel feedback (pre-registered; arsenic nega
 | Generality | 4 | 4 | equity check arsenic only |
 | Journal match | 3 | 4 | plain-language rewrite, map, EJ angle |
 | Total | 20 | 24 | stop rule 26 NOT met; user's target 25 NOT met; label: strongest honest version |
+
+## Re-score after round 9 (2026-11-25; items 59-61)
+The equity harm of hot-spot chasing and the stratified fix replicated, pre-registered, on fluoride, nitrate and uranium (H59a and H59b met; follow-unsafe ratio 0.75-0.89, stratified 0.98-1.00, cost <= 0.08). Generality 4 -> 5 (four contaminants, 19-38 states each). Total 25/30 (distance 3, problem 5, depth 4, evidence 4, generality 5, journal match 4). The user's target of 25 is reached by this scoring; the Prompt-2 stop rule (26 with distance >= 4 and evidence >= 4) is still NOT met: distance stays 3 because feedback/backtest are not new and no field trial exists. These scores are the assistant's own judgement, not an external assessment.
