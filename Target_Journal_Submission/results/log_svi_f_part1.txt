@@ -1,0 +1,9 @@
+county match rate 1.0 strata svi frontier False results/equity_svi_f
+  AL 934 28
+  AR 1089 16
+  subsampled AZ
+  AZ 6000 1250
+  subsampled CA
+  CA 6000 319
+  CO 5273 640
+  FL 5330 206

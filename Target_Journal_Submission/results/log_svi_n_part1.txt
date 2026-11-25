@@ -1,0 +1,14 @@
+county match rate 1.0 strata svi frontier False results/equity_svi_n
+  AZ 1313 124
+  subsampled CA
+  CA 6000 524
+  CO 1389 165
+  DE 474 68
+  FL 1372 74
+  GA 777 26
+  IA 591 42
+  ID 3789 137
+  IL 2430 115
+  IN 450 37
+  KS 540 46
+  MA 1228 93

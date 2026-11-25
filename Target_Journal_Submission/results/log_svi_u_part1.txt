@@ -1,0 +1,16 @@
+county match rate 1.0 strata svi frontier False results/equity_svi_u
+  AZ 427 101
+  CA 4781 943
+  CO 1207 462
+  FL 731 26
+  KS 313 65
+  ME 165 23
+  MO 338 17
+  MT 403 93
+  ND 265 77
+  NE 703 165
+  NH 398 56
+  NJ 665 39
+  NM 1073 198
+  NV 786 194
+  OK 927 192

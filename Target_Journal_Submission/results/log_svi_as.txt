@@ -1,2 +1,3 @@
 county match rate 1.0 strata svi frontier False results/equity_svi_as
-  AR 537 27
+resuming; states done 14
+  MN 544 24

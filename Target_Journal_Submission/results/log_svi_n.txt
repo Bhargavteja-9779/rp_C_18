@@ -1,3 +1,2 @@
 county match rate 1.0 strata svi frontier False results/equity_svi_n
-  AZ 1313 124
-  subsampled CA
+resuming; states done 12
