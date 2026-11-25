@@ -69,8 +69,12 @@ def order(W, K, y, method, seed, ms, L=None):
 def main():
     D, match = load(); print("county match rate", round(match, 4), flush=True)
     st = D.groupby("state").y.agg(["size", "sum"]); units = st[(st["size"] >= 100) & (st["sum"] >= 15)].index
-    rows = []
+    rows = []; done = set()
+    if os.path.exists(f"{OUT}/raw.csv") and os.environ.get("RESUME") == "1":   # resume after an interrupted run (same seeds, deterministic)
+        old = pd.read_csv(f"{OUT}/raw.csv"); cnt = old.groupby("state").size()
+        done = set(cnt[cnt == 2 * NSEED * 5].index); rows = old[old.state.isin(done)].to_dict("records"); print("resuming; states done", len(done), flush=True)
     for s in units:
+        if s in done: continue
         W = D[D.state == s]
         if len(W) > MAXN: W = W.sample(MAXN, random_state=0); print("  subsampled", s, flush=True)
         W = W.reset_index(drop=True); y = W.y.values; X = W[["x", "yk"]].values

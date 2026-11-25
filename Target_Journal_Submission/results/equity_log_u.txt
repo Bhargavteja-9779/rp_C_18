@@ -1,1 +1,37 @@
 county match rate 1.0
+  AZ 427 101
+  CA 4781 943
+  CO 1207 462
+  FL 731 26
+  KS 313 65
+  ME 165 23
+  MO 338 17
+  MT 403 93
+  ND 265 77
+  NE 703 165
+  NH 398 56
+  NJ 665 39
+  NM 1073 198
+  NV 786 194
+  OK 927 192
+  PA 1473 54
+  SD 2900 589
+  TX 1257 103
+  UT 740 88
+  WA 320 51
+  WY 627 195
+        flag      method  n_states  enr_all  enr_low  p_rep_vs_1  rep_ratio_mean  rep_ratio_median  holm_enr_low_vs_map
+0   high_pov  F1EQ_vs_F1        19   -0.072   -0.163       0.286             NaN               NaN                  NaN
+1   high_pov  H1EQ_vs_H1        19   -0.055    0.325       0.096             NaN               NaN                  NaN
+2   high_pov          M1        19    1.156    1.804       0.002           1.801             1.454                  NaN
+3   high_pov          F1        19    1.843    1.762       0.891           1.004             1.114                1.000
+4   high_pov          H1        19    1.927    1.525       0.225           0.803             0.879                1.000
+5   high_pov        F1EQ        19    1.771    1.598       0.623           0.914             1.051                  NaN
+6   high_pov        H1EQ        19    1.872    1.850       0.709           0.989             1.001                  NaN
+7    low_inc  F1EQ_vs_F1        19   -0.083   -0.153       0.134             NaN               NaN                  NaN
+8    low_inc  H1EQ_vs_H1        19    0.016    0.435       0.983             NaN               NaN                  NaN
+9    low_inc          M1        19    1.156    1.767       0.006           1.624             1.439                  NaN
+10   low_inc          F1        19    1.843    1.814       0.860           1.021             1.156                0.953
+11   low_inc          H1        19    1.927    1.558       0.080           0.793             0.720                0.883
+12   low_inc        F1EQ        19    1.759    1.661       0.738           0.955             0.985                  NaN
+13   low_inc        H1EQ        19    1.943    1.993       0.798           1.026             1.042                  NaN
