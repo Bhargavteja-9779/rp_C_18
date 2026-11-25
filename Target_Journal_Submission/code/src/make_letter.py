@@ -66,8 +66,8 @@ def table(df,cap):
             for p in c.paragraphs:
                 for run in p.runs: run.font.size=Pt(8)
     NF[0]+=1; D.add_paragraph()
-TITLE="Adaptive Testing Finds Unsafe Private Wells Faster Than Risk Maps from Other States"
-SYN="Testing next to wells that just returned unsafe results finds contaminated private wells with far fewer tests than a risk map from other states."
+TITLE="Adaptive Testing Finds Unsafe Private Wells Faster Than Risk Maps, and Stratified Batches Keep It Fair"
+SYN="Testing next to wells that just returned unsafe results finds contaminated private wells with far fewer tests than a risk map from other states, and splitting each batch by county poverty stops it from leaving poorer communities behind."
 P(TITLE,count=False,bold=True,al=WD_ALIGN_PARAGRAPH.CENTER).runs[0].font.size=Pt(15)
 P(AUTH_LINE,count=False,al=WD_ALIGN_PARAGRAPH.CENTER)
 P(AFF_LINE,count=False,italic=True,al=WD_ALIGN_PARAGRAPH.CENTER)

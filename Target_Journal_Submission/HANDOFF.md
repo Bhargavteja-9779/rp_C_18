@@ -2,7 +2,7 @@
 Repo root: rp_C_18; project: Target_Journal_Submission; branch claude/zealous-johnson-kxpouu. Also read STANDING_INSTRUCTIONS.md, PROGRESS.md, RECHECK/final_recheck_report.md, AUTHOR_CHECKLIST.md.
 ## State (2026-11-24)
 - Study: adaptive ("feedback") testing vs transferred risk maps for private wells (USGS Samples data; arsenic/uranium/fluoride/nitrate; leave-one-state-out). Honest novelty 20/30 ("strongest honest version"); decision NOT READY by stated criteria (modest novelty; closest prior work ActiveRemediation, Abernethy 2018).
-- Letter rewritten for ES&T Letters readers (plain language, new US map Figure 1 `figures/letter_map_as10.png`, abstract 204 words, stale "nitrate not retrieved" text fixed). Letter title: "Adaptive Testing Finds Unsafe Private Wells Faster Than Risk Maps from Other States".
+- Letter rewritten for ES&T Letters readers (plain language, new US map Figure 1 `figures/letter_map_as10.png`, abstract 204 words, stale "nitrate not retrieved" text fixed). Letter title: "Adaptive Testing Finds Unsafe Private Wells Faster Than Risk Maps, and Stratified Batches Keep It Fair".
 - ES&T Letters timing: pooled median 47 d, p75 66 d; calendar-year p75 2024=74, 2026=73 (>72) -> rule met only pooled. Official ACS/JCR/APC pages were HTTP 403: UNVERIFIED.
 ## Commands (run from Target_Journal_Submission)
 - Letter + cover: `python3 code/src/make_letter.py`; SI/manuscript: `python3 code/src/make_manuscript.py`; package: `python3 code/src/build_package.py`.
