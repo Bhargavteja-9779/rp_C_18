@@ -9,7 +9,7 @@ NSEED = int(sys.argv[1]) if len(sys.argv) > 1 else 5
 CONT = sys.argv[2] if len(sys.argv) > 2 else "as"; YCOL = {"as": "y10", "f": "y2", "n": "y10", "u": "y10"}[CONT]
 STRATA = os.environ.get("STRATA", "county"); FRONTIER = os.environ.get("FRONTIER") == "1"
 FLAGS = ("low_inc", "high_pov") if STRATA == "county" else ("high_soc", "high_svi")
-LAMS = (0.0, 0.5, 0.75, 1.0, 1.25, 1.5, 2.0)
+LAMS = tuple(float(x) for x in os.environ["LAMS"].split(",")) if os.environ.get("LAMS") else (0.0, 0.5, 0.75, 1.0, 1.25, 1.5, 2.0)
 METHODS = ("M1", "F1", "H1", "F1EQ", "H1EQ") if not FRONTIER else tuple(f"{b}L{l}" for b in ("F1", "H1") for l in LAMS)
 OUT = ("results/equity" if CONT == "as" else f"results/equity_{CONT}") if STRATA == "county" else f"results/equity_svi_{CONT}"
 if FRONTIER: OUT = f"results/equity_frontier_{STRATA}_{CONT}"
