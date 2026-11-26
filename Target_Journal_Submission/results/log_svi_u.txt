@@ -1,2 +1,5 @@
 county match rate 1.0 strata svi frontier False results/equity_svi_u
 resuming; states done 15
+  PA 1473 54
+  SD 2900 589
+  TX 1257 103

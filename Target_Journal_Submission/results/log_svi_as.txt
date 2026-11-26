@@ -1,3 +1,5 @@
 county match rate 1.0 strata svi frontier False results/equity_svi_as
 resuming; states done 14
   MN 544 24
+  MO 933 70
+  MS 272 15
