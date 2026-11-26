@@ -1,0 +1,14 @@
+county match rate 1.0 strata county frontier True results/equity_frontier_county_as
+  AR 537 27
+  AZ 2725 742
+  DE 232 18
+  FL 2048 120
+  GA 641 29
+  IA 778 66
+  ID 3250 505
+  IL 3075 312
+  IN 831 106
+  KS 1476 119
+  MA 474 31
+  MD 898 38
+  ME 284 121

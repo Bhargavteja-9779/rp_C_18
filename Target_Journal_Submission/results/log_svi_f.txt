@@ -1,3 +1,17 @@
 county match rate 1.0 strata svi frontier False results/equity_svi_f
 resuming; states done 6
   IA 4322 244
+  ID 4497 320
+  IL 3256 78
+  IN 1802 50
+  KY 2669 158
+  subsampled LA
+  LA 6000 176
+  MD 2869 30
+  MN 2989 16
+  MO 2430 107
+  MS 3143 96
+  MT 5269 652
+  NC 2160 51
+  subsampled ND
+  ND 6000 722

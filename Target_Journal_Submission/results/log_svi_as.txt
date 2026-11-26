@@ -3,3 +3,38 @@ resuming; states done 14
   MN 544 24
   MO 933 70
   MS 272 15
+  MT 1367 212
+  NC 523 33
+  ND 928 158
+  NE 1042 103
+  NH 850 124
+  NJ 2226 54
+  NM 1787 207
+  NV 1216 614
+  NY 3499 70
+  OH 603 84
+  OK 1414 146
+  OR 942 90
+  PA 3024 133
+  SD 3654 164
+  TX 1662 112
+  UT 1291 227
+  WA 1436 128
+  WI 808 18
+  WV 611 36
+  WY 891 55
+        flag      method  n_states  enr_all  enr_low  p_rep_vs_1  rep_ratio_mean  rep_ratio_median  holm_enr_low_vs_map
+0   high_soc  F1EQ_vs_F1        19   -0.006    0.077       0.922             NaN               NaN                  NaN
+1   high_soc  H1EQ_vs_H1        19    0.007    0.289       0.768             NaN               NaN                  NaN
+2   high_soc          M1        19    1.110    0.988       0.374           0.897             0.917                  NaN
+3   high_soc          F1        19    2.023    2.020       0.984           0.990             1.006                0.001
+4   high_soc          H1        19    1.983    1.789       0.123           0.871             0.939                0.012
+5   high_soc        F1EQ        19    2.017    2.097       0.679           1.040             0.949                  NaN
+6   high_soc        H1EQ        19    1.990    2.078       0.568           1.064             1.033                  NaN
+7   high_svi  F1EQ_vs_F1        21   -0.051   -0.185       0.128             NaN               NaN                  NaN
+8   high_svi  H1EQ_vs_H1        21    0.001   -0.039       0.823             NaN               NaN                  NaN
+9   high_svi          M1        21    1.055    1.256       0.539           1.252             1.177                  NaN
+10  high_svi          F1        21    1.910    1.818       0.658           0.952             1.023                0.140
+11  high_svi          H1        21    2.017    1.845       0.374           0.894             0.996                0.140
+12  high_svi        F1EQ        21    1.860    1.633       0.111           0.876             0.856                  NaN
+13  high_svi        H1EQ        21    2.018    1.806       0.203           0.900             0.845                  NaN

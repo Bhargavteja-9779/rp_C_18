@@ -3,3 +3,21 @@ resuming; states done 15
   PA 1473 54
   SD 2900 589
   TX 1257 103
+  UT 740 88
+  WA 320 51
+  WY 627 195
+        flag      method  n_states  enr_all  enr_low  p_rep_vs_1  rep_ratio_mean  rep_ratio_median  holm_enr_low_vs_map
+0   high_soc  F1EQ_vs_F1        11   -0.054   -0.028       0.465             NaN               NaN                  NaN
+1   high_soc  H1EQ_vs_H1        11   -0.076   -0.103       0.922             NaN               NaN                  NaN
+2   high_soc          M1        11    1.084    1.306       0.700           1.142             0.982                  NaN
+3   high_soc          F1        11    1.858    1.536       0.413           0.938             0.910                0.551
+4   high_soc          H1        11    1.872    1.449       0.320           0.816             0.939                0.551
+5   high_soc        F1EQ        11    1.805    1.508       0.320           0.894             0.933                  NaN
+6   high_soc        H1EQ        11    1.796    1.346       0.206           0.815             0.780                  NaN
+7   high_svi  F1EQ_vs_F1        12   -0.128   -0.054       0.204             NaN               NaN                  NaN
+8   high_svi  H1EQ_vs_H1        12   -0.103   -0.026       0.160             NaN               NaN                  NaN
+9   high_svi          M1        12    1.046    1.189       0.733           1.032             1.025                  NaN
+10  high_svi          F1        12    1.861    1.579       0.677           0.893             0.891                0.240
+11  high_svi          H1        12    1.879    1.566       0.622           0.887             0.892                0.220
+12  high_svi        F1EQ        12    1.733    1.525       0.042           0.883             0.860                  NaN
+13  high_svi        H1EQ        12    1.777    1.540       0.129           0.894             0.922                  NaN
