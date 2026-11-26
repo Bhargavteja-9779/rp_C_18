@@ -1,1 +1,53 @@
 county match rate 1.0 strata svi frontier True results/equity_frontier_svi_f
+  AL 934 28
+  AR 1089 16
+  subsampled AZ
+  AZ 6000 1250
+  subsampled CA
+  CA 6000 319
+  CO 5273 640
+  FL 5330 206
+  IA 4322 244
+  ID 4497 320
+  IL 3256 78
+  IN 1802 50
+  KY 2669 158
+  subsampled LA
+  LA 6000 176
+  MD 2869 30
+  MN 2989 16
+  MO 2430 107
+  MS 3143 96
+  MT 5269 652
+  NC 2160 51
+  subsampled ND
+  ND 6000 722
+  NE 2976 35
+  NH 1649 104
+  NJ 3245 25
+  NM 5485 840
+  NV 1961 274
+  NY 5296 35
+  OH 1421 32
+  OK 2177 135
+  OR 1126 28
+  PA 5224 21
+  SC 1200 183
+  SD 4021 676
+  TN 1780 46
+  TX 4398 364
+  UT 3042 129
+  VA 1696 239
+  WA 4549 45
+  WI 3293 33
+  WV 2034 41
+  WY 2663 358
+       flag   method base   lam  n_states  enr_all  enr_low  rep_ratio_mean
+0  high_soc   F1L0.0   F1  0.00        29    2.543    2.413           0.948
+1  high_soc  F1L1.25   F1  1.25        29    2.499    2.488           1.006
+2  high_soc   H1L0.0   H1  0.00        29    2.308    2.069           0.919
+3  high_soc  H1L1.25   H1  1.25        29    2.302    2.238           1.058
+4  high_svi   F1L0.0   F1  0.00        27    2.526    2.198           0.843
+5  high_svi  F1L1.25   F1  1.25        27    2.537    2.561           1.002
+6  high_svi   H1L0.0   H1  0.00        27    2.311    2.032           0.840
+7  high_svi  H1L1.25   H1  1.25        27    2.342    2.303           0.974

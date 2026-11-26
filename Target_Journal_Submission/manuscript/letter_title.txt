@@ -1,1 +1,1 @@
-Adaptive Testing Finds Unsafe Private Wells Faster Than Risk Maps, and Stratified Batches Keep It Fair
+Adaptive Testing Finds Unsafe Private Wells Faster Than Risk Maps but Needs an Equity Safeguard

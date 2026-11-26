@@ -376,5 +376,19 @@
   "year": 2022,
   "n_auth": 7,
   "text": "Cai, W., Encarnacion, R., Chern, B., Corbett-Davies, S., Bogen, M., Bergman, S., et al. (2022). Adaptive Sampling Strategies to Construct Equitable Training Datasets. 2022 ACM Conference on Fairness Accountability and Transparency, 1467-1478. https://doi.org/10.1145/3531146.3533203"
+ },
+ {
+  "key": "CDC/ATSDR 2024",
+  "fam": "CDC/ATSDR",
+  "year": 2024,
+  "n_auth": 0,
+  "text": "Centers for Disease Control and Prevention / Agency for Toxic Substances and Disease Registry (2024). CDC/ATSDR Social Vulnerability Index 2022 database, US (census tracts). https://svi.cdc.gov/Documents/Data/2022/csv/states/SVI_2022_US.csv, accessed 25 November 2026."
+ },
+ {
+  "key": "U.S. Census Bureau 2022",
+  "fam": "U.S. Census Bureau",
+  "year": 2022,
+  "n_auth": 0,
+  "text": "U.S. Census Bureau (2022). TIGER/Line Shapefiles 2022: census tracts. https://www2.census.gov/geo/tiger/TIGER2022/TRACT/, accessed 25 November 2026."
  }
 ]

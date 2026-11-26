@@ -1,1 +1,31 @@
 county match rate 1.0 strata svi frontier True results/equity_frontier_svi_u
+  AZ 427 101
+  CA 4781 943
+  CO 1207 462
+  FL 731 26
+  KS 313 65
+  ME 165 23
+  MO 338 17
+  MT 403 93
+  ND 265 77
+  NE 703 165
+  NH 398 56
+  NJ 665 39
+  NM 1073 198
+  NV 786 194
+  OK 927 192
+  PA 1473 54
+  SD 2900 589
+  TX 1257 103
+  UT 740 88
+  WA 320 51
+  WY 627 195
+       flag   method base   lam  n_states  enr_all  enr_low  rep_ratio_mean
+0  high_soc   F1L0.0   F1  0.00        11    1.858    1.536           0.938
+1  high_soc  F1L1.25   F1  1.25        11    1.831    1.767           1.034
+2  high_soc   H1L0.0   H1  0.00        11    1.872    1.449           0.816
+3  high_soc  H1L1.25   H1  1.25        11    1.811    1.558           0.930
+4  high_svi   F1L0.0   F1  0.00        12    1.861    1.579           0.893
+5  high_svi  F1L1.25   F1  1.25        12    1.795    1.870           1.069
+6  high_svi   H1L0.0   H1  0.00        12    1.879    1.566           0.887
+7  high_svi  H1L1.25   H1  1.25        12    1.764    1.790           1.070

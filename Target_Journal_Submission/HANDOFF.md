@@ -2,7 +2,7 @@
 Repo root: rp_C_18; project: Target_Journal_Submission; branch claude/zealous-johnson-kxpouu. Also read STANDING_INSTRUCTIONS.md, PROGRESS.md, RECHECK/final_recheck_report.md, AUTHOR_CHECKLIST.md.
 ## State (2026-11-24)
 - Study: adaptive ("feedback") testing vs transferred risk maps for private wells (USGS Samples data; arsenic/uranium/fluoride/nitrate; leave-one-state-out). Honest novelty 20/30 ("strongest honest version"); decision NOT READY by stated criteria (modest novelty; closest prior work ActiveRemediation, Abernethy 2018).
-- Letter rewritten for ES&T Letters readers (plain language, new US map Figure 1 `figures/letter_map_as10.png`, abstract 204 words, stale "nitrate not retrieved" text fixed). Letter title: "Adaptive Testing Finds Unsafe Private Wells Faster Than Risk Maps, and Stratified Batches Keep It Fair".
+- Letter rewritten for ES&T Letters readers (plain language, new US map Figure 1 `figures/letter_map_as10.png`, abstract 204 words, stale "nitrate not retrieved" text fixed). Letter title: "Adaptive Testing Finds Unsafe Private Wells Faster Than Risk Maps but Needs an Equity Safeguard".
 - ES&T Letters timing: pooled median 47 d, p75 66 d; calendar-year p75 2024=74, 2026=73 (>72) -> rule met only pooled. Official ACS/JCR/APC pages were HTTP 403: UNVERIFIED.
 ## Commands (run from Target_Journal_Submission)
 - Letter + cover: `python3 code/src/make_letter.py`; SI/manuscript: `python3 code/src/make_manuscript.py`; package: `python3 code/src/build_package.py`.
@@ -25,3 +25,6 @@ Items 55-58: equity analysis (Census SAIPE county poverty/income; raw file data/
 
 ## Update 2026-11-25
 Items 59-61: equity replication on F/N/U met both pre-registered hypotheses. Novelty self-score 25/30 (stop rule 26 not met). SI Table S-E2. Resume equity runs with RESUME=1.
+
+## Update 2026-11-26 (round 10, items 62-70)
+Tract SVI equity (CDC/ATSDR SVI 2022 + TIGER tracts; raw in data/raw/svi, data/raw/tracts, NOT in git; rebuild wells_svi_*.csv with code/src/build_svi.py), fairness trade-off curve, mechanism (code/src/equity_mechanism.py), confirmation of over-allocation 1.25 (met for F, N; uranium cost 0.115 > 0.10). Title changed to "...but Needs an Equity Safeguard". Run all with code/run_round10.sh (RESUME=1, single-thread). SI 4.26.

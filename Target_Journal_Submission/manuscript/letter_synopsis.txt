@@ -1,1 +1,1 @@
-Testing next to wells that just returned unsafe results finds contaminated private wells with far fewer tests than a risk map from other states, and splitting each batch by county poverty stops it from leaving poorer communities behind.
+Testing next to wells that just returned unsafe results finds contaminated private wells with far fewer tests than a risk map from other states, but it must reserve part of each batch for vulnerable communities so that they are not left behind.

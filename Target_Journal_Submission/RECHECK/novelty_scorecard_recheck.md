@@ -27,3 +27,6 @@ New evidence: (1) multi-contaminant panel feedback (pre-registered; arsenic nega
 
 ## Re-score after round 9 (2026-11-25; items 59-61)
 The equity harm of hot-spot chasing and the stratified fix replicated, pre-registered, on fluoride, nitrate and uranium (H59a and H59b met; follow-unsafe ratio 0.75-0.89, stratified 0.98-1.00, cost <= 0.08). Generality 4 -> 5 (four contaminants, 19-38 states each). Total 25/30 (distance 3, problem 5, depth 4, evidence 4, generality 5, journal match 4). The user's target of 25 is reached by this scoring; the Prompt-2 stop rule (26 with distance >= 4 and evidence >= 4) is still NOT met: distance stays 3 because feedback/backtest are not new and no field trial exists. These scores are the assistant's own judgement, not an external assessment.
+
+## Re-score after round 10 (2026-11-26; items 62-70)
+Added: tract-level SVI replication (direction 4/4, weak), failed proportional fix at tract level (reported), fairness trade-off curve, followability mechanism (pooled rho 0.47 county, 0.33 tract, both p <= 0.001), over-allocation rule confirmed on fluoride and nitrate (uranium cost above limit). Depth 4 -> 5. Distance stays 3 (core idea classical), evidence 4 (no field trial). Total 26/30 by the assistant's own judgement. The Prompt-2 stop rule also requires distance >= 4, which is NOT met; label remains "strongest honest version".
